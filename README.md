@@ -3,20 +3,21 @@
 A cross-platform Flutter application providing an elegant interface for searching, filtering, and persisting daily discounts, retail coupons, and payment method rewards in Hong Kong.
 
 ## Features
-- **Smart Discount Engine**: Automatically groups applicable deals based on date (Today, Tomorrow, Future) and calculates minimum spend eligibility and payment method requirements.
-- **Categorized Rejection Feed**: Transparently shows exactly why certain discounts failed to apply (e.g., "Budget Requirement Not Met", "Missing Payment Method", "Not a Member", "Individual Product Deals").
+- **Recent Deals Feed**: A dedicated tab for upcoming global discounts. Replaces legacy calendar views with a prioritized "Today" and "Tomorrow" list of valid deals across all shops.
+- **Smart Discount Engine**: Automatically groups applicable deals based on date (Today, Tomorrow, Future) and calculates minimum spend eligibility and payment method requirements using a 30-day lookahead window.
+- **Categorized Rejection Feed**: Transparently shows exactly why certain discounts failed to apply using color-coded feedback (e.g., "Budget Requirement Not Met", "Missing Payment Method" - Red Border).
 - **Offline First**: Runs completely on the client using robust JSON-loaded catalogs (`shops.json`, `discounts.json`, `payment_methods.json`). User histories and settings are instantly saved using `shared_preferences`.
 - **Intelligent Presets**: Save complex search queries (target shop + specific budget) into a quick-access Preset list. Tapping a preset instantly launches a new search with pre-filled conditions.
-- **Deal Reminders**: Native integration allowing users to attach precise Date & Time alarms to individual expiring deals.
+- **Deal Reminders**: Native integration allowing users to attach precise Date & Time alarms to individual expiring deals with deletion confirmation for safety.
 - **Multi-Language Support**: Complete localization bridging `English (en)` and `Traditional Chinese (zh)`. Allows dynamically switching UI strings and database descriptions in real-time.
-- **Light & Dark Theme**: Universal design system supporting dynamic App-wide aesthetic switching.
+- **Dynamic Theme System**: Modern Material 3 interface supporting Dark Mode and a refined "Deep Light Blue" Light Mode to optimize professional contrast.
 
 ## Tech Stack
 - **Framework**: Flutter (Web / Mobile ready)
 - **State Management**: Riverpod (`flutter_riverpod` + Notifier Providers)
 - **Data Persistence**: `shared_preferences`
 - **Date Formatting**: `intl`
-- **UI Components**: Native Material 3, `table_calendar`, & Custom layout builders
+- **UI Components**: Native Material 3 & Custom layout builders (e.g., `DiscountTile`, Flexbox grouping)
 
 ## Getting Started
 
