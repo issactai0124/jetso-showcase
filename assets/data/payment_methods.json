@@ -1,0 +1,80 @@
+[
+    {
+        "id": "enjoy_card",
+        "name_zh": "恒生enJoy卡",
+        "name_en": "Hang Seng enJoy Card",
+        "type": "credit_card"
+    },
+    {
+        "id": "joy_you_card",
+        "name_zh": "長者",
+        "name_en": "JoyYou Card",
+        "type": "octopus",
+        "description_zh": "或需以樂悠咭（八達通）支付",
+        "description_en": "Payment via JoyYou Card (Octopus) may be required"
+    },
+    {
+        "id": "yuu",
+        "name_zh": "yuu",
+        "name_en": "yuu Rewards",
+        "type": "membership"
+    },
+    {
+        "id": "aplus_rewards",
+        "name_zh": "Alipay",
+        "name_en": "Alipay",
+        "type": "e_wallet",
+        "description_zh": "可於Alipay裡的A+ Rewards購買現金券（或需以Alipay支付）",
+        "description_en": "Buy cash vouchers in A+ Rewards within Alipay (Payment via Alipay may be required)"
+    },
+    {
+        "id": "best360_gold",
+        "name_zh": "優品360金卡會員",
+        "name_en": "Best360 Gold Member",
+        "type": "membership"
+    },
+    {
+        "id": "best360_member",
+        "name_zh": "優品360會員",
+        "name_en": "Best360 Member",
+        "type": "membership"
+    },
+    {
+        "id": "759_member",
+        "name_zh": "759會員",
+        "name_en": "759 Member",
+        "type": "membership"
+    },
+    {
+        "id": "payme",
+        "name_zh": "Payme",
+        "name_en": "Payme",
+        "type": "e_wallet"
+    },
+    {
+        "id": "compass_visa",
+        "name_zh": "DBS COMPASS VISA",
+        "name_en": "DBS COMPASS VISA",
+        "type": "credit_card"
+    },
+    {
+        "id": "aeon_card",
+        "name_zh": "AEON信用卡",
+        "name_en": "AEON Credit Card",
+        "type": "credit_card"
+    },
+    {
+        "id": "student_octopus",
+        "name_zh": "學生八達通",
+        "name_en": "Student Octopus",
+        "type": "octopus",
+        "description_zh": "或需以學生八達通支付",
+        "description_en": "Payment via Student Octopus may be required"
+    },
+    {
+        "id": "hsbc_easy_visa",
+        "name_zh": "滙豐easy信用卡 / 白金Visa卡",
+        "name_en": "HSBC easy Credit Card / Platinum Visa",
+        "type": "credit_card"
+    }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": "wellcome",
+    "name_zh": "惠康旗下超市",
+    "name_en": "Wellcome",
+    "description_zh": "惠康、Market Place、3hreesixty等",
+    "description_en": "Wellcome, Market Place, 3hreesixty, etc.",
+    "category": "大型超市"
+  },
+  {
+    "id": "parknshop",
+    "name_zh": "百佳旗下超市",
+    "name_en": "ParknShop",
+    "description_zh": "百佳、fusion、TaSTe、International、food le parc等",
+    "description_en": "ParknShop, fusion, TaSTe, International, food le parc, etc.",
+    "category": "大型超市"
+  },
+  {
+    "id": "7eleven",
+    "name_zh": "7-Eleven",
+    "name_en": "7-Eleven",
+    "category": "便利店"
+  },
+  {
+    "id": "yata",
+    "name_zh": "一田",
+    "name_en": "YATA",
+    "category": "大型超市"
+  },
+  {
+    "id": "circlek",
+    "name_zh": "OK便利店",
+    "name_en": "Circle K",
+    "category": "便利店"
+  },
+  {
+    "id": "citysuper",
+    "name_zh": "citysuper",
+    "name_en": "city'super",
+    "category": "大型超市"
+  },
+  {
+    "id": "mannings",
+    "name_zh": "萬寧",
+    "name_en": "Mannings",
+    "category": "健康美容"
+  },
+  {
+    "id": "hktvmall",
+    "name_zh": "HKTVmall",
+    "name_en": "HKTVmall",
+    "category": "大型超市"
+  },
+  {
+    "id": "best360",
+    "name_zh": "優品360",
+    "name_en": "Best360",
+    "description_zh": "優品360、FoodVille",
+    "description_en": "Best Mart 360, FoodVille",
+    "category": "食品"
+  },
+  {
+    "id": "759store",
+    "name_zh": "759阿信屋",
+    "name_en": "759 Store",
+    "category": "食品"
+  },
+  {
+    "id": "foodmaster",
+    "name_zh": "寶達食品超市",
+    "name_en": "Food Master",
+    "category": "食品"
+  },
+  {
+    "id": "indomarket",
+    "name_zh": "營多東南亞美食市場",
+    "name_en": "Indo Market",
+    "category": "食品"
+  },
+  {
+    "id": "maxims",
+    "name_zh": "美心西餅",
+    "name_en": "Maxim's Cakes",
+    "category": "餅店"
+  },
+  {
+    "id": "wingwah",
+    "name_zh": "榮華餅家",
+    "name_en": "Wing Wah",
+    "category": "餅店"
+  },
+  {
+    "id": "a1bakery",
+    "name_zh": "A-1 Bakery",
+    "name_en": "A-1 Bakery",
+    "category": "餅店"
+  },
+  {
+    "id": "starbucks",
+    "name_zh": "星巴克",
+    "name_en": "Starbucks",
+    "category": "飲品"
+  },
+  {
+    "id": "nambaohang",
+    "name_zh": "南北行",
+    "name_en": "Nam Bao Hang",
+    "category": "食品"
+  },
+  {
+    "id": "zoff",
+    "name_zh": "Zoff",
+    "name_en": "Zoff",
+    "category": "其他"
+  },
+  {
+    "id": "cherry",
+    "name_zh": "Cherry床上用品專門店",
+    "name_en": "Cherry",
+    "category": "其他"
+  },
+  {
+    "id": "aeon",
+    "name_zh": "AEON",
+    "name_en": "AEON Stores",
+    "description_zh": "AEON、Mono Mono、DAISO Japan、Living PLAZA",
+    "description_en": "AEON, Mono Mono, DAISO Japan, Living PLAZA",
+    "category": "大型超市"
+  },
+  {
+    "id": "daisang",
+    "name_zh": "大生生活超市",
+    "name_en": "DS Groceries",
+    "category": "食品"
+  },
+  {
+    "id": "dondondonki",
+    "name_zh": "DON DON DONKI",
+    "name_en": "DON DON DONKI",
+    "category": "大型超市"
+  },
+  {
+    "id": "kaibo",
+    "name_zh": "佳宝食品超級市場",
+    "name_en": "Kai Bo Food Supermarket",
+    "category": "食品"
+  },
+  {
+    "id": "marksandspencer",
+    "name_zh": "Marks and Spencer Food",
+    "name_en": "Marks and Spencer Food",
+    "category": "食品"
+  },
+  {
+    "id": "prizemart",
+    "name_zh": "價真棧",
+    "name_en": "PrizeMart",
+    "category": "食品"
+  },
+  {
+    "id": "watsons",
+    "name_zh": "屈臣氏",
+    "name_en": "Watsons",
+    "category": "健康美容"
+  }
+]
