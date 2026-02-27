@@ -13,19 +13,19 @@ class AppL10n {
   String get navReminder => isEn ? 'Reminder' : '提醒';
   String get navSettings => isEn ? 'Settings' : '設定';
 
-  // Home Screen
-  String get homeTitle => isEn ? 'HK Jetso Searcher' : '香港商舖優惠搜尋器 Jetso HK';
-  String get homeSelectShop => isEn ? 'Select Shop' : '選擇商舖';
-  String get homeBudget => isEn ? 'Budget / Min Spend' : '預算 / 最低消費額';
-  String get homeBudgetHint => isEn ? 'Leave empty for unlimited' : '留空為無限制';
-  String get homeSavedToPreset => isEn ? 'Saved to Presets!' : '已儲存至預設搜尋！';
-  String get homeSearch => isEn ? 'Search Deals' : '搜尋優惠';
+  // Search Screen
+  String get searchTitle => isEn ? 'Search Shop Deals' : '搜尋商舖優惠';
+  String get searchBudget => isEn ? 'Budget' : '預算消費';
+  String get searchBudgetHint => isEn
+      ? 'Input 1 — 9999, else treated as unlimited'
+      : '輸入 1 — 9999，其他輸入皆視為無限制';
+  String get searchSearch => isEn ? 'Search Deals' : '搜尋優惠';
 
   // Search Results
   String get searchResults => isEn ? 'Search Results' : '搜尋結果';
   String get showAllDiscounts => isEn ? 'Show All Shop Deals' : '顯示商舖全部優惠';
   String get showIndividualProducts =>
-      isEn ? 'Show Individual Products' : '顯示個別產品的優惠';
+      isEn ? 'Show Individual Products' : '顯示個別產品優惠';
   String get saveToPreset => isEn ? 'Save to Presets' : '儲存到預設搜尋';
 
   String get shopUnknown => isEn ? 'Unknown Shop' : '未知商舖';
@@ -34,6 +34,8 @@ class AppL10n {
 
   // Relative dates
   String get dateToday => isEn ? 'Today' : '今天';
+  String get dateOnlyToday => isEn ? 'Only Today' : '只限今天';
+  String get dateApplicableToday => isEn ? 'Applicable Today' : '今天適用';
   String get dateTomorrow => isEn ? 'Tomorrow' : '明天';
   String dateDaysLater(int days) => isEn ? 'In $days days' : '$days天後';
 
@@ -53,6 +55,11 @@ class AppL10n {
       isEn ? 'No deals match your criteria' : '目前沒有符合條件的優惠';
   String get maxPresetsReached =>
       isEn ? 'Saved to presets (Max 5)' : '已儲存至預設搜尋 (最多5個)';
+  String get presetAlreadyExists =>
+      isEn ? 'Preset already exists' : '預設搜尋已有相同選項';
+  String presetSavedSuccess(String shopName, String budget) => isEn
+      ? 'Saved "$shopName (Budget: $budget)" to presets'
+      : '已把「$shopName (預算：$budget)」儲存至預設搜尋';
   String get minSpendTitle =>
       isEn ? 'Min Spend Requirement: HK\$' : '簽帳要求: HK\$';
 
@@ -87,8 +94,9 @@ class AppL10n {
   String get update => isEn ? 'Update' : '更新';
   String get reminderTimePrefix => isEn ? 'Reminder Time:' : '提醒時間:';
 
-  // Calendar Screen
-  String get calendarTitle => isEn ? 'Deal Calendar' : '優惠日曆';
+  // Recent Screen
+  String get recentTitle => isEn ? 'Recent Deals' : '近期優惠';
+  String get navRecent => isEn ? 'Recent' : '近期';
   String get typePercentage => isEn ? 'Percentage Discount' : '百分比優惠';
   String get typePoints => isEn ? 'Points Redemption' : '積分換領';
   String get typeFixed => isEn ? 'Fixed Discount' : '固定優惠';
@@ -102,7 +110,7 @@ class AppL10n {
   String get settingsDefaultBudget => isEn ? 'Default Budget' : '預設簽帳預算';
   String get settingsDefaultAlarm => isEn ? 'Default Alarm Time' : '預設提醒時間';
   String get settingsSelectPayments =>
-      isEn ? 'Select your payment methods and memberships:' : '請選擇您擁有的付款方式與會員：';
+      isEn ? 'Select payment methods and memberships:' : '請選擇擁有的付款方式與會員：';
 
   String get editDefaultBudget => isEn ? 'Edit Default Budget' : '修改預設預算';
 

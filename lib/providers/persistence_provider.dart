@@ -15,6 +15,8 @@ class SettingsNotifier extends Notifier<Map<String, dynamic>> {
   static const String keyDefaultBudget = 'defaultBudget';
   static const String keyThemeMode = 'themeMode';
   static const String keyLanguage = 'language';
+  static const String keyShowAllShopDiscounts = 'showAllShopDiscounts';
+  static const String keyShowIndividualProducts = 'showIndividualProducts';
 
   @override
   Map<String, dynamic> build() {
@@ -25,6 +27,9 @@ class SettingsNotifier extends Notifier<Map<String, dynamic>> {
       keyDefaultBudget: prefs.getDouble(keyDefaultBudget) ?? 9999.0,
       keyThemeMode: prefs.getString(keyThemeMode) ?? 'dark',
       keyLanguage: prefs.getString(keyLanguage) ?? 'zh',
+      keyShowAllShopDiscounts: prefs.getBool(keyShowAllShopDiscounts) ?? true,
+      keyShowIndividualProducts:
+          prefs.getBool(keyShowIndividualProducts) ?? true,
     };
   }
 
@@ -56,6 +61,18 @@ class SettingsNotifier extends Notifier<Map<String, dynamic>> {
     final prefs = ref.read(sharedPreferencesProvider);
     prefs.setString(keyLanguage, lang);
     state = {...state, keyLanguage: lang};
+  }
+
+  void updateShowAllShopDiscounts(bool show) {
+    final prefs = ref.read(sharedPreferencesProvider);
+    prefs.setBool(keyShowAllShopDiscounts, show);
+    state = {...state, keyShowAllShopDiscounts: show};
+  }
+
+  void updateShowIndividualProducts(bool show) {
+    final prefs = ref.read(sharedPreferencesProvider);
+    prefs.setBool(keyShowIndividualProducts, show);
+    state = {...state, keyShowIndividualProducts: show};
   }
 }
 

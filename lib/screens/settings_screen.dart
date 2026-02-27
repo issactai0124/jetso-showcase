@@ -92,7 +92,9 @@ class SettingsScreen extends ConsumerWidget {
                   content: TextField(
                     controller: controller,
                     keyboardType: TextInputType.number,
-                    decoration: InputDecoration(hintText: l10n.homeBudgetHint),
+                    decoration: InputDecoration(
+                      hintText: l10n.searchBudgetHint,
+                    ),
                   ),
                   actions: [
                     TextButton(
@@ -233,9 +235,9 @@ class SettingsScreen extends ConsumerWidget {
           padding: const EdgeInsets.only(top: 8.0, bottom: 4.0),
           child: Text(
             title,
-            style: const TextStyle(
+            style: TextStyle(
               fontWeight: FontWeight.bold,
-              color: Colors.cyanAccent,
+              color: Theme.of(context).colorScheme.primary,
             ),
           ),
         ),

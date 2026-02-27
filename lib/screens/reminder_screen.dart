@@ -54,9 +54,31 @@ class ReminderScreen extends ConsumerWidget {
                     trailing: IconButton(
                       icon: const Icon(Icons.delete, color: Colors.grey),
                       onPressed: () {
-                        ref
-                            .read(remindersProvider.notifier)
-                            .deleteReminder(reminder.id);
+                        showDialog(
+                          context: context,
+                          builder: (context) => AlertDialog(
+                            title: Text(l10n.deleteReminder),
+                            content: Text(l10n.confirmDeleteReminder),
+                            actions: [
+                              TextButton(
+                                onPressed: () => Navigator.pop(context),
+                                child: Text(l10n.cancel),
+                              ),
+                              TextButton(
+                                onPressed: () {
+                                  ref
+                                      .read(remindersProvider.notifier)
+                                      .deleteReminder(reminder.id);
+                                  Navigator.pop(context);
+                                },
+                                child: Text(
+                                  l10n.confirm,
+                                  style: const TextStyle(color: Colors.red),
+                                ),
+                              ),
+                            ],
+                          ),
+                        );
                       },
                     ),
                     onTap: () async {

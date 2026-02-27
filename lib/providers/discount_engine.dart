@@ -1,5 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../models/discount.dart';
+import '../models/payment_method.dart';
 import 'data_provider.dart';
 import 'persistence_provider.dart';
 
@@ -22,8 +23,11 @@ class UserInput {
 class UserInputNotifier extends Notifier<UserInput> {
   @override
   UserInput build() {
-    final settings = ref.watch(settingsProvider);
-    final defaultBudget = settings[SettingsNotifier.keyDefaultBudget] as double;
+    final defaultBudget = ref.watch(
+      settingsProvider.select(
+        (s) => s[SettingsNotifier.keyDefaultBudget] as double? ?? 9999.0,
+      ),
+    );
     return UserInput(shopId: '', amount: defaultBudget, date: DateTime.now());
   }
 
@@ -51,22 +55,22 @@ class CategorizedDiscount {
   CategorizedDiscount({required this.discount, required this.status});
 }
 
-final applicableDiscountsProvider = Provider<List<CategorizedDiscount>>((ref) {
-  final discounts = ref.watch(discountsProvider);
-  final paymentMethods = ref.watch(paymentMethodsProvider);
-  final userInput = ref.watch(userInputProvider);
-  final settings = ref.watch(settingsProvider);
-  final selectedPayments = List<String>.from(
-    settings[SettingsNotifier.keySelectedPayments] ?? [],
-  );
-
-  if (userInput.shopId.isEmpty) return [];
-
+List<CategorizedDiscount> _calculateApplicableDiscounts({
+  required List<Discount> discounts,
+  required List<PaymentMethod> paymentMethods,
+  required UserInput userInput,
+  required List<String> selectedPayments,
+  required bool filterByShop,
+}) {
   final List<CategorizedDiscount> result = [];
 
   for (var discount in discounts) {
-    // 1. Check Shop
-    if (!discount.shopIds.contains(userInput.shopId)) continue;
+    // 1. Check Shop (Only filter if requested and a shop is actually selected)
+    if (filterByShop &&
+        userInput.shopId.isNotEmpty &&
+        !discount.shopIds.contains(userInput.shopId)) {
+      continue;
+    }
 
     // 2. Check Expiration & Generic bounds
     if (discount.schedule.endDate != null &&
@@ -136,6 +140,44 @@ final applicableDiscountsProvider = Provider<List<CategorizedDiscount>>((ref) {
   }
 
   return result;
+}
+
+final applicableDiscountsProvider = Provider<List<CategorizedDiscount>>((ref) {
+  final discounts = ref.watch(discountsProvider);
+  final paymentMethods = ref.watch(paymentMethodsProvider);
+  final userInput = ref.watch(userInputProvider);
+  final settings = ref.watch(settingsProvider);
+  final selectedPayments = List<String>.from(
+    settings[SettingsNotifier.keySelectedPayments] ?? [],
+  );
+
+  return _calculateApplicableDiscounts(
+    discounts: discounts,
+    paymentMethods: paymentMethods,
+    userInput: userInput,
+    selectedPayments: selectedPayments,
+    filterByShop: true,
+  );
+});
+
+final globalApplicableDiscountsProvider = Provider<List<CategorizedDiscount>>((
+  ref,
+) {
+  final discounts = ref.watch(discountsProvider);
+  final paymentMethods = ref.watch(paymentMethodsProvider);
+  final userInput = ref.watch(userInputProvider);
+  final settings = ref.watch(settingsProvider);
+  final selectedPayments = List<String>.from(
+    settings[SettingsNotifier.keySelectedPayments] ?? [],
+  );
+
+  return _calculateApplicableDiscounts(
+    discounts: discounts,
+    paymentMethods: paymentMethods,
+    userInput: userInput,
+    selectedPayments: selectedPayments,
+    filterByShop: false,
+  );
 });
 
 class DiscountWithDate {
@@ -145,85 +187,93 @@ class DiscountWithDate {
   DiscountWithDate({required this.categorizedDiscount, required this.date});
 }
 
+Map<DateTime, List<CategorizedDiscount>> _groupDiscounts(
+  List<CategorizedDiscount> applicableDiscounts,
+) {
+  if (applicableDiscounts.isEmpty) return {};
+
+  final Map<DateTime, List<CategorizedDiscount>> grouped = {};
+  final today = DateTime.now();
+  final maxDays = 30; // Look ahead 30 days
+
+  for (var catDiscount in applicableDiscounts) {
+    final discount = catDiscount.discount;
+    if (discount.schedule.applicableDaysOfMonth.isEmpty &&
+        discount.schedule.applicableDaysOfWeek.isEmpty &&
+        discount.schedule.startDate == null &&
+        discount.schedule.endDate == null) {
+      // Always applicable, put in "Today"
+      final dateKey = DateTime(today.year, today.month, today.day);
+      grouped.putIfAbsent(dateKey, () => []).add(catDiscount);
+      continue;
+    }
+
+    // Check each of the next 30 days
+    for (int i = 0; i < maxDays; i++) {
+      final checkDate = today.add(Duration(days: i));
+      final dateKey = DateTime(checkDate.year, checkDate.month, checkDate.day);
+
+      bool applies = true;
+      if (discount.schedule.startDate != null &&
+          checkDate.isBefore(discount.schedule.startDate!)) {
+        applies = false;
+      }
+      if (discount.schedule.endDate != null &&
+          checkDate.isAfter(
+            discount.schedule.endDate!.add(const Duration(days: 1)),
+          )) {
+        applies = false;
+      }
+
+      if (applies && discount.schedule.applicableDaysOfMonth.isNotEmpty) {
+        if (!discount.schedule.applicableDaysOfMonth.contains(checkDate.day)) {
+          applies = false;
+        }
+      }
+
+      if (applies && discount.schedule.applicableDaysOfWeek.isNotEmpty) {
+        if (!discount.schedule.applicableDaysOfWeek.contains(
+          checkDate.weekday,
+        )) {
+          applies = false;
+        }
+      }
+
+      if (applies) {
+        grouped.putIfAbsent(dateKey, () => []).add(catDiscount);
+      }
+    }
+  }
+
+  // Post-processing: Deduplicate discounts, keeping only the earliest occurrence
+  final Map<DateTime, List<CategorizedDiscount>> refinedGrouped = {};
+  final Set<String> seenDiscountIds = {};
+
+  // Sort keys chronologically
+  final sortedDates = grouped.keys.toList()..sort();
+
+  for (final date in sortedDates) {
+    for (final catDiscount in grouped[date]!) {
+      if (!seenDiscountIds.contains(catDiscount.discount.id)) {
+        seenDiscountIds.add(catDiscount.discount.id);
+        refinedGrouped.putIfAbsent(date, () => []).add(catDiscount);
+      }
+    }
+  }
+
+  return refinedGrouped;
+}
+
 final groupedDiscountsProvider =
     Provider<Map<DateTime, List<CategorizedDiscount>>>((ref) {
       final applicableDiscounts = ref.watch(applicableDiscountsProvider);
-      if (applicableDiscounts.isEmpty) return {};
+      return _groupDiscounts(applicableDiscounts);
+    });
 
-      final Map<DateTime, List<CategorizedDiscount>> grouped = {};
-      final today = DateTime.now();
-      final maxDays = 30; // Look ahead 30 days
-
-      for (var catDiscount in applicableDiscounts) {
-        final discount = catDiscount.discount;
-        if (discount.schedule.applicableDaysOfMonth.isEmpty &&
-            discount.schedule.applicableDaysOfWeek.isEmpty &&
-            discount.schedule.startDate == null &&
-            discount.schedule.endDate == null) {
-          // Always applicable, put in "Today"
-          final dateKey = DateTime(today.year, today.month, today.day);
-          grouped.putIfAbsent(dateKey, () => []).add(catDiscount);
-          continue;
-        }
-
-        // Check each of the next 30 days
-        for (int i = 0; i < maxDays; i++) {
-          final checkDate = today.add(Duration(days: i));
-          final dateKey = DateTime(
-            checkDate.year,
-            checkDate.month,
-            checkDate.day,
-          );
-
-          bool applies = true;
-          if (discount.schedule.startDate != null &&
-              checkDate.isBefore(discount.schedule.startDate!)) {
-            applies = false;
-          }
-          if (discount.schedule.endDate != null &&
-              checkDate.isAfter(
-                discount.schedule.endDate!.add(const Duration(days: 1)),
-              )) {
-            applies = false;
-          }
-
-          if (applies && discount.schedule.applicableDaysOfMonth.isNotEmpty) {
-            if (!discount.schedule.applicableDaysOfMonth.contains(
-              checkDate.day,
-            )) {
-              applies = false;
-            }
-          }
-
-          if (applies && discount.schedule.applicableDaysOfWeek.isNotEmpty) {
-            if (!discount.schedule.applicableDaysOfWeek.contains(
-              checkDate.weekday,
-            )) {
-              applies = false;
-            }
-          }
-
-          if (applies) {
-            grouped.putIfAbsent(dateKey, () => []).add(catDiscount);
-          }
-        }
-      }
-
-      // Post-processing: Deduplicate discounts, keeping only the earliest occurrence
-      final Map<DateTime, List<CategorizedDiscount>> refinedGrouped = {};
-      final Set<String> seenDiscountIds = {};
-
-      // Sort keys chronologically
-      final sortedDates = grouped.keys.toList()..sort();
-
-      for (final date in sortedDates) {
-        for (final catDiscount in grouped[date]!) {
-          if (!seenDiscountIds.contains(catDiscount.discount.id)) {
-            seenDiscountIds.add(catDiscount.discount.id);
-            refinedGrouped.putIfAbsent(date, () => []).add(catDiscount);
-          }
-        }
-      }
-
-      return refinedGrouped;
+final globalGroupedDiscountsProvider =
+    Provider<Map<DateTime, List<CategorizedDiscount>>>((ref) {
+      final globalApplicableDiscounts = ref.watch(
+        globalApplicableDiscountsProvider,
+      );
+      return _groupDiscounts(globalApplicableDiscounts);
     });

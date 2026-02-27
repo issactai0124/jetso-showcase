@@ -8,8 +8,13 @@ import '../l10n/app_l10n.dart';
 
 class PresetScreen extends ConsumerWidget {
   final Function(int) onNavigateToTab;
+  final GlobalKey<NavigatorState> homeNavigatorKey;
 
-  const PresetScreen({super.key, required this.onNavigateToTab});
+  const PresetScreen({
+    super.key,
+    required this.onNavigateToTab,
+    required this.homeNavigatorKey,
+  });
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -79,9 +84,8 @@ class PresetScreen extends ConsumerWidget {
                               amount: preset.amount,
                             ),
                           );
-                      onNavigateToTab(0); // Switch to Search Tab
-                      Navigator.push(
-                        context,
+                      onNavigateToTab(1); // Switch to Search Tab
+                      homeNavigatorKey.currentState?.push(
                         MaterialPageRoute(
                           builder: (context) => const SearchResultsScreen(),
                         ),

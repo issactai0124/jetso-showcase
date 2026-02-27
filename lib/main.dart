@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:jetso_showcase/screens/main_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'theme/app_theme.dart';
-import 'screens/main_screen.dart';
 import 'providers/persistence_provider.dart';
 
 void main() async {
@@ -31,7 +31,7 @@ class MyApp extends ConsumerWidget {
     final themeMode = themeStr == 'light' ? ThemeMode.light : ThemeMode.dark;
 
     return MaterialApp(
-      title: 'HK Jetso Tracker',
+      title: '香港商舖優惠搜尋器 [HK Jetso Tracker]',
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
       themeMode: themeMode,

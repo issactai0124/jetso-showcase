@@ -4,18 +4,17 @@ import '../providers/data_provider.dart';
 import '../providers/discount_engine.dart';
 import '../providers/persistence_provider.dart';
 import '../models/shop.dart';
-import 'calendar_screen.dart';
 import 'search_results_screen.dart';
 import '../l10n/app_l10n.dart';
 
-class HomeScreen extends ConsumerStatefulWidget {
-  const HomeScreen({super.key});
+class SearchScreen extends ConsumerStatefulWidget {
+  const SearchScreen({super.key});
 
   @override
-  ConsumerState<HomeScreen> createState() => _HomeScreenState();
+  ConsumerState<SearchScreen> createState() => _SearchScreenState();
 }
 
-class _HomeScreenState extends ConsumerState<HomeScreen> {
+class _SearchScreenState extends ConsumerState<SearchScreen> {
   final _amountController = TextEditingController();
 
   @override
@@ -63,20 +62,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     final l10n = ref.watch(l10nProvider);
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(l10n.homeTitle),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.calendar_month),
-            onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => const CalendarScreen()),
-              );
-            },
-          ),
-        ],
-      ),
+      appBar: AppBar(title: Text(l10n.searchTitle)),
       body: _buildContent(),
       floatingActionButton: userInput.shopId.isEmpty
           ? null
@@ -91,7 +77,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               },
               icon: const Icon(Icons.search),
               label: Text(
-                l10n.homeSearch,
+                l10n.searchSearch,
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 16,
@@ -131,14 +117,6 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           // 1. Shop Selection
-          Text(
-            l10n.homeSelectShop,
-            style: Theme.of(
-              context,
-            ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
-          ),
-          const SizedBox(height: 12),
-
           if (recentShops.isNotEmpty) ...[
             Text(
               l10n.isEn ? 'Recent' : '最近搜尋',
@@ -161,11 +139,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           const SizedBox(height: 24),
 
           // 2. Amount Input
-          Text(
-            l10n.homeBudget,
-            style: Theme.of(
-              context,
-            ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
+          Row(
+            children: [
+              Text(
+                l10n.searchBudget,
+                style: Theme.of(
+                  context,
+                ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
+              ),
+            ],
           ),
           const SizedBox(height: 8),
           Row(
@@ -178,7 +160,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                   ),
                   decoration: InputDecoration(
                     border: const OutlineInputBorder(),
-                    hintText: l10n.homeBudgetHint,
+                    hintText: l10n.searchBudgetHint,
                   ),
                   onChanged: (value) {
                     if (value.isEmpty) {

@@ -2,69 +2,29 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
 import '../providers/discount_engine.dart';
-import '../providers/persistence_provider.dart';
-import '../models/persistence_models.dart';
-import '../models/discount.dart';
-import '../models/payment_method.dart';
-import '../models/shop.dart';
 import '../providers/data_provider.dart';
+import '../providers/persistence_provider.dart';
+import '../models/shop.dart';
+import '../models/payment_method.dart';
 import '../l10n/app_l10n.dart';
 import '../widgets/discount_tile.dart';
+import '../models/persistence_models.dart';
+import '../models/discount.dart';
 
-class SearchResultsScreen extends ConsumerStatefulWidget {
-  const SearchResultsScreen({super.key});
+class RecentScreen extends ConsumerStatefulWidget {
+  const RecentScreen({super.key});
 
   @override
-  ConsumerState<SearchResultsScreen> createState() =>
-      _SearchResultsScreenState();
+  ConsumerState<RecentScreen> createState() => _RecentScreenState();
 }
 
-class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
-  void _savePreset(AppL10n l10n) {
-    final input = ref.read(userInputProvider);
-    if (input.shopId.isEmpty) {
-      ScaffoldMessenger.of(
-        context,
-      ).showSnackBar(SnackBar(content: Text(l10n.searchSelectShopFirst)));
-      return;
-    }
-
-    final presets = ref.read(presetsProvider);
-    final isSavedAsPreset = presets.any(
-      (p) => p.shopId == input.shopId && p.amount == input.amount,
-    );
-
-    if (isSavedAsPreset) {
-      ScaffoldMessenger.of(
-        context,
-      ).showSnackBar(SnackBar(content: Text(l10n.presetAlreadyExists)));
-      return;
-    }
-
-    final preset = PresetSearch(
-      id: DateTime.now().millisecondsSinceEpoch.toString(),
-      shopId: input.shopId,
-      amount: input.amount,
-      createdAt: DateTime.now(),
-    );
-    ref.read(presetsProvider.notifier).savePreset(preset);
-
-    final allShops = ref.read(shopsProvider);
-    final activeShop = allShops.firstWhere(
-      (s) => s.id == input.shopId,
-      orElse: () => Shop(id: '', nameZh: '', nameEn: '', category: ''),
-    );
-    final shopName = l10n.trShopName(activeShop.nameZh, activeShop.nameEn);
-    final budgetText = input.amount >= 9999.0
-        ? l10n.budgetUnlimited
-        : 'HK\$${input.amount.toStringAsFixed(0)}';
-
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text(l10n.presetSavedSuccess(shopName, budgetText))),
-    );
-  }
-
-  void _showAlarmDialog(Discount discount, DateTime date) async {
+class _RecentScreenState extends ConsumerState<RecentScreen> {
+  void _showAlarmDialog(
+    BuildContext context,
+    Discount discount,
+    Shop shop,
+    DateTime date,
+  ) async {
     final settings = ref.read(settingsProvider);
     final defaultTimeStr =
         settings[SettingsNotifier.keyDefaultAlarmTime] as String;
@@ -102,7 +62,7 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
       final reminder = AlarmReminder(
         id: DateTime.now().millisecondsSinceEpoch.toString(),
         discountId: discount.id,
-        shopId: ref.read(userInputProvider).shopId,
+        shopId: shop.id,
         triggerTime: triggerTime,
       );
       ref.read(remindersProvider.notifier).saveReminder(reminder);
@@ -115,32 +75,17 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
     }
   }
 
-  String _getRelativeDateText(DateTime date, AppL10n l10n) {
-    final today = DateTime.now();
-    final dateOnly = DateTime(date.year, date.month, date.day);
-    final todayOnly = DateTime(today.year, today.month, today.day);
-    final diff = dateOnly.difference(todayOnly).inDays;
-
-    if (diff == 0) return l10n.dateToday;
-    if (diff == 1) return l10n.dateTomorrow;
-    return l10n.dateDaysLater(diff);
-  }
-
   @override
   Widget build(BuildContext context) {
-    final userInput = ref.watch(userInputProvider);
-    final presets = ref.watch(presetsProvider);
-    final groupedDiscounts = ref.watch(groupedDiscountsProvider);
+    final groupedDiscounts = ref.watch(globalGroupedDiscountsProvider);
     final l10n = ref.watch(l10nProvider);
     final settings = ref.watch(settingsProvider);
-
-    bool isSavedAsPreset = presets.any(
-      (p) => p.shopId == userInput.shopId && p.amount == userInput.amount,
-    );
+    final allShops = ref.watch(shopsProvider);
+    final paymentMethods = ref.watch(paymentMethodsProvider);
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(l10n.searchResults),
+        title: Text(l10n.recentTitle),
         actions: [
           // Show All Shop Discounts Toggle
           Row(
@@ -209,28 +154,19 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            if (userInput.shopId.isEmpty)
-              Padding(
-                padding: const EdgeInsets.symmetric(vertical: 16),
-                child: Text(
-                  l10n.searchSelectShopFirst,
-                  style: const TextStyle(fontStyle: FontStyle.italic),
-                ),
-              )
-            else if (groupedDiscounts.isEmpty)
+            if (groupedDiscounts.isEmpty)
               Padding(
                 padding: const EdgeInsets.symmetric(vertical: 16),
                 child: Text(l10n.searchNoResults),
               )
             else
-              _buildResultsList(
+              _buildRecentList(
+                context,
                 groupedDiscounts,
-                userInput,
-                ref.watch(paymentMethodsProvider),
-                ref.watch(shopsProvider),
+                paymentMethods,
+                allShops,
                 l10n,
                 settings,
-                isSavedAsPreset,
               ),
           ],
         ),
@@ -238,31 +174,19 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
     );
   }
 
-  Widget _buildResultsList(
+  Widget _buildRecentList(
+    BuildContext context,
     Map<DateTime, List<CategorizedDiscount>> groupedDiscounts,
-    UserInput userInput,
     List<PaymentMethod> paymentMethods,
     List<Shop> allShops,
     AppL10n l10n,
     Map<String, dynamic> settings,
-    bool isSavedAsPreset,
   ) {
     final sortedDates = groupedDiscounts.keys.toList()..sort();
     final dateFormatter = DateFormat(l10n.dateShortFormat);
 
-    final activeShop = allShops.firstWhere(
-      (s) => s.id == userInput.shopId,
-      orElse: () => Shop(
-        id: '',
-        nameZh: l10n.shopUnknown,
-        nameEn: l10n.shopUnknown,
-        category: '',
-      ),
-    );
-
-    final budgetText = userInput.amount >= 9999.0
-        ? l10n.budgetUnlimited
-        : 'HK\$${userInput.amount.toStringAsFixed(0)}';
+    final now = DateTime.now();
+    final tomorrow = now.add(const Duration(days: 1));
 
     Widget buildDiscountTile(CategorizedDiscount catDiscount, DateTime date) {
       final activeShop = allShops.firstWhere(
@@ -280,8 +204,11 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
         activeShop: activeShop,
         paymentMethods: paymentMethods,
         l10n: l10n,
-        userBudget: userInput.amount,
-        onAddAlarm: () => _showAlarmDialog(catDiscount.discount, date),
+        userBudget:
+            settings[SettingsNotifier.keyDefaultBudget] as double? ?? 9999.0,
+        showShopName: true,
+        onAddAlarm: () =>
+            _showAlarmDialog(context, catDiscount.discount, activeShop, date),
       );
     }
 
@@ -349,65 +276,22 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        // Target Summary Header
-        Container(
-          padding: const EdgeInsets.all(16),
-          margin: const EdgeInsets.only(bottom: 24),
-          decoration: BoxDecoration(
-            color: Theme.of(
-              context,
-            ).colorScheme.surfaceContainerHighest.withValues(alpha: 0.5),
-            borderRadius: BorderRadius.circular(12),
-            border: Border.all(
-              color: Theme.of(
-                context,
-              ).colorScheme.primary.withValues(alpha: 0.5),
-            ),
-          ),
-          child: Row(
-            children: [
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      l10n.trShopName(activeShop.nameZh, activeShop.nameEn),
-                      style: const TextStyle(
-                        fontSize: 20,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      '${l10n.budgetLabel}$budgetText',
-                      style: TextStyle(
-                        fontSize: 16,
-                        color: Theme.of(context).colorScheme.secondary,
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-              IconButton(
-                icon: Icon(
-                  isSavedAsPreset ? Icons.favorite : Icons.favorite_border,
-                ),
-                color: Theme.of(context).colorScheme.secondary,
-                tooltip: l10n.saveToPreset,
-                onPressed: () => _savePreset(l10n),
-              ),
-            ],
-          ),
-        ),
-
-        // Date Groups
         ...sortedDates.expand<Widget>((date) {
-          final discounts = groupedDiscounts[date]!;
-          final now = DateTime.now();
           final isToday =
               date.year == now.year &&
               date.month == now.month &&
               date.day == now.day;
+          final isTomorrow =
+              date.year == tomorrow.year &&
+              date.month == tomorrow.month &&
+              date.day == tomorrow.day;
+
+          // Exclude anything that isn't Today or Tomorrow
+          if (!isToday && !isTomorrow) {
+            return [];
+          }
+
+          final discounts = groupedDiscounts[date]!;
 
           Widget buildDateContainer(
             List<CategorizedDiscount> items,
@@ -535,7 +419,7 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
           return [
             buildDateContainer(
               discounts,
-              '${_getRelativeDateText(date, l10n)} (${dateFormatter.format(date)})',
+              '${l10n.dateTomorrow} (${dateFormatter.format(date)})',
             ),
           ];
         }),

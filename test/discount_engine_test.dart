@@ -22,7 +22,6 @@ void main() {
             requiredPaymentIds: ['enjoy_card'],
             titleZh: 'Test Discount',
             titleEn: 'Test',
-            type: 'percentage_discount',
             conditions: DiscountCondition(minSpend: 100, excludePaymentIds: []),
             schedule: DiscountSchedule(
               applicableDaysOfMonth: [],
@@ -35,11 +34,12 @@ void main() {
       ],
     );
 
-    // Initial state: empty selection
+    // Initial state: empty selection but engine no longer blocks globally
     var discounts = container.read(applicableDiscountsProvider);
-    expect(discounts.isEmpty, true);
+    expect(discounts.isNotEmpty, true);
+    expect(discounts.first.status, DiscountMatchStatus.applicable);
 
-    // Selection 1: wrong amount, wrong payment
+    // Selection 1: wellcome selected, wrong amount
     container
         .read(userInputProvider.notifier)
         .updateState(

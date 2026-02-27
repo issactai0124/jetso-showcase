@@ -65,7 +65,6 @@ class Discount {
   final List<String> requiredPaymentIds;
   final String titleZh;
   final String titleEn;
-  final String type;
   final DiscountCondition conditions;
   final DiscountSchedule schedule;
   final DiscountReward rewards;
@@ -77,7 +76,6 @@ class Discount {
     required this.requiredPaymentIds,
     required this.titleZh,
     required this.titleEn,
-    required this.type,
     required this.conditions,
     required this.schedule,
     required this.rewards,
@@ -91,9 +89,8 @@ class Discount {
       requiredPaymentIds: List<String>.from(json['required_payment_ids'] ?? []),
       titleZh: json['title_zh'],
       titleEn: json['title_en'] ?? "",
-      type: json['type'],
-      conditions: DiscountCondition.fromJson(json['conditions'] ?? {}),
-      schedule: DiscountSchedule.fromJson(json['schedule'] ?? {}),
+      conditions: DiscountCondition.fromJson(json), // Pass the root json
+      schedule: DiscountSchedule.fromJson(json), // Pass the root json
       rewards: DiscountReward.fromJson(json['rewards'] ?? {}),
       isProduct: json['is_product'] ?? false,
     );

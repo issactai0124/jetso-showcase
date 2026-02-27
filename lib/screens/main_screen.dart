@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../providers/data_provider.dart';
-import 'home_screen.dart';
+import 'search_screen.dart';
 import 'preset_screen.dart';
 import 'reminder_screen.dart';
 import 'settings_screen.dart';
+import 'recent_screen.dart';
 import '../l10n/app_l10n.dart';
 
 class MainScreen extends ConsumerStatefulWidget {
@@ -31,20 +32,22 @@ class _MainScreenState extends ConsumerState<MainScreen> {
         data: (_) => IndexedStack(
           index: _currentIndex,
           children: [
+            const RecentScreen(),
             Navigator(
               key: _homeNavigatorKey,
               onGenerateRoute: (settings) {
                 return MaterialPageRoute(
-                  builder: (context) => const HomeScreen(),
+                  builder: (context) => const SearchScreen(),
                 );
               },
             ),
             PresetScreen(
+              homeNavigatorKey: _homeNavigatorKey,
               onNavigateToTab: (index) {
                 setState(() {
                   _currentIndex = index;
                 });
-                if (index == 0) {
+                if (index == 1) {
                   _homeNavigatorKey.currentState?.popUntil(
                     (route) => route.isFirst,
                   );
@@ -59,7 +62,7 @@ class _MainScreenState extends ConsumerState<MainScreen> {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _currentIndex,
         onTap: (index) {
-          if (index == 0 && _currentIndex == 0) {
+          if (index == 1 && _currentIndex == 1) {
             _homeNavigatorKey.currentState?.popUntil((route) => route.isFirst);
           }
           setState(() {
@@ -70,6 +73,10 @@ class _MainScreenState extends ConsumerState<MainScreen> {
         selectedItemColor: Theme.of(context).colorScheme.primary,
         unselectedItemColor: Colors.grey,
         items: [
+          BottomNavigationBarItem(
+            icon: const Icon(Icons.view_list),
+            label: l10n.recentTitle,
+          ),
           BottomNavigationBarItem(
             icon: const Icon(Icons.search),
             label: l10n.navSearch,

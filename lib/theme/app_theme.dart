@@ -4,15 +4,15 @@ class AppTheme {
   static ThemeData get lightTheme {
     return ThemeData(
       brightness: Brightness.light,
-      primaryColor: const Color(0xFFD32F2F), // HK Taxi Red
+      primaryColor: const Color(0xFF0277BD), // Deep Light Blue
       scaffoldBackgroundColor: const Color(0xFFF5F5F5),
       appBarTheme: const AppBarTheme(
-        backgroundColor: Color(0xFFD32F2F),
+        backgroundColor: Color(0xFF0277BD),
         foregroundColor: Colors.white,
         elevation: 0,
       ),
       colorScheme: const ColorScheme.light(
-        primary: Color(0xFFD32F2F),
+        primary: Color(0xFF0277BD),
         secondary: Color(0xFFFFC107), // Warning yellow
       ),
       cardTheme: CardThemeData(

@@ -9,19 +9,14 @@
         ],
         "title_zh": "逢星期三成人奶粉及紙尿片可享95折",
         "title_en": "5% off adult milk powder and diapers with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                3
-            ],
-            "end_date": "2026-12-31"
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            3
+        ],
+        "end_date": "2026-12-31"
     },
     {
         "id": "d-joy_you_card-4",
@@ -33,16 +28,11 @@
         ],
         "title_zh": "946毫升鮮奶/高鈣/朱古力牛奶飲品可享$2優惠",
         "title_en": "$2 off 946ml milk beverages with Joy You Card",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "end_date": "2026-06-30"
-        },
         "rewards": {
             "amount": 2
-        }
+        },
+        "min_spend": 0,
+        "end_date": "2026-06-30"
     },
     {
         "id": "d-joy_you_card-5",
@@ -54,16 +44,11 @@
         ],
         "title_zh": "聖安娜家庭裝麵包、Circle K吐司/方包可享$1優惠",
         "title_en": "$1 off Circle K toast or bread with Joy You Card",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "end_date": "2026-06-30"
-        },
         "rewards": {
             "amount": 1
-        }
+        },
+        "min_spend": 0,
+        "end_date": "2026-06-30"
     },
     {
         "id": "d-joy_you_card-6",
@@ -75,16 +60,11 @@
         ],
         "title_zh": "南陽高蛋白飲品（朱古力香蕉味/穀物味）350毫升可享$3優惠",
         "title_en": "$3 off Namyang high protein drinks with Joy You Card",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "end_date": "2026-06-30"
-        },
         "rewards": {
             "amount": 3
-        }
+        },
+        "min_spend": 0,
+        "end_date": "2026-06-30"
     },
     {
         "id": "d-joy_you_card-11",
@@ -96,18 +76,13 @@
         ],
         "title_zh": "逢星期三下午4時前急凍類貨品可享88折",
         "title_en": "12% off frozen food before 4 PM with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                3
-            ]
-        },
         "rewards": {
             "rate": 0.12
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            3
+        ]
     },
     {
         "id": "d-joy_you_card-16",
@@ -119,16 +94,11 @@
         ],
         "title_zh": "早上11時前中杯裝或以上手調飲品可享$5優惠",
         "title_en": "$5 off medium or larger handcrafted beverages before 11 AM with Joy You Card",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "end_date": "2026-08-27"
-        },
         "rewards": {
             "amount": 5
-        }
+        },
+        "min_spend": 0,
+        "end_date": "2026-08-27"
     },
     {
         "id": "d-student_octopus-1",
@@ -140,13 +110,10 @@
         ],
         "title_zh": "Circle K波提冬甩可享$1優惠",
         "title_en": "$1 off Circle K Mochi Donut with Student Octopus",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "amount": 1
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-student_octopus-2",
@@ -158,13 +125,10 @@
         ],
         "title_zh": "Circle K溏心蛋/黑松露溏心蛋(2隻裝)可享$2優惠",
         "title_en": "$2 off Circle K Soft Boiled Egg (2pcs) with Student Octopus",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "amount": 2
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-student_octopus-3",
@@ -175,8 +139,7 @@
             "student_octopus"
         ],
         "title_zh": "JUICY PROTEIN蛋白果汁20G(熱帶水果/番石榴青檸)500毫升只需$10",
-        "title_en": "JUICY PROTEIN Juice 500ml for $10 with Student Octopus",
-        "type": "fixed_price"
+        "title_en": "JUICY PROTEIN Juice 500ml for $10 with Student Octopus"
     },
     {
         "id": "d-student_octopus-4",
@@ -188,12 +151,9 @@
         ],
         "title_zh": "Hot & In印尼撈麵可享$2優惠",
         "title_en": "$2 off Hot & In Indomie with Student Octopus",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "amount": 2
-        }
+        },
+        "min_spend": 0
     }
 ]

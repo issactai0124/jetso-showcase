@@ -9,20 +9,15 @@
         ],
         "title_zh": "每月3、13、23日以恒生enJoy卡簽帳滿$100可享92折",
         "title_en": "8% off upon $100 spending on 3, 13, 23 of every month",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 100
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                3,
-                13,
-                23
-            ]
-        },
         "rewards": {
             "rate": 0.08
-        }
+        },
+        "min_spend": 100,
+        "applicable_days_of_month": [
+            3,
+            13,
+            23
+        ]
     },
     {
         "id": "d-enjoy_card-2",
@@ -34,19 +29,14 @@
         ],
         "title_zh": "每月1、20日以恒生enJoy卡簽帳可享94折",
         "title_en": "6% off on 1, 20 of every month",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                1,
-                20
-            ]
-        },
         "rewards": {
             "rate": 0.06
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_month": [
+            1,
+            20
+        ]
     },
     {
         "id": "d-enjoy_card-3",
@@ -58,19 +48,14 @@
         ],
         "title_zh": "每月8、18日以恒生enJoy卡簽帳可享95折",
         "title_en": "5% off on 8, 18 of every month",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                8,
-                18
-            ]
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_month": [
+            8,
+            18
+        ]
     },
     {
         "id": "d-joy_you_card-1",
@@ -82,18 +67,13 @@
         ],
         "title_zh": "逢星期三自家品牌（Meadows、御品皇等）產品可享9折",
         "title_en": "10% off exclusive brands",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                3
-            ]
-        },
         "rewards": {
             "rate": 0.1
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            3
+        ]
     },
     {
         "id": "d-enjoy_card-4",
@@ -105,18 +85,13 @@
         ],
         "title_zh": "逢星期日以恒生enJoy卡簽帳滿$100可獲贈一杯中杯裝手調飲品",
         "title_en": "Buy a handcrafted beverage or food item over $100 and get a complimentary medium handcrafted beverage",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 100
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                0
-            ]
-        },
         "rewards": {
             "amount": 0
-        }
+        },
+        "min_spend": 100,
+        "applicable_days_of_week": [
+            0
+        ]
     },
     {
         "id": "d-yuu-1",
@@ -128,17 +103,12 @@
         ],
         "title_zh": "以15,000yuu分換取$80現金券",
         "title_en": "Redeem $80 voucher with 15,000 yuu points",
-        "type": "points_redemption",
-        "conditions": {
-            "min_spend": 80
-        },
-        "schedule": {
-            "start_date": "2026-02-20",
-            "end_date": "2026-03-05"
-        },
         "rewards": {
             "amount": 5
-        }
+        },
+        "min_spend": 80,
+        "start_date": "2026-02-20",
+        "end_date": "2026-03-05"
     },
     {
         "id": "d-yuu-2",
@@ -150,17 +120,12 @@
         ],
         "title_zh": "以30,000yuu分換取$165現金券",
         "title_en": "Redeem $165 voucher with 30,000 yuu points",
-        "type": "points_redemption",
-        "conditions": {
-            "min_spend": 165
-        },
-        "schedule": {
-            "start_date": "2026-02-20",
-            "end_date": "2026-03-05"
-        },
         "rewards": {
             "amount": 15
-        }
+        },
+        "min_spend": 165,
+        "start_date": "2026-02-20",
+        "end_date": "2026-03-05"
     },
     {
         "id": "d-aplus_rewards-1",
@@ -172,13 +137,10 @@
         ],
         "title_zh": "於A+ Rewards以$48.7購買$50現金券",
         "title_en": "Buy $50 voucher for $48.7 at A+ Rewards",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 50
-        },
         "rewards": {
             "amount": 1.3
-        }
+        },
+        "min_spend": 50
     },
     {
         "id": "d-aplus_rewards-2",
@@ -190,13 +152,10 @@
         ],
         "title_zh": "於A+ Rewards以$97.5購買$100現金券",
         "title_en": "Buy $100 voucher for $97.5 at A+ Rewards",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 100
-        },
         "rewards": {
             "amount": 2.5
-        }
+        },
+        "min_spend": 100
     },
     {
         "id": "d-aplus_rewards-3",
@@ -208,13 +167,10 @@
         ],
         "title_zh": "於A+ Rewards以$9.5購買$10現金券",
         "title_en": "Buy $10 voucher for $9.5 at A+ Rewards",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 10
-        },
         "rewards": {
             "amount": 0.5
-        }
+        },
+        "min_spend": 10
     },
     {
         "id": "d-joy_you_card-2",
@@ -226,18 +182,13 @@
         ],
         "title_zh": "逢星期三自家品牌（超值牌、佳之選、金御膳）產品可享9折",
         "title_en": "10% off exclusive brands with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                3
-            ]
-        },
         "rewards": {
             "rate": 0.1
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            3
+        ]
     },
     {
         "id": "d-joy_you_card-7",
@@ -249,18 +200,13 @@
         ],
         "title_zh": "逢星期二自家品牌（mannings或mannings Guardian）單件產品可享85折",
         "title_en": "15% off own brand products with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                2
-            ]
-        },
         "rewards": {
             "rate": 0.15
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            2
+        ]
     },
     {
         "id": "d-joy_you_card-8",
@@ -272,18 +218,13 @@
         ],
         "title_zh": "長者會會員逢星期三於簡易版網購輸入優惠碼「SENIOR95」可享95折",
         "title_en": "5% off on HKTVmall Lite app for members on Wednesdays with code SENIOR95",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                3
-            ]
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            3
+        ]
     },
     {
         "id": "d-joy_you_card-9",
@@ -295,13 +236,10 @@
         ],
         "title_zh": "於HKTVmall門市單價$15或以上的貨品可享$2優惠",
         "title_en": "$2 off on items ≥$15 at HKTVmall retail stores with Joy You Card",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 15
-        },
         "rewards": {
             "amount": 2
-        }
+        },
+        "min_spend": 15
     },
     {
         "id": "d-joy_you_card-10",
@@ -313,18 +251,13 @@
         ],
         "title_zh": "逢星期二指定自家品牌產品（Familie、PANDO、Kalbarri）可享95折",
         "title_en": "5% off exclusive brands with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                2
-            ]
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            2
+        ]
     },
     {
         "id": "d-best360_gold-1",
@@ -336,20 +269,15 @@
         ],
         "title_zh": "每月1、11、21日金卡會員滿$120可享95折",
         "title_en": "5% off upon $120 spending with Best360 Gold",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 120
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                1,
-                11,
-                21
-            ]
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 120,
+        "applicable_days_of_month": [
+            1,
+            11,
+            21
+        ]
     },
     {
         "id": "d-best360_member-1",
@@ -362,15 +290,10 @@
         ],
         "title_zh": "逢星期一會員可享雙倍積分",
         "title_en": "Double points every Monday with Best360",
-        "type": "points_promotion",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                1
-            ]
-        }
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            1
+        ]
     },
     {
         "id": "d-759_member-1",
@@ -382,13 +305,10 @@
         ],
         "title_zh": "會員可享77折",
         "title_en": "23% off with 759 members",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "rate": 0.23
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-joy_you_card-12",
@@ -400,13 +320,10 @@
         ],
         "title_zh": "電話卡及特價貨品以外產品可享9折",
         "title_en": "10% off regular-priced items (excluding SIM cards) with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "rate": 0.1
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-joy_you_card-13",
@@ -418,13 +335,10 @@
         ],
         "title_zh": "任何原價產品可享92折",
         "title_en": "8% off regular-priced products with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "rate": 0.08
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-joy_you_card-14",
@@ -436,16 +350,11 @@
         ],
         "title_zh": "任何標準價產品可享9折",
         "title_en": "10% off regular-priced products with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "end_date": "2026-12-31"
-        },
         "rewards": {
             "rate": 0.1
-        }
+        },
+        "min_spend": 0,
+        "end_date": "2026-12-31"
     },
     {
         "id": "d-joy_you_card-15",
@@ -457,19 +366,14 @@
         ],
         "title_zh": "每月28日可享95折",
         "title_en": "5% off with Joy You Card on the 28th of every month",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                28
-            ],
-            "end_date": "2026-03-28"
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_month": [
+            28
+        ],
+        "end_date": "2026-03-28"
     },
     {
         "id": "d-joy_you_card-17",
@@ -481,18 +385,13 @@
         ],
         "title_zh": "逢星期二一般商品可享95折",
         "title_en": "5% off regular products with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                2
-            ]
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            2
+        ]
     },
     {
         "id": "d-joy_you_card-18",
@@ -504,18 +403,13 @@
         ],
         "title_zh": "逢星期二廣告商品可享98折",
         "title_en": "2% off promotional products with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_week": [
-                2
-            ]
-        },
         "rewards": {
             "rate": 0.02
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_week": [
+            2
+        ]
     },
     {
         "id": "d-joy_you_card-19",
@@ -527,13 +421,10 @@
         ],
         "title_zh": "正價眼鏡可享85折",
         "title_en": "15% off regular-priced glasses with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "rate": 0.15
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-joy_you_card-20",
@@ -545,13 +436,10 @@
         ],
         "title_zh": "可享9折",
         "title_en": "10% off with Joy You Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
         "rewards": {
             "rate": 0.1
-        }
+        },
+        "min_spend": 0
     },
     {
         "id": "d-payme-1",
@@ -563,16 +451,11 @@
         ],
         "title_zh": "領券後即日以Payme支付滿$40可享$4優惠",
         "title_en": "$4 off upon $40 spending with Payme",
-        "type": "fixed_discount",
-        "conditions": {
-            "min_spend": 40
-        },
-        "schedule": {
-            "end_date": "2026-02-28"
-        },
         "rewards": {
             "amount": 4
-        }
+        },
+        "min_spend": 40,
+        "end_date": "2026-02-28"
     },
     {
         "id": "d-compass_visa-1",
@@ -598,20 +481,15 @@
         ],
         "title_zh": "逢星期三以DBS COMPASS VISA簽帳滿$300可享高達8% COMPASS Dollar回贈",
         "title_en": "Up to 8% COMPASS Dollar rebate upon $300 single net spending at supermarkets with DBS Compass Visa",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 300
-        },
-        "schedule": {
-            "start_date": "2026-01-07",
-            "end_date": "2026-05-27",
-            "applicable_days_of_week": [
-                3
-            ]
-        },
         "rewards": {
             "rate": 0.08
-        }
+        },
+        "min_spend": 300,
+        "start_date": "2026-01-07",
+        "end_date": "2026-05-27",
+        "applicable_days_of_week": [
+            3
+        ]
     },
     {
         "id": "d-aeon_card-1",
@@ -623,19 +501,14 @@
         ],
         "title_zh": "每月2、20日以AEON信用卡簽帳可享95折",
         "title_en": "5% off on 2, 20 of every month with Aeon Card",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 0
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                2,
-                20
-            ]
-        },
         "rewards": {
             "rate": 0.05
-        }
+        },
+        "min_spend": 0,
+        "applicable_days_of_month": [
+            2,
+            20
+        ]
     },
     {
         "id": "d-hsbc_easy_visa-1",
@@ -647,20 +520,15 @@
         ],
         "title_zh": "每月2、12、22日以已綁定到「易賞錢」App的滙豐easy信用卡/白金Visa卡簽賬滿$100可享92折",
         "title_en": "8% off upon $100 spending on 2, 12, 22 of every month with HSBC Easy Credit Card / Platinum Visa",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 100
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                2,
-                12,
-                22
-            ]
-        },
         "rewards": {
             "rate": 0.08
-        }
+        },
+        "min_spend": 100,
+        "applicable_days_of_month": [
+            2,
+            12,
+            22
+        ]
     },
     {
         "id": "d-hsbc_easy_visa-2",
@@ -672,19 +540,14 @@
         ],
         "title_zh": "每月8、18、28日以已綁定到「易賞錢」App的滙豐easy信用卡/白金Visa卡簽賬滿$400可享92折",
         "title_en": "8% off upon $400 spending on 8, 18, 28 of every month with HSBC Easy Credit Card / Platinum Visa",
-        "type": "percentage_discount",
-        "conditions": {
-            "min_spend": 400
-        },
-        "schedule": {
-            "applicable_days_of_month": [
-                8,
-                18,
-                28
-            ]
-        },
         "rewards": {
             "rate": 0.08
-        }
+        },
+        "min_spend": 400,
+        "applicable_days_of_month": [
+            8,
+            18,
+            28
+        ]
     }
 ]
