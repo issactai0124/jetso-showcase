@@ -1,0 +1,42 @@
+name: Daily RSS Fetch and AI Filter
+
+on:
+  schedule:
+    # 每天早上 9:00 和 下午 5:00 執行 (UTC 時間: 01:00 和 09:00)
+    - cron: '0 1,9 * * *'
+  workflow_dispatch: # 允許手動從按鈕觸發測試
+
+jobs:
+  fetch-and-filter:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 檢出儲存庫 (Checkout Repository)
+        uses: actions/checkout@v4
+
+      - name: 設定 Python 環境 (Setup Python)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安裝 Python 套件 (Install Dependencies)
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests google-generativeai python-dateutil setuptools
+
+      - name: 執行 RSS 爬取與 Gemini 分析 (Run Fetch Script)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/fetch_rss.py
+
+      - name: 確認是否有變更並提交 (Commit Changes if any)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/data/toaddlist.txt
+          git add assets/data/last_rss_time.txt
+          # 如果有新項目才 commit
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update toaddlist.txt for manual review"
+          git push
+        continue-on-error: true # 就算沒有變更也不要讓 Action 紅燈
