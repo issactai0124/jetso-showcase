@@ -12,3 +12,6 @@ title="稻香：指定分店 點心優惠"|shop="稻香"|payment="無"|min_spend
 title="759 阿信屋：今期勁筍推介（至15/3）"|shop="ERROR"|result=-1
 title="美心MX：肉燥豆腐燒味飯系列"|shop="ERROR"|result=-1
 title="OK 便利店：本週激筍（至8/3）"|shop="OK 便利店"|text="不符合會員專屬或特定支付方式要求"|result=0
+title="恆香老餅家：⽼婆餅節 消費送⼼形⽼婆餅（3/3、8/3、14/3、20/3）"|shop="恆香老餅家"|payment="伴侶形式同行"|min_spend=0|start_date="2024-03-03"|end_date="2024-03-20"|applicable_days_of_month="3,8,14,20"|text="指定日子（3/3、8/3、14/3、20/3）兩位顧客以伴侶形式同行，完成任何消費即可獲贈心形老婆餅一個"|result=1
+title="海港飲食：晚市優惠孖寶 / 蜜炙叉燒皇"|shop="海港飲食"|text="餐廳"|result=0
+title="麥當勞：全新 惹味東南亞系列 - 辣椒蟹醬煎蛋雞腿飽/南洋叻沙風味醬/冬蔭功風味Shake Shake粉/番石榴椰果梳打"|shop="麥當勞"|text="餐廳"|result=0
