@@ -1,1 +1,10 @@
-title="聖安娜餅屋：會員限定 優惠密密搶（1/3）"|shop="聖安娜餅屋"|payment="會員限定"|min_spend=0|rate=0.2|amt=4|start_date="2024-03-01"|end_date="2024-03-14"|applicable_days_of_month="1,15"|text="每月1日及15日上午10點領取$20減$4優惠券，每人可領2張"|result=1
+title="聖安娜餅屋：會員限定 優惠密密搶（1/3）"|shop="聖安娜餅屋"|payment="會員限定"|min_spend=0|rate=0.2|amt=4|start_date="2024-03-01"|end_date="2024-03-14"|applicable_days_of_month="1,15"|text="每月1日及15日上午10點領取$20減$4優惠券，每人可領2張"|result=1title="MTR Mobile：港鐵即時賞（2/3）"|shop="MTR Mobile"|payment="MTR即時賞"|text="不符合商店類型"|result=0
+title="萬寧：今日出位價（2/3）"|shop="萬寧"|payment="無"|min_spend="無"|rate="無"|amt="無"|start_date="無"|end_date="無"|applicable_days_of_week="無"|applicable_days_of_month="2"|text="不符合會員專屬優惠或特定支付方式要求"|result=0
+title="百佳超級市場最新優惠（2/3）"|shop="百佳超級市場"|text="內文片段未提供足夠資訊，無法判斷是否為會員專屬或特定支付方式優惠"|result=2
+title="7-Eleven：最新優惠（2/3）"|shop="7-Eleven"|payment="無"|min_spend="無"|rate=0|amt=0|start_date="2024-03-01"|end_date="2024-03-06"|applicable_days_of_week="1,2,3,4,5,6,7"|applicable_days_of_month="2,3,4,5,6"|text="買任何7-SELECT麵包1件，送淳茶舍冷萃茶500毫升(各款) 1支。此優惠為買一送一，並非會員專屬或特定支付方式優惠，且無最低消費要求，故不符合嚴格篩選條件。"|result=0
+title="惠康超級市場最新優惠（2/3）"|shop="惠康超級市場"|payment="會員"|min_spend=100|rate=0.1|start_date="2024-05-17"|end_date="2024-05-23"|applicable_days_of_week="1,2,3,4,5,6,7"|text="惠康超級市場會員於指定日期簽賬滿$100可享9折優惠"|result=1
+title="大家樂：早餐 魚湯肉絲銀針粉"|shop="大家樂"|text="餐廳"|result=0
+title="霸王茶姬：將軍澳PopCorn/元朗Yoho Mall店 開幕優惠（至5/3）"|shop="霸王茶姬"|payment="CHAGEE HK APP/小程序"|rate=0.5|start_date="2024-03-02"|end_date="2024-03-05"|applicable_days_of_week="2,3,4,5"|text="於3月2日至3月5日期間，每日上午11:17透過CHAGEE HK APP/小程序搶券，可享指定原葉鮮奶茶買一送一或免單優惠。"|result=0
+title="屈臣氏：+$1換購（至8/3）"|shop="ERROR"|result=-1
+title="南記粉麵：香港仔「艇仔粉」套餐 / 黑芝麻豆漿"|shop="南記粉麵"|text="餐廳"|result=0
+title="稻香：指定分店 點心優惠"|shop="稻香"|payment="無"|min_spend="無"|rate="無"|amt="無"|start_date="無"|end_date="無"|applicable_days_of_week="1,2,3,4,5"|applicable_days_of_month="無"|text="餐廳"|result=0
