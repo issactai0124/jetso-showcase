@@ -8,3 +8,5 @@ title="霸王茶姬：將軍澳PopCorn/元朗Yoho Mall店 開幕優惠（至5/3�
 title="屈臣氏：+$1換購（至8/3）"|shop="ERROR"|result=-1
 title="南記粉麵：香港仔「艇仔粉」套餐 / 黑芝麻豆漿"|shop="南記粉麵"|text="餐廳"|result=0
 title="稻香：指定分店 點心優惠"|shop="稻香"|payment="無"|min_spend="無"|rate="無"|amt="無"|start_date="無"|end_date="無"|applicable_days_of_week="1,2,3,4,5"|applicable_days_of_month="無"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至15/3）"|shop="ERROR"|result=-1
+title="美心MX：肉燥豆腐燒味飯系列"|shop="ERROR"|result=-1
