@@ -78,9 +78,6 @@ for entry in root.findall('atom:entry', ns):
         
     if last_processed_time is not None and entry_time <= last_processed_time:
         continue # 已經處理過的舊文章
-
-    if last_processed_time is not None and ensure_aware(dateutil.parser.parse('2026-02-28T18:00:00.001000+08:00')) <= entry_time:
-        continue
         
     title = entry.find('atom:title', ns).text
     summary = entry.find('atom:summary', ns)
