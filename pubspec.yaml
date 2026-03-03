@@ -41,6 +41,9 @@ dependencies:
     sdk: flutter
   shared_preferences: ^2.5.4
   json_annotation: ^4.11.0
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.10.0
+  flutter_timezone: ^3.0.1
 
 dev_dependencies:
   flutter_test:

@@ -5,9 +5,15 @@ import 'package:jetso_showcase/screens/main_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'theme/app_theme.dart';
 import 'providers/persistence_provider.dart';
+import 'services/notification_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  final notificationService = NotificationService();
+  await notificationService.init();
+  await notificationService.requestPermissions();
+
   final sharedPreferences = await SharedPreferences.getInstance();
 
   runApp(

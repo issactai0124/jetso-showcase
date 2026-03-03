@@ -2,10 +2,17 @@ import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/persistence_models.dart';
+import '../services/notification_service.dart';
+import 'data_provider.dart';
+import '../l10n/app_l10n.dart';
 
 // --- Shared Preferences Instance Provider ---
 final sharedPreferencesProvider = Provider<SharedPreferences>((ref) {
   throw UnimplementedError('Initialize this in main() overrides');
+});
+
+final notificationServiceProvider = Provider<NotificationService>((ref) {
+  return NotificationService();
 });
 
 // --- Settings Providers ---
@@ -180,6 +187,38 @@ class RemindersNotifier extends Notifier<List<AlarmReminder>> {
       jsonEncode(current.map((e) => e.toJson()).toList()),
     );
     state = current;
+
+    // Schedule notification
+    _scheduleNotification(reminder);
+  }
+
+  void _scheduleNotification(AlarmReminder reminder) {
+    final notificationService = ref.read(notificationServiceProvider);
+    final discounts = ref.read(discountsProvider);
+    final shops = ref.read(shopsProvider);
+    final l10n = ref.read(l10nProvider);
+
+    final discount = discounts.firstWhere(
+      (d) => d.id == reminder.discountId,
+      orElse: () => discounts.first,
+    );
+    final shop = shops.firstWhere(
+      (s) => s.id == reminder.shopId,
+      orElse: () => shops.first,
+    );
+
+    final title = l10n.trShopName(shop.nameZh, shop.nameEn);
+    final body = l10n.trDiscountTitle(discount.titleZh, discount.titleEn);
+
+    // Convert String ID to Int for local notifications
+    final intId = int.parse(reminder.id.substring(reminder.id.length - 9));
+
+    notificationService.scheduleNotification(
+      id: intId,
+      title: '優惠提醒: $title',
+      body: body,
+      scheduledDate: reminder.triggerTime,
+    );
   }
 
   void deleteReminder(String id) {
@@ -191,6 +230,11 @@ class RemindersNotifier extends Notifier<List<AlarmReminder>> {
       jsonEncode(current.map((e) => e.toJson()).toList()),
     );
     state = current;
+
+    // Cancel notification
+    final notificationService = ref.read(notificationServiceProvider);
+    final intId = int.parse(id.substring(id.length - 9));
+    notificationService.cancelNotification(intId);
   }
 }
 
