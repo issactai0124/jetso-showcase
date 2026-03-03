@@ -43,7 +43,6 @@ final userInputProvider = NotifierProvider<UserInputNotifier, UserInput>(() {
 enum DiscountMatchStatus {
   applicable,
   budgetNotMet,
-  notMember,
   missingPayment,
   individualProduct,
 }
@@ -104,24 +103,18 @@ List<CategorizedDiscount> _calculateApplicableDiscounts({
 
     // 5. Check Required Payments
     if (discount.requiredPaymentIds.isNotEmpty) {
-      bool hasRequiredPayment = discount.requiredPaymentIds.any(
-        (id) => selectedPayments.contains(id),
-      );
-      if (!hasRequiredPayment) {
-        // Determine if missing payment is a membership
-        bool isMembership = false;
-        for (var reqId in discount.requiredPaymentIds) {
-          try {
-            final pm = paymentMethods.firstWhere((p) => p.id == reqId);
-            if (pm.type == 'membership' || pm.type == 'identity') {
-              isMembership = true;
-              break;
-            }
-          } catch (_) {}
+      // Filter out the generic "member" tag. It is purely informational and doesn't require user selection.
+      final strictRequirements = discount.requiredPaymentIds
+          .where((id) => id != 'member')
+          .toList();
+
+      if (strictRequirements.isNotEmpty) {
+        bool hasStrictPayment = strictRequirements.any(
+          (id) => selectedPayments.contains(id),
+        );
+        if (!hasStrictPayment) {
+          currentStatus = DiscountMatchStatus.missingPayment;
         }
-        currentStatus = isMembership
-            ? DiscountMatchStatus.notMember
-            : DiscountMatchStatus.missingPayment;
       }
     }
 

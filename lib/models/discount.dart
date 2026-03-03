@@ -91,7 +91,9 @@ class Discount {
       titleEn: json['title_en'] ?? "",
       conditions: DiscountCondition.fromJson(json), // Pass the root json
       schedule: DiscountSchedule.fromJson(json), // Pass the root json
-      rewards: DiscountReward.fromJson(json['rewards'] ?? {}),
+      rewards: DiscountReward.fromJson(
+        json,
+      ), // Pass the root json instead of json['rewards']
       isProduct: json['is_product'] ?? false,
     );
   }

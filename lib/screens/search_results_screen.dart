@@ -300,17 +300,16 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
         );
       }
 
-      final isNegative =
-          title == l10n.catNotMember || title == l10n.catMissingPayment;
-      final borderColor = isNegative
+      final isDimmed = title == l10n.catMissingPayment;
+      final borderColor = isDimmed
           ? Theme.of(context).colorScheme.error.withValues(alpha: 0.5)
           : Theme.of(context).colorScheme.primary.withValues(alpha: 0.3);
 
-      final headerBgColor = isNegative
+      final headerBgColor = isDimmed
           ? Theme.of(context).colorScheme.error.withValues(alpha: 0.1)
           : Theme.of(context).colorScheme.primary.withValues(alpha: 0.1);
 
-      final headerTextColor = isNegative
+      final headerTextColor = isDimmed
           ? Theme.of(context).colorScheme.error
           : Theme.of(context).colorScheme.primary;
 
@@ -421,9 +420,6 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
             final budgetNotMet = items
                 .where((d) => d.status == DiscountMatchStatus.budgetNotMet)
                 .toList();
-            final notMember = items
-                .where((d) => d.status == DiscountMatchStatus.notMember)
-                .toList();
             final missingPayment = items
                 .where((d) => d.status == DiscountMatchStatus.missingPayment)
                 .toList();
@@ -474,7 +470,6 @@ class _SearchResultsScreenState extends ConsumerState<SearchResultsScreen> {
                       budgetNotMet,
                       date,
                     ),
-                    buildCategoryFlexbox(l10n.catNotMember, notMember, date),
                     buildCategoryFlexbox(
                       l10n.catMissingPayment,
                       missingPayment,

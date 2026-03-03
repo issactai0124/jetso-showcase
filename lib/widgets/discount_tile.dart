@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../models/discount.dart';
 import '../models/payment_method.dart';
 import '../models/shop.dart';
@@ -25,19 +26,28 @@ class DiscountTile extends StatelessWidget {
     this.showShopName = false,
   });
 
+  Future<void> _launchUrl(String urlString) async {
+    final Uri url = Uri.parse(urlString);
+    if (!await launchUrl(url)) {
+      // Could show a snackbar or log error here
+    }
+  }
+
   Color _getPaymentTypeColor(String type) {
     switch (type) {
       case 'e_wallet':
-        return Colors.teal.shade700;
+        return Colors.teal;
       case 'credit_card':
-        return Colors.amber.shade700;
+        return Colors.orange.shade800;
       case 'membership':
-        return Colors.indigo.shade700;
+        return Colors.blue.shade600;
+      case 'tag':
+        return Colors.purple.shade500;
       case 'identity':
       case 'octopus':
-        return Colors.red.shade700;
+        return Colors.pink.shade600;
       default:
-        return Colors.grey.shade800;
+        return Colors.blueGrey.shade500;
     }
   }
 
@@ -121,6 +131,43 @@ class DiscountTile extends StatelessWidget {
                                       Icons.help_outline,
                                       size: 10,
                                       color: pColor,
+                                    ),
+                                  ),
+                                ],
+                                if (pm.appUrl != null) ...[
+                                  const SizedBox(width: 4),
+                                  GestureDetector(
+                                    onTap: () => _launchUrl(pm.appUrl!),
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(
+                                        horizontal: 4,
+                                        vertical: 1,
+                                      ),
+                                      decoration: BoxDecoration(
+                                        color: pColor,
+                                        borderRadius: BorderRadius.circular(4),
+                                      ),
+                                      child: Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          const Icon(
+                                            Icons.open_in_new,
+                                            size: 8,
+                                            color: Colors.white,
+                                          ),
+                                          const SizedBox(width: 2),
+                                          Text(
+                                            pm.appUrl!.startsWith('http')
+                                                ? l10n.openWebsite
+                                                : l10n.openApp,
+                                            style: const TextStyle(
+                                              fontSize: 8,
+                                              color: Colors.white,
+                                              fontWeight: FontWeight.bold,
+                                            ),
+                                          ),
+                                        ],
+                                      ),
                                     ),
                                   ),
                                 ],

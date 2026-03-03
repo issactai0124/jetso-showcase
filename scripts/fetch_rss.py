@@ -6,11 +6,16 @@ from datetime import datetime, timezone
 import dateutil.parser
 import time
 
-# 強制控制台輸出為 UTF-8 以防中文亂碼
+# 強製控制台輸出為 UTF-8 並開啟 line_buffering 確保即時顯示
 if sys.platform == "win32":
     import io
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', line_buffering=True)
+else:
+    # 確保非 Windows 環境也能即時輸出
+    import sys
+    sys.stdout.reconfigure(line_buffering=True)
+
 
 # 忽略 deprecation warning
 import warnings
@@ -28,11 +33,13 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 # 使用穩定的模型名稱
 
-model = genai.GenerativeModel('gemini-2.5-flash-lite')
+model_lists = ["gemini-3-flash-preview", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
 
 # 取得上次處理時間
 last_processed_file = "assets/data/last_rss_time.txt"
+processed_ids_file = "assets/data/processed_rss_ids.txt"
 last_processed_time = None
+processed_ids = set()
 
 def ensure_aware(dt):
     if dt is None:
@@ -46,12 +53,21 @@ if os.path.exists(last_processed_file):
     with open(last_processed_file, "r") as f:
         ts_str = f.read().strip()
         if ts_str:
-            last_processed_time = ensure_aware(dateutil.parser.parse(ts_str))
+            try:
+                last_processed_time = ensure_aware(dateutil.parser.parse(ts_str))
+            except:
+                pass
+
+if os.path.exists(processed_ids_file):
+    with open(processed_ids_file, "r") as f:
+        processed_ids = set(line.strip() for line in f if line.strip())
 
 print(f"Last processed time: {last_processed_time}")
+print(f"Loaded {len(processed_ids)} processed IDs.")
 
 # 下載並解析 RSS (Atom)
 RSS_URL = "https://feeds2.feedburner.com/jetsoclub"
+
 req = urllib.request.Request(RSS_URL, headers={'User-Agent': 'Mozilla/5.0'})
 try:
     xml_data = urllib.request.urlopen(req).read()
@@ -66,23 +82,36 @@ new_entries = []
 latest_time_in_feed = last_processed_time
 
 for entry in root.findall('atom:entry', ns):
+    entry_id = entry.find('atom:id', ns).text
     published_node = entry.find('atom:published', ns)
     if published_node is None:
         continue
         
     entry_time = ensure_aware(dateutil.parser.parse(published_node.text))
     
-    # 找尋這批 feed 中最新的時間，留作下次的 last_processed_time
+    # 找尋這批 feed 中最新的時間
     if latest_time_in_feed is None or entry_time > latest_time_in_feed:
         latest_time_in_feed = entry_time
         
-    if last_processed_time is not None and entry_time <= last_processed_time:
-        continue # 已經處理過的舊文章
+    # 過濾條件：
+    # 1. 時間必須大於或等於上次處理的最新時間
+    # 2. 如果時間等於上次處理時間，則必須不在已處理 ID 列表中
+    if last_processed_time is not None:
+        if entry_time < last_processed_time:
+            continue
+        if entry_time == last_processed_time and entry_id in processed_ids:
+            continue
+    
+    # 額外保險：即便時間大於 last_processed_time，如果 ID 已經處理過也跳過
+    if entry_id in processed_ids:
+        continue
         
-    title = entry.find('atom:title', ns).text
+    title_node = entry.find('atom:title', ns)
+    title = title_node.text if title_node is not None else "No Title"
     summary = entry.find('atom:summary', ns)
     summary_text = summary.text if summary is not None else ""
-    new_entries.append({"title": title, "content": summary_text, "time": entry_time})
+    new_entries.append({"id": entry_id, "title": title, "content": summary_text, "time": entry_time})
+
 
 # 照時間排序（舊的優先處理，確保順序正確）
 new_entries.sort(key=lambda x: x["time"])
@@ -95,8 +124,7 @@ print(f"Found {len(new_entries)} new entries. Sending to Gemini for analysis...\
 
 # Gemini 分析邏輯
 system_instruction = """
-你是一個嚴格的優惠分析員。你的任務是過濾香港的優惠貼文：
-
+你是一個嚴格的優惠分析員。你的任務是過濾香港的優惠貼文。
 針對每一項貼文，請盡量填寫以下資訊：
 shop=商店名
 payment=支付方法/會員/身份(如長者)
@@ -107,6 +135,8 @@ start_date=優惠開始日期 (格式 yyyy-MM-dd)
 end_date=優惠完結日期 (格式 yyyy-MM-dd)
 applicable_days_of_week=每周星期幾適用 (例如: 1,2,3)
 applicable_days_of_month=每月適用日子 (例如: 2,20)
+
+請以雙引號包圍所有欄位的字串，例如 shop="AEON"，但數字不需要包圍
 
 然後以下列原因分析是否過濾：
 【必須接受的條件】
@@ -133,9 +163,7 @@ shop="譚仔雲南米線"|text="餐廳"|result=0
 os.makedirs("assets/data", exist_ok=True)
 toaddlist_path = "assets/data/toaddlist.txt"
 
-# 附加模式打開檔案 (append)
-retry_delay = 60 # 當配額用完時等待秒數
-
+current_model_idx = 0
 with open(toaddlist_path, "a", encoding="utf-8") as f:
     for i, entry in enumerate(new_entries, 1):
         prompt = f"請分析以下貼文：\n標題：{entry['title']}\n內文片段：{entry['content']}"
@@ -143,8 +171,11 @@ with open(toaddlist_path, "a", encoding="utf-8") as f:
         print(f"標題: {entry['title']}")
         
         success = False
-        for attempt in range(2): # 最多嘗試 2 次
+        while current_model_idx < len(model_lists):
+            model_name = model_lists[current_model_idx]
+            print(f"嘗試使用模型: {model_name}")
             try:
+                model = genai.GenerativeModel(model_name)
                 response = model.generate_content(
                     f"{system_instruction}\n\n{prompt}",
                     generation_config=genai.types.GenerationConfig(temperature=0.1)
@@ -156,20 +187,19 @@ with open(toaddlist_path, "a", encoding="utf-8") as f:
                 break
             except Exception as e:
                 error_msg = str(e)
-                if "429" in error_msg or "quota" in error_msg.lower() or "ResourceExhausted" in error_msg:
-                    if attempt == 0:
-                        print(f"⚠️ 配額達到上限 (Quota Exceeded)。等待 {retry_delay} 秒後重試...")
-                        time.sleep(retry_delay)
-                        continue
-                
-                print(f"❌ AI 請求失敗: {e}\n")
-                break # 其他錯誤或重試後仍失敗則跳過
+                print(f"❌ 模型 {model_name} 請求失敗: {error_msg}")
+                current_model_idx += 1
+                # 之後的項目會從新的 current_model_idx 開始嘗試
+                continue
         
         if not success:
-            f.write(f'title="{entry["title"]}"|shop="ERROR"|result=-1\n')
+            print("🛑 所有模型均已嘗試且失敗，程序終止。")
+            sys.exit(1)
+
             
         # 每一筆之間的基本間隔，避免過快觸發限制
-        time.sleep(10)
+        time.sleep(30)
+
 
 # 所有處理完成後，更新 last_processed_time
 if latest_time_in_feed:
@@ -177,4 +207,17 @@ if latest_time_in_feed:
         f.write(latest_time_in_feed.isoformat())
     print(f"Updated last processed time to: {latest_time_in_feed.isoformat()}")
 
+# 儲存最近處理過的 ID (保留最後 500 個)
+all_ids = list(processed_ids)
+for entry in new_entries:
+    if entry["id"] not in all_ids:
+        all_ids.append(entry["id"])
+        
+with open(processed_ids_file, "w") as f:
+    # 只保留最後 100 個 unique ID
+    for eid in all_ids[-100:]:
+        f.write(f"{eid}\n")
+print(f"Updated processed IDs (total: {len(all_ids[-100:])})")
+
 print("分析完成。")
+

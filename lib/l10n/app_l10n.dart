@@ -43,7 +43,6 @@ class AppL10n {
   String get catApplicable => isEn ? 'Applicable Deals' : '符合條件優惠';
   String get catBudgetNotMet =>
       isEn ? 'Budget Requirement Not Met' : '預算未達簽帳要求';
-  String get catNotMember => isEn ? 'Membership Required' : '未加入會員';
   String get catMissingPayment => isEn ? 'Missing Payment Method' : '未持有相關支付方法';
   String get catIndividualProduct =>
       isEn ? 'Individual Product Deals' : '個別產品優惠';
@@ -61,7 +60,7 @@ class AppL10n {
       ? 'Saved "$shopName (Budget: $budget)" to presets'
       : '已把「$shopName (預算：$budget)」儲存至預設搜尋';
   String get minSpendTitle =>
-      isEn ? 'Min Spend Requirement: HK\$' : '簽帳要求: HK\$';
+      isEn ? 'Min Spend Requirement: HK\$' : '消費要求: HK\$';
 
   // Discount item
   String get minSpendPrefix => isEn ? 'Min Spend: HK\$' : '需要最低消費: HK\$';
@@ -118,6 +117,7 @@ class AppL10n {
   String get creditCards => isEn ? 'Credit Cards' : '信用卡';
   String get memberships => isEn ? 'Memberships' : '會員';
   String get identities => isEn ? 'Identity / Eligibility' : '身份';
+  String get platformMember => isEn ? 'Member / Platform' : '會員/平台';
   String get others => isEn ? 'Others' : '其他';
 
   // Dialogs
@@ -125,14 +125,31 @@ class AppL10n {
       isEn ? 'Set alarm for\n$title' : '設定提醒\n$title';
   String get savedToReminders => isEn ? 'Saved to Reminders!' : '已加入提醒！';
 
-  // Shop Categories
-  String get catSupermarket => isEn ? 'Supermarket' : '大型超市';
-  String get catConvenience => isEn ? 'Convenience Store' : '便利店';
-  String get catHealth => isEn ? 'Health & Beauty' : '健康美容';
-  String get catBakery => isEn ? 'Bakery' : '餅店';
-  String get catFood => isEn ? 'Food' : '食品';
-  String get catBeverage => isEn ? 'Beverage' : '飲品';
-  // String get catSeafood => isEn ? 'Dried Seafood' : '海味乾貨';
+  // Shop Categories (Main)
+  String get catSupermarketConvenience =>
+      isEn ? 'Supermarket & Convenience' : '超市便利';
+  String get catCoffeeTea => isEn ? 'Coffee & Tea' : '休閒飲品';
+  String get catBakeryDessert => isEn ? 'Bakery & Desserts' : '餅店甜品';
+  String get catGroceryFresh => isEn ? 'Grocery & Fresh' : '食品食材';
+  String get catLifestyleHealth => isEn ? 'Lifestyle & Health' : '生活健康';
+
+  // Shop Sub-Categories
+  String get subCatLargeSuper => isEn ? 'Supermarket' : '大型超市';
+  String get subCatConvenience => isEn ? 'Convenience' : '便利店';
+  String get subCatCoffeeLight => isEn ? 'Coffee & Light Meal' : '咖啡輕食';
+  String get subCatTeaDrink => isEn ? 'Tea & Drinks' : '手調茶飲';
+  String get subCatChainBakery => isEn ? 'Bakery' : '連鎖餅坊';
+  String get subCatExquisiteDessert => isEn ? 'Desserts' : '精緻甜品';
+  String get subCatChineseBakery => isEn ? 'Pastries' : '中式禮餅';
+  String get subCatSnacks => isEn ? 'Snacks' : '零食糧油';
+  String get subCatFresh => isEn ? 'Fresh' : '生鮮食材';
+  String get subCatHealthSupp => isEn ? 'Supplements' : '健康補品';
+  String get subCatBeauty => isEn ? 'Beauty & Care' : '藥粧護理';
+  String get subCatLiving => isEn ? 'Living' : '生活百貨';
+
+  String get openApp => isEn ? 'Open App' : '開啟 App';
+  String get openWebsite => isEn ? 'Open Site' : '開啟網頁';
+
   String get catOther => isEn ? 'Other' : '其他';
 
   // Locale translation helpers

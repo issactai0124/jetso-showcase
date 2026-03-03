@@ -7,17 +7,15 @@
         "required_payment_ids": [
             "enjoy_card"
         ],
-        "title_zh": "每月3、13、23日以恒生enJoy卡簽帳滿$100可享92折",
+        "title_zh": "每月3、13、23日以恒生enJoy卡買滿$100可享92折",
         "title_en": "8% off upon $100 spending on 3, 13, 23 of every month",
-        "rewards": {
-            "rate": 0.08
-        },
         "min_spend": 100,
         "applicable_days_of_month": [
             3,
             13,
             23
-        ]
+        ],
+        "rate": 0.08
     },
     {
         "id": "d-enjoy_card-2",
@@ -27,16 +25,13 @@
         "required_payment_ids": [
             "enjoy_card"
         ],
-        "title_zh": "每月1、20日以恒生enJoy卡簽帳可享94折",
+        "title_zh": "每月1、20日以恒生enJoy卡支付可享94折",
         "title_en": "6% off on 1, 20 of every month",
-        "rewards": {
-            "rate": 0.06
-        },
-        "min_spend": 0,
         "applicable_days_of_month": [
             1,
             20
-        ]
+        ],
+        "rate": 0.06
     },
     {
         "id": "d-enjoy_card-3",
@@ -46,16 +41,13 @@
         "required_payment_ids": [
             "enjoy_card"
         ],
-        "title_zh": "每月8、18日以恒生enJoy卡簽帳可享95折",
+        "title_zh": "每月8、18日以恒生enJoy卡支付可享95折",
         "title_en": "5% off on 8, 18 of every month",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_month": [
             8,
             18
-        ]
+        ],
+        "rate": 0.05
     },
     {
         "id": "d-joy_you_card-1",
@@ -67,13 +59,10 @@
         ],
         "title_zh": "逢星期三自家品牌（Meadows、御品皇等）產品可享9折",
         "title_en": "10% off exclusive brands",
-        "rewards": {
-            "rate": 0.1
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             3
-        ]
+        ],
+        "rate": 0.1
     },
     {
         "id": "d-enjoy_card-4",
@@ -83,11 +72,8 @@
         "required_payment_ids": [
             "enjoy_card"
         ],
-        "title_zh": "逢星期日以恒生enJoy卡簽帳滿$100可獲贈一杯中杯裝手調飲品",
+        "title_zh": "逢星期日以恒生enJoy卡買滿$100可獲贈一杯中杯裝手調飲品",
         "title_en": "Buy a handcrafted beverage or food item over $100 and get a complimentary medium handcrafted beverage",
-        "rewards": {
-            "amount": 0
-        },
         "min_spend": 100,
         "applicable_days_of_week": [
             0
@@ -103,12 +89,10 @@
         ],
         "title_zh": "以15,000yuu分換取$80現金券",
         "title_en": "Redeem $80 voucher with 15,000 yuu points",
-        "rewards": {
-            "amount": 5
-        },
         "min_spend": 80,
         "start_date": "2026-02-20",
-        "end_date": "2026-03-05"
+        "end_date": "2026-03-05",
+        "amount": 5
     },
     {
         "id": "d-yuu-2",
@@ -120,12 +104,10 @@
         ],
         "title_zh": "以30,000yuu分換取$165現金券",
         "title_en": "Redeem $165 voucher with 30,000 yuu points",
-        "rewards": {
-            "amount": 15
-        },
         "min_spend": 165,
         "start_date": "2026-02-20",
-        "end_date": "2026-03-05"
+        "end_date": "2026-03-05",
+        "amount": 15
     },
     {
         "id": "d-aplus_rewards-1",
@@ -137,10 +119,8 @@
         ],
         "title_zh": "於A+ Rewards以$48.7購買$50現金券",
         "title_en": "Buy $50 voucher for $48.7 at A+ Rewards",
-        "rewards": {
-            "amount": 1.3
-        },
-        "min_spend": 50
+        "min_spend": 50,
+        "amount": 1.3
     },
     {
         "id": "d-aplus_rewards-2",
@@ -152,10 +132,8 @@
         ],
         "title_zh": "於A+ Rewards以$97.5購買$100現金券",
         "title_en": "Buy $100 voucher for $97.5 at A+ Rewards",
-        "rewards": {
-            "amount": 2.5
-        },
-        "min_spend": 100
+        "min_spend": 100,
+        "amount": 2.5
     },
     {
         "id": "d-aplus_rewards-3",
@@ -167,10 +145,8 @@
         ],
         "title_zh": "於A+ Rewards以$9.5購買$10現金券",
         "title_en": "Buy $10 voucher for $9.5 at A+ Rewards",
-        "rewards": {
-            "amount": 0.5
-        },
-        "min_spend": 10
+        "min_spend": 10,
+        "amount": 0.5
     },
     {
         "id": "d-joy_you_card-2",
@@ -182,13 +158,10 @@
         ],
         "title_zh": "逢星期三自家品牌（超值牌、佳之選、金御膳）產品可享9折",
         "title_en": "10% off exclusive brands with Joy You Card",
-        "rewards": {
-            "rate": 0.1
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             3
-        ]
+        ],
+        "rate": 0.1
     },
     {
         "id": "d-joy_you_card-7",
@@ -200,13 +173,10 @@
         ],
         "title_zh": "逢星期二自家品牌（mannings或mannings Guardian）單件產品可享85折",
         "title_en": "15% off own brand products with Joy You Card",
-        "rewards": {
-            "rate": 0.15
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             2
-        ]
+        ],
+        "rate": 0.15
     },
     {
         "id": "d-joy_you_card-8",
@@ -214,17 +184,15 @@
             "hktvmall"
         ],
         "required_payment_ids": [
-            "joy_you_card"
+            "joy_you_card",
+            "member"
         ],
         "title_zh": "長者會會員逢星期三於簡易版網購輸入優惠碼「SENIOR95」可享95折",
         "title_en": "5% off on HKTVmall Lite app for members on Wednesdays with code SENIOR95",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             3
-        ]
+        ],
+        "rate": 0.05
     },
     {
         "id": "d-joy_you_card-9",
@@ -236,10 +204,8 @@
         ],
         "title_zh": "於HKTVmall門市單價$15或以上的貨品可享$2優惠",
         "title_en": "$2 off on items ≥$15 at HKTVmall retail stores with Joy You Card",
-        "rewards": {
-            "amount": 2
-        },
-        "min_spend": 15
+        "min_spend": 15,
+        "amount": 2
     },
     {
         "id": "d-joy_you_card-10",
@@ -251,13 +217,10 @@
         ],
         "title_zh": "逢星期二指定自家品牌產品（Familie、PANDO、Kalbarri）可享95折",
         "title_en": "5% off exclusive brands with Joy You Card",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             2
-        ]
+        ],
+        "rate": 0.05
     },
     {
         "id": "d-best360_gold-1",
@@ -265,19 +228,17 @@
             "best360"
         ],
         "required_payment_ids": [
-            "best360_gold"
+            "member"
         ],
         "title_zh": "每月1、11、21日金卡會員滿$120可享95折",
         "title_en": "5% off upon $120 spending with Best360 Gold",
-        "rewards": {
-            "rate": 0.05
-        },
         "min_spend": 120,
         "applicable_days_of_month": [
             1,
             11,
             21
-        ]
+        ],
+        "rate": 0.05
     },
     {
         "id": "d-best360_member-1",
@@ -285,12 +246,10 @@
             "best360"
         ],
         "required_payment_ids": [
-            "best360_member",
-            "best360_gold"
+            "member"
         ],
         "title_zh": "逢星期一會員可享雙倍積分",
         "title_en": "Double points every Monday with Best360",
-        "min_spend": 0,
         "applicable_days_of_week": [
             1
         ]
@@ -301,14 +260,11 @@
             "759store"
         ],
         "required_payment_ids": [
-            "759_member"
+            "member"
         ],
         "title_zh": "會員可享77折",
         "title_en": "23% off with 759 members",
-        "rewards": {
-            "rate": 0.23
-        },
-        "min_spend": 0
+        "rate": 0.23
     },
     {
         "id": "d-joy_you_card-12",
@@ -320,10 +276,7 @@
         ],
         "title_zh": "電話卡及特價貨品以外產品可享9折",
         "title_en": "10% off regular-priced items (excluding SIM cards) with Joy You Card",
-        "rewards": {
-            "rate": 0.1
-        },
-        "min_spend": 0
+        "rate": 0.1
     },
     {
         "id": "d-joy_you_card-13",
@@ -335,10 +288,7 @@
         ],
         "title_zh": "任何原價產品可享92折",
         "title_en": "8% off regular-priced products with Joy You Card",
-        "rewards": {
-            "rate": 0.08
-        },
-        "min_spend": 0
+        "rate": 0.08
     },
     {
         "id": "d-joy_you_card-14",
@@ -350,11 +300,8 @@
         ],
         "title_zh": "任何標準價產品可享9折",
         "title_en": "10% off regular-priced products with Joy You Card",
-        "rewards": {
-            "rate": 0.1
-        },
-        "min_spend": 0,
-        "end_date": "2026-12-31"
+        "end_date": "2026-12-31",
+        "rate": 0.1
     },
     {
         "id": "d-joy_you_card-15",
@@ -366,14 +313,11 @@
         ],
         "title_zh": "每月28日可享95折",
         "title_en": "5% off with Joy You Card on the 28th of every month",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_month": [
             28
         ],
-        "end_date": "2026-03-28"
+        "end_date": "2026-03-28",
+        "rate": 0.05
     },
     {
         "id": "d-joy_you_card-17",
@@ -385,13 +329,10 @@
         ],
         "title_zh": "逢星期二一般商品可享95折",
         "title_en": "5% off regular products with Joy You Card",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             2
-        ]
+        ],
+        "rate": 0.05
     },
     {
         "id": "d-joy_you_card-18",
@@ -403,43 +344,10 @@
         ],
         "title_zh": "逢星期二廣告商品可享98折",
         "title_en": "2% off promotional products with Joy You Card",
-        "rewards": {
-            "rate": 0.02
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             2
-        ]
-    },
-    {
-        "id": "d-joy_you_card-19",
-        "shop_ids": [
-            "zoff"
         ],
-        "required_payment_ids": [
-            "joy_you_card"
-        ],
-        "title_zh": "正價眼鏡可享85折",
-        "title_en": "15% off regular-priced glasses with Joy You Card",
-        "rewards": {
-            "rate": 0.15
-        },
-        "min_spend": 0
-    },
-    {
-        "id": "d-joy_you_card-20",
-        "shop_ids": [
-            "cherry"
-        ],
-        "required_payment_ids": [
-            "joy_you_card"
-        ],
-        "title_zh": "可享9折",
-        "title_en": "10% off with Joy You Card",
-        "rewards": {
-            "rate": 0.1
-        },
-        "min_spend": 0
+        "rate": 0.02
     },
     {
         "id": "d-payme-1",
@@ -449,13 +357,11 @@
         "required_payment_ids": [
             "payme"
         ],
-        "title_zh": "領券後即日以Payme支付滿$40可享$4優惠",
+        "title_zh": "領券後即日以Payme買滿$40可享$4優惠",
         "title_en": "$4 off upon $40 spending with Payme",
-        "rewards": {
-            "amount": 4
-        },
         "min_spend": 40,
-        "end_date": "2026-02-28"
+        "end_date": "2026-02-28",
+        "amount": 4
     },
     {
         "id": "d-compass_visa-1",
@@ -479,17 +385,15 @@
         "required_payment_ids": [
             "compass_visa"
         ],
-        "title_zh": "逢星期三以DBS COMPASS VISA簽帳滿$300可享高達8% COMPASS Dollar回贈",
+        "title_zh": "逢星期三以DBS COMPASS VISA買滿$300可享高達8% COMPASS Dollar回贈",
         "title_en": "Up to 8% COMPASS Dollar rebate upon $300 single net spending at supermarkets with DBS Compass Visa",
-        "rewards": {
-            "rate": 0.08
-        },
         "min_spend": 300,
         "start_date": "2026-01-07",
         "end_date": "2026-05-27",
         "applicable_days_of_week": [
             3
-        ]
+        ],
+        "rate": 0.08
     },
     {
         "id": "d-aeon_card-1",
@@ -499,16 +403,13 @@
         "required_payment_ids": [
             "aeon_card"
         ],
-        "title_zh": "每月2、20日以AEON信用卡簽帳可享95折",
+        "title_zh": "每月2、20日以AEON信用卡支付可享95折",
         "title_en": "5% off on 2, 20 of every month with Aeon Card",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_month": [
             2,
             20
-        ]
+        ],
+        "rate": 0.05
     },
     {
         "id": "d-hsbc_easy_visa-1",
@@ -520,15 +421,13 @@
         ],
         "title_zh": "每月2、12、22日以已綁定到「易賞錢」App的滙豐easy信用卡/白金Visa卡簽賬滿$100可享92折",
         "title_en": "8% off upon $100 spending on 2, 12, 22 of every month with HSBC Easy Credit Card / Platinum Visa",
-        "rewards": {
-            "rate": 0.08
-        },
         "min_spend": 100,
         "applicable_days_of_month": [
             2,
             12,
             22
-        ]
+        ],
+        "rate": 0.08
     },
     {
         "id": "d-hsbc_easy_visa-2",
@@ -540,14 +439,1099 @@
         ],
         "title_zh": "每月8、18、28日以已綁定到「易賞錢」App的滙豐easy信用卡/白金Visa卡簽賬滿$400可享92折",
         "title_en": "8% off upon $400 spending on 8, 18, 28 of every month with HSBC Easy Credit Card / Platinum Visa",
-        "rewards": {
-            "rate": 0.08
-        },
         "min_spend": 400,
         "applicable_days_of_month": [
             8,
             18,
             28
+        ],
+        "rate": 0.08
+    },
+    {
+        "id": "d-member-11808",
+        "shop_ids": [
+            "sthonore"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "每月1、15日上午10時起Cake Easy會員可領優惠券，憑券可享$2優惠",
+        "title_en": "Get $2 vouncher on 1, 15 after 10 AM 1, 15 of every month for Cake Easy Members",
+        "amount": 2,
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31",
+        "applicable_days_of_month": [
+            1,
+            15
         ]
+    },
+    {
+        "id": "d-member-52153",
+        "shop_ids": [
+            "sthonore"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "每月1、15日上午10時起Cake Easy會員可領優惠券，憑券買滿$20可享$4優惠",
+        "title_en": "Get $4 voucher upon $20 spending on 1, 15 after 10 AM 1, 15 of every month for Cake Easy Members",
+        "amount": 4,
+        "min_spend": 20,
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31",
+        "applicable_days_of_month": [
+            1,
+            15
+        ]
+    },
+    {
+        "id": "d-payme-59218",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "payme"
+        ],
+        "title_zh": "領券後即日以Payme買滿$40可享$5優惠",
+        "title_en": "$5 off upon $40 spending with Payme",
+        "amount": 5,
+        "min_spend": 40,
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-payme-62134",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "payme"
+        ],
+        "title_zh": "領券後即日以Payme買滿$200可享$15優惠",
+        "title_en": "$15 off upon $200 spending with Payme",
+        "amount": 15,
+        "min_spend": 200,
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-payme-88123",
+        "shop_ids": [
+            "ladym"
+        ],
+        "required_payment_ids": [
+            "payme"
+        ],
+        "title_zh": "領券後即日以Payme買滿$150可享$15優惠",
+        "title_en": "$15 off upon $150 spending at Lady M with Payme",
+        "amount": 15,
+        "min_spend": 150,
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-openrice-92649",
+        "shop_ids": [
+            "ladym"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$47.5購買$50禮券",
+        "title_en": "Buy $50 Voucher for $47.5 in OpenRice",
+        "min_spend": 50.0,
+        "amount": 2.5,
+        "start_date": "2025-12-22",
+        "end_date": "2026-08-31"
+    },
+    {
+        "id": "d-member-22415",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "易賞錢會員買滿$150出示優惠碼可享95折",
+        "title_en": "5% off upon $150 spending for MoneyBack members",
+        "rate": 0.05,
+        "min_spend": 150,
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-11234",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$19購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $19 in A+ Rewards",
+        "amount": 1,
+        "min_spend": 20,
+        "start_date": "2026-01-26",
+        "end_date": "2026-10-09"
+    },
+    {
+        "id": "d-aplus_rewards-11235",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$48購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $48 in A+ Rewards",
+        "amount": 2,
+        "min_spend": 50,
+        "start_date": "2026-01-26",
+        "end_date": "2026-10-09"
+    },
+    {
+        "id": "d-aplus_rewards-11236",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$96購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $96 in A+ Rewards",
+        "amount": 4,
+        "min_spend": 100,
+        "start_date": "2026-01-26",
+        "end_date": "2026-10-09"
+    },
+    {
+        "id": "d-aplus_rewards-22345",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$48.5購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $48.5 in A+ Rewards",
+        "amount": 1.5,
+        "min_spend": 50,
+        "start_date": "2025-11-21",
+        "end_date": "2026-10-31"
+    },
+    {
+        "id": "d-aplus_rewards-22346",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$97購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $97 in A+ Rewards",
+        "amount": 3,
+        "min_spend": 100,
+        "start_date": "2026-01-16",
+        "end_date": "2027-01-31"
+    },
+    {
+        "id": "d-aplus_rewards-22347",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$194購買$200現金券",
+        "title_en": "Buy $200 Cash Voucher for $194 in A+ Rewards",
+        "amount": 6,
+        "min_spend": 200,
+        "start_date": "2025-10-24",
+        "end_date": "2026-10-31"
+    },
+    {
+        "id": "d-aplus_rewards-22348",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$475購買$500現金券",
+        "title_en": "Buy $500 Cash Voucher for $475 in A+ Rewards",
+        "amount": 25,
+        "min_spend": 500,
+        "start_date": "2025-10-24",
+        "end_date": "2026-10-31"
+    },
+    {
+        "id": "d-aplus_rewards-33456",
+        "shop_ids": [
+            "starbucks"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$19.5購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $19.5 in A+ Rewards",
+        "amount": 0.5,
+        "min_spend": 20
+    },
+    {
+        "id": "d-aplus_rewards-44567",
+        "shop_ids": [
+            "starbucks",
+            "maxims",
+            "arome"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$19.6購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $19.6 in A+ Rewards",
+        "amount": 0.4,
+        "min_spend": 20
+    },
+    {
+        "id": "d-aplus_rewards-44568",
+        "shop_ids": [
+            "starbucks",
+            "maxims",
+            "arome"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$48.5購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $48.5 in A+ Rewards",
+        "amount": 1.5,
+        "min_spend": 50
+    },
+    {
+        "id": "d-aplus_rewards-44569",
+        "shop_ids": [
+            "starbucks",
+            "maxims",
+            "arome"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$98購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $98 in A+ Rewards",
+        "amount": 2,
+        "min_spend": 100
+    },
+    {
+        "id": "d-aplus_rewards-55678",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$49購買$50禮品卡",
+        "title_en": "Buy $50 Gift Card for $49 in A+ Rewards",
+        "amount": 1,
+        "min_spend": 50,
+        "start_date": "2026-02-13",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-aplus_rewards-55679",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$98購買$100禮品卡",
+        "title_en": "Buy $100 Gift Card for $98 in A+ Rewards",
+        "amount": 2,
+        "min_spend": 100,
+        "start_date": "2026-02-13",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-aplus_rewards-55680",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$147購買$150禮品卡",
+        "title_en": "Buy $150 Gift Card for $147 in A+ Rewards",
+        "amount": 3,
+        "min_spend": 150,
+        "start_date": "2026-02-27",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-55681",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$195購買$200禮品卡",
+        "title_en": "Buy $200 Gift Card for $195 in A+ Rewards",
+        "amount": 5,
+        "min_spend": 200,
+        "start_date": "2026-02-27",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-55682",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$295購買$300禮品卡",
+        "title_en": "Buy $300 Gift Card for $295 in A+ Rewards",
+        "amount": 5,
+        "min_spend": 300,
+        "start_date": "2026-02-27",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-55683",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$394購買$400禮品卡",
+        "title_en": "Buy $400 Gift Card for $394 in A+ Rewards",
+        "amount": 6,
+        "min_spend": 400,
+        "start_date": "2026-02-27",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-55684",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$490購買$500禮品卡",
+        "title_en": "Buy $500 Gift Card for $490 in A+ Rewards",
+        "amount": 10,
+        "min_spend": 500,
+        "start_date": "2026-01-12",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-aplus_rewards-55685",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$589購買$600禮品卡",
+        "title_en": "Buy $600 Gift Card for $589 in A+ Rewards",
+        "amount": 11,
+        "min_spend": 600,
+        "start_date": "2026-02-27",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-55686",
+        "shop_ids": [
+            "hktvmall"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$689購買$700禮品卡",
+        "title_en": "Buy $700 Gift Card for $689 in A+ Rewards",
+        "amount": 11,
+        "min_spend": 700,
+        "start_date": "2026-02-27",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-aplus_rewards-66789",
+        "shop_ids": [
+            "best360"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$96購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $96 in A+ Rewards",
+        "amount": 4,
+        "min_spend": 100,
+        "start_date": "2026-02-24",
+        "end_date": "2027-03-24"
+    },
+    {
+        "id": "d-aplus_rewards-77890",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$12購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $12 in A+ Rewards",
+        "amount": 8,
+        "min_spend": 20,
+        "start_date": "2026-01-24",
+        "end_date": "2027-01-31"
+    },
+    {
+        "id": "d-aplus_rewards-77891",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$38購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $38 in A+ Rewards",
+        "amount": 12,
+        "min_spend": 50,
+        "start_date": "2026-02-27",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-aplus_rewards-99012",
+        "shop_ids": [
+            "haagendazs"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$47購買$50禮券",
+        "title_en": "Buy $50 Voucher for $47 in A+ Rewards",
+        "amount": 3,
+        "min_spend": 50
+    },
+    {
+        "id": "d-klook-81719",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$86購買兩張$50現金券",
+        "title_en": "Buy 2x $50 Cash Voucher for $86 in Klook",
+        "min_spend": 50.0,
+        "amount": 7.0,
+        "start_date": "2025-05-12",
+        "end_date": "2026-11-15"
+    },
+    {
+        "id": "d-klook-51508",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$23購買$25現金券",
+        "title_en": "Buy $25 Cash Voucher for $23 in Klook",
+        "min_spend": 25.0,
+        "amount": 2.0,
+        "start_date": "2026-01-02",
+        "end_date": "2027-06-30"
+    },
+    {
+        "id": "d-klook-99073",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$45購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $45 in Klook",
+        "min_spend": 50.0,
+        "amount": 5.0,
+        "start_date": "2026-01-02",
+        "end_date": "2027-06-30"
+    },
+    {
+        "id": "d-klook-12871",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$172購買4張$50現金券",
+        "title_en": "Buy 4x $50 Cash Vouchers for $172 in Klook",
+        "min_spend": 40.0,
+        "amount": 7.0,
+        "start_date": "2026-01-02",
+        "end_date": "2027-06-30"
+    },
+    {
+        "id": "d-klook-79479",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$36購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $36 in Klook",
+        "min_spend": 50.0,
+        "amount": 14.0,
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-klook-95406",
+        "shop_ids": [
+            "mrsfields"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$45購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $45 in Klook",
+        "min_spend": 50.0,
+        "amount": 5.0,
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-openrice-66392",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$36購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $36 in OpenRice",
+        "min_spend": 50.0,
+        "amount": 14.0,
+        "start_date": "2026-01-16",
+        "end_date": "2027-01-31"
+    },
+    {
+        "id": "d-openrice-66393",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$328購買11張$50現金券",
+        "title_en": "Buy 11x $50 Cash Vouchers for $328 in OpenRice",
+        "min_spend": 50.0,
+        "amount": 20.1,
+        "start_date": "2026-02-12",
+        "end_date": "2026-08-31"
+    },
+    {
+        "id": "d-openrice-32958",
+        "shop_ids": [
+            "tenren"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$22購買$25現金券",
+        "title_en": "Buy $25 Cash Voucher for $22 in OpenRice",
+        "amount": 3.0,
+        "start_date": "2026-02-04",
+        "end_date": "2026-10-31"
+    },
+    {
+        "id": "d-openrice-42613",
+        "shop_ids": [
+            "mrsfields"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$45購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $45 in OpenRice",
+        "min_spend": 50.0,
+        "amount": 5.0,
+        "start_date": "2026-01-01",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-kkday-67857",
+        "shop_ids": [
+            "sthonore"
+        ],
+        "required_payment_ids": [
+            "kkday"
+        ],
+        "title_zh": "於kkday以$21購買$25現金券",
+        "title_en": "Buy $25 Cash Voucher for $21 in KKday",
+        "amount": 4.0,
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-kkday-25891",
+        "shop_ids": [
+            "sthonore"
+        ],
+        "required_payment_ids": [
+            "kkday"
+        ],
+        "title_zh": "於kkday以$40購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $40 in KKday",
+        "amount": 10.0,
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-kkday-93650",
+        "shop_ids": [
+            "hangheung"
+        ],
+        "required_payment_ids": [
+            "kkday"
+        ],
+        "title_zh": "於kkday以$45購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $45 in KKday",
+        "amount": 5.0,
+        "start_date": "2025-12-15",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-kkday-93651",
+        "shop_ids": [
+            "chungkee"
+        ],
+        "required_payment_ids": [
+            "kkday"
+        ],
+        "title_zh": "於kkday以$40購買$50現金券（觀塘/佐敦店晚上8時前限定）",
+        "title_en": "Buy $50 Cash Voucher for $40 in KKday (Kwun Tong/Jordan store before 8pm)",
+        "amount": 10.0,
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-20408",
+        "shop_ids": [
+            "tenren"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$22.5購買$25現金券（一田、誠品、UNY、LAB Concept、AEON、SOGO及指定專櫃門市除外）",
+        "title_en": "Buy $25 Cash Voucher for $22.5 in RewardBuy",
+        "min_spend": 25.0,
+        "amount": 2.5,
+        "start_date": "2025-10-13",
+        "end_date": "2026-05-06"
+    },
+    {
+        "id": "d-rewardbuy-42282",
+        "shop_ids": [
+            "cuppingroom"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$48購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $48 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 2.0,
+        "start_date": "2025-04-24",
+        "end_date": "2026-04-25"
+    },
+    {
+        "id": "d-rewardbuy-17689",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$47.5購買$50飲食禮券",
+        "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 2.5,
+        "start_date": "2025-11-21",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-25609",
+        "shop_ids": [
+            "starbucks"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$19購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $19 in RewardBuy",
+        "min_spend": 20.0,
+        "amount": 1.0,
+        "start_date": "2025-12-23",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-34005",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$95購買$100飲食禮券",
+        "title_en": "Buy $100.0 Voucher for $95.0 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 5.0,
+        "start_date": "2025-11-10",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-64750",
+        "shop_ids": [
+            "lamheungling"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$20購買$25現金券",
+        "title_en": "Buy $25 Cash Voucher for $20 in RewardBuy",
+        "min_spend": 25.0,
+        "amount": 5.0,
+        "start_date": "2026-02-01",
+        "end_date": "2026-04-30"
+    },
+    {
+        "id": "d-rewardbuy-64388",
+        "shop_ids": [
+            "paullafayet"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$45購買$50現金禮券",
+        "title_en": "Buy $50.0 Voucher for $45.0 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 5.0,
+        "start_date": "2025-12-17",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-rewardbuy-50120",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$19購買$20現金禮券",
+        "title_en": "Buy $20.0 Voucher for $19.0 in RewardBuy",
+        "min_spend": 20.0,
+        "amount": 1.0,
+        "start_date": "2026-02-09",
+        "end_date": "2026-08-31"
+    },
+    {
+        "id": "d-rewardbuy-25972",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$47.5購買$50現金禮券",
+        "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 2.5,
+        "start_date": "2025-11-10",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-14067",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$47.5購買$50現金禮券",
+        "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 2.5,
+        "start_date": "2026-01-19",
+        "end_date": "2026-07-31"
+    },
+    {
+        "id": "d-rewardbuy-55852",
+        "shop_ids": [
+            "imperial"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$80購買$100現金禮券",
+        "title_en": "Buy $100.0 Voucher for $80.0 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 20.0,
+        "start_date": "2025-11-20",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-rewardbuy-58974",
+        "shop_ids": [
+            "lucullus"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$47.5購買$50現金禮券",
+        "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 2.5
+    },
+    {
+        "id": "d-rewardbuy-23039",
+        "shop_ids": [
+            "paullafayet"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$90購買$100現金禮券",
+        "title_en": "Buy $100.0 Voucher for $90.0 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 10.0,
+        "start_date": "2025-12-17",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-rewardbuy-86144",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$40購買$50現金禮券",
+        "title_en": "Buy $50.0 Voucher for $40.0 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 10.0,
+        "start_date": "2025-11-14",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-rewardbuy-87071",
+        "shop_ids": [
+            "waiyentong"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$47購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $47 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 3.0,
+        "start_date": "2025-12-23",
+        "end_date": "2026-12-22"
+    },
+    {
+        "id": "d-rewardbuy-66039",
+        "shop_ids": [
+            "waiyentong"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$94購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $94 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 6.0,
+        "start_date": "2025-12-23",
+        "end_date": "2026-12-22"
+    },
+    {
+        "id": "d-hsbc-parknshop-202603",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "hsbc_easy_visa",
+            "hsbc_card"
+        ],
+        "title_zh": "逢星期五、六、日以滙豐信用卡簽賬滿$500送$50現金券",
+        "title_en": "$50 Cash Voucher upon $500 spending on Fri, Sat, Sun with HSBC Credit Card",
+        "min_spend": 500,
+        "amount": 50,
+        "start_date": "2026-03-01",
+        "end_date": "2026-05-31",
+        "applicable_days_of_week": [
+            5,
+            6,
+            0
+        ]
+    },
+    {
+        "id": "d-klook-cuppingroom-1",
+        "shop_ids": [
+            "cuppingroom"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$32購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $32 in Klook",
+        "min_spend": 50.0,
+        "amount": 18.0,
+        "start_date": "2024-06-15",
+        "end_date": "2026-07-31"
+    },
+    {
+        "id": "d-klook-cuppingroom-2",
+        "shop_ids": [
+            "cuppingroom"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$60購買2張$50現金券",
+        "title_en": "Buy 2x $50 Cash Vouchers for $60 in Klook",
+        "min_spend": 50.0,
+        "amount": 20.0,
+        "start_date": "2024-06-15",
+        "end_date": "2026-07-31"
+    },
+    {
+        "id": "d-klook-chungkee-1",
+        "shop_ids": [
+            "chungkee"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$47購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $47 in Klook",
+        "min_spend": 50.0,
+        "amount": 3.0
+    },
+    {
+        "id": "d-klook-chungkee-2",
+        "shop_ids": [
+            "chungkee"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$89購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $89 in Klook",
+        "min_spend": 100.0,
+        "amount": 11.0
+    },
+    {
+        "id": "d-rewardbuy-75692",
+        "shop_ids": [
+            "moresyogurt"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$48.5購買$50禮券",
+        "title_en": "Buy $50 Cash Voucher for $48.5 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 1.5,
+        "end_date": "2026-10-21"
+    },
+    {
+        "id": "d-rewardbuy-39410",
+        "shop_ids": [
+            "ladym"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$95購買$100禮券",
+        "title_en": "Buy $100 Cash Voucher for $95 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 5.0,
+        "start_date": "2026-03-02",
+        "end_date": "2027-02-27"
+    },
+    {
+        "id": "d-rewardbuy-54791",
+        "shop_ids": [
+            "keewah"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$45購買$50禮券",
+        "title_en": "Buy $50 Cash Voucher for $45 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 5.0,
+        "start_date": "2026-01-02",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-rewardbuy-24745",
+        "shop_ids": [
+            "citysuper"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$97購買$100電子禮券",
+        "title_en": "Buy $100.0 Voucher for $97.0 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 3.0,
+        "start_date": "2025-11-20",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-rewardbuy-79741",
+        "shop_ids": [
+            "citysuper"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$48.7購買$50電子禮券",
+        "title_en": "Buy $50.0 Voucher for $48.7 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 1.3,
+        "start_date": "2025-11-20",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-rewardbuy-81530",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$49購買$50禮券",
+        "title_en": "Buy $50 Cash Voucher for $49 in RewardBuy",
+        "min_spend": 50.0,
+        "amount": 1.0,
+        "start_date": "2025-12-01",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-47945",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$98購買$100禮券",
+        "title_en": "Buy $100 Cash Voucher for $98 in RewardBuy",
+        "min_spend": 100.0,
+        "amount": 2.0,
+        "start_date": "2025-12-01",
+        "end_date": "2026-06-30"
     }
 ]

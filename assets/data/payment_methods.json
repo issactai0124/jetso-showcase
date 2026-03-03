@@ -25,31 +25,21 @@
         "name_en": "Alipay",
         "type": "e_wallet",
         "description_zh": "可於Alipay裡的A+ Rewards購買現金券（或需以Alipay支付）",
-        "description_en": "Buy cash vouchers in A+ Rewards within Alipay (Payment via Alipay may be required)"
+        "description_en": "Buy cash vouchers in A+ Rewards within Alipay (Payment via Alipay may be required)",
+        "app_url": "alipayhk://"
     },
     {
-        "id": "best360_gold",
-        "name_zh": "優品360金卡會員",
-        "name_en": "Best360 Gold Member",
-        "type": "membership"
-    },
-    {
-        "id": "best360_member",
-        "name_zh": "優品360會員",
-        "name_en": "Best360 Member",
-        "type": "membership"
-    },
-    {
-        "id": "759_member",
-        "name_zh": "759會員",
-        "name_en": "759 Member",
-        "type": "membership"
+        "id": "member",
+        "name_zh": "商店會員",
+        "name_en": "Store Member",
+        "type": "tag"
     },
     {
         "id": "payme",
         "name_zh": "Payme",
         "name_en": "Payme",
-        "type": "e_wallet"
+        "type": "e_wallet",
+        "app_url": "payme://"
     },
     {
         "id": "compass_visa",
@@ -76,5 +66,39 @@
         "name_zh": "滙豐easy信用卡 / 白金Visa卡",
         "name_en": "HSBC easy Credit Card / Platinum Visa",
         "type": "credit_card"
+    },
+    {
+        "id": "hsbc_card",
+        "name_zh": "滙豐信用卡",
+        "name_en": "HSBC Credit Card",
+        "type": "credit_card"
+    },
+    {
+        "id": "klook",
+        "name_zh": "Klook",
+        "name_en": "Klook",
+        "type": "platform",
+        "app_url": "klook://"
+    },
+    {
+        "id": "openrice",
+        "name_zh": "OpenRice",
+        "name_en": "OpenRice",
+        "type": "platform",
+        "app_url": "openrice://"
+    },
+    {
+        "id": "kkday",
+        "name_zh": "KKday",
+        "name_en": "KKday",
+        "type": "platform",
+        "app_url": "kkday://"
+    },
+    {
+        "id": "rewardbuy",
+        "name_zh": "好賞買",
+        "name_en": "RewardBuy",
+        "type": "platform",
+        "app_url": "https://rewardbuy.shop/"
     }
 ]

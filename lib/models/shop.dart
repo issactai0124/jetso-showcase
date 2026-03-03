@@ -5,6 +5,7 @@ class Shop {
   final String? descriptionZh;
   final String? descriptionEn;
   final String category;
+  final String? subCategory;
 
   Shop({
     required this.id,
@@ -13,6 +14,7 @@ class Shop {
     this.descriptionZh,
     this.descriptionEn,
     required this.category,
+    this.subCategory,
   });
 
   factory Shop.fromJson(Map<String, dynamic> json) {
@@ -23,6 +25,7 @@ class Shop {
       descriptionZh: json['description_zh'],
       descriptionEn: json['description_en'],
       category: json['category'] ?? '其他',
+      subCategory: json['subcategory'],
     );
   }
 }

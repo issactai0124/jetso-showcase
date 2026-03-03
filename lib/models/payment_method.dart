@@ -3,6 +3,7 @@ class PaymentMethod {
   final String nameZh;
   final String nameEn;
   final String type;
+  final String? appUrl;
   final String? descriptionZh;
   final String? descriptionEn;
 
@@ -11,6 +12,7 @@ class PaymentMethod {
     required this.nameZh,
     required this.nameEn,
     required this.type,
+    this.appUrl,
     this.descriptionZh,
     this.descriptionEn,
   });
@@ -21,6 +23,7 @@ class PaymentMethod {
       nameZh: json['name_zh'],
       nameEn: json['name_en'],
       type: json['type'],
+      appUrl: json['app_url'],
       descriptionZh: json['description_zh'],
       descriptionEn: json['description_en'],
     );

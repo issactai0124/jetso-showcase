@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Jetso Showcase - RSS 審核後台</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #f4f6f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            background: white;
+            padding: 15px 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+
+        .card-header h3 {
+            margin: 0;
+            font-size: 16px;
+            color: #0066cc;
+        }
+
+        .radio-group {
+            display: flex;
+            gap: 15px;
+            font-weight: bold;
+            background: #f8f9fa;
+            padding: 5px 10px;
+            border-radius: 4px;
+        }
+
+        .form-row {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .form-group label {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 4px;
+            font-weight: bold;
+        }
+
+        .form-group input,
+        .form-group select {
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .full-width {
+            flex: 100%;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            background: #218838;
+        }
+
+        .raw-text {
+            font-size: 13px;
+            color: #004085;
+            background: #cce5ff;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+
+        .error-card {
+            border-left: 4px solid #dc3545;
+            background: #fffcfc;
+        }
+
+        .success-card {
+            border-left: 4px solid #28a745;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>RSS 優惠自動化審核後台</h1>
+        <button class="btn" onclick="submitData()">💾 儲存並套用 JSON (套用後將清空清單)</button>
+    </div>
+
+    <div id="container">載入中...</div>
+
+    <script>
+        let shops = [];
+        let payments = [];
+        let entries = [];
+
+        async function init() {
+            try {
+                const shopsRes = await fetch('/api/shops');
+                shops = await shopsRes.json();
+
+                const payRes = await fetch('/api/payments');
+                payments = await payRes.json();
+
+                const txtRes = await fetch('/api/toaddlist');
+                const txtData = await txtRes.json();
+                const rawText = txtData.text.trim();
+
+                if (!rawText) {
+                    document.getElementById('container').innerHTML = "<div class='empty-state'>🎉 目前沒有需要審核的新項目 (toaddlist.txt 為空)</div>";
+                    return;
+                }
+
+                const lines = rawText.split('\n');
+                entries = lines.filter(l => l.trim().length > 0).map((line, index) => {
+                    const obj = { _raw: line, _index: index, _target: 'none' };
+                    const parts = line.split('|');
+                    parts.forEach(p => {
+                        const eqIdx = p.indexOf('=');
+                        if (eqIdx > -1) {
+                            const key = p.substring(0, eqIdx).trim();
+                            let val = p.substring(eqIdx + 1).trim();
+                            if (val.startsWith('"') && val.endsWith('"')) val = val.substring(1, val.length - 1);
+                            if (!isNaN(val) && val !== '') val = Number(val);
+                            obj[key] = val;
+                        }
+                    });
+                    if (obj.result === 1) obj._target = 'discounts';
+                    return obj;
+                });
+
+                render();
+            } catch (e) {
+                document.getElementById('container').innerHTML = `<div class='error-card' style='padding:20px;'>啟動失敗，請確認 Python Admin Server 正常執行中 (${e.message})</div>`;
+            }
+        }
+
+        function render() {
+            const container = document.getElementById('container');
+            container.innerHTML = '';
+            entries.forEach(entry => {
+                const titles = generateTitles(entry);
+                const isError = entry.result !== 1;
+
+                let html = `
+                <div class="card ${isError ? 'error-card' : 'success-card'}" id="card-${entry._index}">
+                    <div class="card-header">
+                        <h3>🛍️ [${entry.shop || 'Unknown'}] ${entry.title || '無標題'}</h3>
+                        <div class="radio-group" style="${isError ? 'opacity: 0.6;' : ''}">
+                            <label><input type="radio" name="target-${entry._index}" value="none" ${entry._target === 'none' ? 'checked' : ''} onchange="updateTarget(${entry._index}, 'none')"> ❌ 未加入 (丟棄)</label>
+                            <label><input type="radio" name="target-${entry._index}" value="discounts" ${entry._target === 'discounts' ? 'checked' : ''} onchange="updateTarget(${entry._index}, 'discounts')"> 🛒 加入 discounts</label>
+                            <label><input type="radio" name="target-${entry._index}" value="discounts_product" ${entry._target === 'discounts_product' ? 'checked' : ''} onchange="updateTarget(${entry._index}, 'discounts_product')"> 🍞 加入 discounts_product</label>
+                        </div>
+                    </div>
+                    
+                    <div class="raw-text"><strong>🤖 AI 分析文字:</strong> ${entry.text || '無'} (Result: ${entry.result})</div>
+                    
+                    <div class="form-row">
+                        <div class="form-group full-width">
+                            <label>中文標題 (title_zh)</label>
+                            <input type="text" id="zh-${entry._index}" value="${titles.zh}">
+                        </div>
+                        <div class="form-group full-width">
+                            <label>英文標題 (title_en)</label>
+                            <input type="text" id="en-${entry._index}" value="${titles.en}">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>關聯商舖 (shop_ids)</label>
+                            <select id="shop-${entry._index}" multiple style="height: 60px;">
+                                ${shops.map(s => {
+                    const match = entry.shop && (s.name_zh.includes(entry.shop) || entry.shop.includes(s.name_zh));
+                    return `<option value="${s.id}" ${match ? 'selected' : ''}>${s.name_zh}</option>`;
+                }).join('')}
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>特定支付方式 (required_payment_ids)</label>
+                            <select id="pay-${entry._index}" multiple style="height: 60px;">
+                                <option value="" ${!entry.payment ? 'selected' : ''}>-- 無須特定支付方式 --</option>
+                                ${payments.map(p => {
+                    const match = entry.payment && (p.name_zh.includes(entry.payment) || entry.payment.includes(p.name_zh));
+                    return `<option value="${p.id}" ${match ? 'selected' : ''}>${p.name_zh}</option>`;
+                }).join('')}
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>最低消費額 (min_spend)</label>
+                            <input type="number" id="min-${entry._index}" value="${entry.min_spend !== undefined ? entry.min_spend : ''}" placeholder="如沒有請留白">
+                        </div>
+                        <div class="form-group">
+                            <label>折扣百分比 (rate) 例如0.05</label>
+                            <input type="number" step="0.01" id="rate-${entry._index}" value="${entry.rate !== undefined ? entry.rate : ''}">
+                        </div>
+                        <div class="form-group">
+                            <label>現金減免 (amount) 例如5</label>
+                            <input type="number" id="amt-${entry._index}" value="${entry.amt !== undefined ? entry.amt : ''}">
+                        </div>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>開始日期 (start_date)</label>
+                            <input type="date" id="start-${entry._index}" value="${entry.start_date || ''}">
+                        </div>
+                        <div class="form-group">
+                            <label>結束日期 (end_date)</label>
+                            <input type="date" id="end-${entry._index}" value="${entry.end_date || ''}">
+                        </div>
+                        <div class="form-group">
+                            <label>每月適用日 (applicable_days_of_month)</label>
+                            <input type="text" id="month-${entry._index}" value="${entry.applicable_days_of_month || ''}" placeholder="例如: 2,20">
+                        </div>
+                        <div class="form-group">
+                            <label>每週適用日 (applicable_days_of_week)</label>
+                            <input type="text" id="week-${entry._index}" value="${entry.applicable_days_of_week !== undefined ? entry.applicable_days_of_week : ''}" placeholder="0=Sun,1=Mon">
+                        </div>
+                    </div>
+                </div>
+            `;
+                container.insertAdjacentHTML('beforeend', html);
+            });
+        }
+
+        function updateTarget(idx, target) {
+            entries[idx]._target = target;
+            const card = document.getElementById(`card-${idx}`);
+            if (target !== 'none') {
+                card.classList.remove('error-card');
+                card.classList.add('success-card');
+                card.querySelector('.radio-group').style.opacity = '1';
+            } else {
+                card.classList.add('error-card');
+                card.classList.remove('success-card');
+                card.querySelector('.radio-group').style.opacity = '0.6';
+            }
+        }
+
+        function generateTitles(entry) {
+            let zh = '';
+            let en = '';
+
+            // 處理日期字串
+            let monthStrZh = '', monthStrEn = '';
+            if (entry.applicable_days_of_month) {
+                monthStrZh = `每月${entry.applicable_days_of_month.toString().replace(/,/g, '、')}日`;
+                monthStrEn = `on ${entry.applicable_days_of_month.toString().replace(/,/g, ', ')} of every month`;
+            }
+
+            let weekStrZh = '', weekStrEn = '';
+            const dayMapZh = ['日', '一', '二', '三', '四', '五', '六'];
+            const dayMapEn = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+            if (entry.applicable_days_of_week !== undefined && entry.applicable_days_of_week !== '') {
+                const days = entry.applicable_days_of_week.toString().split(',');
+                weekStrZh = `逢星期${days.map(d => dayMapZh[d] || d).join('、')}`;
+                weekStrEn = `on ${days.map(d => dayMapEn[d] + 's').join(', ')}`;
+            }
+
+            let timeZh = monthStrZh || weekStrZh;
+            let timeEn = monthStrEn || weekStrEn;
+
+            // 處理支付方式字串
+            let payZh = entry.payment ? `以${entry.payment}簽帳` : '';
+            let payEn = entry.payment ? `with ${entry.payment}` : '';
+
+            // 處理門檻字串
+            let minZh = entry.min_spend > 0 ? `滿$${entry.min_spend}` : '';
+            let minEn = entry.min_spend > 0 ? `upon $${entry.min_spend} spending` : '';
+
+            // 處理優惠字串
+            let rewardZh = '';
+            let rewardEn = '';
+            if (entry.rate) {
+                let p = Math.round((1 - entry.rate) * 100);
+                if (p % 10 === 0) rewardZh = `可享${p / 10}折`;
+                else rewardZh = `可享${p}折`;
+                rewardEn = `${Math.round(entry.rate * 100)}% off`;
+            } else if (entry.amt) {
+                rewardZh = `可享$${entry.amt}優惠`;
+                rewardEn = `$${entry.amt} off`;
+            }
+
+            // --- 中文組合規則 ---
+            // 順序：[時間] + [優惠條件/商品(如果有)] + [支付] + [門檻] + [回贈]
+            if (timeZh || payZh || minZh || rewardZh) {
+                zh = `${timeZh}${payZh}${minZh}${rewardZh}`;
+                // 修飾語句：如果不是信用卡，移除"簽帳"二字
+                if (!entry.payment || entry.payment.includes('會員') || entry.payment.includes('八達通')) {
+                    zh = zh.replace('以', '憑').replace('簽帳', '');
+                }
+            }
+
+            // --- 英文組合規則 ---
+            // 順序：[Reward] + [Condition] + [Time/Day] + [Payment]
+            if (timeEn || payEn || minEn || rewardEn) {
+                en = `${rewardEn} ${minEn} ${timeEn} ${payEn}`.trim().replace(/\s+/g, ' ');
+            }
+
+            // Product 特定推廣處理 (如果是單品，通常 text 會有內容)
+            if (entry._target === 'discounts_product' && entry.text && !entry.text.includes("餐廳")) {
+                // 嘗試將 text 插入
+                zh = `${timeZh}${entry.text}${rewardZh}`;
+            }
+
+            // 防呆: 如果生成失敗，直接使用 RSS Title 或說明
+            if (!zh) zh = entry.text || entry.title || '';
+
+            return { zh: zh.trim(), en: en.trim() };
+        }
+
+        async function submitData() {
+            const storeDiscounts = [];
+            const productDiscounts = [];
+
+            entries.forEach(entry => {
+                if (entry._target === 'none') return;
+
+                const i = entry._index;
+                const shopSelect = document.getElementById(`shop-${i}`);
+                const shopIds = Array.from(shopSelect.selectedOptions).map(o => o.value);
+
+                const paySelect = document.getElementById(`pay-${i}`);
+                const payIds = Array.from(paySelect.selectedOptions).map(o => o.value).filter(val => val !== "");
+
+                if (shopIds.length === 0) {
+                    alert(`第 ${i + 1} 筆優惠未選擇關聯商舖！`);
+                    throw new Error("Missing shop");
+                }
+                if (payIds.length === 0) {
+                    alert(`第 ${i + 1} 筆優惠未選擇特定支付方式！`);
+                    throw new Error("Missing payment");
+                }
+
+                const zh = document.getElementById(`zh-${i}`).value;
+                const en = document.getElementById(`en-${i}`).value;
+
+                const minStr = document.getElementById(`min-${i}`).value;
+                const rateStr = document.getElementById(`rate-${i}`).value;
+                const amtStr = document.getElementById(`amt-${i}`).value;
+
+                const startStr = document.getElementById(`start-${i}`).value;
+                const endStr = document.getElementById(`end-${i}`).value;
+
+                const monthStr = document.getElementById(`month-${i}`).value;
+                const weekStr = document.getElementById(`week-${i}`).value;
+
+                // 產生唯一 ID
+                const primaryPay = payIds.length > 0 ? payIds[0] : 'unknown';
+                const rnd = Math.floor(Math.random() * 90000) + 10000;
+                const id = `d-${primaryPay}-${rnd}`;
+
+                const d = {
+                    id: id,
+                    shop_ids: shopIds,
+                    required_payment_ids: payIds,
+                    title_zh: zh,
+                    title_en: en
+                };
+
+                if (rateStr && Number(rateStr) > 0) d.rate = Number(rateStr);
+                if (amtStr && Number(amtStr) > 0) d.amount = Number(amtStr);
+                if (minStr && Number(minStr) > 0) d.min_spend = Number(minStr);
+
+                if (startStr) d.start_date = startStr;
+                if (endStr) d.end_date = endStr;
+
+                if (monthStr) d.applicable_days_of_month = monthStr.split(',').map(n => Number(n.trim()));
+                if (weekStr) d.applicable_days_of_week = weekStr.split(',').map(n => Number(n.trim()));
+
+                if (entry._target === 'discounts') storeDiscounts.push(d);
+                else if (entry._target === 'discounts_product') productDiscounts.push(d);
+            });
+
+            if (storeDiscounts.length === 0 && productDiscounts.length === 0) {
+                const ok = confirm("您選擇了『丟棄所有項目』。\n這將會完全清空 toaddlist.txt 而不儲存任何設定，確定嗎？");
+                if (!ok) return;
+            }
+
+            try {
+                const response = await fetch('/api/save', {
+                    method: 'POST',
+                    body: JSON.stringify({
+                        discounts: storeDiscounts,
+                        discounts_product: productDiscounts
+                    }),
+                    headers: { 'Content-Type': 'application/json' }
+                });
+
+                if (response.ok) {
+                    alert('🎉 儲存成功！JSON 檔案已經自動擴寫，且 toaddlist.txt 已成功清空。');
+                    location.reload();
+                } else {
+                    alert('發生錯誤: ' + await response.text());
+                }
+            } catch (e) {
+                alert('網路執行期間錯誤: ' + e.message);
+            }
+        }
+
+        // 啟動頁面
+        init();
+    </script>
+</body>
+
+</html>

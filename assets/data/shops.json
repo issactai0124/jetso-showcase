@@ -5,7 +5,8 @@
     "name_en": "Wellcome",
     "description_zh": "惠康、Market Place、3hreesixty等",
     "description_en": "Wellcome, Market Place, 3hreesixty, etc.",
-    "category": "大型超市"
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
     "id": "parknshop",
@@ -13,111 +14,29 @@
     "name_en": "ParknShop",
     "description_zh": "百佳、fusion、TaSTe、International、food le parc等",
     "description_en": "ParknShop, fusion, TaSTe, International, food le parc, etc.",
-    "category": "大型超市"
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
     "id": "7eleven",
     "name_zh": "7-Eleven",
     "name_en": "7-Eleven",
-    "category": "便利店"
-  },
-  {
-    "id": "yata",
-    "name_zh": "一田",
-    "name_en": "YATA",
-    "category": "大型超市"
+    "category": "超市便利",
+    "subcategory": "便利店"
   },
   {
     "id": "circlek",
     "name_zh": "OK便利店",
     "name_en": "Circle K",
-    "category": "便利店"
+    "category": "超市便利",
+    "subcategory": "便利店"
   },
   {
-    "id": "citysuper",
-    "name_zh": "citysuper",
-    "name_en": "city'super",
-    "category": "大型超市"
-  },
-  {
-    "id": "mannings",
-    "name_zh": "萬寧",
-    "name_en": "Mannings",
-    "category": "健康美容"
-  },
-  {
-    "id": "hktvmall",
-    "name_zh": "HKTVmall",
-    "name_en": "HKTVmall",
-    "category": "大型超市"
-  },
-  {
-    "id": "best360",
-    "name_zh": "優品360",
-    "name_en": "Best360",
-    "description_zh": "優品360、FoodVille",
-    "description_en": "Best Mart 360, FoodVille",
-    "category": "食品"
-  },
-  {
-    "id": "759store",
-    "name_zh": "759阿信屋",
-    "name_en": "759 Store",
-    "category": "食品"
-  },
-  {
-    "id": "foodmaster",
-    "name_zh": "寶達食品超市",
-    "name_en": "Food Master",
-    "category": "食品"
-  },
-  {
-    "id": "indomarket",
-    "name_zh": "營多東南亞美食市場",
-    "name_en": "Indo Market",
-    "category": "食品"
-  },
-  {
-    "id": "maxims",
-    "name_zh": "美心西餅",
-    "name_en": "Maxim's Cakes",
-    "category": "餅店"
-  },
-  {
-    "id": "wingwah",
-    "name_zh": "榮華餅家",
-    "name_en": "Wing Wah",
-    "category": "餅店"
-  },
-  {
-    "id": "a1bakery",
-    "name_zh": "A-1 Bakery",
-    "name_en": "A-1 Bakery",
-    "category": "餅店"
-  },
-  {
-    "id": "starbucks",
-    "name_zh": "星巴克",
-    "name_en": "Starbucks",
-    "category": "飲品"
-  },
-  {
-    "id": "nambaohang",
-    "name_zh": "南北行",
-    "name_en": "Nam Bao Hang",
-    "category": "食品"
-  },
-  {
-    "id": "zoff",
-    "name_zh": "Zoff",
-    "name_en": "Zoff",
-    "category": "其他"
-  },
-  {
-    "id": "cherry",
-    "name_zh": "Cherry床上用品專門店",
-    "name_en": "Cherry",
-    "category": "其他"
+    "id": "yata",
+    "name_zh": "一田",
+    "name_en": "YATA",
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
     "id": "aeon",
@@ -125,42 +44,298 @@
     "name_en": "AEON Stores",
     "description_zh": "AEON、Mono Mono、DAISO Japan、Living PLAZA",
     "description_en": "AEON, Mono Mono, DAISO Japan, Living PLAZA",
-    "category": "大型超市"
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
-    "id": "daisang",
-    "name_zh": "大生生活超市",
-    "name_en": "DS Groceries",
-    "category": "食品"
+    "id": "citysuper",
+    "name_zh": "city'super",
+    "name_en": "city'super",
+    "description_zh": "city'super, LOG-ON",
+    "description_en": "city'super, LOG-ON",
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
     "id": "dondondonki",
     "name_zh": "DON DON DONKI",
     "name_en": "DON DON DONKI",
-    "category": "大型超市"
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
-    "id": "kaibo",
-    "name_zh": "佳宝食品超級市場",
-    "name_en": "Kai Bo Food Supermarket",
-    "category": "食品"
+    "id": "hktvmall",
+    "name_zh": "HKTVmall",
+    "name_en": "HKTVmall",
+    "category": "超市便利",
+    "subcategory": "大型超市"
   },
   {
-    "id": "marksandspencer",
-    "name_zh": "Marks and Spencer Food",
-    "name_en": "Marks and Spencer Food",
-    "category": "食品"
+    "id": "starbucks",
+    "name_zh": "星巴克",
+    "name_en": "Starbucks",
+    "category": "休閒飲品",
+    "subcategory": "咖啡輕食"
+  },
+  {
+    "id": "pacificcoffee",
+    "name_zh": "Pacific Coffee",
+    "name_en": "Pacific Coffee",
+    "category": "休閒飲品",
+    "subcategory": "咖啡輕食"
+  },
+  {
+    "id": "cuppingroom",
+    "name_zh": "Cupping Room",
+    "name_en": "Cupping Room",
+    "category": "休閒飲品",
+    "subcategory": "咖啡輕食"
+  },
+  {
+    "id": "tenren",
+    "name_zh": "天仁茗茶",
+    "name_en": "TenRen's Tea",
+    "category": "休閒飲品",
+    "subcategory": "手調茶飲"
+  },
+  {
+    "id": "lamheungling",
+    "name_zh": "林香檸手打檸檬茶",
+    "name_en": "Lam Heung Ling",
+    "category": "休閒飲品",
+    "subcategory": "手調茶飲"
+  },
+  {
+    "id": "moresyogurt",
+    "name_zh": "茉酸奶",
+    "name_en": "More Yogurt",
+    "category": "休閒飲品",
+    "subcategory": "手調茶飲"
+  },
+  {
+    "id": "maxims",
+    "name_zh": "美心西餅",
+    "name_en": "Maxim's Cakes",
+    "category": "餅店甜品",
+    "subcategory": "連鎖餅坊"
+  },
+  {
+    "id": "sthonore",
+    "name_zh": "聖安娜餅屋",
+    "name_en": "Saint Honore Cake Shop",
+    "category": "餅店甜品",
+    "subcategory": "連鎖餅坊"
+  },
+  {
+    "id": "a1bakery",
+    "name_zh": "A-1 Bakery",
+    "name_en": "A-1 Bakery",
+    "category": "餅店甜品",
+    "subcategory": "連鎖餅坊"
+  },
+  {
+    "id": "arome",
+    "name_zh": "東海堂",
+    "name_en": "Arome Bakery",
+    "category": "餅店甜品",
+    "subcategory": "連鎖餅坊"
+  },
+  {
+    "id": "orchidpadaria",
+    "name_zh": "君蘭麵包廠",
+    "name_en": "Orchid Padaria",
+    "category": "餅店甜品",
+    "subcategory": "連鎖餅坊"
+  },
+  {
+    "id": "haagendazs",
+    "name_zh": "Häagen-Dazs",
+    "name_en": "Häagen-Dazs",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "godiva",
+    "name_zh": "GODIVA",
+    "name_en": "GODIVA",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "venchi",
+    "name_zh": "Venchi",
+    "name_en": "Venchi",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "ladym",
+    "name_zh": "Lady M",
+    "name_en": "Lady M New York",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "lucullus",
+    "name_zh": "龍島",
+    "name_en": "LUCULLUS",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "paullafayet",
+    "name_zh": "Paul Lafayet",
+    "name_en": "Paul Lafayet",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "keewah",
+    "name_zh": "奇華餅家",
+    "name_en": "Kee Wah Bakery",
+    "category": "餅店甜品",
+    "subcategory": "中式禮餅"
+  },
+  {
+    "id": "wingwah",
+    "name_zh": "榮華餅家",
+    "name_en": "Wing Wah",
+    "category": "餅店甜品",
+    "subcategory": "中式禮餅"
+  },
+  {
+    "id": "hangheung",
+    "name_zh": "恆香老餅家",
+    "name_en": "Hang Heung",
+    "category": "餅店甜品",
+    "subcategory": "中式禮餅"
+  },
+  {
+    "id": "imperial",
+    "name_zh": "皇玥",
+    "name_en": "Imperial Patisserie",
+    "category": "餅店甜品",
+    "subcategory": "中式禮餅"
+  },
+  {
+    "id": "mrsfields",
+    "name_zh": "Mrs. Fields Cookies",
+    "name_en": "Mrs. Fields Cookies",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
+  },
+  {
+    "id": "tartking",
+    "name_zh": "蛋撻王",
+    "name_en": "King Bakery",
+    "category": "餅店甜品",
+    "subcategory": "連鎖餅坊"
+  },
+  {
+    "id": "best360",
+    "name_zh": "優品360",
+    "name_en": "Best360",
+    "description_zh": "優品360、FoodVille",
+    "description_en": "Best Mart 360, FoodVille",
+    "category": "食品食材",
+    "subcategory": "零食糧油"
+  },
+  {
+    "id": "759store",
+    "name_zh": "759阿信屋",
+    "name_en": "759 Store",
+    "category": "食品食材",
+    "subcategory": "零食糧油"
+  },
+  {
+    "id": "daisang",
+    "name_zh": "大生生活超市",
+    "name_en": "DS Groceries",
+    "category": "食品食材",
+    "subcategory": "零食糧油"
   },
   {
     "id": "prizemart",
     "name_zh": "價真棧",
     "name_en": "PrizeMart",
-    "category": "食品"
+    "category": "食品食材",
+    "subcategory": "零食糧油"
+  },
+  {
+    "id": "foodmaster",
+    "name_zh": "寶達食品超市",
+    "name_en": "Food Master",
+    "category": "食品食材",
+    "subcategory": "生鮮食材"
+  },
+  {
+    "id": "indomarket",
+    "name_zh": "營多東南亞美食市場",
+    "name_en": "Indo Market",
+    "category": "食品食材",
+    "subcategory": "零食糧油"
+  },
+  {
+    "id": "kaibo",
+    "name_zh": "佳宝食品超級市場",
+    "name_en": "Kai Bo Food Supermarket",
+    "category": "食品食材",
+    "subcategory": "生鮮食材"
+  },
+  {
+    "id": "waiyentong",
+    "name_zh": "位元堂",
+    "name_en": "Wai Yuen Tong",
+    "category": "食品食材",
+    "subcategory": "健康補品"
+  },
+  {
+    "id": "nambaohang",
+    "name_zh": "南北行",
+    "name_en": "Nam Bao Hang",
+    "category": "食品食材",
+    "subcategory": "健康補品"
+  },
+  {
+    "id": "hungfooktong",
+    "name_zh": "鴻福堂",
+    "name_en": "Hung Fook Tong",
+    "category": "食品食材",
+    "subcategory": "健康補品"
+  },
+  {
+    "id": "hoitintong",
+    "name_zh": "海天堂",
+    "name_en": "Hoi Tin Tong",
+    "category": "食品食材",
+    "subcategory": "健康補品"
+  },
+  {
+    "id": "mannings",
+    "name_zh": "萬寧",
+    "name_en": "Mannings",
+    "category": "超市便利",
+    "subcategory": "藥粧護理"
   },
   {
     "id": "watsons",
     "name_zh": "屈臣氏",
     "name_en": "Watsons",
-    "category": "健康美容"
+    "category": "超市便利",
+    "subcategory": "藥粧護理"
+  },
+  {
+    "id": "marksandspencer",
+    "name_zh": "Marks and Spencer Food",
+    "name_en": "Marks and Spencer Food",
+    "category": "超市便利",
+    "subcategory": "大型超市"
+  },
+  {
+    "id": "chungkee",
+    "name_zh": "松記糖水",
+    "name_en": "Chung Kee Dessert",
+    "category": "餅店甜品",
+    "subcategory": "精緻甜品"
   }
 ]

@@ -180,8 +180,10 @@ class SettingsScreen extends ConsumerWidget {
           ),
           _buildPaymentCategory(
             context,
-            l10n.memberships,
-            paymentMethods.where((p) => p.type == 'membership').toList(),
+            l10n.platformMember,
+            paymentMethods
+                .where((p) => p.type == 'membership' || p.type == 'platform')
+                .toList(),
             selectedPayments,
             ref,
             l10n,
@@ -208,6 +210,7 @@ class SettingsScreen extends ConsumerWidget {
       case 'credit_card':
         return Colors.amber.shade700;
       case 'membership':
+      case 'platform':
         return Colors.indigo.shade700;
       case 'identity':
       case 'octopus':

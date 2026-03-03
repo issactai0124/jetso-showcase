@@ -3,6 +3,7 @@ import '../repositories/data_repository.dart';
 import '../models/shop.dart';
 import '../models/payment_method.dart';
 import '../models/discount.dart';
+import '../models/category_config.dart';
 
 final dataRepositoryProvider = Provider<DataRepository>((ref) {
   return DataRepository();
@@ -23,4 +24,8 @@ final paymentMethodsProvider = Provider<List<PaymentMethod>>((ref) {
 
 final discountsProvider = Provider<List<Discount>>((ref) {
   return ref.watch(dataRepositoryProvider).discounts;
+});
+
+final categoryConfigProvider = Provider<CategoryConfig?>((ref) {
+  return ref.watch(dataRepositoryProvider).categoryConfig;
 });

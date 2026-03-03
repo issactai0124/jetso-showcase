@@ -1,0 +1,111 @@
+{
+    "categories": [
+        {
+            "id": "超市便利",
+            "name_zh": "超市便利",
+            "name_en": "Supermarket & Convenience",
+            "color": "#1976D2",
+            "subcategories": [
+                {
+                    "id": "大型超市",
+                    "name_zh": "大型超市",
+                    "name_en": "Supermarket"
+                },
+                {
+                    "id": "便利店",
+                    "name_zh": "便利店",
+                    "name_en": "Convenience"
+                },
+                {
+                    "id": "藥粧護理",
+                    "name_zh": "藥粧護理",
+                    "name_en": "Beauty & Care"
+                }
+            ]
+        },
+        {
+            "id": "休閒飲品",
+            "name_zh": "休閒飲品",
+            "name_en": "Coffee & Tea",
+            "color": "#00897B",
+            "subcategories": [
+                {
+                    "id": "咖啡輕食",
+                    "name_zh": "咖啡輕食",
+                    "name_en": "Coffee & Light Meal"
+                },
+                {
+                    "id": "手調茶飲",
+                    "name_zh": "手調茶飲",
+                    "name_en": "Tea & Drinks"
+                }
+            ]
+        },
+        {
+            "id": "餅店甜品",
+            "name_zh": "餅店甜品",
+            "name_en": "Bakery & Desserts",
+            "color": "#E65100",
+            "subcategories": [
+                {
+                    "id": "連鎖餅坊",
+                    "name_zh": "連鎖餅坊",
+                    "name_en": "Bakery"
+                },
+                {
+                    "id": "精緻甜品",
+                    "name_zh": "精緻甜品",
+                    "name_en": "Desserts"
+                },
+                {
+                    "id": "中式禮餅",
+                    "name_zh": "中式禮餅",
+                    "name_en": "Pastries"
+                }
+            ]
+        },
+        {
+            "id": "食品食材",
+            "name_zh": "食品食材",
+            "name_en": "Grocery & Fresh",
+            "color": "#D81B60",
+            "subcategories": [
+                {
+                    "id": "零食糧油",
+                    "name_zh": "零食糧油",
+                    "name_en": "Snacks"
+                },
+                {
+                    "id": "生鮮食材",
+                    "name_zh": "生鮮食材",
+                    "name_en": "Fresh"
+                },
+                {
+                    "id": "健康補品",
+                    "name_zh": "健康補品",
+                    "name_en": "Supplements"
+                }
+            ]
+        },
+        {
+            "id": "生活健康",
+            "name_zh": "生活健康",
+            "name_en": "Lifestyle & Health",
+            "color": "#8E24AA",
+            "subcategories": [
+                {
+                    "id": "生活百貨",
+                    "name_zh": "生活百貨",
+                    "name_en": "Living"
+                }
+            ]
+        },
+        {
+            "id": "其他",
+            "name_zh": "其他",
+            "name_en": "Other",
+            "color": "#455A64",
+            "subcategories": []
+        }
+    ]
+}

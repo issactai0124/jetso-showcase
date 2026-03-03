@@ -1,11 +1,11 @@
 {
-    "name": "jetso_showcase",
-    "short_name": "jetso_showcase",
+    "name": "香港商舖優惠搜尋器",
+    "short_name": "jetso_searcher",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#000000",
+    "theme_color": "#2196F3",
+    "description": "即時追蹤香港各大商舖優惠。",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

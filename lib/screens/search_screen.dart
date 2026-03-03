@@ -4,6 +4,7 @@ import '../providers/data_provider.dart';
 import '../providers/discount_engine.dart';
 import '../providers/persistence_provider.dart';
 import '../models/shop.dart';
+import '../models/category_config.dart';
 import 'search_results_screen.dart';
 import '../l10n/app_l10n.dart';
 
@@ -227,47 +228,103 @@ class _SearchScreenState extends ConsumerState<SearchScreen> {
     UserInput userInput,
     AppL10n l10n,
   ) {
-    const categoryOrder = ['大型超市', '便利店', '健康美容', '餅店', '食品', '飲品', '其他'];
-    final Map<String, List<Shop>> grouped = {};
-    for (var cat in categoryOrder) {
-      grouped[cat] = shops.where((s) => s.category == cat).toList();
+    final categoryConfig = ref.watch(categoryConfigProvider);
+    if (categoryConfig == null) return const SizedBox.shrink();
+
+    // 1. Group by Main Category using the order from config
+    final Map<String, List<Shop>> groupedByMain = {};
+    for (var cat in categoryConfig.categories) {
+      groupedByMain[cat.id] = shops.where((s) => s.category == cat.id).toList();
     }
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
-      children: categoryOrder.map((cat) {
-        final catShops = grouped[cat]!;
-        if (catShops.isEmpty) return const SizedBox.shrink();
+      children: categoryConfig.categories.map((catGroup) {
+        final mainCatShops = groupedByMain[catGroup.id]!;
+        if (mainCatShops.isEmpty) return const SizedBox.shrink();
+
+        // 2. Further group by Sub Category inside each main category
+        final Map<String, List<Shop>> groupedBySub = {};
+        for (var s in mainCatShops) {
+          final sub = s.subCategory ?? '';
+          groupedBySub.putIfAbsent(sub, () => []).add(s);
+        }
+
+        // 3. Sort existing subcategories based on config order
+        final List<String> sortedSubs = [];
+        for (var subInfo in catGroup.subcategories) {
+          if (groupedBySub.containsKey(subInfo.id)) {
+            sortedSubs.add(subInfo.id);
+          }
+        }
+        // Add any subcategories that are in shops but NOT in config at the end
+        for (var existingSub in groupedBySub.keys) {
+          if (!sortedSubs.contains(existingSub)) {
+            sortedSubs.add(existingSub);
+          }
+        }
 
         return Padding(
-          padding: const EdgeInsets.only(bottom: 12.0),
+          padding: const EdgeInsets.only(bottom: 20.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text(
-                switch (cat) {
-                  '大型超市' => l10n.catSupermarket,
-                  '便利店' => l10n.catConvenience,
-                  '健康美容' => l10n.catHealth,
-                  '餅店' => l10n.catBakery,
-                  '食品' => l10n.catFood,
-                  '飲品' => l10n.catBeverage,
-                  // '海味乾貨' => l10n.catSeafood,
-                  _ => l10n.catOther,
-                },
-                style: const TextStyle(
-                  fontWeight: FontWeight.bold,
-                  fontSize: 14,
+              // Main Category Header
+              Container(
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 12,
+                  vertical: 4,
+                ),
+                decoration: BoxDecoration(
+                  color: _parseHexColor(catGroup.color).withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(4),
+                ),
+                child: Text(
+                  l10n.isEn ? catGroup.nameEn : catGroup.nameZh,
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16,
+                    color: _parseHexColor(catGroup.color),
+                  ),
                 ),
               ),
-              const SizedBox(height: 6),
-              Wrap(
-                spacing: 8.0,
-                runSpacing: 4.0,
-                children: catShops
-                    .map((shop) => _buildShopPill(shop, userInput, l10n))
-                    .toList(),
-              ),
+              const SizedBox(height: 12),
+              // Sub Category Groups
+              ...sortedSubs.map((subCat) {
+                final subShops = groupedBySub[subCat]!;
+                // Sort shops within sub-category by ID or name
+                subShops.sort((a, b) => a.nameZh.compareTo(b.nameZh));
+
+                return Padding(
+                  padding: const EdgeInsets.only(bottom: 8.0, left: 4.0),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      if (subCat.isNotEmpty) ...[
+                        Text(
+                          _getSubCategoryLabel(catGroup, subCat, l10n),
+                          style: TextStyle(
+                            color: Colors.grey.shade600,
+                            fontSize: 12,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        const SizedBox(height: 4),
+                      ],
+                      Wrap(
+                        spacing: 8.0,
+                        runSpacing: 4.0,
+                        children: subShops
+                            .map(
+                              (shop) => _buildShopPill(shop, userInput, l10n),
+                            )
+                            .toList(),
+                      ),
+                      const SizedBox(height: 8),
+                    ],
+                  ),
+                );
+              }),
             ],
           ),
         );
@@ -275,31 +332,40 @@ class _SearchScreenState extends ConsumerState<SearchScreen> {
     );
   }
 
-  Color _getCategoryColor(String category, BuildContext context) {
-    switch (category) {
-      case '大型超市':
-        return Colors.blue.shade700;
-      case '便利店':
-        return Colors.green.shade700;
-      case '餅店':
-        return Colors.orange.shade700;
-      case '食品':
-        return Colors.pink.shade700;
-      case '飲品':
-        return Colors.purple.shade700;
-      case '海味乾貨':
-        return Colors.brown.shade700;
-      case '健康美容':
-        return Colors.teal.shade500;
-      case '其他':
-      default:
-        return Colors.grey.shade800;
-    }
+  Color _parseHexColor(String hex) {
+    final buffer = StringBuffer();
+    if (hex.length == 6 || hex.length == 7) buffer.write('ff');
+    buffer.write(hex.replaceFirst('#', ''));
+    return Color(int.parse(buffer.toString(), radix: 16));
+  }
+
+  String _getSubCategoryLabel(
+    CategoryGroup catGroup,
+    String subId,
+    AppL10n l10n,
+  ) {
+    if (subId.isEmpty) return '';
+    final subInfo = catGroup.subcategories.firstWhere(
+      (s) => s.id == subId,
+      orElse: () => SubCategoryInfo(id: subId, nameZh: subId, nameEn: subId),
+    );
+    return l10n.isEn ? subInfo.nameEn : subInfo.nameZh;
   }
 
   Widget _buildShopPill(Shop shop, UserInput userInput, AppL10n l10n) {
     final isSelected = userInput.shopId == shop.id;
-    final catColor = _getCategoryColor(shop.category, context);
+    final categoryConfig = ref.watch(categoryConfigProvider);
+    final catGroup = categoryConfig?.categories.firstWhere(
+      (c) => c.id == shop.category,
+      orElse: () => CategoryGroup(
+        id: '其他',
+        nameZh: '其他',
+        nameEn: 'Other',
+        color: '#455A64',
+        subcategories: [],
+      ),
+    );
+    final catColor = _parseHexColor(catGroup?.color ?? '#455A64');
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
     return Container(

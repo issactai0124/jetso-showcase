@@ -9,14 +9,11 @@
         ],
         "title_zh": "逢星期三成人奶粉及紙尿片可享95折",
         "title_en": "5% off adult milk powder and diapers with Joy You Card",
-        "rewards": {
-            "rate": 0.05
-        },
-        "min_spend": 0,
         "applicable_days_of_week": [
             3
         ],
-        "end_date": "2026-12-31"
+        "end_date": "2026-12-31",
+        "rate": 0.05
     },
     {
         "id": "d-joy_you_card-4",
@@ -28,11 +25,8 @@
         ],
         "title_zh": "946毫升鮮奶/高鈣/朱古力牛奶飲品可享$2優惠",
         "title_en": "$2 off 946ml milk beverages with Joy You Card",
-        "rewards": {
-            "amount": 2
-        },
-        "min_spend": 0,
-        "end_date": "2026-06-30"
+        "end_date": "2026-06-30",
+        "amount": 2
     },
     {
         "id": "d-joy_you_card-5",
@@ -44,11 +38,8 @@
         ],
         "title_zh": "聖安娜家庭裝麵包、Circle K吐司/方包可享$1優惠",
         "title_en": "$1 off Circle K toast or bread with Joy You Card",
-        "rewards": {
-            "amount": 1
-        },
-        "min_spend": 0,
-        "end_date": "2026-06-30"
+        "end_date": "2026-06-30",
+        "amount": 1
     },
     {
         "id": "d-joy_you_card-6",
@@ -60,11 +51,8 @@
         ],
         "title_zh": "南陽高蛋白飲品（朱古力香蕉味/穀物味）350毫升可享$3優惠",
         "title_en": "$3 off Namyang high protein drinks with Joy You Card",
-        "rewards": {
-            "amount": 3
-        },
-        "min_spend": 0,
-        "end_date": "2026-06-30"
+        "end_date": "2026-06-30",
+        "amount": 3
     },
     {
         "id": "d-joy_you_card-11",
@@ -75,14 +63,11 @@
             "joy_you_card"
         ],
         "title_zh": "逢星期三下午4時前急凍類貨品可享88折",
-        "title_en": "12% off frozen food before 4 PM with Joy You Card",
-        "rewards": {
-            "rate": 0.12
-        },
-        "min_spend": 0,
+        "title_en": "12% off frozen food before 4 PM Wednesday with Joy You Card",
         "applicable_days_of_week": [
             3
-        ]
+        ],
+        "rate": 0.12
     },
     {
         "id": "d-joy_you_card-16",
@@ -94,11 +79,8 @@
         ],
         "title_zh": "早上11時前中杯裝或以上手調飲品可享$5優惠",
         "title_en": "$5 off medium or larger handcrafted beverages before 11 AM with Joy You Card",
-        "rewards": {
-            "amount": 5
-        },
-        "min_spend": 0,
-        "end_date": "2026-08-27"
+        "end_date": "2026-08-27",
+        "amount": 5
     },
     {
         "id": "d-student_octopus-1",
@@ -110,10 +92,7 @@
         ],
         "title_zh": "Circle K波提冬甩可享$1優惠",
         "title_en": "$1 off Circle K Mochi Donut with Student Octopus",
-        "rewards": {
-            "amount": 1
-        },
-        "min_spend": 0
+        "amount": 1
     },
     {
         "id": "d-student_octopus-2",
@@ -125,10 +104,7 @@
         ],
         "title_zh": "Circle K溏心蛋/黑松露溏心蛋(2隻裝)可享$2優惠",
         "title_en": "$2 off Circle K Soft Boiled Egg (2pcs) with Student Octopus",
-        "rewards": {
-            "amount": 2
-        },
-        "min_spend": 0
+        "amount": 2
     },
     {
         "id": "d-student_octopus-3",
@@ -151,9 +127,379 @@
         ],
         "title_zh": "Hot & In印尼撈麵可享$2優惠",
         "title_en": "$2 off Hot & In Indomie with Student Octopus",
-        "rewards": {
-            "amount": 2
-        },
-        "min_spend": 0
+        "amount": 2
+    },
+    {
+        "id": "d-klook-55524",
+        "shop_ids": [
+            "starbucks"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$41購買中杯裝手調飲品換領券",
+        "title_en": "Medium Handcrafted Beverage Voucher for $41 in Klook",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-klook-34435",
+        "shop_ids": [
+            "starbucks"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$156購買4張中杯裝手調飲品換領券",
+        "title_en": "4x Medium Handcrafted Beverage Vouchers for $156 in Klook",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-klook-29936",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$13購買杞子醬汁燒賣禮券",
+        "title_en": "Sauced Siu Mai Voucher for $13 in Klook",
+        "start_date": "2026-01-19",
+        "end_date": "2026-07-31"
+    },
+    {
+        "id": "d-klook-54825",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$44購買自家湯禮券",
+        "title_en": "Home-made Soup Voucher for $44 in Klook",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-klook-95885",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$21購買自家涼茶禮券（換領$30或以下飲品）",
+        "title_en": "Herbal Tea Voucher ($30 or below) for $21 in Klook",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-klook-54512",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$40購買正品藥製龜苓膏禮券",
+        "title_en": "Guilinggao Voucher for $40 in Klook",
+        "end_date": "2026-09-30"
+    },
+    {
+        "id": "d-klook-54050",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$47購買豬腳薑醋禮券",
+        "title_en": "Pork Knuckle in Ginger & Sweet Vinegar Voucher for $47 in Klook",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-klook-99835",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "klook"
+        ],
+        "title_zh": "於Klook以$205購買原味滴雞精禮券",
+        "title_en": "Chicken Essence Voucher for $205 in Klook",
+        "end_date": "2026-09-30"
+    },
+    {
+        "id": "d-openrice-51400",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$120購買4張自家湯禮券",
+        "title_en": "4x Home-made Soup Vouchers for $120 in OpenRice",
+        "start_date": "2026-01-28",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-openrice-51401",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$180購買5張自家湯禮券",
+        "title_en": "5x Home-made Soup Vouchers for $180 in OpenRice",
+        "start_date": "2026-01-16",
+        "end_date": "2027-01-31"
+    },
+    {
+        "id": "d-openrice-85117",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$60購買4張自家涼茶禮券（換領$30或以下自家涼茶）",
+        "title_en": "4x Herbal Tea Vouchers ($30 or below) for $60 in OpenRice",
+        "start_date": "2026-01-28",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-openrice-85118",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$99購買5張自家涼茶套票（換領$30或以下自家涼茶）",
+        "title_en": "5x Herbal Tea Vouchers ($30 or below) for $99 in OpenRice",
+        "start_date": "2026-01-16",
+        "end_date": "2027-01-31"
+    },
+    {
+        "id": "d-openrice-75336",
+        "shop_ids": [
+            "hungfooktong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$160購買原味滴雞精禮券",
+        "title_en": "Chicken Essence Voucher for $160 in OpenRice",
+        "start_date": "2026-02-27",
+        "end_date": "2026-08-31"
+    },
+    {
+        "id": "d-openrice-18190",
+        "shop_ids": [
+            "hoitintong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$88購買5張龜苓膏特飲券",
+        "title_en": "5x Guilinggao Specialty Drink Vouchers for $88 in OpenRice",
+        "start_date": "2025-08-11",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-openrice-10748",
+        "shop_ids": [
+            "hoitintong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$148購買5張龜苓膏券",
+        "title_en": "5x Guilinggao Vouchers for $148 in OpenRice",
+        "start_date": "2025-10-15",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-openrice-75073",
+        "shop_ids": [
+            "hoitintong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$280購買4張石金錢龜苓膏券",
+        "title_en": "4x Premium Guilinggao Vouchers for $280 in OpenRice",
+        "start_date": "2026-01-02",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-openrice-78096",
+        "shop_ids": [
+            "hoitintong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$55購買燉鷓鴣1包",
+        "title_en": "Stewed Partridge (1 pack) for $55 in OpenRice",
+        "start_date": "2026-02-27",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-openrice-30894",
+        "shop_ids": [
+            "hoitintong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$55購買燉水魚花膠1包",
+        "title_en": "Stewed Soft-shell Turtle (1 pack) for $55 in OpenRice",
+        "start_date": "2026-02-27",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-openrice-82095",
+        "shop_ids": [
+            "hoitintong"
+        ],
+        "required_payment_ids": [
+            "openrice"
+        ],
+        "title_zh": "於OpenRice以$55購買燉石金錢龜苓茶1包",
+        "title_en": "Stewed Turtle Herbal Tea (1 pack) for $55 in OpenRice",
+        "start_date": "2026-02-27",
+        "end_date": "2026-12-31"
+    },
+    {
+        "id": "d-kkday-72033",
+        "shop_ids": [
+            "hangheung"
+        ],
+        "required_payment_ids": [
+            "kkday"
+        ],
+        "title_zh": "於kkday以$77購買老婆餅1盒",
+        "title_en": "Wife Cake (1 box) for $77 in KKday",
+        "start_date": "2025-12-15",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-20729",
+        "shop_ids": [
+            "pacificcoffee"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$35購買$39標準裝咖啡券",
+        "title_en": "Tall Coffee Voucher for $35 in RewardBuy",
+        "min_spend": 39.0,
+        "amount": 4.0,
+        "start_date": "2026-02-13",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-20005",
+        "shop_ids": [
+            "lamheungling"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$18購買鹹檸酪/琥珀奶茶系列換領券",
+        "title_en": "Discount on 林香檸手打檸檬茶 via RewardBuy",
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-rewardbuy-87579",
+        "shop_ids": [
+            "venchi"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$58購買迷你裝意式雪糕禮券",
+        "title_en": "Buy $65.0 Voucher for $58.0 in RewardBuy",
+        "min_spend": 65.0,
+        "amount": 7.0,
+        "start_date": "2026-01-30",
+        "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-rewardbuy-65341",
+        "shop_ids": [
+            "godiva"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$106.2購買軟雪糕或飲品禮券2張",
+        "title_en": "Discount on GODIVA via RewardBuy",
+        "end_date": "2026-04-30"
+    },
+    {
+        "id": "d-rewardbuy-80599",
+        "shop_ids": [
+            "imperial"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$138購買原味蝴蝶酥精裝禮盒",
+        "title_en": "Fine Palmiers Gift Box for $138 in RewardBuy",
+        "start_date": "2025-11-20",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-rewardbuy-16362",
+        "shop_ids": [
+            "tartking"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$48購買Q嘜酥皮/牛油皮蛋撻(6件)",
+        "title_en": "6pcs Egg Tart Voucher for $48 in RewardBuy",
+        "start_date": "2026-01-15",
+        "end_date": "2026-03-31"
+    },
+    {
+        "id": "d-rewardbuy-87763",
+        "shop_ids": [
+            "imperial"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$118購買牛油脆曲奇精裝禮盒",
+        "title_en": "Butter Crisp Cookies Gift Box for $118 in RewardBuy",
+        "start_date": "2025-11-20",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-rewardbuy-69606",
+        "shop_ids": [
+            "orchidpadaria"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$45購買大裝芝士蛋糕",
+        "title_en": "Large Cheesecake for $45 in RewardBuy",
+        "start_date": "2025-10-01",
+        "end_date": "2026-03-04"
+    },
+    {
+        "id": "d-rewardbuy-90694",
+        "shop_ids": [
+            "orchidpadaria"
+        ],
+        "required_payment_ids": [
+            "rewardbuy"
+        ],
+        "title_zh": "於好賞買以$88購買$98手工曲奇",
+        "title_en": "Butter Crisp Cookies Gift Box for $118 in RewardBuy",
+        "start_date": "2025-10-01",
+        "end_date": "2026-03-04"
     }
 ]
