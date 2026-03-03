@@ -28,8 +28,20 @@ class DiscountTile extends StatelessWidget {
 
   Future<void> _launchUrl(String urlString) async {
     final Uri url = Uri.parse(urlString);
-    if (!await launchUrl(url)) {
-      // Could show a snackbar or log error here
+
+    // For deep links (non-http), or for specific platforms like RewardBuy (http),
+    // use externalApplication mode to force "open in new window" (browser/app).
+    LaunchMode mode = LaunchMode.platformDefault;
+    if (!urlString.startsWith('http') || urlString.contains('rewardbuy.shop')) {
+      mode = LaunchMode.externalApplication;
+    }
+
+    try {
+      if (!await launchUrl(url, mode: mode)) {
+        debugPrint('Could not launch $urlString');
+      }
+    } catch (e) {
+      debugPrint('Error launching $urlString: $e');
     }
   }
 

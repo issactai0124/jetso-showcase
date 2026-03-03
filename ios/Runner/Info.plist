@@ -66,5 +66,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>payme</string>
+		<string>alipayhk</string>
+		<string>klook</string>
+		<string>openrice</string>
+		<string>kkday</string>
+	</array>
 </dict>
 </plist>
