@@ -1,2 +1,0 @@
-title="AEON：周三新鮮日（4/3）"|shop="AEON"|text="任何人均可享受的普通特價優惠"|result=0
-title="大快活：晚市 阿活咖喱大蝦"|shop="大快活"|text="餐廳"|result=0
