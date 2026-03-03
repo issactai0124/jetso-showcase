@@ -1,3 +1,0 @@
-title="大快活：晚市 阿活咖喱大蝦"|shop="大快活"|text="餐廳"|result=0
-title="OK便利店：5天狂減（4-8/3）"|shop="OK便利店"|start_date="2024-03-04"|end_date="2024-03-08"|text="普通特價"|result=0
-title="萬寧：星期三氹氹你 優惠大放送（4/3）"|shop="萬寧"|applicable_days_of_week=3|text="沒有指定會員或支付方式，屬於任何人都可以享受的普通特價"|result=0
