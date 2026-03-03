@@ -15,3 +15,11 @@ title="OK 便利店：本週激筍（至8/3）"|shop="OK 便利店"|text="不符
 title="恆香老餅家：⽼婆餅節 消費送⼼形⽼婆餅（3/3、8/3、14/3、20/3）"|shop="恆香老餅家"|payment="伴侶形式同行"|min_spend=0|start_date="2024-03-03"|end_date="2024-03-20"|applicable_days_of_month="3,8,14,20"|text="指定日子（3/3、8/3、14/3、20/3）兩位顧客以伴侶形式同行，完成任何消費即可獲贈心形老婆餅一個"|result=1
 title="海港飲食：晚市優惠孖寶 / 蜜炙叉燒皇"|shop="海港飲食"|text="餐廳"|result=0
 title="麥當勞：全新 惹味東南亞系列 - 辣椒蟹醬煎蛋雞腿飽/南洋叻沙風味醬/冬蔭功風味Shake Shake粉/番石榴椰果梳打"|shop="麥當勞"|text="餐廳"|result=0
+title="萬寧：今日出位價（3/3）"|shop="萬寧"|payment="無"|min_spend="無"|rate="無"|amt="無"|start_date="2024-03-03"|end_date="2024-03-03"|applicable_days_of_week="無"|applicable_days_of_month="3"|text="今日出位價，無會員或特定支付方式要求，不符合嚴格條件。"|result=0
+title="惠康超級市場最新優惠（3/3）"|shop="惠康超級市場"|payment="恒生信用卡"|min_spend=300|rate=0.1|start_date="2024-05-01"|end_date="2024-05-31"|applicable_days_of_week="1,2,3,4,5"|applicable_days_of_month="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31"|text="逢星期一至五，於惠康超級市場簽賬滿$300，以恒生信用卡簽賬可享9折優惠"|result=1
+title="屈臣氏：自家品牌日 3件88折（3/3）"|shop="ERROR"|result=-1
+title="魚尚：魚尚日 半額（3月 逢星期二）"|shop="ERROR"|result=-1
+title="大家樂：呢啲GOOD價"|shop="ERROR"|result=-1
+title="GODIVA：夏日軟雪糕及飲品禮券套裝"|shop="GODIVA"|payment="Classic 及 Gold VIP"|min_spend=390|rate=0.57|amt=449|text="購買2套禮券，即可額外獲贈黑巧克力味軟雪糕換領券乙張及70%黑巧克力凍飲換領券乙張；購買3套，則可獲贈換領券各兩張；如此類推。Classic 及 Gold VIP 亦可同時享有折扣優惠。禮券套裝總值高達HK$839，購買一套需HK$390，相當於約57%折扣。"|result=1
+title="龍豐：每週至抵「豐搶價」（至9/3） "|shop="龍豐"|text="不符合商店類型"|result=0
+title="美心MX：新登場 和風丼飯系列"|shop="ERROR"|result=-1
