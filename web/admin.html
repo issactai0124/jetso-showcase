@@ -133,8 +133,40 @@
 <body>
 
     <div class="header">
-        <h1>RSS 優惠自動化審核後台</h1>
+        <div>
+            <h1>RSS 優惠自動化審核後台</h1>
+            <div id="source-selector" style="font-size: 14px; margin-top: 5px;">
+                來源:
+                <select id="data-source" onchange="toggleSource()">
+                    <option value="local">本地伺服器 (Localhost)</option>
+                    <option value="github">GitHub 存儲庫 (Direct API)</option>
+                </select>
+            </div>
+        </div>
         <button class="btn" onclick="submitData()">💾 儲存並套用 JSON (套用後將清空清單)</button>
+    </div>
+
+    <div id="github-settings" class="card" style="display:none; background: #e9ecef;">
+        <h3>⚙️ GitHub 設定 (資料儲存在瀏覽器本機)</h3>
+        <div class="form-row">
+            <div class="form-group">
+                <label>Repo Owner</label>
+                <input type="text" id="gh-owner" placeholder="例如: issactai0124" onchange="saveSettings()">
+            </div>
+            <div class="form-group">
+                <label>Repo Name</label>
+                <input type="text" id="gh-repo" placeholder="例如: jetso-showcase" onchange="saveSettings()">
+            </div>
+            <div class="form-group">
+                <label>Branch</label>
+                <input type="text" id="gh-branch" placeholder="main" value="main" onchange="saveSettings()">
+            </div>
+            <div class="form-group">
+                <label>Personal Access Token (fine-grained with Contents: write)</label>
+                <input type="password" id="gh-token" placeholder="ghp_xxx..." onchange="saveSettings()">
+            </div>
+        </div>
+        <p style="font-size: 12px; margin: 0; color: #666;">* 您的 Token 僅會儲存在您電腦的 localStorage，不會傳送到任何第三方伺服器。</p>
     </div>
 
     <div id="container">載入中...</div>
@@ -145,44 +177,111 @@
         let entries = [];
 
         async function init() {
+            // Smart Defaults from URL
+            if (location.hostname.endsWith('.github.io')) {
+                const pathParts = location.pathname.split('/').filter(p => p);
+                if (pathParts.length > 0) {
+                    const owner = location.hostname.split('.')[0];
+                    const repo = pathParts[0];
+                    if (!localStorage.getItem('gh-owner')) localStorage.setItem('gh-owner', owner);
+                    if (!localStorage.getItem('gh-repo')) localStorage.setItem('gh-repo', repo);
+                    if (!localStorage.getItem('data-source')) localStorage.setItem('data-source', 'github');
+                }
+            }
+
+            // Load settings
+            document.getElementById('gh-owner').value = localStorage.getItem('gh-owner') || '';
+            document.getElementById('gh-repo').value = localStorage.getItem('gh-repo') || '';
+            document.getElementById('gh-token').value = localStorage.getItem('gh-token') || '';
+            document.getElementById('gh-branch').value = localStorage.getItem('gh-branch') || 'main';
+            document.getElementById('data-source').value = localStorage.getItem('data-source') || 'local';
+            toggleSource(false);
+
             try {
+                await loadData();
+            } catch (e) {
+                document.getElementById('container').innerHTML = `<div class='error-card' style='padding:20px;'>啟動失敗，請確認來源設定正確 (${e.message})</div>`;
+            }
+        }
+
+        function toggleSource(reload = true) {
+            const source = document.getElementById('data-source').value;
+            localStorage.setItem('data-source', source);
+            document.getElementById('github-settings').style.display = source === 'github' ? 'block' : 'none';
+            if (reload) loadData();
+        }
+
+        function saveSettings() {
+            localStorage.setItem('gh-owner', document.getElementById('gh-owner').value);
+            localStorage.setItem('gh-repo', document.getElementById('gh-repo').value);
+            localStorage.setItem('gh-token', document.getElementById('gh-token').value);
+            localStorage.setItem('gh-branch', document.getElementById('gh-branch').value);
+        }
+
+        async function ghFetch(path) {
+            const owner = document.getElementById('gh-owner').value;
+            const repo = document.getElementById('gh-repo').value;
+            const token = document.getElementById('gh-token').value;
+            const branch = document.getElementById('gh-branch').value;
+
+            const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}?ref=${branch}`, {
+                headers: { 'Authorization': `token ${token}` }
+            });
+            if (!res.ok) throw new Error(`GitHub API Error: ${res.statusText}`);
+            const data = await res.json();
+            // Decode base64
+            const content = decodeURIComponent(escape(atob(data.content)));
+            return { content, sha: data.sha };
+        }
+
+        async function loadData() {
+            const source = document.getElementById('data-source').value;
+            const container = document.getElementById('container');
+            container.innerHTML = "載入中...";
+
+            if (source === 'local') {
                 const shopsRes = await fetch('/api/shops');
                 shops = await shopsRes.json();
-
                 const payRes = await fetch('/api/payments');
                 payments = await payRes.json();
-
                 const txtRes = await fetch('/api/toaddlist');
                 const txtData = await txtRes.json();
-                const rawText = txtData.text.trim();
-
-                if (!rawText) {
-                    document.getElementById('container').innerHTML = "<div class='empty-state'>🎉 目前沒有需要審核的新項目 (toaddlist.txt 為空)</div>";
-                    return;
-                }
-
-                const lines = rawText.split('\n');
-                entries = lines.filter(l => l.trim().length > 0).map((line, index) => {
-                    const obj = { _raw: line, _index: index, _target: 'none' };
-                    const parts = line.split('|');
-                    parts.forEach(p => {
-                        const eqIdx = p.indexOf('=');
-                        if (eqIdx > -1) {
-                            const key = p.substring(0, eqIdx).trim();
-                            let val = p.substring(eqIdx + 1).trim();
-                            if (val.startsWith('"') && val.endsWith('"')) val = val.substring(1, val.length - 1);
-                            if (!isNaN(val) && val !== '') val = Number(val);
-                            obj[key] = val;
-                        }
-                    });
-                    if (obj.result === 1) obj._target = 'discounts';
-                    return obj;
-                });
-
-                render();
-            } catch (e) {
-                document.getElementById('container').innerHTML = `<div class='error-card' style='padding:20px;'>啟動失敗，請確認 Python Admin Server 正常執行中 (${e.message})</div>`;
+                parseAndRender(txtData.text);
+            } else {
+                const shopsData = await ghFetch('assets/data/shops.json');
+                shops = JSON.parse(shopsData.content);
+                const payData = await ghFetch('assets/data/payment_methods.json');
+                payments = JSON.parse(payData.content);
+                const txtData = await ghFetch('assets/data/toaddlist.txt');
+                parseAndRender(txtData.content);
             }
+        }
+
+        function parseAndRender(rawText) {
+            const raw = rawText.trim();
+            if (!raw) {
+                document.getElementById('container').innerHTML = "<div class='empty-state'>🎉 目前沒有需要審核的新項目 (toaddlist.txt 為空)</div>";
+                return;
+            }
+
+            const lines = raw.split('\n');
+            entries = lines.filter(l => l.trim().length > 0).map((line, index) => {
+                const obj = { _raw: line, _index: index, _target: 'none' };
+                const parts = line.split('|');
+                parts.forEach(p => {
+                    const eqIdx = p.indexOf('=');
+                    if (eqIdx > -1) {
+                        const key = p.substring(0, eqIdx).trim();
+                        let val = p.substring(eqIdx + 1).trim();
+                        if (val.startsWith('"') && val.endsWith('"')) val = val.substring(1, val.length - 1);
+                        if (!isNaN(val) && val !== '') val = Number(val);
+                        obj[key] = val;
+                    }
+                });
+                if (obj.result === 1) obj._target = 'discounts';
+                return obj;
+            });
+            render();
         }
 
         function render() {
@@ -428,24 +527,74 @@
                 if (!ok) return;
             }
 
-            try {
-                const response = await fetch('/api/save', {
-                    method: 'POST',
-                    body: JSON.stringify({
-                        discounts: storeDiscounts,
-                        discounts_product: productDiscounts
-                    }),
-                    headers: { 'Content-Type': 'application/json' }
-                });
+            const source = document.getElementById('data-source').value;
 
-                if (response.ok) {
-                    alert('🎉 儲存成功！JSON 檔案已經自動擴寫，且 toaddlist.txt 已成功清空。');
-                    location.reload();
-                } else {
-                    alert('發生錯誤: ' + await response.text());
+            if (source === 'local') {
+                try {
+                    const response = await fetch('/api/save', {
+                        method: 'POST',
+                        body: JSON.stringify({
+                            discounts: storeDiscounts,
+                            discounts_product: productDiscounts
+                        }),
+                        headers: { 'Content-Type': 'application/json' }
+                    });
+
+                    if (response.ok) {
+                        alert('🎉 儲存成功！JSON 檔案已經自動擴寫，且 toaddlist.txt 已成功清空。');
+                        location.reload();
+                    } else {
+                        alert('發生錯誤: ' + await response.text());
+                    }
+                } catch (e) {
+                    alert('網路執行期間錯誤: ' + e.message);
                 }
-            } catch (e) {
-                alert('網路執行期間錯誤: ' + e.message);
+            } else {
+                // GitHub Integration
+                try {
+                    const owner = document.getElementById('gh-owner').value;
+                    const repo = document.getElementById('gh-repo').value;
+                    const token = document.getElementById('gh-token').value;
+                    const branch = document.getElementById('gh-branch').value;
+
+                    // 1. Fetch current JSONs to append
+                    const discData = await ghFetch('assets/data/discounts.json');
+                    const discList = JSON.parse(discData.content);
+                    discList.push(...storeDiscounts);
+
+                    const prodData = await ghFetch('assets/data/discounts_product.json');
+                    const prodList = JSON.parse(prodData.content);
+                    prodList.push(...productDiscounts);
+
+                    const txtData = await ghFetch('assets/data/toaddlist.txt');
+
+                    // 2. Commit updates (Sequentially to avoid conflicts)
+                    async function commitFile(path, content, sha, message) {
+                        const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`, {
+                            method: 'PUT',
+                            headers: {
+                                'Authorization': `token ${token}`,
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({
+                                message: message,
+                                content: btoa(unescape(encodeURIComponent(content))),
+                                sha: sha,
+                                branch: branch
+                            })
+                        });
+                        if (!res.ok) throw new Error(`Commit failed for ${path}: ${res.statusText}`);
+                    }
+
+                    await commitFile('assets/data/discounts.json', JSON.stringify(discList, null, 4), discData.sha, "Admin: Update discounts from panel");
+                    await commitFile('assets/data/discounts_product.json', JSON.stringify(prodList, null, 4), prodData.sha, "Admin: Update product discounts from panel");
+                    await commitFile('assets/data/toaddlist.txt', '', txtData.sha, "Admin: Clear toaddlist");
+
+                    alert('🎉 儲存成功！已直接提交 Commit 到 GitHub 存儲庫。');
+                    location.reload();
+                } catch (e) {
+                    alert('GitHub 提交失敗: ' + e.message);
+                }
             }
         }
 

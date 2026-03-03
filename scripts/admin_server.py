@@ -18,7 +18,7 @@ else:
 PORT = 8080
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "assets", "data")
-TOOLS_DIR = os.path.join(BASE_DIR, "tools")
+WEB_DIR = os.path.join(BASE_DIR, "web")
 
 class AdminHandler(http.server.SimpleHTTPRequestHandler):
     def end_headers(self):
@@ -32,7 +32,7 @@ class AdminHandler(http.server.SimpleHTTPRequestHandler):
             self.send_response(200)
             self.send_header("Content-type", "text/html; charset=utf-8")
             self.end_headers()
-            with open(os.path.join(TOOLS_DIR, "admin_panel.html"), "r", encoding="utf-8") as f:
+            with open(os.path.join(WEB_DIR, "admin.html"), "r", encoding="utf-8") as f:
                 self.wfile.write(f.read().encode('utf-8'))
         elif self.path == '/api/toaddlist':
             self.send_response(200)
