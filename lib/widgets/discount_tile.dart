@@ -30,22 +30,21 @@ class DiscountTile extends StatelessWidget {
   Future<void> _launchUrl(String urlString) async {
     final Uri url = Uri.parse(urlString);
 
-    // For deep links (non-http), or for specific platforms like RewardBuy (http),
-    // use externalApplication mode to force "open in new window" (browser/app).
-    LaunchMode mode = LaunchMode.platformDefault;
-
-    // Check if it's a deep link (custom scheme)
-    bool isDeepLink = !urlString.startsWith('http');
+    bool isHttp = urlString.startsWith('http');
     bool isRewardBuy = urlString.contains('rewardbuy.shop');
 
-    if (isDeepLink) {
-      // In mobile Browsers (GitHub Pages), opening deep links in a new tab causes a blank page.
-      // LaunchMode.inAppWebView on Web forces target="_self", which triggers the app without blank tab.
-      // On mobile App, platformDefault handles deep links correctly.
-      mode = kIsWeb ? LaunchMode.inAppWebView : LaunchMode.externalApplication;
-    } else if (isRewardBuy) {
-      // RewardBuy should always open in a new browser window/tab
+    LaunchMode mode;
+    if (isRewardBuy) {
+      // Force "open in new window" (External Browser / New Tab)
+      // This ensures it opens in a real browser even on native apps.
       mode = LaunchMode.externalApplication;
+    } else if (!isHttp) {
+      // For deep links (payme://):
+      // On Web: use inAppWebView (maps to _self) to avoid blank tab.
+      // On Native: use externalApplication to trigger other app.
+      mode = kIsWeb ? LaunchMode.inAppWebView : LaunchMode.externalApplication;
+    } else {
+      mode = LaunchMode.platformDefault;
     }
 
     try {
