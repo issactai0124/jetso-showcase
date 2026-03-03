@@ -392,8 +392,8 @@
         ],
         "title_zh": "於好賞買以$35購買$39標準裝咖啡券",
         "title_en": "Tall Coffee Voucher for $35 in RewardBuy",
-        "min_spend": 39.0,
-        "amount": 4.0,
+        "min_spend": 39,
+        "amount": 4,
         "start_date": "2026-02-13",
         "end_date": "2026-06-30"
     },
@@ -420,8 +420,8 @@
         ],
         "title_zh": "於好賞買以$58購買迷你裝意式雪糕禮券",
         "title_en": "Buy $65.0 Voucher for $58.0 in RewardBuy",
-        "min_spend": 65.0,
-        "amount": 7.0,
+        "min_spend": 65,
+        "amount": 7,
         "start_date": "2026-01-30",
         "end_date": "2026-06-30"
     },
