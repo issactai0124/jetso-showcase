@@ -224,10 +224,20 @@
             const token = document.getElementById('gh-token').value;
             const branch = document.getElementById('gh-branch').value;
 
+            if (!token) {
+                throw new Error("尚未設定 GitHub Token。請在上方設定中輸入您的 Personal Access Token。");
+            }
+
             const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}?ref=${branch}`, {
                 headers: { 'Authorization': `token ${token}` }
             });
-            if (!res.ok) throw new Error(`GitHub API Error: ${res.statusText}`);
+            if (!res.ok) {
+                let msg = res.statusText;
+                if (res.status === 401) msg = "Token 無效或已過期 (Unauthorized)";
+                if (res.status === 404) msg = "找不到檔案或存儲庫，請檢查 Owner/Repo 名稱以及 Token 權限 (Not Found)";
+                if (res.status === 403) msg = "API 存取受限，可能是 Token 權限不足或達到速率限制 (Forbidden)";
+                throw new Error(`GitHub API Error: ${res.status} ${msg}`);
+            }
             const data = await res.json();
             // Decode base64
             const content = decodeURIComponent(escape(atob(data.content)));
