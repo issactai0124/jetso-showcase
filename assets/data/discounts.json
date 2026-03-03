@@ -539,7 +539,7 @@
         ],
         "title_zh": "於OpenRice以$47.5購買$50禮券",
         "title_en": "Buy $50 Voucher for $47.5 in OpenRice",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 2.5,
         "start_date": "2025-12-22",
         "end_date": "2026-08-31"
@@ -925,8 +925,8 @@
         ],
         "title_zh": "於Klook以$86購買兩張$50現金券",
         "title_en": "Buy 2x $50 Cash Voucher for $86 in Klook",
-        "min_spend": 50.0,
-        "amount": 7.0,
+        "min_spend": 50,
+        "amount": 7,
         "start_date": "2025-05-12",
         "end_date": "2026-11-15"
     },
@@ -940,8 +940,8 @@
         ],
         "title_zh": "於Klook以$23購買$25現金券",
         "title_en": "Buy $25 Cash Voucher for $23 in Klook",
-        "min_spend": 25.0,
-        "amount": 2.0,
+        "min_spend": 25,
+        "amount": 2,
         "start_date": "2026-01-02",
         "end_date": "2027-06-30"
     },
@@ -955,8 +955,8 @@
         ],
         "title_zh": "於Klook以$45購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $45 in Klook",
-        "min_spend": 50.0,
-        "amount": 5.0,
+        "min_spend": 50,
+        "amount": 5,
         "start_date": "2026-01-02",
         "end_date": "2027-06-30"
     },
@@ -970,8 +970,8 @@
         ],
         "title_zh": "於Klook以$172購買4張$50現金券",
         "title_en": "Buy 4x $50 Cash Vouchers for $172 in Klook",
-        "min_spend": 40.0,
-        "amount": 7.0,
+        "min_spend": 40,
+        "amount": 7,
         "start_date": "2026-01-02",
         "end_date": "2027-06-30"
     },
@@ -985,8 +985,8 @@
         ],
         "title_zh": "於Klook以$36購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $36 in Klook",
-        "min_spend": 50.0,
-        "amount": 14.0,
+        "min_spend": 50,
+        "amount": 14,
         "end_date": "2026-06-30"
     },
     {
@@ -999,8 +999,8 @@
         ],
         "title_zh": "於Klook以$45購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $45 in Klook",
-        "min_spend": 50.0,
-        "amount": 5.0,
+        "min_spend": 50,
+        "amount": 5,
         "end_date": "2026-03-31"
     },
     {
@@ -1013,8 +1013,8 @@
         ],
         "title_zh": "於OpenRice以$36購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $36 in OpenRice",
-        "min_spend": 50.0,
-        "amount": 14.0,
+        "min_spend": 50,
+        "amount": 14,
         "start_date": "2026-01-16",
         "end_date": "2027-01-31"
     },
@@ -1028,7 +1028,7 @@
         ],
         "title_zh": "於OpenRice以$328購買11張$50現金券",
         "title_en": "Buy 11x $50 Cash Vouchers for $328 in OpenRice",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 20.1,
         "start_date": "2026-02-12",
         "end_date": "2026-08-31"
@@ -1043,7 +1043,7 @@
         ],
         "title_zh": "於OpenRice以$22購買$25現金券",
         "title_en": "Buy $25 Cash Voucher for $22 in OpenRice",
-        "amount": 3.0,
+        "amount": 3,
         "start_date": "2026-02-04",
         "end_date": "2026-10-31"
     },
@@ -1057,8 +1057,8 @@
         ],
         "title_zh": "於OpenRice以$45購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $45 in OpenRice",
-        "min_spend": 50.0,
-        "amount": 5.0,
+        "min_spend": 50,
+        "amount": 5,
         "start_date": "2026-01-01",
         "end_date": "2026-03-31"
     },
@@ -1072,7 +1072,7 @@
         ],
         "title_zh": "於kkday以$21購買$25現金券",
         "title_en": "Buy $25 Cash Voucher for $21 in KKday",
-        "amount": 4.0,
+        "amount": 4,
         "end_date": "2026-12-31"
     },
     {
@@ -1085,7 +1085,7 @@
         ],
         "title_zh": "於kkday以$40購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $40 in KKday",
-        "amount": 10.0,
+        "amount": 10,
         "end_date": "2026-12-31"
     },
     {
@@ -1098,7 +1098,7 @@
         ],
         "title_zh": "於kkday以$45購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $45 in KKday",
-        "amount": 5.0,
+        "amount": 5,
         "start_date": "2025-12-15",
         "end_date": "2026-06-30"
     },
@@ -1112,7 +1112,7 @@
         ],
         "title_zh": "於kkday以$40購買$50現金券（觀塘/佐敦店晚上8時前限定）",
         "title_en": "Buy $50 Cash Voucher for $40 in KKday (Kwun Tong/Jordan store before 8pm)",
-        "amount": 10.0,
+        "amount": 10,
         "end_date": "2026-06-30"
     },
     {
@@ -1125,7 +1125,7 @@
         ],
         "title_zh": "於好賞買以$22.5購買$25現金券（一田、誠品、UNY、LAB Concept、AEON、SOGO及指定專櫃門市除外）",
         "title_en": "Buy $25 Cash Voucher for $22.5 in RewardBuy",
-        "min_spend": 25.0,
+        "min_spend": 25,
         "amount": 2.5,
         "start_date": "2025-10-13",
         "end_date": "2026-05-06"
@@ -1140,8 +1140,8 @@
         ],
         "title_zh": "於好賞買以$48購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $48 in RewardBuy",
-        "min_spend": 50.0,
-        "amount": 2.0,
+        "min_spend": 50,
+        "amount": 2,
         "start_date": "2025-04-24",
         "end_date": "2026-04-25"
     },
@@ -1155,7 +1155,7 @@
         ],
         "title_zh": "於好賞買以$47.5購買$50飲食禮券",
         "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 2.5,
         "start_date": "2025-11-21",
         "end_date": "2026-06-30"
@@ -1170,8 +1170,8 @@
         ],
         "title_zh": "於好賞買以$19購買$20現金券",
         "title_en": "Buy $20 Cash Voucher for $19 in RewardBuy",
-        "min_spend": 20.0,
-        "amount": 1.0,
+        "min_spend": 20,
+        "amount": 1,
         "start_date": "2025-12-23",
         "end_date": "2026-06-30"
     },
@@ -1185,8 +1185,8 @@
         ],
         "title_zh": "於好賞買以$95購買$100飲食禮券",
         "title_en": "Buy $100.0 Voucher for $95.0 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 5.0,
+        "min_spend": 100,
+        "amount": 5,
         "start_date": "2025-11-10",
         "end_date": "2026-06-30"
     },
@@ -1200,8 +1200,8 @@
         ],
         "title_zh": "於好賞買以$20購買$25現金券",
         "title_en": "Buy $25 Cash Voucher for $20 in RewardBuy",
-        "min_spend": 25.0,
-        "amount": 5.0,
+        "min_spend": 25,
+        "amount": 5,
         "start_date": "2026-02-01",
         "end_date": "2026-04-30"
     },
@@ -1215,8 +1215,8 @@
         ],
         "title_zh": "於好賞買以$45購買$50現金禮券",
         "title_en": "Buy $50.0 Voucher for $45.0 in RewardBuy",
-        "min_spend": 50.0,
-        "amount": 5.0,
+        "min_spend": 50,
+        "amount": 5,
         "start_date": "2025-12-17",
         "end_date": "2026-12-31"
     },
@@ -1230,8 +1230,8 @@
         ],
         "title_zh": "於好賞買以$19購買$20現金禮券",
         "title_en": "Buy $20.0 Voucher for $19.0 in RewardBuy",
-        "min_spend": 20.0,
-        "amount": 1.0,
+        "min_spend": 20,
+        "amount": 1,
         "start_date": "2026-02-09",
         "end_date": "2026-08-31"
     },
@@ -1245,7 +1245,7 @@
         ],
         "title_zh": "於好賞買以$47.5購買$50現金禮券",
         "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 2.5,
         "start_date": "2025-11-10",
         "end_date": "2026-06-30"
@@ -1260,7 +1260,7 @@
         ],
         "title_zh": "於好賞買以$47.5購買$50現金禮券",
         "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 2.5,
         "start_date": "2026-01-19",
         "end_date": "2026-07-31"
@@ -1275,8 +1275,8 @@
         ],
         "title_zh": "於好賞買以$80購買$100現金禮券",
         "title_en": "Buy $100.0 Voucher for $80.0 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 20.0,
+        "min_spend": 100,
+        "amount": 20,
         "start_date": "2025-11-20",
         "end_date": "2026-12-31"
     },
@@ -1290,7 +1290,7 @@
         ],
         "title_zh": "於好賞買以$47.5購買$50現金禮券",
         "title_en": "Buy $50.0 Voucher for $47.5 in RewardBuy",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 2.5
     },
     {
@@ -1303,8 +1303,8 @@
         ],
         "title_zh": "於好賞買以$90購買$100現金禮券",
         "title_en": "Buy $100.0 Voucher for $90.0 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 10.0,
+        "min_spend": 100,
+        "amount": 10,
         "start_date": "2025-12-17",
         "end_date": "2026-12-31"
     },
@@ -1318,8 +1318,8 @@
         ],
         "title_zh": "於好賞買以$40購買$50現金禮券",
         "title_en": "Buy $50.0 Voucher for $40.0 in RewardBuy",
-        "min_spend": 50.0,
-        "amount": 10.0,
+        "min_spend": 50,
+        "amount": 10,
         "start_date": "2025-11-14",
         "end_date": "2026-03-31"
     },
@@ -1333,8 +1333,8 @@
         ],
         "title_zh": "於好賞買以$47購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $47 in RewardBuy",
-        "min_spend": 50.0,
-        "amount": 3.0,
+        "min_spend": 50,
+        "amount": 3,
         "start_date": "2025-12-23",
         "end_date": "2026-12-22"
     },
@@ -1348,8 +1348,8 @@
         ],
         "title_zh": "於好賞買以$94購買$100現金券",
         "title_en": "Buy $100 Cash Voucher for $94 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 6.0,
+        "min_spend": 100,
+        "amount": 6,
         "start_date": "2025-12-23",
         "end_date": "2026-12-22"
     },
@@ -1384,8 +1384,8 @@
         ],
         "title_zh": "於Klook以$32購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $32 in Klook",
-        "min_spend": 50.0,
-        "amount": 18.0,
+        "min_spend": 50,
+        "amount": 18,
         "start_date": "2024-06-15",
         "end_date": "2026-07-31"
     },
@@ -1399,8 +1399,8 @@
         ],
         "title_zh": "於Klook以$60購買2張$50現金券",
         "title_en": "Buy 2x $50 Cash Vouchers for $60 in Klook",
-        "min_spend": 50.0,
-        "amount": 20.0,
+        "min_spend": 50,
+        "amount": 20,
         "start_date": "2024-06-15",
         "end_date": "2026-07-31"
     },
@@ -1414,8 +1414,8 @@
         ],
         "title_zh": "於Klook以$47購買$50現金券",
         "title_en": "Buy $50 Cash Voucher for $47 in Klook",
-        "min_spend": 50.0,
-        "amount": 3.0
+        "min_spend": 50,
+        "amount": 3
     },
     {
         "id": "d-klook-chungkee-2",
@@ -1427,8 +1427,8 @@
         ],
         "title_zh": "於Klook以$89購買$100現金券",
         "title_en": "Buy $100 Cash Voucher for $89 in Klook",
-        "min_spend": 100.0,
-        "amount": 11.0
+        "min_spend": 100,
+        "amount": 11
     },
     {
         "id": "d-rewardbuy-75692",
@@ -1440,7 +1440,7 @@
         ],
         "title_zh": "於好賞買以$48.5購買$50禮券",
         "title_en": "Buy $50 Cash Voucher for $48.5 in RewardBuy",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 1.5,
         "end_date": "2026-10-21"
     },
@@ -1454,8 +1454,8 @@
         ],
         "title_zh": "於好賞買以$95購買$100禮券",
         "title_en": "Buy $100 Cash Voucher for $95 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 5.0,
+        "min_spend": 100,
+        "amount": 5,
         "start_date": "2026-03-02",
         "end_date": "2027-02-27"
     },
@@ -1469,8 +1469,8 @@
         ],
         "title_zh": "於好賞買以$45購買$50禮券",
         "title_en": "Buy $50 Cash Voucher for $45 in RewardBuy",
-        "min_spend": 50.0,
-        "amount": 5.0,
+        "min_spend": 50,
+        "amount": 5,
         "start_date": "2026-01-02",
         "end_date": "2026-12-31"
     },
@@ -1484,8 +1484,8 @@
         ],
         "title_zh": "於好賞買以$97購買$100電子禮券",
         "title_en": "Buy $100.0 Voucher for $97.0 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 3.0,
+        "min_spend": 100,
+        "amount": 3,
         "start_date": "2025-11-20",
         "end_date": "2026-05-31"
     },
@@ -1499,7 +1499,7 @@
         ],
         "title_zh": "於好賞買以$48.7購買$50電子禮券",
         "title_en": "Buy $50.0 Voucher for $48.7 in RewardBuy",
-        "min_spend": 50.0,
+        "min_spend": 50,
         "amount": 1.3,
         "start_date": "2025-11-20",
         "end_date": "2026-05-31"
@@ -1514,8 +1514,8 @@
         ],
         "title_zh": "於好賞買以$49購買$50禮券",
         "title_en": "Buy $50 Cash Voucher for $49 in RewardBuy",
-        "min_spend": 50.0,
-        "amount": 1.0,
+        "min_spend": 50,
+        "amount": 1,
         "start_date": "2025-12-01",
         "end_date": "2026-06-30"
     },
@@ -1529,8 +1529,8 @@
         ],
         "title_zh": "於好賞買以$98購買$100禮券",
         "title_en": "Buy $100 Cash Voucher for $98 in RewardBuy",
-        "min_spend": 100.0,
-        "amount": 2.0,
+        "min_spend": 100,
+        "amount": 2,
         "start_date": "2025-12-01",
         "end_date": "2026-06-30"
     }
