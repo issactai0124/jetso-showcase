@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:flutter/foundation.dart' show kIsWeb;
 import '../models/discount.dart';
 import '../models/payment_method.dart';
 import '../models/shop.dart';
@@ -32,7 +33,18 @@ class DiscountTile extends StatelessWidget {
     // For deep links (non-http), or for specific platforms like RewardBuy (http),
     // use externalApplication mode to force "open in new window" (browser/app).
     LaunchMode mode = LaunchMode.platformDefault;
-    if (!urlString.startsWith('http') || urlString.contains('rewardbuy.shop')) {
+
+    // Check if it's a deep link (custom scheme)
+    bool isDeepLink = !urlString.startsWith('http');
+    bool isRewardBuy = urlString.contains('rewardbuy.shop');
+
+    if (isDeepLink) {
+      // In mobile Browsers (GitHub Pages), opening deep links in a new tab causes a blank page.
+      // LaunchMode.inAppWebView on Web forces target="_self", which triggers the app without blank tab.
+      // On mobile App, platformDefault handles deep links correctly.
+      mode = kIsWeb ? LaunchMode.inAppWebView : LaunchMode.externalApplication;
+    } else if (isRewardBuy) {
+      // RewardBuy should always open in a new browser window/tab
       mode = LaunchMode.externalApplication;
     }
 
