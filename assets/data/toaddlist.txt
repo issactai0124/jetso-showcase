@@ -6,3 +6,6 @@ title="屈臣氏：星期三樂悠折（4/3）"|shop="屈臣氏"|payment="樂悠
 title="7-Eleven App：投選喜愛品牌 贏走豐富獎品（至17/3）"|shop="7-Eleven"|end_date="2024-03-17"|text="一般抽獎及投票活動"|result=0
 title="大家樂：會員限定 樂賞分快閃優惠（至5/3）/ 「最營之選」限時優惠（至9/3）"|shop="大家樂"|text="餐廳"|result=0
 title="759 阿信屋：勁抵價（至5/3）"|shop="759 阿信屋"|text="普通特價/減價宣傳"|result=0
+title="759 阿信屋：勁抵價（至5/3）"|shop="759 阿信屋"|end_date="2025-03-05"|text="普通特價/減價宣傳"|result=0
+title="元気寿司：全新「豪華三貫盛りフェア」餐目"|shop="元気寿司"|text="餐廳"|result=0
+title="鳳城酒家：優惠推介"|shop="鳳城酒家"|text="餐廳"|result=0
