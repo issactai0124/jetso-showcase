@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:flutter/foundation.dart' show kIsWeb;
 import '../models/discount.dart';
 import '../models/payment_method.dart';
 import '../models/shop.dart';
@@ -30,22 +29,13 @@ class DiscountTile extends StatelessWidget {
   Future<void> _launchUrl(String urlString) async {
     final Uri url = Uri.parse(urlString);
 
-    bool isHttp = urlString.startsWith('http');
     bool isRewardBuy = urlString.contains('rewardbuy.shop');
 
-    LaunchMode mode;
-    if (isRewardBuy) {
-      // Force "open in new window" (External Browser / New Tab)
-      // This ensures it opens in a real browser even on native apps.
-      mode = LaunchMode.externalApplication;
-    } else if (!isHttp) {
-      // For deep links (payme://):
-      // On Web: use inAppWebView (maps to _self) to avoid blank tab.
-      // On Native: use externalApplication to trigger other app.
-      mode = kIsWeb ? LaunchMode.inAppWebView : LaunchMode.externalApplication;
-    } else {
-      mode = LaunchMode.platformDefault;
-    }
+    // To restore the behavior where alipayhk worked, we use platformDefault for deep links.
+    // RewardBuy will still be forced to open externally (new tab/browser window).
+    LaunchMode mode = isRewardBuy
+        ? LaunchMode.externalApplication
+        : LaunchMode.platformDefault;
 
     try {
       if (!await launchUrl(url, mode: mode)) {

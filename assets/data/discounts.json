@@ -1533,5 +1533,24 @@
         "amount": 2,
         "start_date": "2025-12-01",
         "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-joy_you_card-10000",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "joy_you_card"
+        ],
+        "title_zh": "逢星期三全線產品可享95折",
+        "title_en": "5% off all products on Wednesdays with Joy You Card",
+        "rules": [
+            {
+                "applicable_days_of_week": [
+                    3
+                ]
+            }
+        ],
+        "rate": 0.05
     }
 ]
