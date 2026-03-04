@@ -8,15 +8,20 @@ A cross-platform Flutter application providing an elegant interface for searchin
 - **Categorized Rejection Feed**: Transparently shows exactly why certain discounts failed to apply using color-coded feedback (e.g., "Budget Requirement Not Met", "Missing Payment Method" - Red Border).
 - **Offline First**: Runs completely on the client using robust JSON-loaded catalogs (`shops.json`, `discounts.json`, `payment_methods.json`). User histories and settings are instantly saved using `shared_preferences`.
 - **Intelligent Presets**: Save complex search queries (target shop + specific budget) into a quick-access Preset list. Tapping a preset instantly launches a new search with pre-filled conditions.
-- **Deal Reminders**: Native integration allowing users to attach precise Date & Time alarms to individual expiring deals with deletion confirmation for safety.
+- **Deal Reminders & Push Notifications**: Native integration allowing users to attach precise Date & Time alarms to individual deals, triggering local push notifications on mobile devices.
+- **Deep Linking**: Seamlessly jumps out of the app directly into payment or booking platforms (PayMe, Alipay, Klook, OpenRice, KKday, etc.) using custom URL schemes and external browser launches.
+- **Automated AI Deal Scraping**: Powered by daily GitHub Actions and Gemini AI, unstructured RSS feeds are parsed and filtered against our strict schema, staging them in an internal "Admin Panel" for 1-click commits.
+- **Progressive Web App (PWA)**: Fully optimized for web deployments with custom masking icons and manifest configuration.
 - **Multi-Language Support**: Complete localization bridging `English (en)` and `Traditional Chinese (zh)`. Allows dynamically switching UI strings and database descriptions in real-time.
 - **Dynamic Theme System**: Modern Material 3 interface supporting Dark Mode and a refined "Deep Light Blue" Light Mode to optimize professional contrast.
 
 ## Tech Stack
-- **Framework**: Flutter (Web / Mobile ready)
+- **Framework**: Flutter (Web / Mobile ready / PWA)
 - **State Management**: Riverpod (`flutter_riverpod` + Notifier Providers)
 - **Data Persistence**: `shared_preferences`
-- **Date Formatting**: `intl`
+- **Native Integrations**: `url_launcher` (Deep Links), `flutter_local_notifications` (Push)
+- **Automation**: Python (`requests`, `gemini-pro`) + GitHub Actions
+- **Date Formatting**: `intl`, `timezone`
 - **UI Components**: Native Material 3 & Custom layout builders (e.g., `DiscountTile`, Flexbox grouping)
 
 ## Getting Started
