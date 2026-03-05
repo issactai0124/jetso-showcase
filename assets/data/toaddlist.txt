@@ -1,1 +1,6 @@
 title="KFC：全新 韓式蒜香醬巴辣雞粒桶飯（5/3起）"|shop="KFC"|text="餐廳"|result=0
+title="萬寧：今日出位價（5/3）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="惠康超級市場最新優惠（5/3）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求之詳情"|result=0
+title="樓上：最新優惠（5/3）"|shop="樓上"|text="任何人都可以享受的普通特價"|result=0
+title="崇光百貨：Coach Special Sale（至9/3）"|shop="崇光百貨"|text="百貨公司/服裝店"|result=0
+title="美心西餅：港鐵主題限定甜心酥及杏仁條 / 迷你忌廉泡芙"|shop="美心西餅"|text="任何人都可以享受的新品推廣"|result=0
