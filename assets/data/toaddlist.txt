@@ -5,3 +5,4 @@ title="傲齡手作市集（7/3）"|shop="傲齡手作市集"|text="不符合商
 title="意粉屋 The Spaghetti House：限定甜品半價優惠（至11/3）"|shop="意粉屋"|text="餐廳"|result=0
 title="觀塘區防災應急活動日（7/3）"|shop="觀塘區防災應急活動日"|text="非指定商店類型"|result=0
 title="屈臣氏：全場無門檻88折（7/3）"|shop="屈臣氏"|rate=0.12|text="任何人都可以享受的普通特價"|result=0
+title="優品360：本週優惠（至12/3）"|shop="優品360"|end_date="2025-03-12"|text="普通特價，非會員或特定支付方式專屬"|result=0
