@@ -1,0 +1,10 @@
+title="MTR Mobile：港鐵即時賞（6/3）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳超級市場最新優惠（6/3）"|shop="百佳超級市場"|text="普通特價宣傳"|result=0
+title="惠康超級市場最新優惠（6/3）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求，屬一般減價宣傳"|result=0
+title="屈臣氏最新購物優惠（6/3）"|shop="屈臣氏"|text="內容未提及會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（6/3）"|shop="萬寧"|text="普通特價，未註明會員或特定支付方式要求"|result=0
+title="阿波羅 Appolo：週末優惠（至8/3）"|shop="阿波羅 Appolo"|end_date="2025-03-08"|text="任何人都可以享受的普通特價"|result=0
+title="海馬牌：3.8婦女節 全單95折發售"|shop="海馬牌"|text="家具店"|result=0
+title="PizzaExpress：憑任何堂食消費 享「傳統薄餅半價」優惠（至8/3）"|shop="PizzaExpress"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至8/3）"|shop="Living Plaza / Daiso Japan"|end_date="2025-03-08"|text="週末優惠且無會員或特定支付門檻"|result=0
+title="聖安娜餅屋：黑芝麻系列2.0 / 口袋三文治 雙色雙味系列"|shop="聖安娜餅屋"|text="任何人都可以享受的普通特價、減價宣傳、新品推廣"|result=0
