@@ -1605,5 +1605,97 @@
         "amount": 8.5,
         "start_date": "2026-03-04",
         "end_date": "2026-03-17"
+    },
+    {
+        "id": "d-aplus_rewards-godiva-1000",
+        "shop_ids": [
+            "godiva"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$45購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $45 in A+ Rewards",
+        "min_spend": 50,
+        "amount": 5
+    },
+    {
+        "id": "d-aplus_rewards-godiva-1001",
+        "shop_ids": [
+            "godiva"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$90購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $90 in A+ Rewards",
+        "min_spend": 100,
+        "amount": 10
+    },
+    {
+        "id": "d-aplus_rewards-pacificcoffee-1000",
+        "shop_ids": [
+            "pacificcoffee"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$24購買$25現金券",
+        "title_en": "Buy $25 Cash Voucher for $24 in A+ Rewards",
+        "min_spend": 25,
+        "amount": 1
+    },
+    {
+        "id": "d-aplus_rewards-mrsfields-1000",
+        "shop_ids": [
+            "mrsfields"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$9.8購買$10現金券",
+        "title_en": "Buy $10 Cash Voucher for $9.8 in A+ Rewards",
+        "min_spend": 10,
+        "amount": 0.2
+    },
+    {
+        "id": "d-aplus_rewards-mrsfields-1001",
+        "shop_ids": [
+            "mrsfields"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$19.6購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $19.6 in A+ Rewards",
+        "min_spend": 20,
+        "amount": 0.4
+    },
+    {
+        "id": "d-hsbc_card-watsons-1000",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "hsbc_card"
+        ],
+        "title_zh": "以滙豐信用卡簽賬滿$500送$50現金券",
+        "title_en": "Spend $500 to get $50 Cash Voucher with HSBC Credit Card",
+        "min_spend": 500,
+        "amount": 50,
+        "start_date": "2026-03-01",
+        "end_date": "2026-05-31"
+    },
+    {
+        "id": "d-promo_code-watsons-1000",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "於網店輸入優惠碼可享88折",
+        "title_en": "12% off on eShop with promo code",
+        "rate": 0.12,
+        "start_date": "2026-03-07",
+        "end_date": "2026-03-07"
     }
 ]
