@@ -1,0 +1,4 @@
+title="AEON：女王購物節（至8/3）"|shop="AEON"|end_date="2024-03-08"|text="百貨公司及一般減價宣傳"|result=0
+title="一粥麵：午市 即叫即炒 滑蛋系列"|shop="一粥麵"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至10/3）"|shop="7-Eleven"|end_date="2024-03-10"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="傲齡手作市集（7/3）"|shop="傲齡手作市集"|text="不符合商店類型（小店/市集）"|result=0
