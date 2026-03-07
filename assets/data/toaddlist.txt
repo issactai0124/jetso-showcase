@@ -6,3 +6,8 @@ title="意粉屋 The Spaghetti House：限定甜品半價優惠（至11/3）"|sh
 title="觀塘區防災應急活動日（7/3）"|shop="觀塘區防災應急活動日"|text="非指定商店類型"|result=0
 title="屈臣氏：全場無門檻88折（7/3）"|shop="屈臣氏"|rate=0.12|text="任何人都可以享受的普通特價"|result=0
 title="優品360：本週優惠（至12/3）"|shop="優品360"|end_date="2025-03-12"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="萬寧：今日出位價（7/3）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（7/3）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（7/3）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="屈臣氏：火熱搶（7/3）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2025-03-07"|text="易賞錢會員買任何產品加$28換購QV潤膚膏"|result=1
+title="Chateraise：Japanese Strawberry Fair（至31/3）"|shop="Chateraise"|start_date="2026-03-06"|end_date="2026-03-31"|text="任何人都可以享受的新品推廣"|result=0
