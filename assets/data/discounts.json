@@ -1544,12 +1544,8 @@
         ],
         "title_zh": "逢星期三全線產品可享95折",
         "title_en": "5% off all products on Wednesdays with Joy You Card",
-        "rules": [
-            {
-                "applicable_days_of_week": [
-                    3
-                ]
-            }
+        "applicable_days_of_week": [
+            3
         ],
         "rate": 0.05
     },
@@ -1563,13 +1559,9 @@
         ],
         "title_zh": "逢星期三、四網購自取滿$100可享88折",
         "title_en": "12% off upon $100 spending on pick-up orders on Wed & Thu",
-        "rules": [
-            {
-                "applicable_days_of_week": [
-                    3,
-                    4
-                ]
-            }
+        "applicable_days_of_week": [
+            3,
+            4
         ],
         "rate": 0.12,
         "min_spend": 100,
@@ -1697,5 +1689,85 @@
         "rate": 0.12,
         "start_date": "2026-03-07",
         "end_date": "2026-03-07"
+    },
+    {
+        "id": "d-7eleven-20260305",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "買任何啤酒及指定零食滿$80可享8折(港鐵站店內舖滿$50即可）",
+        "title_en": "20% off beer & snacks upon $80 ($50 for MTR stores)",
+        "min_spend": 80,
+        "rate": 0.2,
+        "start_date": "2026-03-05",
+        "end_date": "2026-03-07"
+    },
+    {
+        "id": "d-yata-20260307-member",
+        "shop_ids": [
+            "yata"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "一田會員於一田超市/一田新鮮買滿$250可享9折",
+        "title_en": "YATA Member: 10% off groceries/fresh upon $250",
+        "min_spend": 250,
+        "rate": 0.1,
+        "start_date": "2026-03-07",
+        "end_date": "2026-03-08"
+    },
+    {
+        "id": "d-yata-20260307",
+        "shop_ids": [
+            "yata"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "非一田會員於一田超市/一田新鮮買滿$250可享95折",
+        "title_en": "Non-member: 5% off groceries/fresh upon $250",
+        "min_spend": 250,
+        "rate": 0.05,
+        "start_date": "2026-03-07",
+        "end_date": "2026-03-08"
+    },
+    {
+        "id": "d-sasa-20260308-vip",
+        "shop_ids": [
+            "sasa"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "莎莎VIP會員可享9折",
+        "title_en": "Sasa VIP: 10% off",
+        "rate": 0.1,
+        "start_date": "2026-03-08",
+        "end_date": "2026-03-08"
+    },
+    {
+        "id": "d-bigc-20260307",
+        "shop_ids": [
+            "bigc"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "購物滿$80可享85折（尖沙咀、旺角店除外）",
+        "title_en": "15% off upon $80 (Excl. TST, Mong Kok stores)",
+        "min_spend": 80,
+        "rate": 0.15,
+        "start_date": "2026-03-07",
+        "end_date": "2026-03-08"
+    },
+    {
+        "id": "d-mannings-20260308-promo",
+        "shop_ids": [
+            "mannings"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "全場無門檻88折（網店優惠碼：「26MARHH」）",
+        "title_en": "12% off storewide (E-shop Promo Code: '26MARHH')",
+        "rate": 0.12,
+        "start_date": "2026-03-08",
+        "end_date": "2026-03-08"
     }
 ]

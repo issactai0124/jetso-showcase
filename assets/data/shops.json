@@ -337,5 +337,19 @@
     "name_en": "Chung Kee Dessert",
     "category": "餅店甜品",
     "subcategory": "精緻甜品"
+  },
+  {
+    "id": "sasa",
+    "name_zh": "莎莎",
+    "name_en": "Sasa",
+    "category": "超市便利",
+    "subcategory": "藥粧護理"
+  },
+  {
+    "id": "bigc",
+    "name_zh": "Big C",
+    "name_en": "Big C",
+    "category": "食品食材",
+    "subcategory": "零食糧油"
   }
 ]
