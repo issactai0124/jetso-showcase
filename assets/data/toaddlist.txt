@@ -11,3 +11,6 @@ title="百佳超級市場最新優惠（7/3）"|shop="百佳超級市場"|text="
 title="惠康超級市場最新優惠（7/3）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
 title="屈臣氏：火熱搶（7/3）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2025-03-07"|text="易賞錢會員買任何產品加$28換購QV潤膚膏"|result=1
 title="Chateraise：Japanese Strawberry Fair（至31/3）"|shop="Chateraise"|start_date="2026-03-06"|end_date="2026-03-31"|text="任何人都可以享受的新品推廣"|result=0
+title="大家樂：茶餐 香酥豬扒滷香肉燥飯 $30 / 會員限定 砂窩雲吞雞 減$5（至15/3）"|shop="大家樂"|text="餐廳"|result=0
+title="Cottex：床上用品 盤點大清貨 低至1折"|shop="Cottex"|text="商店類型不符（家具店）且為一般減價優惠"|result=0
+title="OK便利店：會員至抵價（至11/3）"|shop="OK便利店"|payment="會員"|end_date="2024-03-11"|text="OK便利店會員可享至抵價優惠至3月11日"|result=1
