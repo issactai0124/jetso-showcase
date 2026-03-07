@@ -14,3 +14,5 @@ title="Chateraise：Japanese Strawberry Fair（至31/3）"|shop="Chateraise"|sta
 title="大家樂：茶餐 香酥豬扒滷香肉燥飯 $30 / 會員限定 砂窩雲吞雞 減$5（至15/3）"|shop="大家樂"|text="餐廳"|result=0
 title="Cottex：床上用品 盤點大清貨 低至1折"|shop="Cottex"|text="商店類型不符（家具店）且為一般減價優惠"|result=0
 title="OK便利店：會員至抵價（至11/3）"|shop="OK便利店"|payment="會員"|end_date="2024-03-11"|text="OK便利店會員可享至抵價優惠至3月11日"|result=1
+title="莎莎：VIP會員 全店無門檻 9折（8/3）"|shop="莎莎"|payment="VIP會員"|min_spend=0|rate=0.1|start_date="2024-03-08"|end_date="2024-03-08"|text="VIP會員全店無門檻享9折優惠"|result=1
+title="包點先生：3件凍包 88折（8/3）"|shop="包點先生"|rate=0.12|start_date="2024-03-08"|end_date="2024-03-08"|text="缺乏會員或特定支付方式門檻的普通特價"|result=0
