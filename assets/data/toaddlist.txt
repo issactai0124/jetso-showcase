@@ -1,0 +1,7 @@
+title="萬寧：今日出位價（8/3）"|shop="萬寧"|start_date="2024-03-08"|end_date="2024-03-08"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（8/3）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（8/3）"|shop="惠康"|min_spend=50|start_date="2026-03-06"|end_date="2026-04-02"|text="任何人均可參加的抽獎活動，非會員或特定支付方式專屬"|result=0
+title="元氣壽司： 惠顧送生日杏仁朱古力芝士蛋糕（8/3）"|shop="元氣壽司"|text="餐廳"|result=0
+title="蘇寧：春日購物節 低至36折（至2/4）"|shop="蘇寧"|text="電器店及普通特價"|result=0
+title="允記：春日限定 精選服裝優惠"|shop="允記"|payment="尊貴會員"|amt=20|text="服裝店"|result=0
+title="Pizza Hut：3月限定優惠 全日單點一律7折"|shop="Pizza Hut"|text="餐廳"|result=0
