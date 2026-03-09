@@ -11,3 +11,8 @@ title="麥當勞App：八達通App 付款滿$40 賞$5增值額（至15/3）"|sho
 title="簡簡單單 ecLIVING：春日大減價 3折起（至31/3）"|shop="ecLIVING"|text="家居用品店及普通減價"|result=0
 title="美心西餅：芒果 Mochi 芝士蛋糕"|shop="美心西餅"|payment="Eatizen美心薈會員"|rate=0.1|amt=25.8|text="Eatizen美心薈會員購買芒果Mochi芝士蛋糕可享9折優惠"|result=1
 title="Pizzz Hut：意粉/焗飯 買1送1"|shop="Pizza Hut"|text="餐廳"|result=0
+title="Häagen Dazs：開心分享套裝 55折（10-16/3）"|shop="Häagen-Dazs"|rate=0.45|start_date="2024-03-10"|end_date="2024-03-16"|text="任何人均可享用的普通特價"|result=0
+title="永安百貨：春季優質 床上用品展（至7/4）"|shop="永安百貨"|end_date="2024-04-07"|text="百貨公司"|result=0
+title="樂天皇朝：買叉燒小籠包 送原味小籠包（至30/4）"|shop="樂天皇朝"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至15/3）"|shop="OK便利店"|end_date="2024-03-15"|text="任何人都可以享受的普通特價"|result=0
+title="大快活：爆「抵」外賣 原隻豉油雞 / 孖寶"|shop="大快活"|text="餐廳"|result=0
