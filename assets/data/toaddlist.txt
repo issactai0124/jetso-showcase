@@ -10,3 +10,7 @@ title="壽司郎 Sushiro：新主菜單商品（10/3起）"|shop="壽司郎"|tex
 title="龍豐：每週至抵「豐搶價」（至16/3） "|shop="龍豐"|end_date="2024-03-16"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="MOS Burger：限時套餐優惠（至15/3）"|shop="MOS Burger"|text="餐廳"|result=0
 title="美心MX：快閃優惠 $26起（至23/3）"|shop="美心MX"|start_date="2026-03-10"|end_date="2026-03-23"|text="餐廳"|result=0
+title="i.t Bazaar Sale 3折起（11-16/3）"|shop="i.t"|text="服裝店"|result=0
+title="大家樂：外賣優惠 原隻沙薑雞(足一斤) $50"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：周3大特賣 / 新鮮日（11/3）"|shop="AEON"|text="百貨公司及任何人均可享有的普通特價"|result=0
+title="稻香：早D開飯 全新菜式"|shop="稻香"|text="餐廳"|result=0
