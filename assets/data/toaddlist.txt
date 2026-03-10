@@ -7,3 +7,6 @@ title="美心西餅：新登場 五穀希臘式乳酪系列"|shop="美心西餅"
 title="Lenovo：年度開倉 6折起（至16/3）"|shop="Lenovo"|text="電器"|result=0
 title="多彩皇宮酒樓：三重賞回饋街坊"|shop="多彩皇宮酒樓"|text="餐廳"|result=0
 title="壽司郎 Sushiro：新主菜單商品（10/3起）"|shop="壽司郎"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」（至16/3） "|shop="龍豐"|end_date="2024-03-16"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="MOS Burger：限時套餐優惠（至15/3）"|shop="MOS Burger"|text="餐廳"|result=0
+title="美心MX：快閃優惠 $26起（至23/3）"|shop="美心MX"|start_date="2026-03-10"|end_date="2026-03-23"|text="餐廳"|result=0
