@@ -14,3 +14,4 @@ title="永安百貨：準備去旅行（至7/4）"|shop="永安百貨"|end_date=
 title="美心MX：晚市外賣自取 鮮茄焗豬扒飯 $39 / 外賣加餸 港式燒味 8折優惠（至23/3）"|shop="美心MX"|text="餐廳"|result=0
 title="7-Eleven：限時加推「一口價」 $10（至24/3）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
 title="大家樂：晚市 雲吞雞鍋2人餐 $99（12-16/3）"|shop="大家樂"|start_date="2024-03-12"|end_date="2024-03-16"|applicable_days_of_month=12,13,14,15,16|text="餐廳"|result=0
+title="KFC：肯！抵DEAL（12-25/3）"|shop="KFC"|text="餐廳"|result=0
