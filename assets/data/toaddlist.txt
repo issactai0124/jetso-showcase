@@ -1,2 +1,13 @@
 title="OK 便利店：5天狂減（11-15/3）"|shop="OK 便利店"|start_date="2024-03-11"|end_date="2024-03-15"|text="普通特價，無會員或特定支付門檻"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（10/3）"|shop="萬寧"|start_date="2021-03-10"|end_date="2021-03-10"|applicable_days_of_week=3|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（11/3）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（11/3）"|shop="百佳超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="屈臣氏：星期三樂悠折（11/3）"|shop="屈臣氏"|payment="樂悠咭"|start_date="2026-03-11"|end_date="2026-03-11"|applicable_days_of_week=3|text="持樂悠咭於星期三在屈臣氏購物可享樂悠折優惠"|result=1
+title="7-Eleven：最新優惠（11/3）"|shop="7-Eleven"|start_date="2026-03-11"|end_date="2026-03-17"|text="任何人都可以享受的普通特價/贈品優惠，缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：「呢啲Good價」早餐 / 港式咖喱 送巨峰提子乳酸梳打（至16/3）"|shop="大家樂"|start_date="2026-03-10"|end_date="2026-03-16"|text="餐廳"|result=0
+title="韓印紅：最新優惠（至18/3）"|shop="韓印紅"|end_date="2024-03-18"|text="普通特價"|result=0
+title="聖安娜餅屋：全新「麻糬芒果蛋糕」/ $16至抵價（至18/3）"|shop="聖安娜餅屋"|payment="金會員"|rate=0.15|end_date="2024-03-18"|text="金會員購買指定麻糬芒果蛋糕可享低至85折優惠"|result=1
+title="一粥麵：外賣優惠 紅燒原隻豬手/原隻鹽焗雞（至13/3）"|shop="一粥麵"|text="餐廳"|result=0
+title="日本城：$100任揀3件"|shop="日本城"|text="普通特價及非指定商店類型"|result=0
+title="東海堂：全新「芒果忌廉蛋糕」/ 午間驚喜優惠（至23/3）"|shop="東海堂"|start_date="2024-03-10"|end_date="2024-03-23"|applicable_days_of_week=1,2,3,4,5|text="任何人均可享用的普通特價優惠"|result=0
+title="永安百貨：準備去旅行（至7/4）"|shop="永安百貨"|end_date="2024-04-07"|text="百貨公司"|result=0
