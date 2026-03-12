@@ -13,3 +13,5 @@ title="7-Eleven：6天限定（至17/3）"|shop="7-Eleven"|start_date="2026-03-1
 title="屈臣氏：指定分店 護膚美妝福袋 $99"|shop="屈臣氏"|text="任何人都可以享受的普通特價"|result=0
 title="半島漁港 ：晚市 燒味3選1 $1"|shop="半島漁港"|text="餐廳"|result=0
 title="雅芳婷 afontane：年度開倉 低至1折（13-22/3、27/3-7/4）"|shop="雅芳婷"|start_date="2024-03-13"|end_date="2024-04-07"|text="家具店"|result=0
+title="維他奶山水鮮豆漿：免費派發（13-16/3、20-23/3、27-30/3）"|shop="維他奶"|text="任何人都可以享受的免費派發"|result=0
+title="AEON：櫻花春日節 / 休閒T-shirt特集 / 環遊世界（13-25/3）"|shop="AEON"|start_date="2024-03-13"|end_date="2024-03-25"|text="百貨公司及普通特價推廣"|result=0
