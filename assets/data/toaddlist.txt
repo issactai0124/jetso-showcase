@@ -10,3 +10,6 @@ title="鳳城酒家：特價套餐"|shop="鳳城酒家"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - 新色彩•新剪裁 新風格美學"|shop="Uniqlo"|text="服裝店"|result=0
 title="一粥麵：全日4市連環優惠"|shop="一粥麵"|text="餐廳"|result=0
 title="7-Eleven：6天限定（至17/3）"|shop="7-Eleven"|start_date="2026-03-12"|end_date="2026-03-17"|text="任何人均可享受的普通特價"|result=0
+title="屈臣氏：指定分店 護膚美妝福袋 $99"|shop="屈臣氏"|text="任何人都可以享受的普通特價"|result=0
+title="半島漁港 ：晚市 燒味3選1 $1"|shop="半島漁港"|text="餐廳"|result=0
+title="雅芳婷 afontane：年度開倉 低至1折（13-22/3、27/3-7/4）"|shop="雅芳婷"|start_date="2024-03-13"|end_date="2024-04-07"|text="家具店"|result=0
