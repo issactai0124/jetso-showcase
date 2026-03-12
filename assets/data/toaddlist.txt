@@ -6,3 +6,7 @@ title="7-Eleven：指定店舖 買滿$100 即享8折（至14/3）"|shop="7-Eleve
 title="山崎麵包：3月特價の選"|shop="山崎麵包"|text="普通特價"|result=0
 title="BigC：今期精選品牌推介（至31/3）"|shop="BigC"|end_date="2024-03-31"|text="沒有門檻的普通特價"|result=0
 title="屈臣氏：買指定舒適達牙膏 總值$332.9豐富禮品（至17/3）"|shop="屈臣氏"|end_date="2024-03-17"|text="沒有門檻的普通特價"|result=0
+title="鳳城酒家：特價套餐"|shop="鳳城酒家"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 新色彩•新剪裁 新風格美學"|shop="Uniqlo"|text="服裝店"|result=0
+title="一粥麵：全日4市連環優惠"|shop="一粥麵"|text="餐廳"|result=0
+title="7-Eleven：6天限定（至17/3）"|shop="7-Eleven"|start_date="2026-03-12"|end_date="2026-03-17"|text="任何人均可享受的普通特價"|result=0
