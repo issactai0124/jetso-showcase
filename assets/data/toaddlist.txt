@@ -30,3 +30,5 @@ title="Living Plaza / Daiso Japan：週末優惠（至15/3）"|shop="Living Plaz
 title="KFC：期間限定「濃の抹茶葡撻」"|shop="KFC"|text="餐廳"|result=0
 title="海馬牌：產品 低至45折發售"|shop="海馬牌"|text="家具店"|result=0
 title="吉野家：全新「醬煮豚肉丼」"|shop="吉野家"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至17/3）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="海港飲食：超值午市．全包宴"|shop="海港飲食"|text="餐廳"|result=0
