@@ -32,3 +32,7 @@ title="海馬牌：產品 低至45折發售"|shop="海馬牌"|text="家具店"|r
 title="吉野家：全新「醬煮豚肉丼」"|shop="吉野家"|text="餐廳"|result=0
 title="7-Eleven：本週優惠（至17/3）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
 title="海港飲食：超值午市．全包宴"|shop="海港飲食"|text="餐廳"|result=0
+title="麥當勞App：香芋批  $3.14（14/3）/ 玩「解碼π對 Let’s Pie-ty」遊戲 贏「30日免費蘋果批金卡」"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：週末勁減（至15/3）"|shop="AEON"|end_date="2024-03-15"|text="百貨公司及任何人均可享有的週末優惠"|result=0
+title="大快活：晚市 海鮮小菜"|shop="大快活"|text="餐廳"|result=0
+title="優品360：最新「至優價」（至26/3）"|shop="優品360"|end_date="2025-03-26"|text="普通特價宣傳"|result=0
