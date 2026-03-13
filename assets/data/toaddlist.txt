@@ -15,3 +15,18 @@ title="半島漁港 ：晚市 燒味3選1 $1"|shop="半島漁港"|text="餐廳"|
 title="雅芳婷 afontane：年度開倉 低至1折（13-22/3、27/3-7/4）"|shop="雅芳婷"|start_date="2024-03-13"|end_date="2024-04-07"|text="家具店"|result=0
 title="維他奶山水鮮豆漿：免費派發（13-16/3、20-23/3、27-30/3）"|shop="維他奶"|text="任何人都可以享受的免費派發"|result=0
 title="AEON：櫻花春日節 / 休閒T-shirt特集 / 環遊世界（13-25/3）"|shop="AEON"|start_date="2024-03-13"|end_date="2024-03-25"|text="百貨公司及普通特價推廣"|result=0
+title="MTR Mobile：港鐵即時賞（13/3）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（13/3）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（13/3）"|shop="惠康超級市場"|text="普通特價/缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏最新購物優惠（13/3）"|shop="屈臣氏"|min_spend=99|start_date="2026-03-11"|end_date="2026-03-17"|text="缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（13/3）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：早餐 松露蘑菇雞粒3.6牛乳炒蛋 / 茶市 +$3換購二寶果汁橡皮糖"|shop="大家樂"|text="餐廳"|result=0
+title="牙膏最新優惠（13/3）"|shop="不詳"|text="資訊不足且未提及會員或特定支付方式要求"|result=0
+title="榮華：網店 指定產品 買2送1（至15/3）"|shop="榮華"|start_date="2026-03-13"|end_date="2026-03-15"|text="任何人均可享受的普通特價"|result=0
+title="阿波羅 Appolo：週末優惠（至15/3）"|shop="阿波羅 Appolo"|end_date="2024-03-15"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="日本城：買滿$68 送$20現金優惠券"|shop="日本城"|min_spend=68|amt=20|text="任何人均可享用的普通特價優惠，不符合會員或特定支付方式要求"|result=0
+title="元気寿司：網上訂購 自選壽司盛"|shop="元気寿司"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至15/3）"|shop="Living Plaza / Daiso Japan"|end_date="2024-03-15"|text="任何人均可享有的週末優惠"|result=0
+title="KFC：期間限定「濃の抹茶葡撻」"|shop="KFC"|text="餐廳"|result=0
+title="海馬牌：產品 低至45折發售"|shop="海馬牌"|text="家具店"|result=0
+title="吉野家：全新「醬煮豚肉丼」"|shop="吉野家"|text="餐廳"|result=0
