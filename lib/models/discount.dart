@@ -69,6 +69,7 @@ class Discount {
   final DiscountSchedule schedule;
   final DiscountReward rewards;
   final bool isProduct;
+  final String? url;
 
   Discount({
     required this.id,
@@ -80,6 +81,7 @@ class Discount {
     required this.schedule,
     required this.rewards,
     this.isProduct = false,
+    this.url,
   });
 
   factory Discount.fromJson(Map<String, dynamic> json) {
@@ -95,6 +97,7 @@ class Discount {
         json,
       ), // Pass the root json instead of json['rewards']
       isProduct: json['is_product'] ?? false,
+      url: json['url'],
     );
   }
 }

@@ -1769,5 +1769,19 @@
         "rate": 0.12,
         "start_date": "2026-03-08",
         "end_date": "2026-03-08"
+    },
+    {
+        "id": "d-7eleven-20260312",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "指定店舖買滿$100可享8折",
+        "title_en": "20% off upon $100 spending at selected stores",
+        "min_spend": 100,
+        "rate": 0.2,
+        "start_date": "2026-03-12",
+        "end_date": "2026-03-14",
+        "url": "https://bit.ly/4sysmlz"
     }
 ]

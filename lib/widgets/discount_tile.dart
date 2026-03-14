@@ -30,10 +30,11 @@ class DiscountTile extends StatelessWidget {
     final Uri url = Uri.parse(urlString);
 
     bool isRewardBuy = urlString.contains('rewardbuy.shop');
+    bool isHttp = urlString.startsWith('http');
 
-    // To restore the behavior where alipayhk worked, we use platformDefault for deep links.
-    // RewardBuy will still be forced to open externally (new tab/browser window).
-    LaunchMode mode = isRewardBuy
+    // For generic HTTP URLs and RewardBuy, we force externalApplication to open in a new tab/browser.
+    // For app deep links (alipayhk://, payme://), we use platformDefault.
+    LaunchMode mode = (isRewardBuy || isHttp)
         ? LaunchMode.externalApplication
         : LaunchMode.platformDefault;
 
@@ -263,6 +264,15 @@ class DiscountTile extends StatelessWidget {
                   ],
                 ),
               ),
+              if (discount.url != null)
+                IconButton(
+                  icon: Icon(
+                    Icons.open_in_new,
+                    color: Theme.of(context).colorScheme.secondary,
+                  ),
+                  tooltip: l10n.openWebsite,
+                  onPressed: () => _launchUrl(discount.url!),
+                ),
               IconButton(
                 icon: Icon(
                   Icons.alarm_add,
