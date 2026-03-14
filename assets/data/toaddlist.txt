@@ -36,3 +36,10 @@ title="麥當勞App：香芋批  $3.14（14/3）/ 玩「解碼π對 Let’s Pie-
 title="AEON：週末勁減（至15/3）"|shop="AEON"|end_date="2024-03-15"|text="百貨公司及任何人均可享有的週末優惠"|result=0
 title="大快活：晚市 海鮮小菜"|shop="大快活"|text="餐廳"|result=0
 title="優品360：最新「至優價」（至26/3）"|shop="優品360"|end_date="2025-03-26"|text="普通特價宣傳"|result=0
+title="萬寧：今日出位價（14/3）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（14/3）"|shop="百佳超級市場"|text="普通特價或缺乏會員/支付方式門檻"|result=0
+title="惠康超級市場最新優惠（14/3）"|shop="惠康超級市場"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="屈臣氏：火熱搶（14/3）"|shop="屈臣氏"|start_date="2024-03-14"|text="普通特價，沒有會員或特定支付方式要求"|result=0
+title="馬拉松 Marathon Sports：免費送「香記伯爵紅茶掛耳濾包」（至15/3）"|shop="馬拉松"|payment="追蹤IG"|start_date="2024-03-13"|end_date="2024-03-15"|text="服裝店"|result=0
+title="GU：本週會員優惠（至19/3）"|shop="GU"|text="服裝店"|result=0
+title="美心MX：港式茶餐廳經典 - 枝竹腩肉飯 / 栗子滑雞飯"|shop="美心MX"|text="餐廳"|result=0
