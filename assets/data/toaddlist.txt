@@ -2,3 +2,6 @@ title="一田超市：挑戰特價（至19/3）"|shop="一田超市"|end_date="2
 title="八達通：Sanrio characters 3D八達通配飾"|shop="八達通"|text="新品推廣"|result=0
 title="Uniqlo：本週優惠（至19/3）"|shop="Uniqlo"|end_date="2025-03-19"|text="服裝店"|result=0
 title="佳宝食品超級市場：全場貨品 8折優惠（15-19/3）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-03-15"|end_date="2026-03-19"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：今日出位價（15/3）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（15/3）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（15/3）"|shop="惠康超級市場"|min_spend=50|start_date="2026-03-06"|end_date="2026-04-02"|text="任何人均可參加的抽獎活動，非會員專屬或特定支付方式優惠"|result=0
