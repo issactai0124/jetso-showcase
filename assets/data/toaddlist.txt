@@ -15,3 +15,4 @@ title="九龍香格里拉酒店：「香聚麵包」午餐放題（27/3-12/4）"
 title="意粉屋 The Spaghetti House：指定分店 全日88折（16-29/3）/ 午市套餐 加$1任食蒜蓉包（至31/3）"|shop="意粉屋"|text="餐廳"|result=0
 title="龍豐：推廣員駐場限定優惠（16-22/3）"|shop="龍豐"|start_date="2024-03-16"|end_date="2024-03-22"|text="缺乏會員或特定支付方式門檻"|result=0
 title="Häagen-Dazs：外賣單球雪糕 $33/客（至23/3）"|shop="Häagen-Dazs"|start_date="2024-03-15"|end_date="2024-03-23"|text="任何人都可以享受的普通特價"|result=0
+title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/3）"|shop="IKEA"|text="餐廳、家具店"|result=0
