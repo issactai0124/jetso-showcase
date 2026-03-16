@@ -14,3 +14,4 @@ title="六合彩：幸運二金多寶 $8000萬（17/3）"|shop="香港賽馬會"
 title="MOS Burger：新品 蘋果系列特飲 X 櫻花雪米糍"|shop="MOS Burger"|text="餐廳及新品推廣"|result=0
 title="美心MX：Eatizen會員 $1換購「凍厚椰拿鐵」（至29/3）"|shop="美心MX"|payment="Eatizen會員"|end_date="2026-03-29"|text="餐廳"|result=0
 title="OK便利店：本週激筍（至22/3）"|shop="OK便利店"|end_date="2024-03-22"|text="普通特價/減價宣傳"|result=0
+title="壽司郎 Sushiro：白碟快閃優惠 $10（17/3起）"|shop="壽司郎"|text="餐廳"|result=0
