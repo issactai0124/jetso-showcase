@@ -6,3 +6,5 @@ title="惠康超級市場最新優惠（16/3）"|shop="惠康超級市場"|text=
 title="天仁茗茶：益力多系列茶飲"|shop="天仁茗茶"|text="一般產品推廣，非會員或特定支付優惠"|result=0
 title="大家樂：APP升級大激賞"|shop="大家樂"|text="餐廳"|result=0
 title="太興：外賣限定 古法玫瑰豉油雞"|shop="太興"|text="餐廳"|result=0
+title="美心MX：手機點餐 堂食/外賣自取 全日8折（至12/4）"|shop="美心MX"|rate=0.2|start_date="2026-03-16"|end_date="2026-04-12"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至29/3）"|shop="759 阿信屋"|end_date="2024-03-29"|text="普通特價"|result=0
