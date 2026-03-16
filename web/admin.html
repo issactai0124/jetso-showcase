@@ -487,10 +487,6 @@
                     alert(`第 ${i + 1} 筆優惠未選擇關聯商舖！`);
                     throw new Error("Missing shop");
                 }
-                if (payIds.length === 0) {
-                    alert(`第 ${i + 1} 筆優惠未選擇特定支付方式！`);
-                    throw new Error("Missing payment");
-                }
 
                 const zh = document.getElementById(`zh-${i}`).value;
                 const en = document.getElementById(`en-${i}`).value;

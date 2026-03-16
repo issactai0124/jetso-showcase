@@ -1783,5 +1783,17 @@
         "start_date": "2026-03-12",
         "end_date": "2026-03-14",
         "url": "https://bit.ly/4sysmlz"
+    },
+    {
+        "id": "d-kaibo-20260315",
+        "shop_ids": [
+            "kaibo"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "可享8折",
+        "title_en": "20% off",
+        "rate": 0.2,
+        "start_date": "2026-03-15",
+        "end_date": "2026-03-19"
     }
 ]
