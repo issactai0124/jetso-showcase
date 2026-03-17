@@ -8,3 +8,9 @@ title="PayMe：麥當勞 $5快閃折扣優惠券（至29/3）"|shop="麥當勞"|
 title="大生生活超市：買滿$100 送$20單尾現金券（至30/4）"|shop="大生生活超市"|min_spend=100|amt=20|end_date="2024-04-30"|text="任何人均可享用的普通優惠，缺乏會員或特定支付方式門檻"|result=0
 title="元氣壽司：三貫盛りフェア 第二彈"|shop="元氣壽司"|text="餐廳"|result=0
 title="奇華餅家：今期推介（至19/3）"|shop="奇華餅家"|end_date="2024-03-19"|text="任何人都可以享受的普通特價"|result=0
+title="龍豐：每週至抵「豐搶價」（至23/3） "|shop="龍豐"|end_date="2024-03-23"|text="任何人都可以享受的普通特價"|result=0
+title="名牌服飾開倉 低至1折（18-23/3）"|shop="名牌服飾"|start_date="2024-03-18"|end_date="2024-03-23"|text="服裝店"|result=0
+title="東海堂：全新 披薩包 Pizza Bun 系列"|shop="東海堂"|text="任何人都可以享受的新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="Marathon Sports 馬拉松便服及運動名牌開倉 低至2折（18-23/3）"|shop="Marathon Sports 馬拉松"|start_date="2024-03-18"|end_date="2024-03-23"|text="服裝店"|result=0
+title="榮華：蛋黃酥"|shop="榮華"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="AEON：周三新鮮日（18/3）"|shop="AEON"|text="任何人都可以享受的普通特價"|result=0
