@@ -18,3 +18,11 @@ title="客家好棧 / 客館：晚市3重奏"|shop="客家好棧 / 客館"|text=
 title="OK便利店：5天狂減（18-22/3）"|shop="OK便利店"|start_date="2024-03-18"|end_date="2024-03-22"|text="普通特價宣傳，無須特定支付方式或會員身份"|result=0
 title="759阿信屋：勁抵價（18-19/3）"|shop="759阿信屋"|start_date="2024-03-18"|end_date="2024-03-19"|text="普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（18/3）"|shop="萬寧"|start_date="2026-03-18"|applicable_days_of_week=3|text="普通特價，任何人均可享有"|result=0
+title="MTR Mobile：港鐵即時賞（18/3）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（18/3）"|shop="百佳超級市場"|text="普通特價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="屈臣氏：星期三樂悠折（18/3）"|shop="屈臣氏"|payment="樂悠咭"|start_date="2026-03-18"|end_date="2026-03-18"|applicable_days_of_week=3|text="樂悠咭持有人於3月18日星期三在屈臣氏購物可享樂悠折優惠"|result=1
+title="莎莎：獨家獎賞日（18/3）"|shop="莎莎"|payment="會員"|start_date="2024-03-18"|end_date="2024-03-18"|text="莎莎於3月18日舉行會員獨家獎賞日"|result=1
+title="惠康超級市場最新優惠（18/3）"|shop="惠康超級市場"|text="普通特價"|result=0
+title="宜家 IKEA：銅鑼灣店 早餐 $9.9起"|shop="IKEA"|text="家具店及餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品 / APP限定 百萬分感謝祭（至31/3）"|shop="7-Eleven"|text="普通特價/新品推廣"|result=0
+title="一粥麵：晚市 啫啫煲仔菜 配私房靚湯"|shop="一粥麵"|text="餐廳"|result=0
