@@ -2,3 +2,14 @@ title="永安百貨：西式食材巡禮（至13/4）"|shop="永安百貨"|end_d
 title="華御結：指定御結 $12（19-20/3、23-25/3）"|shop="華御結"|text="任何人都可以享受的普通特價"|result=0
 title="一田：春の好物日本祭（19/3-1/4）"|shop="一田"|start_date="2024-03-19"|end_date="2024-04-01"|text="百貨公司及普通特價宣傳"|result=0
 title="百福豆品：免費派「百福樽裝豆漿」（19-22/3、27-29/3）"|shop="百福豆品"|text="任何人均可參與的社交媒體推廣活動，非會員專屬或特定支付方式優惠"|result=0
+title="萬寧：今日出位價（19/3）"|shop="萬寧"|start_date="2024-03-19"|end_date="2024-03-19"|text="任何人均可享受的普通特價"|result=0
+title="惠康超級市場最新優惠（19/3）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="樓上 / 大棧：最新優惠（19/3）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="7-Eleven：買雪糕滿$80 即享8折優惠（至21/3）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="吉野家：全新「楓糖冬甩」套餐 $16起"|shop="吉野家"|text="餐廳"|result=0
+title="聖安娜餅屋：All Day Combo"|shop="聖安娜餅屋"|text="缺乏會員或特定支付方式門檻"|result=0
+title="屈臣氏：買指定高露潔牙膏4支 送總值高達$653禮品（至24/3）"|shop="屈臣氏"|text="任何人均可享用的普通特價/贈品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="奇華餅家：Line Friends西式嫁喜系列 / 迪士尼公主系列禮盒"|shop="奇華餅家"|text="新品推廣，無會員或特定支付門檻"|result=0
+title="U士多：秒殺價（至2/4）"|shop="U士多"|end_date="2024-04-02"|text="任何人均可享受的普通特價"|result=0
+title="譚仔三哥米線：全素版 濃Full茄湯米"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 時尚高品質 多場景穿搭推薦"|shop="Uniqlo"|text="服裝店"|result=0
