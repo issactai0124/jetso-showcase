@@ -14,3 +14,8 @@ title="U士多：秒殺價（至2/4）"|shop="U士多"|end_date="2024-04-02"|tex
 title="譚仔三哥米線：全素版 濃Full茄湯米"|shop="譚仔三哥米線"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - 時尚高品質 多場景穿搭推薦"|shop="Uniqlo"|text="服裝店"|result=0
 title="東海堂：新登場 日本明太子沙律德式香腸包"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="大家樂：祈福套裝 預訂優惠"|shop="大家樂"|text="餐廳"|result=0
+title="萬寧：自家品牌 85折（至22/3）"|shop="萬寧"|rate=0.15|end_date="2024-03-22"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="樓上：尖沙咀試食嘉年華（28/3）（門市優先登記：20/3起）"|shop="樓上"|text="任何人均可登記參加的免費活動，不符合會員或特定支付門檻"|result=0
+title="維記牛奶：全新 黃金油桃味乳酪"|shop="維記牛奶"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="香港花卉展覽2026（20-29/3）"|shop="香港花卉展覽"|text="非指定商店類型（展覽活動）"|result=0
