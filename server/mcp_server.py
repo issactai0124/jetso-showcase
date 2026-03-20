@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import datetime
 from mcp.server.fastmcp import FastMCP
 
 # Initialize FastMCP server
@@ -37,10 +38,18 @@ def search_discounts(shop_id: str = None, keyword: str = None) -> str:
     discounts = load_json("discounts.json")
     product_discounts = load_json("discounts_product.json")
     
+    # Get today's date in HK time formatted as YYYY-MM-DD
+    today_str = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d")
+    
     all_discounts = discounts + product_discounts
     results = []
     
     for d in all_discounts:
+        # Filter out expired discounts at the source
+        end_date = d.get("end_date")
+        if end_date and end_date < today_str:
+            continue
+            
         match = True
         if shop_id and shop_id not in d.get("shop_ids", []):
             match = False

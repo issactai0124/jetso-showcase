@@ -94,15 +94,11 @@ async def process_with_gemini_and_mcp(user_text: str) -> str:
             mcp_tools = await session.list_tools()
             gemini_tools = create_gemini_tools_from_mcp(mcp_tools)
             
-            # Generate dynamic system prompt with today's date in HK Time
-            today_str = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d")
             system_prompt = (
                 f"You are Jetso Bot, a smart assistant helping users find discounts in Hong Kong.\n"
-                f"Today's date is {today_str}.\n"
                 "Always use the provided tools to search the discount database. "
                 "If the user doesn't provide an exact shop_id, use get_shops() to find it first. "
                 "Reply to the user in traditional Chinese (zh-HK) in a friendly and helpful tone. "
-                "You MUST check today's date and do NOT give discounts that have already ended. "
                 "You should give discounts that will end soon first. Otherwise gives the discounts with the most discount amount first."
             )
             
