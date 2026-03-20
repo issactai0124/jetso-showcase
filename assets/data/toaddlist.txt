@@ -12,3 +12,7 @@ title="M&S：驚喜快閃優惠（至23/3）"|shop="M&S"|end_date="2024-03-23"|t
 title="大生生活超市：快閃優惠（至25/3）"|shop="大生生活超市"|end_date="2024-03-25"|text="普通特價，無會員或特定支付門檻"|result=0
 title="Buffalo：繽FUN復活折 4折起（至12/4）"|shop="Buffalo"|end_date="2024-04-12"|text="家具店及一般減價宣傳"|result=0
 title="7-Eleven：本週優惠（至24/3）"|shop="7-Eleven"|end_date="2024-03-24"|text="純特價或不符門檻"|result=0
+title="家電開倉日 $150起（21/3）"|shop="家電開倉"|text="電器"|result=0
+title="聖安娜餅屋：$16至抵價（至1/4）"|shop="聖安娜餅屋"|end_date="2024-04-01"|text="普通特價"|result=0
+title="香港醫學博物館：30周年開放日（21-22/3）"|shop="香港醫學博物館"|start_date="2026-03-21"|end_date="2026-03-22"|text="非指定商店類型及無門檻優惠"|result=0
+title="有叢氣：免費試飲（21-22/3、28-29/3）"|shop="有叢氣"|start_date="2024-03-21"|end_date="2024-03-29"|text="任何人均可參與的免費試飲，缺乏會員或特定支付門檻"|result=0
