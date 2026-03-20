@@ -1795,5 +1795,17 @@
         "rate": 0.2,
         "start_date": "2026-03-15",
         "end_date": "2026-03-19"
+    },
+    {
+        "id": "d-unknown-11073",
+        "shop_ids": [
+            "aeon"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "憑AEON會員/信用卡可享95折",
+        "title_en": "5% off with AEON會員/信用卡",
+        "rate": 0.05,
+        "start_date": "2024-03-20",
+        "end_date": "2024-03-24"
     }
 ]
