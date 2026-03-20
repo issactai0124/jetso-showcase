@@ -10,3 +10,5 @@ title="佳宝食品超級市場：全場8折（至26/3）"|shop="佳宝食品超
 title="Living Plaza / Daiso Japan：週末優惠（至24/3）"|shop="Living Plaza / Daiso Japan"|end_date="2024-03-24"|text="週末優惠且無會員或特定支付門檻"|result=0
 title="M&S：驚喜快閃優惠（至23/3）"|shop="M&S"|end_date="2024-03-23"|text="任何人均可享受的普通特價"|result=0
 title="大生生活超市：快閃優惠（至25/3）"|shop="大生生活超市"|end_date="2024-03-25"|text="普通特價，無會員或特定支付門檻"|result=0
+title="Buffalo：繽FUN復活折 4折起（至12/4）"|shop="Buffalo"|end_date="2024-04-12"|text="家具店及一般減價宣傳"|result=0
+title="7-Eleven：本週優惠（至24/3）"|shop="7-Eleven"|end_date="2024-03-24"|text="純特價或不符門檻"|result=0
