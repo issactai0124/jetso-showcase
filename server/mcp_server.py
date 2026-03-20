@@ -62,7 +62,9 @@ if __name__ == "__main__":
     
     if transport == "sse":
         print(f"Starting MCP Server on SSE ({host}:{port})", file=sys.stderr)
+        # Note: If SSE transport starts failing for you in the future because of host/port settings, FastMCP uses `run()` for stdio and `mcp.app` or similar for custom SSE servers.
+        # But for stdio (which we use here), it just needs `mcp.run(transport="stdio")`.
+        mcp.run(transport="sse")
     else:
         print("Starting MCP Server on stdio", file=sys.stderr)
-        
-    mcp.run(transport=transport, host=host, port=port)
+        mcp.run(transport="stdio")
