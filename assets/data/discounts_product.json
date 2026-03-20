@@ -501,5 +501,18 @@
         "title_en": "Butter Crisp Cookies Gift Box for $118 in RewardBuy",
         "start_date": "2025-10-01",
         "end_date": "2026-03-04"
+    },
+    {
+        "id": "d-unknown-16027",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "買雪糕滿$80可享8折",
+        "title_en": "20% off upon $80 spendings on ice-cream",
+        "rate": 0.2,
+        "min_spend": 80,
+        "start_date": "2026-03-19",
+        "end_date": "2026-03-21"
     }
 ]
