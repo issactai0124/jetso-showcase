@@ -61,8 +61,8 @@ if __name__ == "__main__":
     host = os.environ.get("HOST", "0.0.0.0")
     
     if transport == "sse":
-        print(f"Starting MCP Server on SSE ({host}:{port})")
+        print(f"Starting MCP Server on SSE ({host}:{port})", file=sys.stderr)
     else:
-        print("Starting MCP Server on stdio")
+        print("Starting MCP Server on stdio", file=sys.stderr)
         
     mcp.run(transport=transport, host=host, port=port)
