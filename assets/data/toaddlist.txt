@@ -1,0 +1,12 @@
+title="MTR Mobile：港鐵即時賞（20/3）"|shop="MTR"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（20/3）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（20/3）"|shop="惠康超級市場"|start_date="2024-03-20"|text="一般特價宣傳，缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏最新購物優惠（20/3）"|shop="屈臣氏"|min_spend=99|start_date="2026-03-18"|end_date="2026-03-24"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（20/3）"|shop="萬寧"|start_date="2026-03-20"|applicable_days_of_week=5|text="任何人都可以享受的普通特價"|result=0
+title="眼鏡88：日本品牌 薄型抗藍光單光·漸進鏡片 5折（至23/3）"|shop="眼鏡88"|rate=0.5|end_date="2024-03-23"|text="一般減價宣傳"|result=0
+title="牙膏最新優惠（20/3）"|shop=""|text="缺乏具體商店資訊及支付門檻要求"|result=0
+title="阿波羅 Appolo：雪條週末優惠（至22/3）"|shop="阿波羅"|end_date="2024-03-22"|text="週末優惠，任何人均可享用"|result=0
+title="佳宝食品超級市場：全場8折（至26/3）"|shop="佳宝食品超級市場"|rate=0.2|end_date="2026-03-26"|text="任何人均可享有的普通特價"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至24/3）"|shop="Living Plaza / Daiso Japan"|end_date="2024-03-24"|text="週末優惠且無會員或特定支付門檻"|result=0
+title="M&S：驚喜快閃優惠（至23/3）"|shop="M&S"|end_date="2024-03-23"|text="任何人均可享受的普通特價"|result=0
+title="大生生活超市：快閃優惠（至25/3）"|shop="大生生活超市"|end_date="2024-03-25"|text="普通特價，無會員或特定支付門檻"|result=0
