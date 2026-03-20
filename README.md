@@ -11,6 +11,7 @@ A cross-platform Flutter application providing an elegant interface for searchin
 - **Deal Reminders & Push Notifications**: Native integration allowing users to attach precise Date & Time alarms to individual deals, triggering local push notifications on mobile devices.
 - **Deep Linking**: Seamlessly jumps out of the app directly into payment or booking platforms (PayMe, Alipay, Klook, OpenRice, KKday, etc.) using custom URL schemes and external browser launches.
 - **Automated AI Deal Scraping**: Powered by daily GitHub Actions and Gemini AI, unstructured RSS feeds are parsed and filtered against our strict schema, staging them in an internal "Admin Panel" for 1-click commits.
+- **Smart AI Chatbot (Telegram)**: A dedicated Telegram Bot ([@IssacTaiJetsoBot](https://t.me/IssacTaiJetsoBot)) powered by **Google Gemini 2.5 Flash** and the **Model Context Protocol (MCP)**. It acts as an MCP client reading directly from the structured local database to provide real-time discount search via natural language without external DB overhead.
 - **Progressive Web App (PWA)**: Fully optimized for web deployments with custom masking icons and manifest configuration.
 - **Multi-Language Support**: Complete localization bridging `English (en)` and `Traditional Chinese (zh)`. Allows dynamically switching UI strings and database descriptions in real-time.
 - **Dynamic Theme System**: Modern Material 3 interface supporting Dark Mode and a refined "Deep Light Blue" Light Mode to optimize professional contrast.
@@ -20,7 +21,8 @@ A cross-platform Flutter application providing an elegant interface for searchin
 - **State Management**: Riverpod (`flutter_riverpod` + Notifier Providers)
 - **Data Persistence**: `shared_preferences`
 - **Native Integrations**: `url_launcher` (Deep Links), `flutter_local_notifications` (Push)
-- **Automation**: Python (`requests`, `gemini-pro`) + GitHub Actions
+- **Serverless & API**: Python (`starlette`, `python-telegram-bot`, `google-genai`), Model Context Protocol (MCP)
+- **Automation & Deployment**: GitHub Actions, Render Webhooks (zero-cost serverless architecture)
 - **Date Formatting**: `intl`, `timezone`
 - **UI Components**: Native Material 3 & Custom layout builders (e.g., `DiscountTile`, Flexbox grouping)
 
