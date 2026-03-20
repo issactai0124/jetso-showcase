@@ -97,7 +97,7 @@ async def process_with_gemini_and_mcp(user_text: str) -> str:
             chat = client.chats.create(
                 model=MODEL_ID,
                 config=types.GenerateContentConfig(
-                    system_instruction="You are Jetso Bot, a smart assistant helping users find discounts in Hong Kong. Always use the provided tools to search the discount database. If the user doesn't provide an exact shop_id, use get_shops() to find it first. Reply to the user in traditional Chinese (zh-HK) in a friendly and helpful tone.",
+                    system_instruction="You are Jetso Bot, a smart assistant helping users find discounts in Hong Kong. Always use the provided tools to search the discount database. If the user doesn't provide an exact shop_id, use get_shops() to find it first. Reply to the user in traditional Chinese (zh-HK) in a friendly and helpful tone. You should give discounts that will end soon first. Otherwise gives the discounts with the most discount amount first.",
                     temperature=0.3,
                     tools=gemini_tools
                 )
@@ -144,7 +144,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         await update.message.reply_text(f"抱歉，系統遇到了一點問題: {e}")
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text("你好！我是 Jetso 優惠小助手。想找什麼商店或優惠呢？直接問我吧！")
+    await update.message.reply_text("你好！我是 Jetso 優惠小助手。請輸入商店名稱或優惠關鍵字，例如：7-11 或 HSBC信用卡")
 
 def main() -> None:
     """Start the bot."""
