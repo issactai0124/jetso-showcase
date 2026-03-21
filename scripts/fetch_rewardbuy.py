@@ -26,7 +26,8 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     print("Error: GEMINI_API_KEY is not set.")
     exit(1)
-model_lists = ["gemini-3-flash-preview", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+model_lists_str = os.environ.get("GEMINI_MODEL_LIST", "gemini-3-flash-preview,gemini-2.5-flash,gemini-2.5-flash-lite")
+model_lists = [m.strip() for m in model_lists_str.split(",") if m.strip()]
 
 genai.configure(api_key=GEMINI_API_KEY)
 

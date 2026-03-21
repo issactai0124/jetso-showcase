@@ -27,6 +27,7 @@ jobs:
       - name: 執行 RSS 爬取與 Gemini 分析 (Run Fetch Script)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_LIST: ${{ vars.GEMINI_MODEL_LIST }}
         run: |
           python scripts/fetch_rss.py
 

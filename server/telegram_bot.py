@@ -20,7 +20,8 @@ if not GEMINI_API_KEY or not TELEGRAM_BOT_TOKEN:
 
 # Initialize Gemini Client
 client = genai.Client(api_key=GEMINI_API_KEY)
-MODEL_ID = "gemini-2.5-flash"
+model_lists_str = os.environ.get("GEMINI_MODEL_LIST", "gemini-3-flash-preview,gemini-2.5-flash,gemini-2.5-flash-lite")
+model_lists = [m.strip() for m in model_lists_str.split(",") if m.strip()]
 
 async def function_to_mcp(mcp_session: ClientSession, tool_name: str, args: dict):
     """Executes a tool on the MCP server and returns the result."""
@@ -102,40 +103,49 @@ async def process_with_gemini_and_mcp(user_text: str) -> str:
                 "You should give discounts that will end soon first. Otherwise gives the discounts with the most discount amount first."
             )
             
-            # Start Gemini session
-            chat = client.chats.create(
-                model=MODEL_ID,
-                config=types.GenerateContentConfig(
-                    system_instruction=system_prompt,
-                    temperature=0.3,
-                    tools=gemini_tools
-                )
-            )
-            
-            # Send initial user query
-            response = chat.send_message(user_text)
-            
-            # Handle Function Calling Loop
-            while response.function_calls:
-                for fn_call in response.function_calls:
-                    print(f"Gemini requested tool call: {fn_call.name} with args {fn_call.args}")
-                    
-                    # Convert arguments correctly
-                    args_dict = dict(fn_call.args) if fn_call.args else {}
-                    
-                    # Call MCP Server!
-                    tool_result = await session.call_tool(fn_call.name, arguments=args_dict)
-                    result_text = tool_result.content[0].text if tool_result.content else "{}"
-                    
-                    # Send result back to Gemini
-                    response = chat.send_message(
-                        types.Part.from_function_response(
-                            name=fn_call.name,
-                            response={"result": result_text}
+            # Try models in fallback order
+            for model_name in model_lists:
+                try:
+                    print(f"嘗試使用模型: {model_name}")
+                    # Start Gemini session
+                    chat = client.chats.create(
+                        model=model_name,
+                        config=types.GenerateContentConfig(
+                            system_instruction=system_prompt,
+                            temperature=0.3,
+                            tools=gemini_tools
                         )
                     )
+                    
+                    # Send initial user query
+                    response = chat.send_message(user_text)
+                    
+                    # Handle Function Calling Loop
+                    while response.function_calls:
+                        for fn_call in response.function_calls:
+                            print(f"Gemini ({model_name}) requested tool call: {fn_call.name} with args {fn_call.args}")
+                            
+                            # Convert arguments correctly
+                            args_dict = dict(fn_call.args) if fn_call.args else {}
+                            
+                            # Call MCP Server!
+                            tool_result = await session.call_tool(fn_call.name, arguments=args_dict)
+                            result_text = tool_result.content[0].text if tool_result.content else "{}"
+                            
+                            # Send result back to Gemini
+                            response = chat.send_message(
+                                types.Part.from_function_response(
+                                    name=fn_call.name,
+                                    response={"result": result_text}
+                                )
+                            )
+                    
+                    return response.text
+                except Exception as e:
+                    print(f"❌ 模型 {model_name} 請求失敗: {e}")
+                    continue
             
-            return response.text
+            raise Exception("所有模型均已嘗試且失敗。")
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Handle incoming telegram messages."""

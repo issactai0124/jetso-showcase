@@ -32,8 +32,8 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 # 使用穩定的模型名稱
-
-model_lists = ["gemini-3-flash-preview", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+model_lists_str = os.environ.get("GEMINI_MODEL_LIST", "gemini-3-flash-preview,gemini-2.5-flash,gemini-2.5-flash-lite")
+model_lists = [m.strip() for m in model_lists_str.split(",") if m.strip()]
 
 # 取得上次處理時間
 last_processed_file = "assets/data/last_rss_time.txt"
