@@ -1,3 +1,0 @@
-title="九龍城區防災應急活動日（22/3）"|shop="九龍城區防火委員會"|text="非指定商店類型（社區活動）"|result=0
-title="Big C：快閃優惠 購物滿$88 全單享88折（至22/3）"|shop="Big C"|min_spend=88|rate=0.12|start_date="2024-03-21"|end_date="2024-03-22"|text="任何人都可以享受的普通特價"|result=0
-title="Uniqlo：本週優惠（至26/3）"|shop="Uniqlo"|text="服裝店"|result=0
