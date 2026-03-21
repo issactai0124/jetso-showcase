@@ -1807,5 +1807,30 @@
         "rate": 0.05,
         "start_date": "2024-03-20",
         "end_date": "2024-03-24"
+    },
+    {
+        "id": "d-kaibo-20260320",
+        "shop_ids": [
+            "kaibo"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "可享8折",
+        "title_en": "20% off",
+        "rate": 0.2,
+        "start_date": "2026-03-20",
+        "end_date": "2026-03-26"
+    },
+    {
+        "id": "d-watsons-20260321",
+        "shop_ids": [
+            "watsons"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "指定分店易賞錢會員可享88折",
+        "title_en": "12% off for MoneyBack members at selected stores",
+        "rate": 0.12,
+        "start_date": "2026-03-21",
+        "end_date": "2026-03-21",
+        "url": "http://bit.ly/475uYiO"
     }
 ]
