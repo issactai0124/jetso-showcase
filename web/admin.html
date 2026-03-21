@@ -572,31 +572,75 @@
                     const prodList = JSON.parse(prodData.content);
                     prodList.push(...productDiscounts);
 
-                    const txtData = await ghFetch('assets/data/toaddlist.txt');
+                    // 2. Commit updates as a SINGLE commit using the Git Database API
+                    const apiUrl = `https://api.github.com/repos/${owner}/${repo}`;
+                    const headers = {
+                        'Authorization': `token ${token}`,
+                        'Accept': 'application/vnd.github.v3+json',
+                    };
 
-                    // 2. Commit updates (Sequentially to avoid conflicts)
-                    async function commitFile(path, content, sha, message) {
-                        const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`, {
-                            method: 'PUT',
-                            headers: {
-                                'Authorization': `token ${token}`,
-                                'Content-Type': 'application/json'
-                            },
-                            body: JSON.stringify({
-                                message: message,
-                                content: btoa(unescape(encodeURIComponent(content))),
-                                sha: sha,
-                                branch: branch
-                            })
-                        });
-                        if (!res.ok) throw new Error(`Commit failed for ${path}: ${res.statusText}`);
+                    async function ghApi(path, options = {}) {
+                        const res = await fetch(`${apiUrl}${path}`, { ...options, headers: { ...headers, ...options.headers } });
+                        if (!res.ok) throw new Error(`API ${path} failed: ${res.statusText}`);
+                        return res.json();
                     }
 
-                    await commitFile('assets/data/discounts.json', JSON.stringify(discList, null, 4), discData.sha, "Admin: Update discounts from panel");
-                    await commitFile('assets/data/discounts_product.json', JSON.stringify(prodList, null, 4), prodData.sha, "Admin: Update product discounts from panel");
-                    await commitFile('assets/data/toaddlist.txt', '', txtData.sha, "Admin: Clear toaddlist");
+                    // Get latest commit and base tree
+                    const ref = await ghApi(`/git/ref/heads/${branch}`);
+                    const latestCommitSha = ref.object.sha;
+                    const latestCommit = await ghApi(`/git/commits/${latestCommitSha}`);
+                    const baseTreeSha = latestCommit.tree.sha;
 
-                    alert('🎉 儲存成功！已直接提交 Commit 到 GitHub 存儲庫。');
+                    // Create a new Tree
+                    const treeData = {
+                        base_tree: baseTreeSha,
+                        tree: [
+                            {
+                                path: "assets/data/discounts.json",
+                                mode: "100644",
+                                type: "blob",
+                                content: JSON.stringify(discList, null, 4)
+                            },
+                            {
+                                path: "assets/data/discounts_product.json",
+                                mode: "100644",
+                                type: "blob",
+                                content: JSON.stringify(prodList, null, 4)
+                            },
+                            {
+                                path: "assets/data/toaddlist.txt",
+                                mode: "100644",
+                                type: "blob",
+                                content: "" // Empty the file
+                            }
+                        ]
+                    };
+                    const newTree = await ghApi(`/git/trees`, {
+                        method: 'POST',
+                        body: JSON.stringify(treeData)
+                    });
+
+                    // Create a new Commit
+                    // Note: We add [skip ci] to prevent triggering unnecessary builds
+                    const newCommit = await ghApi(`/git/commits`, {
+                        method: 'POST',
+                        body: JSON.stringify({
+                            message: "Admin: Update discounts from panel [skip ci]",
+                            tree: newTree.sha,
+                            parents: [latestCommitSha]
+                        })
+                    });
+
+                    // Update the branch reference
+                    await ghApi(`/git/refs/heads/${branch}`, {
+                        method: 'PATCH',
+                        body: JSON.stringify({
+                            sha: newCommit.sha,
+                            force: false
+                        })
+                    });
+
+                    alert('🎉 儲存成功！已打包成 Commit 提交到 GitHub 存儲庫。');
                     location.reload();
                 } catch (e) {
                     alert('GitHub 提交失敗: ' + e.message);

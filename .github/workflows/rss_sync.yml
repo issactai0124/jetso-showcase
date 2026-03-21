@@ -39,6 +39,6 @@ jobs:
           git add assets/data/last_rss_time.txt
           git add assets/data/processed_rss_ids.txt
           # 如果有新項目才 commit
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update toaddlist.txt for manual review"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update toaddlist.txt for manual review [skip ci]"
           git push
         continue-on-error: true # 就算沒有變更也不要讓 Action 紅燈
