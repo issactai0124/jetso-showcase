@@ -1,0 +1,2 @@
+title="OK便利店：5天狂減（15-29/3）"|shop="OK便利店"|start_date="2024-03-15"|end_date="2024-03-29"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（25/3）"|shop="萬寧"|start_date="2026-03-25"|applicable_days_of_week="3"|text="任何人均可享受的普通特價"|result=0
