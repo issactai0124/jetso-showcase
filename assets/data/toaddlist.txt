@@ -24,3 +24,10 @@ title="稻香：祭祖3寶"|shop="稻香"|text="餐廳"|result=0
 title="東海堂：全新「抹茶紅豆忌廉蛋糕」/ 午間驚喜優惠（至3/4）"|shop="東海堂"|payment="現金及其他電子方式付款"|start_date="2024-03-23"|end_date="2024-04-03"|applicable_days_of_week=1,2,3,4,5|text="任何人均可享受的普通特價"|result=0
 title="Häagen-Dazs：Rocky Crunchy 系列 - 曲奇脆脆鹽味蜂蜜牛油雪糕 / 曲奇脆脆士多啤梨雪糕"|shop="Häagen-Dazs"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="價真棧：春日優惠（至31/3）"|shop="價真棧"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：今日出位價（24/3）"|shop="萬寧"|start_date="2024-03-24"|end_date="2024-03-24"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（24/3）"|shop="百佳超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="惠康超級市場最新優惠（24/3）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="屈臣氏：自家品牌日 3件88折（24/3）"|shop="屈臣氏"|payment="易賞錢會員"|rate=0.12|start_date="2024-03-24"|end_date="2024-03-24"|text="易賞錢會員於屈臣氏品牌日購買3件指定產品可享額外88折"|result=1
+title="龍寶酒家：最新優惠（24/3）"|shop="龍寶酒家"|text="餐廳"|result=0
+title="喜茶：上環無限極廣場店開幕 買1送1（至30/4）"|shop="喜茶"|start_date="2024-03-24"|end_date="2024-04-30"|text="餐廳、任何人均可享用的開幕優惠"|result=0
+title="大家樂：去骨 功夫海南雞"|shop="大家樂"|text="餐廳"|result=0
