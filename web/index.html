@@ -45,7 +45,7 @@
   <style>
     .telegram-float {
       position: fixed;
-      bottom: 20px;
+      bottom: 80px;
       right: 20px;
       background-color: #2AABEE;
       color: white;
@@ -60,6 +60,12 @@
       display: flex;
       align-items: center;
       transition: transform 0.2s, background-color 0.2s;
+      cursor: grab;
+      touch-action: none;
+      user-select: none;
+    }
+    .telegram-float:active {
+      cursor: grabbing;
     }
     .telegram-float:hover {
       transform: translateY(-2px);
@@ -70,10 +76,59 @@
       font-size: 18px;
     }
   </style>
-  <a href="https://t.me/IssacTaiJetsoBot" target="_blank" class="telegram-float">
+  <a href="https://t.me/IssacTaiJetsoBot" target="_blank" class="telegram-float" id="ask-ai-bot">
     <span class="telegram-icon">🤖</span> Ask AI Bot
   </a>
 
   <script src="flutter_bootstrap.js" async></script>
+  <script>
+    const aiBot = document.getElementById('ask-ai-bot');
+    let isDragging = false;
+    let startY, startX, initialBottom, initialRight;
+    let hasMoved = false;
+
+    aiBot.addEventListener('pointerdown', (e) => {
+      isDragging = true;
+      hasMoved = false;
+      startX = e.clientX;
+      startY = e.clientY;
+      initialBottom = parseInt(window.getComputedStyle(aiBot).bottom, 10);
+      initialRight = parseInt(window.getComputedStyle(aiBot).right, 10);
+      
+      aiBot.style.transition = 'none';
+      e.target.setPointerCapture(e.pointerId);
+    });
+
+    aiBot.addEventListener('pointermove', (e) => {
+      if (!isDragging) return;
+      
+      const deltaX = startX - e.clientX;
+      const deltaY = startY - e.clientY;
+      
+      if (Math.abs(deltaX) > 5 || Math.abs(deltaY) > 5) {
+          hasMoved = true;
+      }
+
+      if (hasMoved) {
+          let newBottom = initialBottom + deltaY;
+          let newRight = initialRight + deltaX;
+          
+          aiBot.style.bottom = newBottom + 'px';
+          aiBot.style.right = newRight + 'px';
+      }
+    });
+
+    aiBot.addEventListener('pointerup', (e) => {
+      isDragging = false;
+      aiBot.style.transition = 'transform 0.2s, background-color 0.2s';
+      e.target.releasePointerCapture(e.pointerId);
+    });
+
+    aiBot.addEventListener('click', (e) => {
+      if (hasMoved) {
+        e.preventDefault();
+      }
+    });
+  </script>
 </body>
 </html>
