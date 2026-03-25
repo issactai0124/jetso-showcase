@@ -9,3 +9,5 @@ title="雀巢 牛奶公司：全新「濃豆樂綠豆奶條」/ 試食優惠券"
 title="美心MX：新登場 蜜汁腩叉系列"|shop="美心MX"|text="餐廳"|result=0
 title="海港飲食：指定分店 晚市 三選一 低至$68"|shop="海港酒家"|text="餐廳"|result=0
 title="7-Eleven：今期「$10一口價」限時優惠（至7/4）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="譚仔三哥米線：晚市套餐 低至66折"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="KFC：全新「煙燻燒烤醬系列」（26/3起）"|shop="KFC"|text="餐廳"|result=0
