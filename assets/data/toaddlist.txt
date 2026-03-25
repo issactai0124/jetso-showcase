@@ -7,3 +7,5 @@ title="LIFETASTIC：招牌草莓西瓜件裝蛋糕 $10（至31/3）"|shop="LIFET
 title="崇光百貨：TORY BURCH SALE（30/3）/ 春日床品展（至8/4）"|shop="崇光百貨"|text="百貨公司、服裝店、家具店"|result=0
 title="雀巢 牛奶公司：全新「濃豆樂綠豆奶條」/ 試食優惠券"|shop="雀巢 牛奶公司"|text="任何人均可享用的普通特價或新品推廣"|result=0
 title="美心MX：新登場 蜜汁腩叉系列"|shop="美心MX"|text="餐廳"|result=0
+title="海港飲食：指定分店 晚市 三選一 低至$68"|shop="海港酒家"|text="餐廳"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至7/4）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
