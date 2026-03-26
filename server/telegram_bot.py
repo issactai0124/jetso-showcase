@@ -24,8 +24,14 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
     await context.bot.send_chat_action(chat_id=chat_id, action="typing")
     
     try:
+        import re
         reply = await bot_logic.process_query(user_text)
-        await update.message.reply_text(reply, parse_mode='Markdown')
+        # Convert Markdown bold ** to HTML bold <b>
+        # We also need to escape <, > and & first 
+        html_reply = reply.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        html_reply = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', html_reply)
+        
+        await update.message.reply_text(html_reply, parse_mode='HTML')
     except Exception as e:
         print(f"Error: {e}")
         await update.message.reply_text(f"抱歉，系統遇到了一點問題: {e}")
