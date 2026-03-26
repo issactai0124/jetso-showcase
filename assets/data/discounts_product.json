@@ -514,5 +514,18 @@
         "min_spend": 80,
         "start_date": "2026-03-19",
         "end_date": "2026-03-21"
+    },
+    {
+        "id": "d-7eleven-20260326",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "飲品/乳酪/鮮奶買滿$80可享8折",
+        "title_en": "20% off upon $80 spending on beverages, yogurt, or fresh milk",
+        "rate": 0.2,
+        "min_spend": 80,
+        "start_date": "2026-03-26",
+        "end_date": "2026-03-28"
     }
 ]
