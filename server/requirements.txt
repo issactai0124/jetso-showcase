@@ -1,4 +1,6 @@
 mcp>=1.2.0
 python-telegram-bot>=21.0
 google-genai>=0.2.0
-tornado>=6.4.0
+fastapi
+uvicorn
+python-dotenv

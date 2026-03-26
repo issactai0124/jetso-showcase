@@ -1,5 +1,6 @@
 import os
 import sys
+sys.path.append(os.path.dirname(__file__))
 import json
 import datetime
 from mcp.server.fastmcp import FastMCP
@@ -16,24 +17,21 @@ def load_json(filename: str) -> list:
             return json.load(f)
     return []
 
-@mcp.tool()
 def get_shops() -> str:
     """Get the full list of shops supported by Jetso Showcase. Use this to lookup an exact shop_id."""
     shops = load_json("shops.json")
     condensed = [{"id": s["id"], "name": s.get("name_zh", "")} for s in shops]
     return json.dumps(condensed, ensure_ascii=False)
 
-@mcp.tool()
 def get_payment_methods() -> str:
     """Get the full list of supported payment methods (e.g. credit cards, e-wallets) and their IDs."""
     payments = load_json("payment_methods.json")
     condensed = [{"id": p["id"], "name": p.get("name_zh", "")} for p in payments]
     return json.dumps(condensed, ensure_ascii=False)
 
-@mcp.tool()
-def search_discounts(shop_id: str = None, keyword: str = None) -> str:
-    """Search for discounts by an exact shop_id or by a keyword. 
-    Use get_shops() to find the correct shop_id first if you are unsure.
+def search_discounts(shop_id: str = None, payment_id: str = None, keyword: str = None) -> str:
+    """Search for discounts by an exact shop_id, payment_id, or by a keyword. 
+    Use get_shops() or get_payment_methods() to find the correct IDs first if you are unsure.
     """
     discounts = load_json("discounts.json")
     product_discounts = load_json("discounts_product.json")
@@ -53,6 +51,8 @@ def search_discounts(shop_id: str = None, keyword: str = None) -> str:
         match = True
         if shop_id and shop_id not in d.get("shop_ids", []):
             match = False
+        if payment_id and payment_id not in d.get("required_payment_ids", []):
+            match = False
         if keyword:
             title = (d.get("title_zh", "") + " " + d.get("title_en", "")).lower()
             if keyword.lower() not in title:
@@ -62,6 +62,11 @@ def search_discounts(shop_id: str = None, keyword: str = None) -> str:
             
     # Cap results to avoid blowing up context window
     return json.dumps(results[:30], ensure_ascii=False)
+
+# Register tools with MCP
+mcp.tool()(get_shops)
+mcp.tool()(get_payment_methods)
+mcp.tool()(search_discounts)
 
 if __name__ == "__main__":
     # If run with --sse, use HTTP Server-Sent Events transport. Otherwise defaults to stdio transport.

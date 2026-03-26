@@ -76,13 +76,119 @@
       font-size: 18px;
     }
   </style>
-  <a href="https://t.me/IssacTaiJetsoBot" target="_blank" class="telegram-float" id="ask-ai-bot">
+  <!-- Chatbot Selection Modal -->
+  <style>
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 10000;
+      backdrop-filter: blur(4px);
+    }
+    .modal-content {
+      background: white;
+      padding: 30px;
+      border-radius: 20px;
+      width: 90%;
+      max-width: 400px;
+      text-align: center;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+      animation: modalSlideUp 0.3s ease;
+    }
+    @keyframes modalSlideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    .modal-title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #333;
+    }
+    .modal-desc {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 25px;
+    }
+    .modal-options {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .modal-btn {
+      padding: 14px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 15px;
+      transition: transform 0.2s, opacity 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .modal-btn:active { transform: scale(0.98); }
+    .btn-telegram {
+      background-color: #2AABEE;
+      color: white;
+    }
+    .btn-web {
+      background-color: #f0f2f5;
+      color: #333;
+    }
+    .modal-close {
+      margin-top: 15px;
+      font-size: 13px;
+      color: #999;
+      cursor: pointer;
+    }
+  </style>
+
+  <div class="modal-overlay" id="bot-selector-modal">
+    <div class="modal-content">
+      <div class="modal-title">選擇對話方式</div>
+      <div class="modal-desc">您想在哪裡與 Jetso Bot 聊天？</div>
+      <div class="modal-options">
+        <a href="https://t.me/IssacTaiJetsoBot" target="_blank" class="modal-btn btn-telegram" onclick="closeModal()">
+          <span>📱</span> 在 Telegram 開啟
+        </a>
+        <a href="chat.html" target="_blank" class="modal-btn btn-web" onclick="closeModal()">
+          <span>💻</span> 在瀏覽器直接聊天
+        </a>
+      </div>
+      <div class="modal-close" onclick="closeModal()">取消</div>
+    </div>
+  </div>
+
+  <div class="telegram-float" id="ask-ai-bot">
     <span class="telegram-icon">🤖</span> Ask AI Bot
-  </a>
+  </div>
 
   <script src="flutter_bootstrap.js" async></script>
   <script>
     const aiBot = document.getElementById('ask-ai-bot');
+    const modal = document.getElementById('bot-selector-modal');
+    
+    function closeModal() {
+      modal.style.display = 'none';
+    }
+
+    aiBot.addEventListener('click', (e) => {
+      if (!hasMoved) {
+        modal.style.display = 'flex';
+      }
+    });
+
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeModal();
+    });
+
     let isDragging = false;
     let startY, startX, initialBottom, initialRight;
     let hasMoved = false;
@@ -122,12 +228,6 @@
       isDragging = false;
       aiBot.style.transition = 'transform 0.2s, background-color 0.2s';
       e.target.releasePointerCapture(e.pointerId);
-    });
-
-    aiBot.addEventListener('click', (e) => {
-      if (hasMoved) {
-        e.preventDefault();
-      }
     });
   </script>
 </body>

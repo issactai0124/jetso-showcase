@@ -3,7 +3,7 @@ services:
     name: jetso-showcase-bot
     env: python
     buildCommand: "pip install -r server/requirements.txt"
-    startCommand: "python server/telegram_bot.py"
+    startCommand: "python server/app.py"
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
