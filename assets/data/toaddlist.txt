@@ -19,3 +19,6 @@ title="稻香：晨光有焦氣 / 晨光老友記"|shop="稻香"|text="餐廳"|r
 title="759 阿信屋：7折優惠（至30/3）"|shop="759 阿信屋"|rate=0.3|end_date="2024-03-30"|text="任何人均可享受的普通特價"|result=0
 title="千色 Citistore：36周年慶 - 均一價/每日驚喜（至15/4）"|shop="千色 Citistore"|end_date="2024-04-15"|text="百貨公司"|result=0
 title="東海堂：新登場 洋式酸種包"|shop="東海堂"|text="普通特價/新品推廣，無會員或特定支付門檻"|result=0
+title="Uniqlo：優惠專區 - 轉季時尚新剪裁推薦"|shop="Uniqlo"|text="服裝店"|result=0
+title="PizzaExpress：3月27日生日 送Margherita瑪嘉麗塔皇后薄餅（27/3）"|shop="PizzaExpress"|text="餐廳"|result=0
+title="7-Eleven：本週優惠 / 北海道一丁花見禮盒（至31/3）"|shop="7-Eleven"|payment="yuu 會員"|end_date="2024-03-31"|text="會員優惠內容不完整"|result=0
