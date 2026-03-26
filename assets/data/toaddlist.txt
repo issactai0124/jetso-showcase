@@ -1,1 +1,5 @@
 title="海港飲食：清明孖寶 外賣優惠（至12/4）"|shop="海港飲食"|start_date="2024-03-28"|end_date="2024-04-12"|text="餐廳"|result=0
+title="一粥麵：外賣快閃優惠（至28/3）"|shop="一粥麵"|end_date="2024-03-28"|text="餐廳"|result=0
+title="AEON：Happy Easter / 可愛角色大匯演 / 初夏好生活（27/3-8/4）"|shop="AEON"|start_date="2024-03-27"|end_date="2024-04-08"|text="百貨公司及普通特價宣傳"|result=0
+title="萬寧﻿ Mannings：指定門市 全場購物滿$188 即享全單88折（27/3）"|shop="萬寧"|min_spend=188|rate=0.12|start_date="2026-03-27"|end_date="2026-03-27"|text="任何人都可以享受的普通特價"|result=0
+title="麥當勞：開心樂園餐 全新《超級瑪利歐銀河大電影》匙扣玩具 / App會員 優先試食 蜜糖雞翼套餐/雞翼分享桶 / 瑪利歐主題派對（27/3起）"|shop="麥當勞"|text="餐廳"|result=0
