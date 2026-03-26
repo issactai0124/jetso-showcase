@@ -120,6 +120,7 @@ async def telegram_webhook(request: Request):
     
     try:
         data = await request.json()
+        print(f"📡 收到 Telegram Webhook 請求: {data}")
         update = Update.de_json(data, telegram_bot.application.bot)
         await telegram_bot.application.process_update(update)
         return {"status": "ok"}

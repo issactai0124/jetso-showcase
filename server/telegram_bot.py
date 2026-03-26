@@ -19,6 +19,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         
     user_text = update.message.text
     chat_id = update.effective_chat.id
+    print(f"收到 Telegram 訊息 (來自 {chat_id}): {user_text}")
     
     # Send a thinking indicator
     await context.bot.send_chat_action(chat_id=chat_id, action="typing")
