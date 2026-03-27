@@ -14,3 +14,9 @@ title="Living Plaza / Daiso Japan：週末優惠（至29/3）"|shop="Living Plaz
 title="阿波羅 Appolo：Magic Cone驚喜優惠（至29/3）"|shop="阿波羅"|end_date="2024-03-29"|text="任何人都可以享受的普通特價"|result=0
 title="AEON：週末勁減（至29/3）"|shop="AEON"|end_date="2024-03-29"|text="百貨公司及任何人均可享用的週末優惠"|result=0
 title="實惠 Pricerite：指定產品 9折優惠"|shop="實惠 Pricerite"|text="家具店"|result=0
+title="聖安娜餅屋：全新 栗子豆蓉杯 / 開心果豆蓉杯"|shop="聖安娜餅屋"|text="任何人均可享用的普通特價/換購優惠，缺乏會員或特定支付方式門檻"|result=0
+title="莎莎：化妝品最新優惠（至9/4）"|shop="莎莎"|end_date="2024-04-09"|text="純特價或不符門檻"|result=0
+title="大家樂：茶餐 紫菜三寶魚湯烏冬"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至31/3）"|shop="7-Eleven"|payment="yuu會員"|rate=0.1667|start_date="2026-03-27"|end_date="2026-04-21"|text="yuu會員購買指定盒裝牛奶飲品可享買5送1優惠"|result=1
+title="一粥麵：晚市 雙餸飯/三餸飯"|shop="一粥麵"|text="餐廳"|result=0
+title="千色 Citistore：今期熱賣推介（至15/4）"|shop="千色 Citistore"|end_date="2024-04-15"|text="百貨公司"|result=0
