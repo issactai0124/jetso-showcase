@@ -1859,5 +1859,19 @@
         "rate": 0.3,
         "start_date": "2026-03-26",
         "end_date": "2026-03-30"
+    },
+    {
+        "id": "d-mannings-20260327",
+        "shop_ids": [
+            "mannings"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "指定門市買滿$188可享88折",
+        "title_en": "12% off upon $188 spending at selected stores",
+        "rate": 0.12,
+        "min_spend": 188,
+        "start_date": "2026-03-27",
+        "end_date": "2026-03-27",
+        "url": "https://bit.ly/4jh30o4"
     }
 ]
