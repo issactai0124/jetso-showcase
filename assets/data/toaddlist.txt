@@ -9,3 +9,6 @@ title="AEON STYLE：康怡一周年（至8/4）"|shop="AEON STYLE"|end_date="202
 title="美心：端午粽券 早鳥優惠（至30/4）"|shop="美心"|payment="Eatizen 美心薈會員"|rate=0.05|start_date="2026-03-25"|end_date="2026-04-15"|text="Eatizen 美心薈會員購買2張粽券或以上可享額外95折"|result=1
 title="GU：Easter Special 18款商品首次限定優惠（至2/4）"|shop="GU"|end_date="2024-04-02"|text="服裝店"|result=0
 title="奇華餅家：今期推介（至2/4）"|shop="奇華餅家"|end_date="2024-04-02"|text="普通特價，缺乏會員或特定支付門檻"|result=0
+title="離島社區防災應急推廣日2026（29/3）"|shop="離島社區防災應急推廣日"|text="非指定商店類型"|result=0
+title="大快活：酬神孖寶"|shop="大快活"|text="餐廳"|result=0
+title="Uniqlo：本週優惠（至2/4）"|shop="Uniqlo"|text="服裝店"|result=0
