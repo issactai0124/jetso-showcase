@@ -1,2 +1,10 @@
 title="大快活：晚市 清湯蘿蔔牛肋肉煲"|shop="大快活"|text="餐廳"|result=0
 title="優品360：最新優惠（至9/4）"|shop="優品360"|end_date="2024-04-09"|text="普通特價，無會員或特定支付門檻"|result=0
+title="萬寧：今日出位價（28/3）"|shop="萬寧"|start_date="2024-03-28"|end_date="2024-03-28"|text="任何人均可享用的普通特價"|result=0
+title="百佳超級市場最新優惠（28/3）"|shop="百佳超級市場"|start_date="2024-03-28"|text="內容不含具體優惠詳情，且缺乏會員或特定支付方式門檻資訊"|result=0
+title="惠康超級市場最新優惠（28/3）"|shop="惠康超級市場"|start_date="2024-03-28"|text="任何人都可以享受的普通特價"|result=0
+title="屈臣氏：火熱搶（28/3）"|shop="屈臣氏"|start_date="2024-03-28"|text="缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：「速味港廚」聯乘 港式滋味系列產品"|shop="7-Eleven"|text="新品推廣，無特定支付方式或會員門檻"|result=0
+title="AEON STYLE：康怡一周年（至8/4）"|shop="AEON STYLE"|end_date="2024-04-08"|text="百貨公司及一般減價宣傳"|result=0
+title="美心：端午粽券 早鳥優惠（至30/4）"|shop="美心"|payment="Eatizen 美心薈會員"|rate=0.05|start_date="2026-03-25"|end_date="2026-04-15"|text="Eatizen 美心薈會員購買2張粽券或以上可享額外95折"|result=1
+title="GU：Easter Special 18款商品首次限定優惠（至2/4）"|shop="GU"|end_date="2024-04-02"|text="服裝店"|result=0
