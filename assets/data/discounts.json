@@ -1873,5 +1873,19 @@
         "start_date": "2026-03-27",
         "end_date": "2026-03-27",
         "url": "https://bit.ly/4jh30o4"
+    },
+    {
+        "id": "d-member-30847",
+        "shop_ids": [
+            "keewah"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "奇華fans會員可享8折",
+        "title_en": "20% off with Kee Wah Fans",
+        "rate": 0.2,
+        "start_date": "2026-03-27",
+        "end_date": "2026-03-29"
     }
 ]
