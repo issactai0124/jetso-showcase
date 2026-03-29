@@ -1,0 +1,7 @@
+title="萬寧：今日出位價（29/3）"|shop="萬寧"|start_date="2024-03-29"|end_date="2024-03-29"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（29/3）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（29/3）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="樓上：最新優惠（29/3）"|shop="樓上"|start_date="2024-03-29"|text="普通特價"|result=0
+title="意美廚：廚具系列 3折起（至12/4）"|shop="意美廚"|end_date="2024-04-12"|text="不符商店類型及普通特價"|result=0
+title="聖安娜餅屋：復活節蛋糕系列"|shop="聖安娜餅屋"|payment="金會員"|rate=0.15|end_date="2026-04-12"|text="聖安娜金會員購買復活節蛋糕系列可享會員價優惠"|result=1
+title="AEON：理想家居生活提案（至15/4）"|shop="AEON"|end_date="2024-04-15"|text="百貨公司及一般減價宣傳"|result=0
