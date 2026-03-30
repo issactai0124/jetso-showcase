@@ -21,3 +21,11 @@ title="7-Eleven：買7-SELECT和風の味三文治 送原味家作飲品（至31
 title="東海堂：奧運站店 開業優惠"|shop="東海堂"|text="任何人均可享用的新店開業優惠，缺乏會員或特定支付方式門檻"|result=0
 title="HK Express：台北/台中/高雄 單程機票 低至$68（預訂制31/3）"|shop="HK Express"|text="機票"|result=0
 title="南記粉麵：網上落單 9折優惠（至10/4）"|shop="南記粉麵"|rate=0.1|start_date="2024-03-30"|end_date="2024-04-10"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至12/4）"|shop="759 阿信屋"|end_date="2024-04-12"|text="任何人均可享有的普通特價宣傳"|result=0
+title="樓上：憑星期一銷售單 +$9.9換購 Häagen-Dazs 雪糕"|shop="樓上"|text="缺乏會員或特定支付方式門檻"|result=0
+title="大昌行生活：網上購物平台 年度開倉 特價家電 低至16折（至5/4）"|shop="大昌行生活"|end_date="2024-04-05"|text="電器、一般減價宣傳"|result=0
+title="美心MX：Eatizen會員 $39換購 鮮茄焗豬扒飯/芝士焗肉醬意粉（至12/4）"|shop="美心MX"|text="餐廳"|result=0
+title="永安百貨：春夏嬰兒用品及服裝展（16/4）"|shop="永安百貨"|text="百貨公司"|result=0
+title="美心西餅：買指定產品滿$48 送$10優惠券（至31/3）"|shop="美心西餅"|text="缺乏會員或特定支付方式門檻"|result=0
+title="OK 便利店：本週激筍（至5/4）"|shop="OK 便利店"|end_date="2024-04-05"|text="普通特價/減價宣傳"|result=0
+title="大家樂：脆炸雞髀 $12（31/3-1/4）"|shop="大家樂"|text="餐廳"|result=0
