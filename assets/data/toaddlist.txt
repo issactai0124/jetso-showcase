@@ -41,3 +41,8 @@ title="A-1 Bakery：新品 伯爵茶藍莓忌廉芝士包"|shop="A-1 Bakery"|tex
 title="明星海鮮酒家：晚飯超值優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
 title="龍豐：每週至抵「豐搶價」（至6/4）"|shop="龍豐"|end_date="2024-04-06"|text="普通特價，無門檻優惠"|result=0
 title="海港飲食：晚市孖寶 低至$198"|shop="海港飲食"|text="餐廳"|result=0
+title="復活節特賣 低至1折（1-7/4）"|start_date="2024-04-01"|end_date="2024-04-07"|text="普通特價且未註明商店類型"|result=0
+title="又一城：憑任何消費 享3小時免費泊車（1-7/4）"|shop="又一城"|start_date="2024-04-01"|end_date="2024-04-07"|text="百貨公司及一般大眾優惠"|result=0
+title="名牌服裝及休閒服飾勁減（1-6/4）"|shop="名牌服裝及休閒服飾"|start_date="2024-04-01"|end_date="2024-04-06"|text="服裝店"|result=0
+title="一粥麵：晚市外賣88折（至5/4）"|shop="一粥麵"|text="餐廳"|result=0
+title="Ideale Chef 意美廚 x Buffalo牛頭牌：廚具家電開倉 2折起（1-12/4）"|shop="意美廚 x 牛頭牌"|start_date="2026-04-01"|end_date="2026-04-12"|text="電器/廚具店且為一般減價宣傳"|result=0
