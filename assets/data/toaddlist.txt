@@ -1,0 +1,2 @@
+title="小米：xiaomi 米粉節2026（1-19/4）"|shop="小米"|start_date="2026-04-01"|end_date="2026-04-19"|text="電器店"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（1/4）"|shop="萬寧"|applicable_days_of_week=3|text="任何人均可享受的普通特價"|result=0
