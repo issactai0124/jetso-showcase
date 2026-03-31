@@ -39,3 +39,5 @@ title="大家樂：最新「呢啲GOOD價」"|shop="大家樂"|text="餐廳"|res
 title="GU：指定春夏商品 價格下調"|shop="GU"|text="服裝店"|result=0
 title="A-1 Bakery：新品 伯爵茶藍莓忌廉芝士包"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="明星海鮮酒家：晚飯超值優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」（至6/4）"|shop="龍豐"|end_date="2024-04-06"|text="普通特價，無門檻優惠"|result=0
+title="海港飲食：晚市孖寶 低至$198"|shop="海港飲食"|text="餐廳"|result=0
