@@ -8,3 +8,10 @@ title="香港歷史博物館：「香港故事」常設展覽（1/4起）"|shop=
 title="759 阿信屋：勁抵價（至2/4）"|shop="759 阿信屋"|end_date="2024-04-02"|text="任何人均可享受的普通特價"|result=0
 title="OK便利店：7天狂減（至7/4）"|shop="OK便利店"|end_date="2024-04-07"|text="普通特價"|result=0
 title="銀聯手機Pay / 二維碼：搭的士 每程減$5（至5/5）"|shop="的士"|payment="銀聯手機Pay / 二維碼"|amt=5|end_date="2024-05-05"|text="的士服務"|result=0
+title="Jollibean：門市日日驚喜 指定飲品 $28（至31/3）"|shop="Jollibean"|end_date="2025-03-31"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至14/4）"|shop="7-Eleven"|start_date="2024-04-01"|end_date="2024-04-14"|text="普通新品推廣"|result=0
+title="大快活：阿活茶市爆「抵」價 瑞士汁雞髀＋粒粒紅豆冰 $29"|shop="大快活"|text="餐廳"|result=0
+title="紅磡新海濱 分階段開放"|shop="紅磡新海濱"|text="非指定商店類型（休閒/公共空間）"|result=0
+title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/4）"|shop="西樹泡芙"|text="任何人都可以享受的普通特價"|result=0
+title="美心MX：長者晚市 75折（2/4）"|shop="美心MX"|text="餐廳"|result=0
+title="KFC：肯！抵DEAL（2-22/4）/ 全新「肯！鬆甜包」早餐系列"|shop="KFC"|text="餐廳"|result=0
