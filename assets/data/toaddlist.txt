@@ -1,2 +1,10 @@
 title="小米：xiaomi 米粉節2026（1-19/4）"|shop="小米"|start_date="2026-04-01"|end_date="2026-04-19"|text="電器店"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（1/4）"|shop="萬寧"|applicable_days_of_week=3|text="任何人均可享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（1/4）"|shop="MTR"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（1/4）"|shop="百佳超級市場"|text="內容不足且未提及會員或特定支付門檻"|result=0
+title="屈臣氏：星期三樂悠折（1/4）"|shop="屈臣氏"|payment="樂悠咭"|start_date="2026-04-01"|end_date="2026-04-01"|applicable_days_of_week=3|text="星期三持樂悠咭於屈臣氏購物可享樂悠折優惠"|result=1
+title="大家樂：早餐 北海道3.6牛乳炒蛋 $3優惠券（至10/4）/ 500樂賞分+$78換購「法式馬卡龍」"|shop="大家樂"|text="餐廳"|result=0
+title="香港歷史博物館：「香港故事」常設展覽（1/4起）"|shop="香港歷史博物館"|text="非指定商店類型（博物館）"|result=0
+title="759 阿信屋：勁抵價（至2/4）"|shop="759 阿信屋"|end_date="2024-04-02"|text="任何人均可享受的普通特價"|result=0
+title="OK便利店：7天狂減（至7/4）"|shop="OK便利店"|end_date="2024-04-07"|text="普通特價"|result=0
+title="銀聯手機Pay / 二維碼：搭的士 每程減$5（至5/5）"|shop="的士"|payment="銀聯手機Pay / 二維碼"|amt=5|end_date="2024-05-05"|text="的士服務"|result=0
