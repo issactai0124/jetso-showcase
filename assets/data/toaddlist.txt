@@ -13,3 +13,5 @@ title="Living Plaza / Daiso Japan：復活節優惠"|shop="Living Plaza / Daiso 
 title="香港潑水節2026（3-5/4）"|shop="香港潑水節"|start_date="2026-04-03"|end_date="2026-04-05"|text="節慶活動"|result=0
 title="聖安娜餅屋：日日至抵價（至15/4）"|shop="聖安娜餅屋"|end_date="2024-04-15"|text="普通特價，無會員或特定支付門檻"|result=0
 title="長者/合資格殘疾人：「兩蚊兩折」乘車優惠計劃（3/4起）"|shop="公共交通"|payment="樂悠咭/殘疾人士身分個人八達通"|start_date="2026-04-03"|text="非指定商店類型（公共交通）"|result=0
+title="譚仔：下午茶 雞髀套餐 $28（3/4起）"|shop="譚仔"|text="餐廳"|result=0
+title="麥當勞App：復活節優惠（3-7/4）"|shop="麥當勞"|text="餐廳"|result=0
