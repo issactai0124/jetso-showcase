@@ -1,2 +1,11 @@
 title="萬寧：今日出位價（2/4）"|shop="萬寧"|start_date="2024-04-02"|end_date="2024-04-02"|text="任何人均可享受的普通特價"|result=0
 title="惠康超級市場最新優惠（2/4）"|shop="惠康超級市場"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="樓上/大棧/南北行：最新優惠（2/4）"|shop="樓上/大棧/南北行"|text="缺乏會員或特定支付方式門檻"|result=0
+title="崇光百貨：春季戶外運動及鞋履配飾展 低至2折（至6/4）"|shop="崇光百貨"|end_date="2024-04-06"|text="百貨公司"|result=0
+title="元氣壽司：「春祭り」餐目"|shop="元氣壽司"|text="餐廳"|result=0
+title="BigC：今期精選品牌推介（至21/4）"|shop="BigC"|end_date="2024-04-21"|text="任何人均可享受的普通特價"|result=0
+title="一粥麵：新鮮出爐！自選一粥兩件"|shop="一粥麵"|text="餐廳"|result=0
+title="海馬牌 / 軒琴居：Happy Easter 產品低至65折發售"|shop="海馬牌 / 軒琴居"|text="家具店"|result=0
+title="東海堂：「濃厚マンゴー」芒果蛋糕甜品系列"|shop="東海堂"|payment="Eatizen美心薈會員"|rate=0.1|text="Eatizen美心薈會員購買指定芒果蛋糕甜品系列可享9折優惠"|result=1
+title="Uniqlo：優惠專區 春夏出遊之選"|shop="Uniqlo"|text="服裝店"|result=0
+title="壽司郎 Sushiro：大升級三貫祭 / 本月特別推薦"|shop="壽司郎 Sushiro"|text="餐廳"|result=0
