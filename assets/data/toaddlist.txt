@@ -15,3 +15,4 @@ title="聖安娜餅屋：日日至抵價（至15/4）"|shop="聖安娜餅屋"|en
 title="長者/合資格殘疾人：「兩蚊兩折」乘車優惠計劃（3/4起）"|shop="公共交通"|payment="樂悠咭/殘疾人士身分個人八達通"|start_date="2026-04-03"|text="非指定商店類型（公共交通）"|result=0
 title="譚仔：下午茶 雞髀套餐 $28（3/4起）"|shop="譚仔"|text="餐廳"|result=0
 title="麥當勞App：復活節優惠（3-7/4）"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：週末勁減（3-7/4）"|shop="AEON"|text="百貨公司及任何人均可享有的週末優惠"|result=0
