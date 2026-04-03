@@ -16,3 +16,16 @@ title="長者/合資格殘疾人：「兩蚊兩折」乘車優惠計劃（3/4起
 title="譚仔：下午茶 雞髀套餐 $28（3/4起）"|shop="譚仔"|text="餐廳"|result=0
 title="麥當勞App：復活節優惠（3-7/4）"|shop="麥當勞"|text="餐廳"|result=0
 title="AEON：週末勁減（3-7/4）"|shop="AEON"|text="百貨公司及任何人均可享有的週末優惠"|result=0
+title="MTR Mobile：港鐵即時賞（3/4）"|shop="MTR Mobile"|payment="MTR Mobile會員"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（3/4）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="惠康超級市場最新優惠（3/4）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="屈臣氏最新購物優惠（3/4）"|shop="屈臣氏"|min_spend=99|start_date="2026-04-01"|end_date="2026-04-07"|text="任何人均可享受的普通特價/贈品優惠，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（3/4）"|shop="萬寧"|applicable_days_of_week=5|text="沒有會員或指定支付方式門檻的普通特價"|result=0
+title="阿波羅 Appolo：復活節優惠（至7/4） "|shop="阿波羅 Appolo"|end_date="2024-04-07"|text="任何人都可以享受的普通特價"|result=0
+title="燒肉Like：惠顧日本產黑毛和牛前胸肉三重套餐 送「成為燒肉」圍裙（至8/4）"|shop="燒肉Like"|end_date="2024-04-08"|text="餐廳"|result=0
+title="天仁茗茶：復活蛋優惠 $4加購茶葉蛋（至7/4）"|shop="天仁茗茶"|start_date="2026-04-03"|end_date="2026-04-07"|text="任何人都可以享受的普通特價"|result=0
+title="KFC：買A3/A4套餐 加$20升級至「煙燻三層巴辣雞腿軍艦」"|shop="KFC"|text="餐廳"|result=0
+title="MTR Mobile：復活節遊戲 日日贏MTR分（至7/4）"|shop="MTR Mobile"|end_date="2024-04-07"|applicable_days_of_week="1,2,3,4,5,6,7"|text="遊戲推廣，非指定商店類型優惠"|result=0
+title="爭鮮迴轉壽司：全新 午市套餐 / 午後の約定"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="Pizza Hut：Pizza 日日買1送1 平均低至$49.5（至30/4）"|shop="Pizza Hut"|end_date="2024-04-30"|applicable_days_of_week="1,2,3,4,5,6,7"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至7/4）"|shop="7-Eleven"|start_date="2024-04-03"|end_date="2024-04-07"|text="普通特價"|result=0
