@@ -34,3 +34,4 @@ title="六合彩：復活節金多寶 $8000萬（4/4）"|shop="香港賽馬會"|
 title="Pizza Hut：小朋友任何惠顧 送 Häagen-Dazs 士多啤梨味雪糕（4/4）"|shop="Pizza Hut"|text="餐廳"|result=0
 title="AEON Day：自家品牌商品 8折優惠（4-5/4）"|shop="AEON"|rate=0.2|start_date="2024-04-04"|end_date="2024-04-05"|text="普通特價且未註明會員或特定支付方式要求"|result=0
 title="奇華餅家：今期推介（至9/4）"|shop="奇華餅家"|end_date="2024-04-09"|text="普通特價或新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="優品360：本週優惠（至9/4）"|shop="優品360"|end_date="2024-04-09"|text="任何人都可以享受的普通特價"|result=0
