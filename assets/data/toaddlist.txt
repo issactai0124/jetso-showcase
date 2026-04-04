@@ -44,3 +44,7 @@ title="Don Don Donki：會員優惠券（至30/4）"|shop="Don Don Donki"|paymen
 title="The Spaghetti House：惠顧兒童餐 送免費小食 （至7/4）"|shop="The Spaghetti House"|start_date="2026-04-03"|end_date="2026-04-07"|text="餐廳"|result=0
 title="美心MX：快閃優惠（至14/4）"|shop="美心MX"|start_date="2026-04-01"|end_date="2026-04-14"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至9/4）"|shop="一田超市"|end_date="2024-04-09"|text="普通特價"|result=0
+title="大家樂：繽紛烤雞2人餐 $69"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：和風麵祭（至30/4）"|shop="AEON"|end_date="2024-04-30"|text="普通特價宣傳"|result=0
+title="Häagen-Dazs：夏日特飲 買1送1（至19/4）"|shop="Häagen-Dazs"|start_date="2026-04-02"|end_date="2026-04-19"|text="任何人均可享用的普通優惠，缺乏會員或特定支付方式門檻"|result=0
+title="東海堂：甜品類產品 3件85折（至7/4）"|shop="東海堂"|rate=0.15|start_date="2024-04-04"|end_date="2024-04-07"|text="任何人都可以享受的普通特價"|result=0
