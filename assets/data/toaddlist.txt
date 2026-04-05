@@ -49,3 +49,11 @@ title="AEON：和風麵祭（至30/4）"|shop="AEON"|end_date="2024-04-30"|text=
 title="Häagen-Dazs：夏日特飲 買1送1（至19/4）"|shop="Häagen-Dazs"|start_date="2026-04-02"|end_date="2026-04-19"|text="任何人均可享用的普通優惠，缺乏會員或特定支付方式門檻"|result=0
 title="東海堂：甜品類產品 3件85折（至7/4）"|shop="東海堂"|rate=0.15|start_date="2024-04-04"|end_date="2024-04-07"|text="任何人都可以享受的普通特價"|result=0
 title="Uniqlo：本週優惠（至9/4）"|shop="Uniqlo"|text="服裝店"|result=0
+title="萬寧：今日出位價（5/4）"|shop="萬寧"|start_date="2024-04-05"|end_date="2024-04-05"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（5/4）"|shop="百佳超級市場"|text="內容僅包含廣告代碼，缺乏具體優惠詳情及會員或特定支付門檻資訊"|result=0
+title="美心西餅：乳豬造型蛋糕"|shop="美心西餅"|payment="Eatizen美心薈會員"|rate=0.1|amt=38.8|text="Eatizen美心薈會員購買乳豬造型蛋糕可享9折優惠"|result=1
+title="韓印紅：最新優惠（5/4）"|shop="韓印紅"|text="普通特價"|result=0
+title="樂天經典：星洲黑胡椒蟹 $48（至30/4）"|shop="樂天經典"|end_date="2024-04-30"|text="餐廳"|result=0
+title="GU：Easter Special 第2週（至9/4）"|shop="GU"|text="服裝店"|result=0
+title="壽司郎 Sushiro：【升級三貫祭】外賣盛合 $60 / 7店舖限定 天然藍鰭吞拿魚 稀少部位三味"|shop="壽司郎"|text="餐廳"|result=0
+title="OK便利店：會員至抵價（至8/4）"|shop="OK便利店"|payment="會員"|end_date="2024-04-08"|text="OK便利店會員專享至抵價優惠至4月8日"|result=1
