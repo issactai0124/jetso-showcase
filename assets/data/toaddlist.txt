@@ -57,3 +57,4 @@ title="樂天經典：星洲黑胡椒蟹 $48（至30/4）"|shop="樂天經典"|e
 title="GU：Easter Special 第2週（至9/4）"|shop="GU"|text="服裝店"|result=0
 title="壽司郎 Sushiro：【升級三貫祭】外賣盛合 $60 / 7店舖限定 天然藍鰭吞拿魚 稀少部位三味"|shop="壽司郎"|text="餐廳"|result=0
 title="OK便利店：會員至抵價（至8/4）"|shop="OK便利店"|payment="會員"|end_date="2024-04-08"|text="OK便利店會員專享至抵價優惠至4月8日"|result=1
+title="元気寿司：扭蛋祭 - 20款限量精品 + 400部Tamagotchi Paradise一「扭」必中獎"|shop="元気寿司"|text="餐廳"|result=0
