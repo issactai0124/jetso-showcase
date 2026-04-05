@@ -527,5 +527,65 @@
         "min_spend": 80,
         "start_date": "2026-03-26",
         "end_date": "2026-03-28"
+    },
+    {
+        "id": "d-arome-20260404-85off",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "買3件或以上甜品類產品享85折",
+        "title_en": "15% off upon 3 or more dessert products",
+        "rate": 0.15,
+        "start_date": "2026-04-04",
+        "end_date": "2026-04-07"
+    },
+    {
+        "id": "d-arome-member-mango",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "「濃厚マンゴー」芒果蛋糕甜品系列Eatizen美心薈會員享9折",
+        "title_en": "10% off \"Mango\" cake & dessert series for Eatizen members",
+        "rate": 0.1
+    },
+    {
+        "id": "d-maxims-member-sucklingpig",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "乳豬造型蛋糕Eatizen美心薈會員享9折",
+        "title_en": "10% off Suckling Pig shaped cake for Eatizen members",
+        "rate": 0.1
+    },
+    {
+        "id": "d-haagendazs-20260402-bogof",
+        "shop_ids": [
+            "haagendazs"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "夏日特飲享同一款式買1送1",
+        "title_en": "Buy 1 get 1 free on summer drinks",
+        "rate": 0.5,
+        "start_date": "2026-04-02",
+        "end_date": "2026-04-19"
+    },
+    {
+        "id": "d-haagendazs-20260402-20off",
+        "shop_ids": [
+            "haagendazs"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "母親節蛋糕享8折",
+        "title_en": "20% off Mother's Day cakes",
+        "rate": 0.2,
+        "start_date": "2026-04-02",
+        "end_date": "2026-04-19"
     }
-]
+]

@@ -1887,5 +1887,30 @@
         "rate": 0.2,
         "start_date": "2026-03-27",
         "end_date": "2026-03-29"
+    },
+    {
+        "id": "d-yuu-3",
+        "shop_ids": [
+            "maxims"
+        ],
+        "required_payment_ids": [
+            "yuu"
+        ],
+        "title_zh": "以2,700分換取$15現金券",
+        "title_en": "Redeem $15 voucher with 2,700 yuu points",
+        "min_spend": 15,
+        "amount": 1.5
+    },
+    {
+        "id": "d-wingwah-20260403",
+        "shop_ids": [
+            "wingwah"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "買3件或以上甜品類產品享85折",
+        "title_en": "15% off upon 3 or more dessert products",
+        "rate": 0.15,
+        "start_date": "2026-04-03",
+        "end_date": "2026-04-05"
     }
-]
+]
