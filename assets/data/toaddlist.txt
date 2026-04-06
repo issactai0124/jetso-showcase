@@ -9,3 +9,7 @@ title="U士多：秒殺價（至9/4）"|shop="U士多"|end_date="2024-04-09"|tex
 title="山崎麵包：4月特價の選"|shop="山崎麵包"|text="普通特價，無會員或特定支付門檻"|result=0
 title="759 阿信屋：自由配搭 任選４件（至12/4）"|shop="759 阿信屋"|end_date="2024-04-12"|text="普通特價，無會員或特定支付方式門檻"|result=0
 title="A-1 Bakery：桔梗信玄餅 聯乘甜品系列 第1彈"|shop="A-1 Bakery"|text="任何人都可以享受的新品推廣，無會員或特定支付門檻"|result=0
+title="海港飲食：超值午市．全包宴"|shop="海港酒家"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至12/4）"|shop="OK便利店"|end_date="2025-04-12"|text="普通特價宣傳，不符合會員或特定支付方式要求"|result=0
+title="價真棧：復活節優惠（至30/4）"|shop="價真棧"|end_date="2024-04-30"|text="普通特價"|result=0
+title="大家樂：晚市 花膠蟲草花三黃雞湯鍋小菜套餐"|shop="大家樂"|text="餐廳"|result=0
