@@ -1,3 +1,11 @@
 title="龍豐：推廣員駐場限定優惠（6-12/4）"|shop="龍豐"|start_date="2024-04-06"|end_date="2024-04-12"|text="缺乏會員或特定支付門檻"|result=0
 title="一粥麵：至抵Deal 指定粥麵 半價優惠（逢星期一至三、至29/4）"|shop="一粥麵"|text="餐廳"|result=0
 title="大生生活超市：今期優惠（至15/4）"|shop="大生生活超市"|end_date="2024-04-15"|text="普通特價/無門檻"|result=0
+title="MTR Mobile：港鐵即時賞（6/4）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（6/4）"|shop="百佳超級市場"|text="缺乏具體優惠內容及會員/支付方式門檻"|result=0
+title="惠康超級市場最新優惠（6/4）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻要求"|result=0
+title="東海堂：指定分店 Hello Kitty蘋果芒棉花糖新地"|shop="東海堂"|text="任何人均可享用的普通特價/新品推廣"|result=0
+title="U士多：秒殺價（至9/4）"|shop="U士多"|end_date="2024-04-09"|text="任何人均可享受的普通特價"|result=0
+title="山崎麵包：4月特價の選"|shop="山崎麵包"|text="普通特價，無會員或特定支付門檻"|result=0
+title="759 阿信屋：自由配搭 任選４件（至12/4）"|shop="759 阿信屋"|end_date="2024-04-12"|text="普通特價，無會員或特定支付方式門檻"|result=0
+title="A-1 Bakery：桔梗信玄餅 聯乘甜品系列 第1彈"|shop="A-1 Bakery"|text="任何人都可以享受的新品推廣，無會員或特定支付門檻"|result=0
