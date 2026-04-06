@@ -13,3 +13,4 @@ title="海港飲食：超值午市．全包宴"|shop="海港酒家"|text="餐廳
 title="OK便利店：本週激筍（至12/4）"|shop="OK便利店"|end_date="2025-04-12"|text="普通特價宣傳，不符合會員或特定支付方式要求"|result=0
 title="價真棧：復活節優惠（至30/4）"|shop="價真棧"|end_date="2024-04-30"|text="普通特價"|result=0
 title="大家樂：晚市 花膠蟲草花三黃雞湯鍋小菜套餐"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：涼夏冷氣展（至11/5）"|shop="AEON"|end_date="2024-05-11"|text="電器、百貨公司"|result=0
