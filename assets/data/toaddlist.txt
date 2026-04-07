@@ -1,0 +1,4 @@
+title="Starbucks：四月限定 星巴克循環再用杯 特別優惠 / Bearista 咖啡農莊系列商品"|shop="Starbucks"|text="餐廳"|result=0
+title="鴻福堂：新登場 港式系列健康餐 - 黑醋汁松板肉套餐"|shop="鴻福堂"|start_date="2024-03-30"|end_date="2024-04-12"|text="任何人均可享用的普通特價"|result=0
+title="一田超市：買手嚴選（至16/4）/ 每日好貨好價（至8/6）"|shop="一田超市"|end_date="2026-06-08"|text="普通特價，無會員或特定支付方式要求"|result=0
+title="東海堂：全新「蜜瓜忌廉蛋糕」/ 午間驚喜優惠（至17/4）"|shop="東海堂"|text="任何人均可享用的普通特價"|result=0
