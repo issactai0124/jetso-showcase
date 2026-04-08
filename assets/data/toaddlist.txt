@@ -17,3 +17,5 @@ title="Marathon Sports 馬拉松便服及運動名牌開倉 低至2折（至12/4
 title="東海堂：牛油片裝蛋糕 $17/2件（至9/4）"|shop="東海堂"|end_date="2024-04-09"|text="普通特價"|result=0
 title="莎莎：48周年 無限激賞（至30/4）"|shop="莎莎"|end_date="2024-04-30"|text="普通特價"|result=0
 title="KFC：肯！抵DEAL（2-22/4）/ 全新「肯！鬆甜包」早餐系列"|shop="KFC"|start_date="2024-04-02"|end_date="2024-04-22"|text="餐廳"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至21/4）"|shop="7-Eleven"|end_date="2024-04-21"|text="任何人都可以享受的普通特價"|result=0
+title="生活及嬰童用品特賣 低至1折（9-13/4）"|text="普通特價"|result=0
