@@ -21,3 +21,4 @@ title="7-Eleven：今期「$10一口價」限時優惠（至21/4）"|shop="7-Ele
 title="生活及嬰童用品特賣 低至1折（9-13/4）"|text="普通特價"|result=0
 title="爭鮮外帶壽司：荃灣如心廣場店 開幕優惠（9-11/4）"|shop="爭鮮外帶壽司"|start_date="2024-04-09"|end_date="2024-04-11"|text="任何人均可享受的普通開幕優惠"|result=0
 title="AEON：吉日 會員尊享購物日 照價再折（9-14/4）"|shop="AEON"|payment="會員"|start_date="2024-04-09"|end_date="2024-04-14"|text="AEON會員於4月9日至14日吉日期間可享會員尊享額外折扣優惠"|result=1
+title="稻香：限時晚市優惠 黑松露脆皮燒雞"|shop="稻香"|text="餐廳"|result=0
