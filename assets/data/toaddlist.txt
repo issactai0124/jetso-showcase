@@ -7,3 +7,13 @@ title="AEON：周3大特賣 / 新鮮日（8/4）"|shop="AEON"|text="百貨公司
 title="美心MX：手機點餐 全日8折（至12/4）/ 長者 全日8折（至14/4）"|shop="美心MX"|text="餐廳"|result=0
 title="OK便利店：5天狂減（8-12/4）"|shop="OK便利店"|start_date="2024-04-08"|end_date="2024-04-12"|text="普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（8/4）"|shop="萬寧"|text="普通特價，無會員或特定支付門檻"|result=0
+title="MTR Mobile：港鐵即時賞（8/4）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳 / 惠康：最新優惠（8/4）"|shop="百佳 / 惠康"|text="一般特價宣傳"|result=0
+title="屈臣氏：星期三樂悠折（8/4）"|shop="屈臣氏"|payment="樂悠咭"|start_date="2026-04-08"|end_date="2026-04-08"|applicable_days_of_week=3|text="樂悠咭持有人於星期三在屈臣氏購物可享專屬優惠"|result=1
+title="君蘭麵包廠：全店88折優惠（每月逢8號）"|shop="君蘭麵包廠"|rate=0.12|applicable_days_of_month=8|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：1 MTR分快搶「機場快綫」免費單程車票（1/4、8/4、22/4）"|shop="MTR"|text="不符合商店類型"|result=0
+title="7-Eleven：7CAFÉ季節限定新口味 - 甘香抹茶系列 / $11試飲優惠（至21/4）"|shop="7-Eleven"|end_date="2024-04-21"|text="任何人均可享用的新品推廣優惠"|result=0
+title="Marathon Sports 馬拉松便服及運動名牌開倉 低至2折（至12/4）"|shop="Marathon Sports 馬拉松"|text="服裝店、普通特價"|result=0
+title="東海堂：牛油片裝蛋糕 $17/2件（至9/4）"|shop="東海堂"|end_date="2024-04-09"|text="普通特價"|result=0
+title="莎莎：48周年 無限激賞（至30/4）"|shop="莎莎"|end_date="2024-04-30"|text="普通特價"|result=0
+title="KFC：肯！抵DEAL（2-22/4）/ 全新「肯！鬆甜包」早餐系列"|shop="KFC"|start_date="2024-04-02"|end_date="2024-04-22"|text="餐廳"|result=0
