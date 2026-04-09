@@ -13,3 +13,4 @@ title="聖安娜餅屋：全新「酸種三文治」"|shop="聖安娜餅屋"|pay
 title="7-Eleven：本週優惠（至14/4）"|shop="7-Eleven"|start_date="2026-04-08"|end_date="2026-04-14"|text="任何人都可以享受的普通特價"|result=0
 title="東海堂：端午粽券 優先推廣（至30/4）"|shop="東海堂"|end_date="2024-04-30"|text="普通特價/減價宣傳"|result=0
 title="無印良品： MUJI week app會員 全店消費額外9折（10-19/4）"|shop="無印良品"|payment="MUJI app會員"|rate=0.1|start_date="2024-04-10"|end_date="2024-04-19"|text="百貨公司/服裝店/家具店/餐廳"|result=0
+title="AEON ：100周年 限定特賣（至30/4）"|shop="AEON"|end_date="2024-04-30"|text="百貨公司及普通特價"|result=0
