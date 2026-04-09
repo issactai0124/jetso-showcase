@@ -10,3 +10,6 @@ title="屈臣氏：買4支指定高露潔牙膏 送總值$415豐富禮品（至1
 title="美心MX：新登場 士多啤梨希臘式乳酪杯"|shop="美心MX"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - 多場景旅遊穿搭推薦"|shop="Uniqlo"|text="服裝店"|result=0
 title="聖安娜餅屋：全新「酸種三文治」"|shop="聖安娜餅屋"|payment="會員電子券"|min_spend=""|rate=""|amt=""|start_date="2024-04-01"|end_date="2024-04-22"|applicable_days_of_week=""|applicable_days_of_month=""|text="每月2、20日以AEON信用卡簽帳可享5%優惠"|result=1
+title="7-Eleven：本週優惠（至14/4）"|shop="7-Eleven"|start_date="2026-04-08"|end_date="2026-04-14"|text="任何人都可以享受的普通特價"|result=0
+title="東海堂：端午粽券 優先推廣（至30/4）"|shop="東海堂"|end_date="2024-04-30"|text="普通特價/減價宣傳"|result=0
+title="無印良品： MUJI week app會員 全店消費額外9折（10-19/4）"|shop="無印良品"|payment="MUJI app會員"|rate=0.1|start_date="2024-04-10"|end_date="2024-04-19"|text="百貨公司/服裝店/家具店/餐廳"|result=0
