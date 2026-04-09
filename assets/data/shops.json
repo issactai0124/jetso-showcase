@@ -92,6 +92,13 @@
     "subcategory": "咖啡輕食"
   },
   {
+    "id": "cotti",
+    "name_zh": "庫迪咖啡",
+    "name_en": "Cotti Coffee",
+    "category": "休閒飲品",
+    "subcategory": "咖啡輕食"
+  },
+  {
     "id": "tenren",
     "name_zh": "天仁茗茶",
     "name_en": "TenRen's Tea",

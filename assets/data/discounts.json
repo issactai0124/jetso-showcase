@@ -117,10 +117,10 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$48.7購買$50現金券",
-        "title_en": "Buy $50 voucher for $48.7 at A+ Rewards",
+        "title_zh": "於A+ Rewards以$49.0購買$50現金券",
+        "title_en": "Buy $50 voucher for $49.0 at A+ Rewards",
         "min_spend": 50,
-        "amount": 1.3
+        "amount": 1
     },
     {
         "id": "d-aplus_rewards-2",
@@ -130,10 +130,10 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$97.5購買$100現金券",
-        "title_en": "Buy $100 voucher for $97.5 at A+ Rewards",
+        "title_zh": "於A+ Rewards以$98購買$100現金券",
+        "title_en": "Buy $100 voucher for $98 at A+ Rewards",
         "min_spend": 100,
-        "amount": 2.5
+        "amount": 2
     },
     {
         "id": "d-aplus_rewards-3",
@@ -143,10 +143,10 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$9.5購買$10現金券",
-        "title_en": "Buy $10 voucher for $9.5 at A+ Rewards",
+        "title_zh": "於A+ Rewards以$9.6購買$10現金券",
+        "title_en": "Buy $10 voucher for $9.6 at A+ Rewards",
         "min_spend": 10,
-        "amount": 0.5
+        "amount": 0.4
     },
     {
         "id": "d-joy_you_card-2",
@@ -567,9 +567,9 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$19購買$20現金券",
-        "title_en": "Buy $20 Cash Voucher for $19 in A+ Rewards",
-        "amount": 1,
+        "title_zh": "於A+ Rewards以$19.3購買$20現金券",
+        "title_en": "Buy $20 Cash Voucher for $19.3 in A+ Rewards",
+        "amount": 0.7,
         "min_spend": 20,
         "start_date": "2026-01-26",
         "end_date": "2026-10-09"
@@ -582,9 +582,9 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$48購買$50現金券",
-        "title_en": "Buy $50 Cash Voucher for $48 in A+ Rewards",
-        "amount": 2,
+        "title_zh": "於A+ Rewards以$49購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $49 in A+ Rewards",
+        "amount": 1,
         "min_spend": 50,
         "start_date": "2026-01-26",
         "end_date": "2026-10-09"
@@ -597,9 +597,9 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$96購買$100現金券",
-        "title_en": "Buy $100 Cash Voucher for $96 in A+ Rewards",
-        "amount": 4,
+        "title_zh": "於A+ Rewards以$96.4購買$100現金券",
+        "title_en": "Buy $100 Cash Voucher for $96.4 in A+ Rewards",
+        "amount": 3.6,
         "min_spend": 100,
         "start_date": "2026-01-26",
         "end_date": "2026-10-09"
@@ -702,9 +702,9 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$48.5購買$50現金券",
-        "title_en": "Buy $50 Cash Voucher for $48.5 in A+ Rewards",
-        "amount": 1.5,
+        "title_zh": "於A+ Rewards以$48.75購買$50現金券",
+        "title_en": "Buy $50 Cash Voucher for $48.75 in A+ Rewards",
+        "amount": 1.25,
         "min_spend": 50
     },
     {
@@ -775,9 +775,9 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$195購買$200禮品卡",
-        "title_en": "Buy $200 Gift Card for $195 in A+ Rewards",
-        "amount": 5,
+        "title_zh": "於A+ Rewards以$196購買$200禮品卡",
+        "title_en": "Buy $200 Gift Card for $196 in A+ Rewards",
+        "amount": 4,
         "min_spend": 200,
         "start_date": "2026-02-27",
         "end_date": "2026-03-31"
@@ -1619,10 +1619,10 @@
         "required_payment_ids": [
             "aplus_rewards"
         ],
-        "title_zh": "於A+ Rewards以$90購買$100現金券",
-        "title_en": "Buy $100 Cash Voucher for $90 in A+ Rewards",
-        "min_spend": 100,
-        "amount": 10
+        "title_zh": "於A+ Rewards以$53.1購買$59軟雪糕現金券",
+        "title_en": "Buy $59.0 Soft Ice Cream Voucher for $53.1 in A+ Rewards",
+        "min_spend": 59,
+        "amount": 5.9
     },
     {
         "id": "d-aplus_rewards-pacificcoffee-1000",
@@ -1912,5 +1912,43 @@
         "rate": 0.15,
         "start_date": "2026-04-03",
         "end_date": "2026-04-05"
+    },
+    {
+        "id": "d-tenren-dse2026",
+        "shop_ids": [
+            "tenren"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "DSE考生出示本年準考證正本、「報到易」或「HKDSE 」Apps內的「我的考試日程」版面可享茶飲$5優惠（只限1杯）",
+        "title_en": "DSE candidates can enjoy $5 off on handcrafted beverages (limit 1 cup) by presenting their current year admission form or the 'My Exam Schedule' page in the 'HKDSE' App",
+        "amount": 5,
+        "start_date": "2026-04-08",
+        "end_date": "2026-05-07"
+    },
+    {
+        "id": "d-aplus_rewards-cotti-1",
+        "shop_ids": [
+            "cotti"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$14購買$19美式咖啡兌換券（於Cotti App兌換卡券）",
+        "title_en": "Buy $19 Americano Voucher for $14 in A+ Rewards (Redeem in Cotti App)",
+        "min_spend": 19,
+        "amount": 5
+    },
+    {
+        "id": "d-aplus_rewards-cotti-2",
+        "shop_ids": [
+            "cotti"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "於A+ Rewards以$19購買$29任意飲品兌換券（於Cotti App兌換卡券）",
+        "title_en": "Buy $29 Any Drink Voucher for $19 in A+ Rewards (Redeem in Cotti App)",
+        "min_spend": 29,
+        "amount": 9.5
     }
 ]
