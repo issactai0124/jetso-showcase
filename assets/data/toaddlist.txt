@@ -14,3 +14,18 @@ title="7-Eleven：本週優惠（至14/4）"|shop="7-Eleven"|start_date="2026-04
 title="東海堂：端午粽券 優先推廣（至30/4）"|shop="東海堂"|end_date="2024-04-30"|text="普通特價/減價宣傳"|result=0
 title="無印良品： MUJI week app會員 全店消費額外9折（10-19/4）"|shop="無印良品"|payment="MUJI app會員"|rate=0.1|start_date="2024-04-10"|end_date="2024-04-19"|text="百貨公司/服裝店/家具店/餐廳"|result=0
 title="AEON ：100周年 限定特賣（至30/4）"|shop="AEON"|end_date="2024-04-30"|text="百貨公司及普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（10/4）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（10/4）"|shop="百佳超級市場"|start_date="2024-04-10"|text="一般減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（10/4）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式資訊，且內容僅為一般優惠標題"|result=0
+title="屈臣氏最新購物優惠（10/4）"|shop="屈臣氏"|min_spend=99|start_date="2026-03-25"|end_date="2026-03-31"|text="缺乏會員或特定支付方式門檻的普通優惠"|result=0
+title="萬寧：周五購物攻略（10/4）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="牙膏最新優惠（10/4）"|text="內容為空，且標題顯示為一般減價宣傳，缺乏會員或特定支付門檻"|result=0
+title="韓印紅：最新優惠（10/4）"|shop="韓印紅"|text="缺乏會員或特定支付方式門檻"|result=0
+title="萬寧 / 屈臣氏：會員日 全單95折（10/4）"|shop="萬寧 / 屈臣氏"|payment="會員"|rate=0.05|start_date="2024-04-10"|end_date="2024-04-10"|applicable_days_of_month=10|text="萬寧及屈臣氏會員於4月10日可享全單95折優惠"|result=1
+title="阿波羅 Appolo：雪糕雪條 週末優惠（至12/4）"|shop="阿波羅"|end_date="2024-04-12"|text="任何人均可享用的普通特價/週末優惠"|result=0
+title="Living Plaza / Daiso Japan：會員8折優惠（至14/4）"|shop="Living Plaza / Daiso Japan"|payment="會員"|rate=0.2|end_date="2024-04-14"|text="商店類型不符 (生活百貨)"|result=0
+title="美心西餅：新登場 天使/魔鬼爆谷"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="一粥麵：滬式菜飯"|shop="一粥麵"|text="餐廳"|result=0
+title="永安百貨：震撼大特賣 網店貨品預購（至14/4）"|shop="永安百貨"|end_date="2024-04-14"|text="百貨公司"|result=0
+title="明星海鮮酒家：超級無敵自選晚飯全包宴 / $188星級肥牛鍋"|shop="明星海鮮酒家"|text="餐廳"|result=0
+title="7-Eleven：6天限定（至15/4）"|shop="7-Eleven"|start_date="2026-04-10"|end_date="2026-04-15"|text="純特價"|result=0
