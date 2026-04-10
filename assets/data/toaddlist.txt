@@ -29,3 +29,10 @@ title="一粥麵：滬式菜飯"|shop="一粥麵"|text="餐廳"|result=0
 title="永安百貨：震撼大特賣 網店貨品預購（至14/4）"|shop="永安百貨"|end_date="2024-04-14"|text="百貨公司"|result=0
 title="明星海鮮酒家：超級無敵自選晚飯全包宴 / $188星級肥牛鍋"|shop="明星海鮮酒家"|text="餐廳"|result=0
 title="7-Eleven：6天限定（至15/4）"|shop="7-Eleven"|start_date="2026-04-10"|end_date="2026-04-15"|text="純特價"|result=0
+title="寶礦力水特：免費派發 ion water（11-12/4） "|shop="寶礦力水特"|payment="追蹤Instagram或讚好Facebook"|start_date="2024-04-11"|end_date="2024-04-12"|text="不符合商店類型（街頭派發）及屬於一般大眾推廣"|result=0
+title="龍城美食潑水泰繽紛2026（11-12/4）"|shop="龍城美食潑水泰繽紛2026"|text="活動/不符商店類型"|result=0
+title="馬拉松：免費港式鴛鴦（11-12/4）"|shop="馬拉松"|text="服裝店"|result=0
+title="一田：限時購物賞（至12/4）"|shop="一田"|text="百貨公司"|result=0
+title="東海堂：甜品類 買3送1（至11/4）"|shop="東海堂"|start_date="2024-04-10"|end_date="2024-04-11"|text="任何人均可享用的普通特價"|result=0
+title="美心MX：紅燒乳鴿茶餐"|shop="美心MX"|text="餐廳"|result=0
+title="雀巢 牛奶公司：免費派發「濃豆樂綠豆奶條」（11-12/4、18-19/4、25-26/4）"|shop="雀巢 牛奶公司"|text="任何人均可參與的免費派發活動，缺乏會員或特定支付方式門檻"|result=0
