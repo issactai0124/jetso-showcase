@@ -37,3 +37,11 @@ title="東海堂：甜品類 買3送1（至11/4）"|shop="東海堂"|start_date=
 title="美心MX：紅燒乳鴿茶餐"|shop="美心MX"|text="餐廳"|result=0
 title="雀巢 牛奶公司：免費派發「濃豆樂綠豆奶條」（11-12/4、18-19/4、25-26/4）"|shop="雀巢 牛奶公司"|text="任何人均可參與的免費派發活動，缺乏會員或特定支付方式門檻"|result=0
 title="優品360：最新優惠（至23/4）"|shop="優品360"|end_date="2024-04-23"|text="普通特價"|result=0
+title="萬寧：今日出位價（11/4）"|shop="萬寧"|text="任何人均可享用的普通特價"|result=0
+title="百佳超級市場最新優惠（11/4）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="惠康超級市場最新優惠（11/4）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="屈臣氏：火熱搶（11/4）"|shop="屈臣氏"|start_date="2024-04-11"|text="普通特價，無會員或特定支付門檻"|result=0
+title="KAGOME：快閃試飲站（30/3、11-12/4）"|shop="KAGOME"|text="餐廳及任何人均可享受的普通推廣"|result=0
+title="聖安娜餅屋：全新 比利時朱古力・紫薯甜品杯 / 開心果大福"|shop="聖安娜餅屋"|text="任何人均可享用的普通特價"|result=0
+title="7-Eleven：7-SELECT x 伊藤久右衛門 限定聯乘 烘培/甜品產品"|shop="7-Eleven"|text="新品推廣，無會員或特定支付方式門檻"|result=0
+title="吉野家：期間限定「午後の牛乳卷」下午茶超值組合 $18起 / 全新特飲 荔枝QQ椰果冰紅茶"|shop="吉野家"|text="餐廳"|result=0
