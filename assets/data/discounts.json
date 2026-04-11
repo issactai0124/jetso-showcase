@@ -1950,5 +1950,23 @@
         "title_en": "Buy $29 Any Drink Voucher for $19 in A+ Rewards (Redeem in Cotti App)",
         "min_spend": 29,
         "amount": 9.5
+    },
+    {
+        "id": "d-member-42209",
+        "shop_ids": [
+            "mannings",
+            "watsons"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "每月10日憑會員可享95折",
+        "title_en": "5% off on 10 of every month with 會員",
+        "rate": 0.05,
+        "start_date": "2024-04-10",
+        "end_date": "2024-04-10",
+        "applicable_days_of_month": [
+            10
+        ]
     }
 ]
