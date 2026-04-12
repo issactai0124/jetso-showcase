@@ -1,1 +1,9 @@
 title="海港飲食：超值全包宴（至30/4）"|shop="海港飲食"|end_date="2026-04-30"|text="餐廳"|result=0
+title="萬寧：今日出位價（12/4）"|shop="萬寧"|start_date="2024-04-12"|end_date="2024-04-12"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（12/4）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上：最新優惠（12/4）"|shop="樓上"|text="任何人都可以享受的普通特價"|result=0
+title="A-1 Bakery：期間限定 濃香黑芝麻祭"|shop="A-1 Bakery"|text="任何人都可以享受的新品推廣"|result=0
+title="日本城：平靚正"|shop="日本城"|min_spend=68|amt=20|text="商店類型不符及任何人均可享用的普通特價"|result=0
+title="鳳城酒家：四店聯播 午茶之優"|shop="鳳城酒家"|text="餐廳"|result=0
+title="AEON：雨你同樂（至22/4）"|shop="AEON"|end_date="2024-04-22"|text="百貨公司及一般減價宣傳"|result=0
+title="OK便利店：抵食套餐 / 店長推介（至22/4）"|shop="OK便利店"|end_date="2024-04-22"|text="任何人都可以享受的普通特價"|result=0
