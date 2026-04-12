@@ -11,3 +11,4 @@ title="美心MX：外賣加餸 半斤叉燒 $33"|shop="美心MX"|text="餐廳"|r
 title="蛋撻王：感謝日 自家製產品 75折（13/4）"|shop="蛋撻王"|payment="Like Facebook/IG"|rate=0.25|start_date="2024-04-13"|end_date="2024-04-13"|text="非會員或特定支付優惠"|result=0
 title="龍豐：推廣員駐場限定優惠（13-19/4）"|shop="龍豐"|start_date="2024-04-13"|end_date="2024-04-19"|text="無會員或特定支付方式門檻"|result=0
 title="壽司郎 Sushiro：指定分店 入座即送蒙布朗（13/4）"|shop="壽司郎"|min_spend=80|start_date="2026-04-13"|end_date="2026-04-13"|text="餐廳"|result=0
+title="麥當勞：「北太平洋狹鱈魚柳系列」早晨套餐（13/4起）"|shop="麥當勞"|text="餐廳"|result=0
