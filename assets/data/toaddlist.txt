@@ -49,3 +49,4 @@ title="MoreYogurt：新品 巴西莓鳳梨乳酪奶昔 買1送1（15-17/4）"|sh
 title="7-Eleven：yuu會員 全單8折（15/4）"|shop="7-Eleven"|payment="yuu會員"|rate=0.2|start_date="2024-04-15"|end_date="2024-04-15"|text="yuu會員於4月15日可享全單8折優惠"|result=1
 title="OK便利店：5天狂減（至19/4）"|shop="OK便利店"|text="任何人均可享有的普通減價宣傳"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（15/4）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="759 阿信屋：勁抵價（15-16/4）"|shop="759 阿信屋"|start_date="2024-04-15"|end_date="2024-04-16"|text="普通特價、減價宣傳"|result=0
