@@ -59,3 +59,7 @@ title="東海堂：新產品 芝士撻系列 / 迷你牛角包"|shop="東海堂"
 title="吉野家：新登場【海の幸 海老湯系列】"|shop="吉野家"|text="餐廳"|result=0
 title="奇華餅家：全新推介 陳皮米粉曲奇"|shop="奇華餅家"|text="新品推廣，非會員或特定支付優惠"|result=0
 title="大快活：午晚市 脆爆厚切豚皇"|shop="大快活"|text="餐廳"|result=0
+title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至30/4）"|shop="宜家 IKEA"|text="餐廳、家具店"|result=0
+title="一粥麵：全新菜式"|shop="一粥麵"|text="餐廳"|result=0
+title="華御結：指定御結 $12（16-17/4、20-22/4）"|shop="華御結"|text="任何人均可享受的普通特價"|result=0
+title="一田超市：雪糕甜點祭（至26/4）"|shop="一田超市"|end_date="2024-04-26"|text="任何人都可以享受的普通特價"|result=0
