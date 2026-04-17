@@ -1,6 +1,0 @@
-title="MOS Burger：春の限定套餐 $82"|shop="MOS Burger"|text="餐廳"|result=0
-title="莎莎：獨家獎賞日（18/4）"|shop="莎莎"|payment="莎莎會員"|start_date="2024-04-18"|end_date="2024-04-18"|text="莎莎會員於4月18日享獨家獎賞日優惠"|result=1
-title="聖安娜餅屋：日日至抵價（至29/4）"|shop="聖安娜餅屋"|end_date="2024-04-29"|text="普通特價，無會員或特定支付門檻"|result=0
-title="Classy Kiss 卡士：免費派發 水果乳酪（18-19/4、25-26/4）"|shop="Classy Kiss 卡士"|text="任何人均可參與的普通推廣活動，非會員或特定支付方式優惠"|result=0
-title="屈臣氏：全場無門檻88折（17/4）"|shop="屈臣氏"|rate=0.12|start_date="2024-04-17"|end_date="2024-04-17"|text="任何人均可享受的普通特價"|result=0
-title="優品360：本週優惠（至23/4）"|shop="優品360"|end_date="2024-04-23"|text="任何人都可以享受的普通特價"|result=0
