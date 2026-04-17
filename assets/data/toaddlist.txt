@@ -20,3 +20,20 @@ title="碧泉：免費派發 鴨屎香有氣荔枝茶/檸檬茶（17-20/4、24-2
 title="永安百貨：震撼大特賣 低至2折（17-25/5）"|shop="永安百貨"|start_date="2024-05-17"|end_date="2024-05-25"|text="百貨公司"|result=0
 title="佳宝食品超級市場：週週佳驚喜（17-23/4）"|shop="佳宝食品超級市場"|start_date="2024-04-17"|end_date="2024-04-23"|text="任何人均可享受的普通特價"|result=0
 title="AEON：感謝日（17-20/4）"|shop="AEON"|text="百貨公司"|result=0
+title="MTR Mobile：港鐵即時賞（17/4）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（17/4）"|shop="百佳超級市場"|start_date="2024-04-17"|text="一般減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（17/4）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="屈臣氏最新購物優惠（17/4）"|shop="屈臣氏"|text="缺乏會員或特定支付方式要求"|result=0
+title="萬寧：周五購物攻略（17/4）"|shop="萬寧"|applicable_days_of_week=5|text="一般減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="韓印紅：最新優惠（17/4）"|shop="韓印紅"|text="缺乏會員或特定支付方式門檻"|result=0
+title="阿波羅 Appolo：Magic Cone / Pari Cone 週末優惠（至19/4）"|shop="阿波羅 Appolo"|end_date="2024-04-19"|text="週末優惠且無門檻"|result=0
+title="官燕棧：感謝折（至22/4）"|shop="官燕棧"|end_date="2024-04-22"|text="普通特價宣傳"|result=0
+title="鴻福堂：全新 早晨套餐 / 鴻小點 · 醒神能量盒"|shop="鴻福堂"|text="普通特價/新品推廣"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至20/4）"|shop="Living Plaza / Daiso Japan"|end_date="2024-04-20"|applicable_days_of_week="6,7"|text="普通特價/週末優惠"|result=0
+title="HK Express：60+老友記 機票兩折優惠（預訂至20/4）"|shop="HK Express"|payment="60+老友記"|rate=0.80|start_date="2026-04-17"|end_date="2026-04-20"|text="機票"|result=0
+title="利東集團：晚飯 5選1"|shop="利東集團"|text="餐廳"|result=0
+title="U士多：秒殺價（至30/4）"|shop="U士多"|end_date="2024-04-30"|text="任何人都可以享受的普通特價"|result=0
+title="譚仔三哥米線：小食名物激抵價（至30/4）"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="千色 Citistore：樂活派優質生活（至29/4）"|shop="千色 Citistore"|end_date="2024-04-29"|text="百貨公司"|result=0
+title="7-Eleven：5天限定（至21/4）"|shop="7-Eleven"|start_date="2026-04-17"|end_date="2026-04-21"|text="任何人都可以享受的普通特價"|result=0
+title="AEON：均一價 / 熱帶水果節 / 初夏甜品盛宴（至29/4）"|shop="AEON"|end_date="2024-04-29"|text="沒有門檻的普通特價"|result=0
