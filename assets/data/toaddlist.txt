@@ -8,3 +8,6 @@ title="奇華餅家：今期推介（至23/4）"|shop="奇華餅家"|end_date="2
 title="大家樂：日式竹筴魚大碗飯 送甜品（至27/4）"|shop="大家樂"|start_date="2026-04-14"|end_date="2026-04-27"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至23/4）"|shop="一田超市"|payment="一田會員"|min_spend=0|amt=5|start_date="2026-04-18"|end_date="2026-04-19"|applicable_days_of_week=6,7|text="一田會員於4月18及19日可免費換領飯糰及$5優惠券"|result=1
 title="海港飲食：端午套裝三「粽」低至$138"|shop="海港飲食"|text="餐廳及一般特價優惠"|result=0
+title="郊野公園遠足植樹日2026 @大欖郊野公園（19/4、26/4）"|shop="大欖郊野公園"|text="非指定商店類型"|result=0
+title="A-1 Bakery：指定產品 3件85折"|shop="A-1 Bakery"|rate=0.15|text="任何人均可享用的普通特價"|result=0
+title="大生生活超市：快閃優惠（至25/4）"|shop="大生生活超市"|end_date="2024-04-25"|text="普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
