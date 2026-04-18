@@ -1,0 +1,7 @@
+title="萬寧：今日出位價（18/4）"|shop="萬寧"|start_date="2024-04-18"|end_date="2024-04-18"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（18/4）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（18/4）"|shop="惠康超級市場"|start_date="2024-04-18"|text="任何人都可以享受的普通特價"|result=0
+title="屈臣氏：火熱搶（18/4）"|shop="屈臣氏"|text="任何人均可享受的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="包點先生：經典港式小食 / 碗仔翅 / 凍包3個裝"|shop="包點先生"|text="缺乏會員或特定支付方式要求"|result=0
+title="意美廚 Ideale Chef：母親節「鍋」心呈獻 低至31折（至10/5）"|shop="意美廚 Ideale Chef"|end_date="2026-05-10"|text="家具店及普通特價"|result=0
+title="奇華餅家：今期推介（至23/4）"|shop="奇華餅家"|end_date="2024-04-23"|text="任何人均可享受的普通特價/推廣"|result=0
