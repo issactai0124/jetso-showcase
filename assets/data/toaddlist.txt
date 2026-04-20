@@ -41,3 +41,4 @@ title="KFC﻿：買套餐 +$10配 Häagen-Dazs 曲奇雲呢拿 / Hershey’s 特
 title="OK便利店：本週激筍（至26/4）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
 title="Pizza Hut：抵食EVERYDAY（星期一至四）"|shop="Pizza Hut"|text="餐廳"|result=0
 title="if：免費派發 新口味椰青水 第二彈（至2/5）"|shop="if"|text="任何人均可參與的普通推廣"|result=0
+title="大生生活超市：今期優惠（至30/4）"|shop="大生生活超市"|text="任何人都可以享受的普通特價"|result=0
