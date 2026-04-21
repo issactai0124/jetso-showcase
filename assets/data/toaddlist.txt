@@ -6,3 +6,9 @@ title="賞茶 A Nice Gift：指定分店 對抗Blue Monday 2.0 / 學生優惠"|s
 title="奇華餅家：母親節禮盒"|shop="奇華餅家"|payment=""|min_spend=""|rate=""|amt=""|start_date=""|end_date=""|applicable_days_of_week=""|applicable_days_of_month=""|text="不符合「會員專屬優惠」或「特定支付方式/特定信用卡」的要求"|result=0
 title="龍豐：每週至抵「豐搶價」 （27/4）"|shop="龍豐"|payment=""|min_spend=""|rate=""|amt=""|start_date="2023-04-27"|end_date="2023-04-27"|applicable_days_of_week=""|applicable_days_of_month=""|text="不符合會員專屬或特定支付方式要求"|result=0
 title="嘉頓 Garden：新一期 電子優惠卡（至30/9）"|shop="嘉頓 Garden"|text="不符合商店類型，且無特定支付方式或會員要求"|result=0
+title="大家樂：靚湯靚餸 晚市套餐"|shop="大家樂"|text="餐廳"|result=0
+title="名牌服飾特賣 低至1折（22-27/4）"|shop="名牌服飾"|start_date="2024-04-22"|end_date="2024-04-27"|text="服裝店"|result=0
+title="A-1 Bakery：新口味 濃香黑芝麻千層酥皮撻"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="名牌戶外用品及品味生活展（22-27/4）"|shop="名牌戶外用品及品味生活展"|start_date="2024-04-22"|end_date="2024-04-27"|text="商店類型不符及一般特價"|result=0
+title="美心西餅：新登場 杜拜開心果朱古力軟心麻糬/黑芝麻軟心麻糬"|shop="美心西餅"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="全港戲院日2026 任何放映格式 票價劃一$30（25/4）（戲票發售：22/4起） "|shop="全港戲院"|text="不符合商店類型（戲院）且為任何人均可享受之普通特價"|result=0
