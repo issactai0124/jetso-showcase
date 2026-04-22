@@ -26,3 +26,9 @@ title="崇光百貨：Stuart Weitzman Special Sale 低至2折（至27/4）"|shop
 title="東海堂：牛油片蛋糕 限時優惠（至24/4）/ 全新 雲石蕃茄方包/燕麥小紅莓穀麥包"|shop="東海堂"|end_date="2024-04-24"|text="普通特價/新品推廣，無會員或特定支付門檻"|result=0
 title="7-Eleven：7仔食檔 +$1蚊換出前一丁購物袋（至28/4）/ 全新 椰乳咖啡 買1送1（至24/4）"|shop="7-Eleven"|payment="7-Eleven App"|start_date="2026-04-22"|end_date="2026-04-28"|text="使用7仔App「到店自取」功能購買指定早餐，可以$1換購出前一丁購物袋"|result=1
 title="吉野家：新登場 極上系列【極上三色丼】"|shop="吉野家"|text="餐廳"|result=0
+title="HP：閃購日（23-26/4）"|shop="HP"|start_date="2024-04-23"|end_date="2024-04-26"|text="電器"|result=0
+title="大家樂：外賣優惠 香濃芝麻雞 $50"|shop="大家樂"|text="餐廳"|result=0
+title="BigC：今期精選品牌推介（至12/5）"|shop="BigC"|end_date="2024-05-12"|text="任何人均可享受的普通特價"|result=0
+title="維他奶：+$1換購「維他奶造型小包」（至5/5）"|shop="7-Eleven, Circle K"|min_spend=25|start_date="2024-04-22"|end_date="2024-05-05"|text="任何人均可享用的普通換購優惠，缺乏會員或特定支付方式門檻"|result=0
+title="大快活：晚市「阿活燒肉」套餐"|shop="大快活"|text="餐廳"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至5/5）"|shop="7-Eleven"|start_date="2026-04-22"|end_date="2026-05-05"|text="任何人都可以享受的普通特價"|result=0
