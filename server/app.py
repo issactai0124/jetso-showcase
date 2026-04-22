@@ -4,7 +4,6 @@ sys.path.append(os.path.dirname(__file__))
 import asyncio
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from mcp_server import mcp
 import bot_logic
 import telegram_bot
 from telegram import Update
@@ -43,8 +42,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "assets", "data")
 WEB_DIR = os.path.join(BASE_DIR, "web")
 
-# Mount MCP SSE app at /mcp
-app.mount("/mcp", mcp.sse_app())
+# MCP SSE app removed as we migrated to Skills architecture
 
 @app.get("/api/health")
 async def health():
@@ -66,12 +64,12 @@ async def get_toaddlist():
 
 @app.get("/api/shops")
 async def get_shops_api():
-    from mcp_server import load_json
+    from jetso_skills import load_json
     return load_json("shops.json")
 
 @app.get("/api/payments")
 async def get_payments_api():
-    from mcp_server import load_json
+    from jetso_skills import load_json
     return load_json("payment_methods.json")
 
 @app.post("/api/save")

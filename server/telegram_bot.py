@@ -6,6 +6,12 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import bot_logic
 
 # Load environment variables
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 
