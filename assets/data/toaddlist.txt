@@ -5,3 +5,4 @@ title="7-Eleven：本週優惠（至28/4）"|shop="7-Eleven"|end_date="2024-04-2
 title="吉野家：會員限定 任選4個套餐 $98（至31/5）"|shop="吉野家"|text="餐廳"|result=0
 title="大家樂：茶市 抹茶西多士 配雀巢KITKAT朱古力脆脆"|shop="大家樂"|text="餐廳"|result=0
 title="佳宝食品超級市場：全場8折（24-30/4）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-04-24"|end_date="2026-04-30"|text="任何人都可以享受的普通特價，沒有會員或特定支付方式門檻"|result=0
+title="AEON：母之日（24/4-11/5）"|shop="AEON"|start_date="2024-04-24"|end_date="2024-05-11"|text="百貨公司及普通特價宣傳"|result=0
