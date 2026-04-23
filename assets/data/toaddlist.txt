@@ -1,0 +1,7 @@
+title="Uniqlo：優惠專區 休閒百搭單品​​"|shop="Uniqlo"|text="服裝店"|result=0
+title="東海堂：忌廉棒包 限時優惠（至25/4）"|shop="東海堂"|start_date="2026-04-23"|end_date="2026-04-25"|text="普通特價，無會員或特定支付方式門檻"|result=0
+title="KFC：App限定 意式咖啡套票 $49.9任選5杯"|shop="KFC"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至28/4）"|shop="7-Eleven"|end_date="2024-04-28"|text="任何人都可以享受的普通特價"|result=0
+title="吉野家：會員限定 任選4個套餐 $98（至31/5）"|shop="吉野家"|text="餐廳"|result=0
+title="大家樂：茶市 抹茶西多士 配雀巢KITKAT朱古力脆脆"|shop="大家樂"|text="餐廳"|result=0
+title="佳宝食品超級市場：全場8折（24-30/4）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-04-24"|end_date="2026-04-30"|text="任何人都可以享受的普通特價，沒有會員或特定支付方式門檻"|result=0
