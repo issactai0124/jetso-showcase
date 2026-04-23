@@ -1,9 +1,0 @@
-title="海港飲食：超值午市・全包宴"|shop="海港飲食"|text="餐廳"|result=0
-title="萬寧：今日出位價（23/4）"|shop="萬寧"|start_date="2024-04-23"|end_date="2024-04-23"|text="任何人均可享受的普通特價"|result=0
-title="惠康超級市場最新優惠（23/4）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
-title="樓上 / 大棧：最新優惠（23/4）"|shop="樓上 / 大棧"|text="沒有說明是否會員專屬或特定支付方式優惠，可能為普通特價"|result=0
-title="百佳超級市場最新優惠（23/4）"|shop="百佳超級市場"|start_date="2023-04-23"|text="沒有門檻的普通特價"|result=0
-title="阿波羅 Appolo：泰國風情雪糕 限時優惠（至30/4）"|shop="阿波羅 Appolo"|end_date="2024-04-30"|text="沒有門檻的普通特價"|result=0
-title="大家樂：高湯燕麥米菜飯 / 港式咖喱系列 送蜜桃乳酸梳打"|shop="大家樂"|text="餐廳"|result=0
-title="759 阿信屋：勁抵價（至24/4）"|shop="759 阿信屋"|text="不符合會員專屬或特定支付方式要求"|result=0
-title="A-1 Bakery：網購限定 派對套餐（至30/4）/ 母親節蛋糕 85折早鳥優惠（至3/5）/ 濃香黑芝麻方包"|shop="A-1 Bakery"|payment="網購店取"|min_spend=100|rate=0.15|start_date="2026-04-23"|end_date="2026-04-30"|text="網購店取顧客消費滿HK$100，享指定派對套餐85折優惠"|result=1
