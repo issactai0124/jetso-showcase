@@ -41,3 +41,4 @@ title="奇華餅家：今期推介（至30/4）"|shop="奇華餅家"|end_date="2
 title="一粥麵：午市早鳥優惠 全單9折"|shop="一粥麵"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至30/4）"|shop="一田超市"|text="普通特價"|result=0
 title="大家樂：極上一哥粽 早鳥優惠 高達7折（至11/5）/ 一哥瑤柱粽．火鍋連蒸籠套裝"|shop="大家樂"|text="餐廳"|result=0
+title="Uniqlo：本週優惠（至30/4）"|shop="Uniqlo"|end_date="2024-04-30"|text="服裝店"|result=0
