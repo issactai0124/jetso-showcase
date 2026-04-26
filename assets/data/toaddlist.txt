@@ -52,3 +52,6 @@ title="7-Eleven：全新一期 7仔yuu印花獎賞（至16/6）"|shop="7-Eleven"
 title="A-1 Bakery：期間限定 全新「岡山清水白桃方包」"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="大家樂：天天超值午餐 - 太極鴛鴦炒飯"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：抵食套餐 / 1+1配到抵 / 店長推介（至6/5）"|shop="OK便利店"|end_date="2024-05-06"|text="任何人都可以享受的普通特價"|result=0
+title="壽司郎 Sushiro：指定分店 炙燒焦糖鵝肝蒜香鵝肝海苔包（27-28/4）"|shop="壽司郎"|text="餐廳"|result=0
+title="龍豐：推廣員駐場限定優惠（27/4-3/5）"|shop="龍豐"|start_date="2024-04-27"|end_date="2024-05-03"|text="任何人均可享受的推廣優惠，缺乏會員或特定支付方式門檻"|result=0
+title="一粥麵：外賣快閃優惠（27-28/3）"|shop="一粥麵"|start_date="2024-03-27"|end_date="2024-03-28"|text="餐廳"|result=0
