@@ -97,4 +97,20 @@ def search_discounts(
         if match:
             results.append(d)
             
+    if not results and shop_id:
+        fallback_results = []
+        for d in all_discounts:
+            end_date = d.get("end_date")
+            if end_date and end_date < today_str:
+                continue
+            if shop_id in d.get("shop_ids", []):
+                fallback_results.append(d)
+                
+        if fallback_results:
+            return json.dumps({
+                "exact_matches": [],
+                "fallback_message": "No exact matches found for the specific criteria. However, here are other valid discounts for this shop.",
+                "fallback_discounts": fallback_results[:5]
+            }, ensure_ascii=False)
+            
     return json.dumps(results[:30], ensure_ascii=False)

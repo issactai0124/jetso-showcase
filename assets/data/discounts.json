@@ -1952,5 +1952,19 @@
         "start_date": "2026-04-17",
         "end_date": "2026-04-17",
         "url": "https://bit.ly/4bW6H00"
+    },
+    {
+        "id": "d-member-759store-20260424",
+        "shop_ids": [
+            "759store"
+        ],
+        "required_payment_ids": [
+            "member"
+        ],
+        "title_zh": "759會員可享盤存7折優惠",
+        "title_en": "30% off for 759 members during inventory clearance",
+        "rate": 0.3,
+        "start_date": "2026-04-24",
+        "end_date": "2026-04-29"
     }
 ]

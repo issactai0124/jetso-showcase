@@ -34,9 +34,10 @@ async def process_query(user_text: str) -> str:
         "Use newlines (\\n) and bullet points to separate different discounts and sections clearly. "
         "Example format:\n"
         "商店名稱：\n"
-        "* 配合優惠工具/付款方式 (如有)\n"
-        "* 優惠項目內容1\n"
-        "* 優惠項目內容2\n\n"
+        "* 優惠項目1（配合優惠工具/付款方式）\n"
+        "* 優惠項目2（配合優惠工具/付款方式）\n
+        "* 優惠項目3（配合優惠工具/付款方式）\n\n"
+        "If a tool returns `fallback_discounts` with a `fallback_message`, it means there are no exact matches for the user's criteria (e.g., date, payment method). In this case, you MUST inform the user that there are no discounts for their specific criteria, but list the fallback discounts provided. For example: '[商店名稱]在[特定條件]沒有任何優惠，但有以下優惠：' followed by the fallback discounts.\n"
         "You should give discounts that will end soon first. Otherwise gives the discounts with the most discount amount first."
     )
     
