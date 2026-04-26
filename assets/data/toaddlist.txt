@@ -42,3 +42,13 @@ title="一粥麵：午市早鳥優惠 全單9折"|shop="一粥麵"|text="餐廳"
 title="一田超市：挑戰特價（至30/4）"|shop="一田超市"|text="普通特價"|result=0
 title="大家樂：極上一哥粽 早鳥優惠 高達7折（至11/5）/ 一哥瑤柱粽．火鍋連蒸籠套裝"|shop="大家樂"|text="餐廳"|result=0
 title="Uniqlo：本週優惠（至30/4）"|shop="Uniqlo"|end_date="2024-04-30"|text="服裝店"|result=0
+title="萬寧：今日出位價（26/4）"|shop="萬寧"|start_date="2024-04-26"|end_date="2024-04-26"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（26/4）"|shop="百佳超級市場"|start_date="2024-04-26"|text="普通特價宣傳"|result=0
+title="惠康超級市場最新優惠（26/4）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上/大棧/余仁生/南北行：最新優惠（26/4）"|shop="樓上/大棧/余仁生/南北行"|text="缺乏會員或特定支付方式門檻"|result=0
+title="美心MX：早餐 滬式風味「雪菜肉絲上海麵」/ 鹹檸七喜及鹹檸百事"|shop="美心MX"|text="餐廳"|result=0
+title="天仁茗茶：木瓜系列 - 木瓜蜂蜜檸檬綠/木瓜鮮奶綠"|shop="天仁茗茶"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="7-Eleven：全新一期 7仔yuu印花獎賞（至16/6）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-06-16"|text="yuu會員專享7仔yuu印花獎賞"|result=1
+title="A-1 Bakery：期間限定 全新「岡山清水白桃方包」"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="大家樂：天天超值午餐 - 太極鴛鴦炒飯"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：抵食套餐 / 1+1配到抵 / 店長推介（至6/5）"|shop="OK便利店"|end_date="2024-05-06"|text="任何人都可以享受的普通特價"|result=0
