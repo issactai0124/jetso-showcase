@@ -16,3 +16,6 @@ title="OK便利店：本週激筍（至3/5）"|shop="OK便利店"|end_date="2024
 title="美心MX：「五香脆炸雞髀」茶餐"|shop="美心MX"|text="餐廳"|result=0
 title="A-1 Bakery：新會員大募集（至30/4）"|shop="A-1 Bakery"|payment="會員"|min_spend=0|amt=15|start_date="2026-04-27"|end_date="2026-04-30"|text="登記成為A-1 Bakery一般會員可獲贈價值$15丹麥酥電子優惠券"|result=1
 title="AEON：母親節獻禮 特許銷售商推介（至10/5）"|shop="AEON"|end_date="2024-05-10"|text="百貨公司及普通特價推廣"|result=0
+title="美心西餅：下午6時後 指定麵包 減$2（至3/5）"|shop="美心西餅"|amt=2|end_date="2024-05-03"|text="任何人均可享受的普通特價"|result=0
+title="海洋公園： 港人專享 門票優惠 低至半價（至30/6）"|shop="海洋公園"|text="不符合商店類型"|result=0
+title="鴻福堂：五一黃金週 港式滋味小食套餐優惠 低至$20（至10/5）"|shop="鴻福堂"|end_date="2024-05-10"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
