@@ -32,3 +32,8 @@ title="價真棧：購物滿$100 享全單9折（至30/4）"|shop="價真棧"|mi
 title="吉野家： 早/茶市 和風牛肉即食麵+飲品 $28起"|shop="吉野家"|text="餐廳"|result=0
 title="東海堂：6PM後 麵包優惠（至30/4）"|shop="東海堂"|start_date="2026-04-27"|end_date="2026-04-30"|applicable_days_of_week="1,2,3,4,5,6,7"|text="沒有門檻的普通特價"|result=0
 title="龍豐：每週至抵「豐搶價」 （4/5）"|shop="龍豐"|text="完全排除「任何人」都可以享受的普通特價"|result=0
+title="Häagen-Dazs﻿：母親節限定蛋糕 早鳥85折優惠（至30/4）"|shop="Häagen-Dazs"|rate=0.15|end_date="2024-04-30"|text="任何人均可享有的早鳥優惠"|result=0
+title="3COINS：進駐啟德AIRSIDE 開設香港最大5,100呎分店 / 設全港最大寵物專區及旅行主題專區 / 首度引入「Made in Japan」食品系列（29/4起）"|shop="3COINS"|text="一般新店開幕及產品推廣，且無特定支付或會員門檻"|result=0
+title="名牌服飾特賣 低至1折（29/4-4/5）"|shop="名牌服飾特賣"|text="服裝店"|result=0
+title="馬拉松便服及運動名牌開倉 / 家庭電器用品特賣日（29/4-3/5）"|shop="馬拉松"|text="服裝店、電器"|result=0
+title="AEON：周三新鮮日（29/4）"|shop="AEON"|text="百貨公司且為任何人均可享用的普通特價"|result=0
