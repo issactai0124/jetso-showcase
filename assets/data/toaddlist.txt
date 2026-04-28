@@ -37,3 +37,5 @@ title="3COINS：進駐啟德AIRSIDE 開設香港最大5,100呎分店 / 設全港
 title="名牌服飾特賣 低至1折（29/4-4/5）"|shop="名牌服飾特賣"|text="服裝店"|result=0
 title="馬拉松便服及運動名牌開倉 / 家庭電器用品特賣日（29/4-3/5）"|shop="馬拉松"|text="服裝店、電器"|result=0
 title="AEON：周三新鮮日（29/4）"|shop="AEON"|text="百貨公司且為任何人均可享用的普通特價"|result=0
+title="壽司郎 Sushiro：指定外賣自取 買2送1（29-30/4）"|shop="壽司郎"|text="餐廳"|result=0
+title="OK便利店：5天狂減（20/4-3/5）"|shop="OK便利店"|start_date="2024-04-20"|end_date="2024-05-03"|text="任何人都可以享受的普通特價"|result=0
