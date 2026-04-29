@@ -40,3 +40,13 @@ title="AEON：周三新鮮日（29/4）"|shop="AEON"|text="百貨公司且為任
 title="壽司郎 Sushiro：指定外賣自取 買2送1（29-30/4）"|shop="壽司郎"|text="餐廳"|result=0
 title="OK便利店：5天狂減（20/4-3/5）"|shop="OK便利店"|start_date="2024-04-20"|end_date="2024-05-03"|text="任何人都可以享受的普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（29/4）"|shop="萬寧"|text="任何人均可享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（29/4）"|shop="MTR"|text="不符合商店類型"|result=0
+title="惠康超級市場最新優惠（29/4）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏：星期三樂悠折（29/4）"|shop="屈臣氏"|payment="樂悠咭"|start_date="2026-04-29"|end_date="2026-04-29"|applicable_days_of_week=3|text="樂悠咭持有人於星期三在屈臣氏購物可享優惠"|result=1
+title="Living Plaza / Daiso Japan：周三優惠（29/4）"|shop="Living Plaza / Daiso Japan"|text="任何人均可享受的普通特價"|result=0
+title="7-Eleven：7仔食檔 +$1蚊換 出前一丁購物袋（至5/5）/ 椰乳咖啡 試飲價 $11（至12/5）"|shop="7-Eleven"|start_date="2026-04-29"|end_date="2026-05-05"|text="任何人均可享用的普通換購優惠，缺乏會員或特定支付方式門檻"|result=0
+title="天仁茗茶：國際珍奶日 指定茶飲 $24/杯（至30/4）"|shop="天仁茗茶"|start_date="2024-04-29"|end_date="2024-04-30"|text="任何人均可享受的普通特價"|result=0
+title="Pacific Coffee：下午2點後 指定飲品 第二杯半價（至30/4）"|shop="Pacific Coffee"|start_date="2024-04-29"|end_date="2024-04-30"|text="餐廳及任何人均可享用的普通特價"|result=0
+title="文具佬生活百貨：觀塘店 裝修清貨優惠 $100即享7折（至3/5）"|shop="文具佬生活百貨"|min_spend=100|rate=0.3|end_date="2024-05-03"|text="任何人均可享用的普通特價，且非指定商店類型"|result=0
+title="大家樂：茶市 黑椒豬柳意大利包"|shop="大家樂"|text="餐廳"|result=0
+title="無印良品 MUJI：香港25周年限定 — 雪糕撻"|shop="無印良品"|text="百貨公司且為任何人均可享受的新品推廣"|result=0
