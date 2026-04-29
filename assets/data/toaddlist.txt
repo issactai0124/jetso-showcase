@@ -4,3 +4,4 @@ title="KFC︰全新「日式照燒雞粒桶飯」/ 超值筒飯 全年肯抵價 
 title="譚仔雲南米線：30周年慶 鮮番茄湯米線配雞絲‧金菇 $30（30/4）"|shop="譚仔雲南米線"|start_date="2026-04-30"|end_date="2026-04-30"|text="餐廳"|result=0
 title="Pizza Hut：全港首創期間限定「必勝盲盒」（30/4-27/5）"|shop="Pizza Hut"|text="餐廳"|result=0
 title="美心MX：瓜粒湯飯系列 / 香煎豬扒早餐"|shop="美心MX"|text="餐廳"|result=0
+title="海港飲食：母情節套餐（1-10/5）"|shop="海港飲食"|text="餐廳"|result=0
