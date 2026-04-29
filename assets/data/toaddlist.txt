@@ -2,3 +2,5 @@ title="大快活APP： 全新【快活回味軟餐】套票"|shop="大快活"|te
 title="759 阿信屋：勁抵價（至30/4）"|shop="759 阿信屋"|end_date="2024-04-30"|text="任何人都可以享受的普通特價"|result=0
 title="KFC︰全新「日式照燒雞粒桶飯」/ 超值筒飯 全年肯抵價 $33（30/4起）"|shop="KFC"|text="餐廳"|result=0
 title="譚仔雲南米線：30周年慶 鮮番茄湯米線配雞絲‧金菇 $30（30/4）"|shop="譚仔雲南米線"|start_date="2026-04-30"|end_date="2026-04-30"|text="餐廳"|result=0
+title="Pizza Hut：全港首創期間限定「必勝盲盒」（30/4-27/5）"|shop="Pizza Hut"|text="餐廳"|result=0
+title="美心MX：瓜粒湯飯系列 / 香煎豬扒早餐"|shop="美心MX"|text="餐廳"|result=0
