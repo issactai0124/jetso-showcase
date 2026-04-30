@@ -26,3 +26,4 @@ title="安盛 AXA：免費請你食雪糕（1-2/5）"|shop="安盛 AXA"|start_da
 title="崇光百貨：銅鑼灣店 半年一度 感謝周年慶 Part 1（1-17/5）"|shop="崇光百貨"|text="百貨公司"|result=0
 title="六合彩：50週年展覽（1-10/5）"|shop="香港賽馬會"|text="非指定商店類型及一般宣傳活動"|result=0
 title="GODIVA：70%黑巧克力凍飲/巧克力豆 買1送1（1-5/5）"|shop="GODIVA"|start_date="2026-05-01"|end_date="2026-05-05"|text="任何人均可享用的普通特價"|result=0
+title="大快活 APP：手機點餐 滿$60 享全單8折（1-3/5）"|shop="大快活"|text="餐廳"|result=0
