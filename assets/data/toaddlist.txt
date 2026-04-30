@@ -5,3 +5,14 @@ title="譚仔雲南米線：30周年慶 鮮番茄湯米線配雞絲‧金菇 $30
 title="Pizza Hut：全港首創期間限定「必勝盲盒」（30/4-27/5）"|shop="Pizza Hut"|text="餐廳"|result=0
 title="美心MX：瓜粒湯飯系列 / 香煎豬扒早餐"|shop="美心MX"|text="餐廳"|result=0
 title="海港飲食：母情節套餐（1-10/5）"|shop="海港飲食"|text="餐廳"|result=0
+title="喜茶：新品 金觀音香柚 買1送1（30/4）"|shop="喜茶"|text="餐廳及任何人均可享用的普通特價"|result=0
+title="惠康超級市場最新優惠（30/4）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="樓上 / 大棧：最新優惠（30/4）"|shop="樓上 / 大棧"|text="缺乏具體優惠詳情及會員/支付方式門檻要求"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至12/5）"|shop="7-Eleven"|start_date="2024-04-29"|end_date="2024-05-12"|text="任何人均可參與的新品預購，缺乏特定支付方式或會員專屬優惠門檻"|result=0
+title="譚仔三哥米線：App學生會員限定 6張電子餐券 $180"|shop="譚仔三哥米線"|payment="App學生會員"|min_spend=180|text="餐廳"|result=0
+title="屈臣氏：黃金節激賞"|shop="屈臣氏"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="聖安娜餅屋：日日至抵價（至13/5）"|shop="聖安娜餅屋"|end_date="2024-05-13"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="GU：黃金週 第二彈"|shop="GU"|text="服裝店"|result=0
+title="稻香：母親節宴席菜單"|shop="稻香"|text="餐廳"|result=0
+title="海馬牌 / 軒琴居：慶祝5.1勞動節 產品低至6折發售"|shop="海馬牌 / 軒琴居"|text="家具店且為一般減價宣傳"|result=0
+title="大家樂：砂鍋豬手肉骨茶鍋"|shop="大家樂"|text="餐廳"|result=0
