@@ -44,3 +44,7 @@ title="AEON：感謝日（至3/5）"|shop="AEON"|end_date="2024-03-05"|text="沒
 title="美心MX：5月至抵優惠合集"|shop="美心MX"|text="餐廳"|result=0
 title="千色 Citistore：母の日特集（至11/5）"|shop="千色 Citistore"|end_date="2024-05-11"|text="百貨公司"|result=0
 title="7-Eleven：5天限定（至5/5）"|shop="7-Eleven"|payment="yuu 會員"|rate=0.1428|start_date="2024-05-01"|end_date="2024-05-05"|text="yuu 會員購買益力多/益力多LT 六枝裝可享買6送1優惠"|result=1
+title="Jollibean：門市日日驚喜 指定飲品 $28（至31/5）"|shop="Jollibean"|end_date="2024-05-31"|text="任何人都可以享受的普通特價"|result=0
+title="六合彩：50週年金多寶 歷來最高頭獎基金 $2.28億（2/5）"|shop="香港賽馬會"|text="非指定商店類型（博彩/彩票）"|result=0
+title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/5）"|shop="西樹泡芙"|start_date="2024-05-02"|end_date="2024-05-02"|text="任何人均可享用的普通特價"|result=0
+title="Uniqlo：黃金週 限定優惠（至7/5）"|shop="Uniqlo"|text="服裝店"|result=0
