@@ -48,3 +48,11 @@ title="Jollibean：門市日日驚喜 指定飲品 $28（至31/5）"|shop="Jolli
 title="六合彩：50週年金多寶 歷來最高頭獎基金 $2.28億（2/5）"|shop="香港賽馬會"|text="非指定商店類型（博彩/彩票）"|result=0
 title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/5）"|shop="西樹泡芙"|start_date="2024-05-02"|end_date="2024-05-02"|text="任何人均可享用的普通特價"|result=0
 title="Uniqlo：黃金週 限定優惠（至7/5）"|shop="Uniqlo"|text="服裝店"|result=0
+title="萬寧：今日出位價（2/5）"|shop="萬寧"|text="普通特價，無會員或特定支付門檻"|result=0
+title="百佳超級市場最新優惠（2/5）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻的具體優惠資訊"|result=0
+title="惠康超級市場最新優惠（2/5）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="屈臣氏：火熱搶（2/5）"|shop="屈臣氏"|text="任何人都可以享受的普通特價"|result=0
+title="HKTVmall：鬥減價 買滿$299 即享85折（至3/5）"|shop="HKTVmall"|min_spend=299|rate=0.15|end_date="2024-05-03"|text="任何人均可使用的優惠碼，非會員或特定支付方式專屬"|result=0
+title="東海堂：全新「喵・一口心形朱古力」"|shop="東海堂"|text="任何人均可享用的普通特價"|result=0
+title="WeChat Pay HK： OK便利店 掃碼拎優惠券 獎賞總值高達$30（至30/4/2027）"|shop="OK便利店"|payment="WeChat Pay HK"|amt=30|start_date="2026-05-01"|end_date="2027-04-30"|text="以WeChat Pay HK於OK便利店掃碼可領取高達$30優惠券"|result=1
+title="元氣壽司：「日本和牛」餐目 / 初夏祭り"|shop="元氣壽司"|text="餐廳"|result=0
