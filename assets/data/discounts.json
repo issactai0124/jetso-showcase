@@ -1966,5 +1966,18 @@
         "rate": 0.3,
         "start_date": "2026-04-24",
         "end_date": "2026-04-29"
+    },
+    {
+        "id": "d-unknown-22294",
+        "shop_ids": [
+            "7eleven"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "簽帳滿$100可享8折",
+        "title_en": "20% off upon $100 spending",
+        "rate": 0.2,
+        "min_spend": 100,
+        "start_date": "2026-04-30",
+        "end_date": "2026-05-03"
     }
 ]
