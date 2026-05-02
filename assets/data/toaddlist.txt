@@ -1,0 +1,4 @@
+title="一田超市：挑戰特價（至7/5）/ 本地生活展（至5/5）"|shop="一田超市"|text="普通特價，無會員或特定支付方式門檻"|result=0
+title="MTR Mobile：連續玩「FUN分遊戲」指定遊戲  加碼拎500 MTR 分（5月 逢周六、日）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|start_date="2024-05-01"|end_date="2024-05-31"|applicable_days_of_week=6,7|text="不符合商店類型"|result=0
+title="奇華餅家：今期推介（至7/5）"|shop="奇華餅家"|end_date="2024-05-07"|text="任何人都可以享受的普通特價或推廣"|result=0
+title="759 阿信屋：全新計劃【信仔 ‧ 袋回家】"|shop="759 阿信屋"|payment="會員卡及專屬購物袋"|min_spend=80|amt=5|start_date="2026-06-01"|end_date="2026-12-31"|applicable_days_of_month=16|text="2026年6月至12月每月16日，會員憑專屬購物袋消費滿$80可享$5折扣"|result=1
