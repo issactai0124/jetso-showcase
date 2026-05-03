@@ -13,3 +13,8 @@ title="允記：五月限時優惠"|shop="允記"|text="服裝店及任何人均
 title="Mrs. Fields：BB曲奇 買一打 送半打（至31/5）"|shop="Mrs. Fields"|start_date="2026-05-01"|end_date="2026-05-31"|text="任何人均可享用的普通特價優惠"|result=0
 title="美心MX：全新「芝士焗豬肉腸肉醬意粉」"|shop="美心MX"|text="餐廳、任何人均可享受的普通特價/新品推廣"|result=0
 title="OK便利店：會員至抵價（至6/5）"|shop="OK便利店"|payment="會員"|end_date="2024-05-06"|text="OK便利店會員專享至抵價優惠至5月6日"|result=1
+title="PayMe：麥當勞 $5快閃優惠券（至15/5）"|shop="麥當勞"|payment="PayMe"|amt=5|end_date="2024-05-15"|text="餐廳"|result=0
+title="一粥麵：至抵Deal 指定粥品 半價（逢星期一至三、4/5起）"|shop="一粥麵"|text="餐廳、任何人均可享用的普通特價"|result=0
+title="龍豐：推廣員駐場限定優惠（4-10/5）"|shop="龍豐"|start_date="2024-05-04"|end_date="2024-05-10"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="KFC：肯！抵DEAL（4-17/5）"|shop="KFC"|text="餐廳"|result=0
+title="AEON：100周年 限定特賣（至31/5）"|shop="AEON"|end_date="2024-05-31"|text="百貨公司及任何人均可享受的普通特價"|result=0
