@@ -4,3 +4,12 @@ title="奇華餅家：今期推介（至7/5）"|shop="奇華餅家"|end_date="20
 title="759 阿信屋：全新計劃【信仔 ‧ 袋回家】"|shop="759 阿信屋"|payment="會員卡及專屬購物袋"|min_spend=80|amt=5|start_date="2026-06-01"|end_date="2026-12-31"|applicable_days_of_month=16|text="2026年6月至12月每月16日，會員憑專屬購物袋消費滿$80可享$5折扣"|result=1
 title="大快活：母親節 六人盆菜"|shop="大快活"|text="餐廳"|result=0
 title="大生生活超市：12周年 得1賞2 / 12周年禮包 / $12專區 / "|shop="大生生活超市"|text="普通特價/減價宣傳，無會員或特定支付方式門檻"|result=0
+title="萬寧：今日出位價（3/5）"|shop="萬寧"|start_date="2024-05-03"|end_date="2024-05-03"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（3/5）"|shop="百佳超級市場"|text="缺乏具體優惠詳情及會員/支付方式要求"|result=0
+title="惠康超級市場最新優惠（3/5）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式資訊"|result=0
+title="大棧 / 余仁生：最新優惠（3/5）"|shop="大棧 / 余仁生"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="AlipayHK：包點先生 $5優惠券"|shop="包點先生"|payment="AlipayHK"|min_spend=40|amt=5|text="以AlipayHK領取優惠券，凡惠顧滿$40可享$5折扣"|result=1
+title="允記：五月限時優惠"|shop="允記"|text="服裝店及任何人均可享受的普通特價"|result=0
+title="Mrs. Fields：BB曲奇 買一打 送半打（至31/5）"|shop="Mrs. Fields"|start_date="2026-05-01"|end_date="2026-05-31"|text="任何人均可享用的普通特價優惠"|result=0
+title="美心MX：全新「芝士焗豬肉腸肉醬意粉」"|shop="美心MX"|text="餐廳、任何人均可享受的普通特價/新品推廣"|result=0
+title="OK便利店：會員至抵價（至6/5）"|shop="OK便利店"|payment="會員"|end_date="2024-05-06"|text="OK便利店會員專享至抵價優惠至5月6日"|result=1
