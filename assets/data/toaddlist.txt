@@ -29,3 +29,8 @@ title="AEON STYLE：啟德店 擴展新領域（至20/5）"|shop="AEON STYLE"|en
 title="太興：端午粽套裝 優惠價發售（至7/6）"|shop="太興"|text="餐廳"|result=0
 title="南記粉麵：會員限定 電子現金券 買$180 送$180（至30/6）"|shop="南記粉麵"|text="餐廳"|result=0
 title="麥當勞App：Value Monday 電子優惠券（4/5起）"|shop="麥當勞"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至10/5）"|shop="OK便利店"|end_date="2024-05-10"|text="普通特價/減價宣傳"|result=0
+title="GODIVA：新登場 榛子牛奶巧克力流心蛋糕"|shop="GODIVA"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="大生生活超市：全新APP會員 首單8折（至31/5）"|shop="大生生活超市"|payment="全新APP會員"|min_spend=0|rate=0.2|amt=200|start_date="2026-05-01"|end_date="2026-05-31"|text="全新APP會員首單可享8折優惠，最高減$200"|result=1
+title="大家樂：超值家餸孖寶優惠（5-11/5）"|shop="大家樂"|text="餐廳"|result=0
+title="佳宝食品超級市場：全場貨品 8折優惠（5-12/5）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2024-05-05"|end_date="2024-05-12"|text="任何人都可以享受的普通特價"|result=0
