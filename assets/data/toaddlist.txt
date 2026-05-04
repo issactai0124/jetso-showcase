@@ -34,3 +34,5 @@ title="GODIVA：新登場 榛子牛奶巧克力流心蛋糕"|shop="GODIVA"|text=
 title="大生生活超市：全新APP會員 首單8折（至31/5）"|shop="大生生活超市"|payment="全新APP會員"|min_spend=0|rate=0.2|amt=200|start_date="2026-05-01"|end_date="2026-05-31"|text="全新APP會員首單可享8折優惠，最高減$200"|result=1
 title="大家樂：超值家餸孖寶優惠（5-11/5）"|shop="大家樂"|text="餐廳"|result=0
 title="佳宝食品超級市場：全場貨品 8折優惠（5-12/5）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2024-05-05"|end_date="2024-05-12"|text="任何人都可以享受的普通特價"|result=0
+title="壽司郎 Sushiro：$10碟 著數（5/5起）"|shop="壽司郎"|text="餐廳"|result=0
+title="海港飲食：超值全包宴"|shop="海港飲食"|text="餐廳"|result=0
