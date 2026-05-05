@@ -44,3 +44,12 @@ title="魚尚：魚尚日 半額（5月 逢星期二）"|shop="魚尚"|text="任
 title="Pacific Coffee：有營套餐 $78"|shop="Pacific Coffee"|text="餐廳"|result=0
 title="大家樂：5.5月月「雙」賞快閃優惠（至7/5）/ 呢啲GOOD價"|shop="大家樂"|text="餐廳"|result=0
 title="日本城：買滿$68 送$20現金優惠券"|shop="日本城"|min_spend=68|amt=20|text="任何人均可享用的普通優惠，缺乏特定支付方式或會員門檻"|result=0
+title="MOS Burger：全新商品 牛油果吉列蝦漢堡"|shop="MOS Burger"|start_date="2024-05-04"|text="餐廳"|result=0
+title="譚仔三哥米線：母親節快閃限定 滋補螺片嫩雞雪耳米線 $54"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至11/5）"|shop="龍豐"|end_date="2024-11-05"|text="任何人均可享受的普通特價，缺乏會員或特定支付門檻"|result=0
+title="Pizza Hut：買主菜 送必勝批/意粉（至20/5）"|shop="Pizza Hut"|end_date="2026-05-20"|text="餐廳"|result=0
+title="名牌服飾開倉（6-12/5）"|shop="名牌服飾"|start_date="2024-05-06"|end_date="2024-05-12"|text="服裝店"|result=0
+title="壽司郎 Sushiro：赤醋飯祭 / 豐洲匠心甄選"|shop="壽司郎"|text="餐廳"|result=0
+title="MTR Mobile：「Show Mom The World」遊戲 每日賺取 20 MTR分（至10/5）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="運動及休閒服飾特賣 低至1折（6-11/5）"|shop="運動及休閒服飾特賣"|start_date="2024-05-06"|end_date="2024-05-11"|text="服裝店"|result=0
+title="AEON：周三新鮮日（6/5）"|shop="AEON"|start_date="2024-06-05"|applicable_days_of_week="3"|text="任何人均可享受的普通特價優惠"|result=0
