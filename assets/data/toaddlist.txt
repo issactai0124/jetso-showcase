@@ -53,3 +53,4 @@ title="壽司郎 Sushiro：赤醋飯祭 / 豐洲匠心甄選"|shop="壽司郎"|t
 title="MTR Mobile：「Show Mom The World」遊戲 每日賺取 20 MTR分（至10/5）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
 title="運動及休閒服飾特賣 低至1折（6-11/5）"|shop="運動及休閒服飾特賣"|start_date="2024-05-06"|end_date="2024-05-11"|text="服裝店"|result=0
 title="AEON：周三新鮮日（6/5）"|shop="AEON"|start_date="2024-06-05"|applicable_days_of_week="3"|text="任何人均可享受的普通特價優惠"|result=0
+title="OK便利店：5天狂減（6-10/5）"|shop="OK便利店"|start_date="2024-05-06"|end_date="2024-05-10"|text="任何人均可享受的普通特價"|result=0
