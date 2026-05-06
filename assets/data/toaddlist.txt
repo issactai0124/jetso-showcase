@@ -10,3 +10,7 @@ title="一粥麵：午市 雙餸/三餸飯"|shop="一粥麵"|text="餐廳"|resul
 title="爭鮮：母親節獻禮（至10/5）"|shop="爭鮮"|text="餐廳、一般特價優惠"|result=0
 title="譚仔雲南米線：母親節限定 鮮人蔘湯米線配竹笙‧雞卷‧鵪鶉蛋"|shop="譚仔雲南米線"|text="餐廳"|result=0
 title="7-Eleven：今期「$10一口價」限時優惠（至19/5）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="永年士多：全新小食 炸脆三響"|shop="永年士多"|text="餐廳"|result=0
+title="AlipayHK：惠康超市 掃碼領優惠券（至28/5）"|shop="惠康超市"|payment="AlipayHK"|end_date="2024-05-28"|text="使用AlipayHK於惠康超市掃碼領取優惠券"|result=1
+title="大快活：北海道十勝粟米 - 阿活忌廉粟米肉粒飯"|shop="大快活"|text="餐廳"|result=0
+title="東方樹葉：免費派茶（7-20/5）"|shop="東方樹葉"|text="任何人均可參與的推廣活動"|result=0
