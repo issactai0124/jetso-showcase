@@ -1,1 +1,12 @@
 title="萬寧：星期三氹氹你 優惠大放送（6/5）"|shop="萬寧"|text="一般減價宣傳，未提及會員或特定支付方式要求"|result=0
+title="MTR Mobile：港鐵即時賞（6/5）"|shop="MTR Mobile"|text="不符合商店類型（交通/公共事業）"|result=0
+title="百佳超級市場最新優惠（6/5）"|shop="百佳超級市場"|text="內容不含具體優惠詳情或僅為一般減價宣傳"|result=0
+title="屈臣氏：星期三樂悠折（6/5）"|shop="屈臣氏"|payment="樂悠咭"|rate=0.08|start_date="2024-06-05"|end_date="2024-06-05"|applicable_days_of_week=3|text="逢星期三持樂悠咭於屈臣氏購物可享92折優惠"|result=1
+title="7‑Eleven：自家產品 增量不加價 第二彈（至19/5）"|shop="7-Eleven"|text="任何人均可享用的普通特價"|result=0
+title="眼鏡88：日本第一品牌鏡片 低至5折（至12/5）"|shop="眼鏡88"|end_date="2024-05-12"|text="不符合商店類型及屬於任何人均可享受的普通特價"|result=0
+title="天仁茗茶：全糖茶飲 減$2（至7/5）"|shop="天仁茗茶"|amt=2|start_date="2026-05-06"|end_date="2026-05-07"|text="任何人都可以享受的普通特價"|result=0
+title="A-1 Bakery：新品登場 麻糬波波球"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="一粥麵：午市 雙餸/三餸飯"|shop="一粥麵"|text="餐廳"|result=0
+title="爭鮮：母親節獻禮（至10/5）"|shop="爭鮮"|text="餐廳、一般特價優惠"|result=0
+title="譚仔雲南米線：母親節限定 鮮人蔘湯米線配竹笙‧雞卷‧鵪鶉蛋"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至19/5）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
