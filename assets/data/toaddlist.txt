@@ -16,3 +16,10 @@ title="小米：全新REDMI PAD 2 正式發布 $1099起"|shop="小米"|text="電
 title="榮華：母親節優惠 全店標準價8折（至10/5）"|shop="榮華"|rate=0.20|start_date="2026-05-08"|end_date="2026-05-10"|text="不符合會員專屬或特定支付方式的條件"|result=0
 title="大家樂：經典港式咖喱系列 全新成員 - 香煎雞扒"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：5天限定（至12/5）"|shop="7-Eleven"|payment="yuu 會員"|rate=0.1667|end_date="2024-05-12"|text="yuu會員購買指定盒裝牛奶飲品可享買5送1優惠"|result=1
+title="BIODERMA：快閃街頭 免費派發「補濕＋淡紋」體驗裝（9-10/5、16-17/5）"|shop="BIODERMA"|text="任何人均可參與的免費派發活動，不符合會員或特定支付方式要求"|result=0
+title="奇華餅家：母親節呈獻 全線八折（9-10/5）"|shop="奇華餅家"|text="任何人均可享用的普通特價"|result=0
+title="百佳 / 惠康：全單88折（9/5）"|shop="百佳 / 惠康"|text="沒有註明會員或特定支付方式要求"|result=0
+title="油麻地天后廟：丙午年天后誕（9/5）"|shop="油麻地天后廟"|start_date="2026-05-09"|end_date="2026-05-09"|text="非指定商店類型（文化活動/廟宇）"|result=0
+title="AEON：泰國食品節（至22/5）"|shop="AEON"|end_date="2024-05-22"|text="百貨公司及普通特價宣傳"|result=0
+title="一粥麵：晚市 買藜麥菜飯系列 送陳皮紅豆沙（9-10/5）"|shop="一粥麵"|text="餐廳"|result=0
+title="優品360：最新優惠（至21/5）"|shop="優品360"|end_date="2024-05-21"|text="普通特價，非會員或特定支付方式優惠"|result=0
