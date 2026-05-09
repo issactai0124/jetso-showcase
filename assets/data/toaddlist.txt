@@ -33,3 +33,13 @@ title="屈臣氏：火熱搶（9/5）"|shop="屈臣氏"|start_date="2024-05-09"|
 title="Godiva：母親節限定優惠（至10/5）"|shop="Godiva"|end_date="2024-05-10"|text="缺乏會員或特定支付方式門檻"|result=0
 title="日本城：全場商品 買4送1"|shop="日本城"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
 title="大快活：15G雞胸腸迷你熱狗茶餐"|shop="大快活"|text="餐廳"|result=0
+title="易賞錢 MoneyBack：「樂賞會」迎新禮遇 / 日日拍卡 賺$2"|shop="百佳"|payment="樂賞會/樂悠咭"|amt=2|applicable_days_of_week=3|text="長者於百佳加入樂賞會，憑樂悠咭可享迎新禮品、每日$2優惠及逢星期三會員折扣"|result=1
+title="大家樂：大家樂母親節長者雙重賞（至10/5）"|shop="大家樂"|text="餐廳"|result=0
+title="港島防災應急準備日2026（10/5）"|shop="港島防災應急準備日"|text="非指定商店類型（政府/公眾活動）"|result=0
+title="元氣壽司：母親節特別獻禮（10/5）"|shop="元氣壽司"|text="餐廳"|result=0
+title="Cottex：床品折上折 全店折扣後再享88折（至10/5）"|shop="Cottex"|text="家具店及一般減價優惠"|result=0
+title="媽咪雞蛋仔：請你食雞蛋仔（10/5）"|shop="媽咪雞蛋仔"|start_date="2026-05-10"|end_date="2026-05-10"|text="餐廳"|result=0
+title="U士多：秒殺價（至14/5）"|shop="U士多"|end_date="2024-05-14"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="Dough Bros：任何消費 送冬甩（10/5）"|shop="Dough Bros"|text="任何人均可享用的節日優惠，缺乏會員或特定支付方式門檻"|result=0
+title="壽司郎 Sushiro：母親節限定優惠（10/5起）"|shop="壽司郎"|text="餐廳"|result=0
+title="Uniqlo：每週限定優惠（至14/5）"|shop="Uniqlo"|end_date="2024-05-14"|text="服裝店"|result=0
