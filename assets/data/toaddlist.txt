@@ -43,3 +43,4 @@ title="U士多：秒殺價（至14/5）"|shop="U士多"|end_date="2024-05-14"|te
 title="Dough Bros：任何消費 送冬甩（10/5）"|shop="Dough Bros"|text="任何人均可享用的節日優惠，缺乏會員或特定支付方式門檻"|result=0
 title="壽司郎 Sushiro：母親節限定優惠（10/5起）"|shop="壽司郎"|text="餐廳"|result=0
 title="Uniqlo：每週限定優惠（至14/5）"|shop="Uniqlo"|end_date="2024-05-14"|text="服裝店"|result=0
+title="AEON：嘩！心動價！（至31/5）"|shop="AEON"|end_date="2024-05-31"|text="百貨公司及任何人均可享有的普通特價"|result=0
