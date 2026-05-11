@@ -9,3 +9,11 @@ title="聖安娜餅屋：買酸種三文治 送子母奶（至15/5）"|shop="聖
 title="美心MX：全新升級配方 港式咖喱 / 惠顧港式咖喱系列 送大杯裝凍鹹檸七喜（至25/5）"|shop="美心MX"|text="餐廳"|result=0
 title="A-1 Bakery：季節限定 九州產蜜瓜特色蛋糕及甜品系列"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="大快活：阿活煎蛋鴛鴦飯"|shop="大快活"|text="餐廳"|result=0
+title="IKEA 宜家：急凍雞胸肉 $50/5件（至20/5）"|shop="IKEA"|start_date="2024-05-07"|end_date="2024-05-20"|text="家具店且為普通特價，無會員或特定支付方式門檻"|result=0
+title="無印良品 MUJI：app會員限定 網上商店購物 店舖自取優惠（至17/5）"|shop="無印良品"|text="百貨公司"|result=0
+title="東海堂：升級版 切餅系列"|shop="東海堂"|text="任何人均可享有的普通特價/新品推廣"|result=0
+title="OK便利店：本週激筍（至17/5）"|shop="OK便利店"|end_date="2024-05-17"|text="任何人都可以享受的普通特價"|result=0
+title="Pacific Coffee：APP會員限定 7張咖啡電子禮券 $199 / 平均每杯 $28.4（至24/5）"|shop="Pacific Coffee"|text="餐廳"|result=0
+title="茶皇殿：指定時段 憑「樂悠咭」享$2茶位優惠（至10/6）"|shop="茶皇殿"|payment="樂悠咭"|start_date="2026-05-11"|end_date="2026-06-10"|applicable_days_of_week="1,2,3,4,5"|text="餐廳"|result=0
+title="美亞廚具：廚具「舊」換「新」（至30/6）"|shop="美亞廚具"|end_date="2024-06-30"|text="廚具店"|result=0
+title="759 阿信屋：今期勁筍推介（至24/5）"|shop="759 阿信屋"|end_date="2024-05-24"|text="任何人都可以享受的普通特價"|result=0
