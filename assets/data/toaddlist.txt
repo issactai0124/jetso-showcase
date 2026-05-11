@@ -1,0 +1,11 @@
+title="MTR Mobile：港鐵即時賞（11/5）"|shop="MTR Mobile"|text="不符合商店類型（交通/應用程式獎賞，非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="萬寧：今日出位價（11/5）"|shop="萬寧"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（11/5）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="7-Eleven：最新優惠（11/5）"|shop="7-Eleven"|start_date="2026-05-11"|end_date="2026-05-15"|text="任何人都可以享受的普通特價"|result=0
+title="惠康超級市場最新優惠（11/5）"|shop="惠康超級市場"|text="普通特價或缺乏門檻要求"|result=0
+title="KFC：肯！抵DEAL（4-17/5）"|shop="KFC"|text="餐廳"|result=0
+title="屈臣氏：高露潔指定牙膏 買5支 送總值$685豐富禮品 / 買10支 再送座地風扇（至17/5）"|shop="屈臣氏"|start_date="2026-05-11"|end_date="2026-05-17"|text="任何人均可享受的普通特價/贈品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="聖安娜餅屋：買酸種三文治 送子母奶（至15/5）"|shop="聖安娜餅屋"|end_date="2024-05-15"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="美心MX：全新升級配方 港式咖喱 / 惠顧港式咖喱系列 送大杯裝凍鹹檸七喜（至25/5）"|shop="美心MX"|text="餐廳"|result=0
+title="A-1 Bakery：季節限定 九州產蜜瓜特色蛋糕及甜品系列"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="大快活：阿活煎蛋鴛鴦飯"|shop="大快活"|text="餐廳"|result=0
