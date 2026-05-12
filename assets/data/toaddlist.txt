@@ -30,3 +30,8 @@ title="海馬牌 / 軒琴居：產品低至45折發售"|shop="海馬牌 / 軒琴
 title="東海堂：紫薯麻糬燒 限時優惠（至13/5）"|shop="東海堂"|start_date="2026-05-11"|end_date="2026-05-13"|applicable_days_of_week="1,2,3"|text="普通特價"|result=0
 title="莎莎：Mega Sale 低至2折（至31/5）"|shop="莎莎"|text="純特價"|result=0
 title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/5）"|shop="宜家 IKEA"|end_date="2024-05-31"|text="餐廳"|result=0
+title="千色 Citistore / APITA / UNY：低至23折 換購 harajuku 旅行用品（至8/7）"|shop="千色 Citistore / APITA / UNY"|end_date="2024-07-08"|text="百貨公司"|result=0
+title="電器、圖書及休閒用品特賣 低至1折（13-18/5）"|shop="電器、圖書及休閒用品特賣"|start_date="2024-05-13"|end_date="2024-05-18"|text="電器、圖書及休閒用品；普通特價"|result=0
+title="維記牛奶：全新鮮椰露系列"|shop="維記牛奶"|text="新品推廣，無會員或特定支付門檻"|result=0
+title="龍豐：每週至抵「豐搶價」 （至18/5）"|shop="龍豐"|end_date="2024-05-18"|text="任何人都可以享受的普通特價"|result=0
+title="AEON：周3大特賣 / 新鮮日（13/5）"|shop="AEON"|text="百貨公司及任何人均可享有的普通特價優惠"|result=0
