@@ -1,3 +1,4 @@
 title="Häagen-Dazs：外賣雙球雪糕 買1送1（13-17/5）"|shop="Häagen-Dazs"|start_date="2024-05-13"|end_date="2024-05-17"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="OK便利店：5天狂減（13-17/5）"|shop="OK便利店"|start_date="2024-05-13"|end_date="2024-05-17"|text="任何人都可以享受的普通特價"|result=0
 title="一粥麵：潮州風味小菜 - 潮式滷水鵝/鹽焗原條烏頭"|shop="一粥麵"|text="餐廳"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（13/5）"|shop="萬寧"|text="任何人均可享受的普通特價優惠"|result=0
