@@ -13,3 +13,7 @@ title="7-Eleven：購買7仔食檔套餐 +$43換購 CHIIKAWA 餐具套裝（至3
 title="M&S：服飾/食品及飲品 88折（至17/5）"|shop="Marks & Spencer"|rate=0.12|end_date="2024-05-17"|text="普通特價及包含服飾類別"|result=0
 title="山崎麵包：5月特價の選"|shop="山崎麵包"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="稻香：啜味手把乳鴿 $9.9 / 晚市推廣優惠"|shop="稻香"|text="餐廳"|result=0
+title="譚仔三哥米線：全新 青花椒湯米線 配雞卷、黃金蛋餅"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="柏斯音樂：開倉激減 低至1折（14-17/5）"|shop="柏斯音樂"|start_date="2024-05-14"|end_date="2024-05-17"|text="不符合商店類型（樂器店）且為一般減價活動"|result=0
+title="華御結：皇牌御結日 指定御結 $12（14-15/5、18-20/5）"|shop="華御結"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="KFC：台式三星蔥脆雞系列 / 全新 台式三星蔥脆雞腿包（14/5起）"|shop="KFC"|text="餐廳"|result=0
