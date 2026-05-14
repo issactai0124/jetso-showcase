@@ -1,0 +1,7 @@
+title="元気寿司：满腹の選 $12 "|shop="元気寿司"|text="餐廳"|result=0
+title="AEON Mono Mono：火炭店 開幕優惠（15-27/5）"|shop="AEON Mono Mono"|start_date="2024-05-15"|end_date="2024-05-27"|text="任何人均可享有的普通特價"|result=0
+title="東海堂：新產品 麻糬麵包 / 朱古力曲奇"|shop="東海堂"|text="任何人都可以享受的普通特價/新品推廣"|result=0
+title="7-Eleven：本週優惠（至19/5）"|shop="7-Eleven"|end_date="2024-05-19"|text="任何人都可以享受的普通特價"|result=0
+title="聖安娜餅屋：日日至抵價（至27/5）"|shop="聖安娜餅屋"|end_date="2024-05-27"|text="任何人都可以享受的普通特價"|result=0
+title="759 阿信屋：芝麻棉花糖會員卡"|shop="759 阿信屋"|min_spend=88|text="任何人均可參與的換領活動，非會員專屬或特定支付優惠"|result=0
+title="一粥麵：外賣快閃優惠（至16/5）"|shop="一粥麵"|text="餐廳"|result=0
