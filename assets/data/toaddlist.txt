@@ -19,3 +19,12 @@ title="華御結：皇牌御結日 指定御結 $12（14-15/5、18-20/5）"|shop
 title="KFC：台式三星蔥脆雞系列 / 全新 台式三星蔥脆雞腿包（14/5起）"|shop="KFC"|text="餐廳"|result=0
 title="大家樂：網購 花膠雞鍋小菜二人餐 $125（至25/5）"|shop="大家樂"|text="餐廳"|result=0
 title="麥當勞：全新 朱古力脆皮KITKAT芭菲 / KITKAT新地筒（14/5起）"|shop="麥當勞"|text="餐廳"|result=0
+title="萬寧：今日出位價（14/5）"|shop="萬寧"|start_date="2024-05-14"|end_date="2024-05-14"|text="任何人都可以享受的普通特價"|result=0
+title="惠康 / 百佳：最新優惠（14/5）"|shop="惠康 / 百佳"|text="普通特價或資訊不足"|result=0
+title="樓上 / 大棧：最新優惠（14/5）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付門檻資訊"|result=0
+title="7-Eleven：7仔食檔 茶葉蛋 $7/2隻（14/5）"|shop="7-Eleven"|start_date="2026-05-14"|end_date="2026-05-14"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="龍寶酒家：最新優惠（14/5）"|shop="龍寶酒家"|text="餐廳"|result=0
+title="759 阿信屋：全線7折優惠（至17/5）"|shop="759 阿信屋"|rate=0.3|start_date="2024-05-14"|end_date="2024-05-17"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="美心MX：長者全日8折（至28/5）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|rate=0.2|end_date="2024-05-28"|text="餐廳"|result=0
+title="譚仔雲南米線：APP會員限定 炸醬酸菜撈寬麵 配烤雞‧脆骨雞肉卷套餐 $64"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 多款時尚單品迎接初夏"|shop="Uniqlo"|text="服裝店"|result=0
