@@ -20,3 +20,9 @@ title="聖安娜餅屋：Cake Easy會員 雙重大抽獎 贏走iPhone 17 Pro / S
 title="大家樂：茶餐 全新「椰香咖喱燒雞髀」"|shop="大家樂"|text="餐廳"|result=0
 title="A-1 Bakery：全新配方 吉列牛肉咖喱包"|shop="A-1 Bakery"|text="新品推廣"|result=0
 title="7-Eleven：5天限定（至19/5）"|shop="7-Eleven"|payment="yuu 會員"|rate=0.1666|start_date="2024-05-15"|end_date="2026-06-16"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
+title="六合彩：估計頭獎基金 $3100萬（16/5）"|shop="香港賽馬會"|text="非目標商店類型"|result=0
+title="美心MX：外賣加餸 港式燒味 $33起（至4/6）"|shop="美心MX"|start_date="2026-05-15"|end_date="2026-06-04"|text="餐廳及任何人均可享用的普通特價"|result=0
+title="利奧坊 x 浪浪之家 x MOMOBOSS：毛B領養日+夏日Chill-Pet市集（16-17/5、23-25/5）"|shop="利奧坊"|text="市集及領養活動，不符合商店類型"|result=0
+title="一粥麵：晚市 潮式春菜排骨煲"|shop="一粥麵"|text="餐廳"|result=0
+title="屈臣氏：全場無門檻 88折（16/5）"|shop="屈臣氏"|rate=0.12|start_date="2024-05-16"|end_date="2024-05-16"|text="任何人都可以享受的普通特價"|result=0
+title="優品360：本週優惠（至21/5）"|shop="優品360"|end_date="2024-05-21"|text="任何人均可享受的普通特價"|result=0
