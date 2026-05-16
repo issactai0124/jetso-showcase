@@ -35,3 +35,9 @@ title="美心MX ：心超值 鐵板餐 $49"|shop="美心MX"|text="餐廳"|result
 title="小米：新產品 米家1匹變頻冷暖掛牆式分體冷氣機 $2990"|shop="小米"|text="電器店及普通新品推廣"|result=0
 title="奇華餅家：今期推介（至21/5）"|shop="奇華餅家"|end_date="2024-05-21"|text="任何人均可享用的普通特價或新品推廣"|result=0
 title="海洋公園水上樂園：樂悠咭限定 入場門票 $2（至30/6）"|shop="海洋公園水上樂園"|payment="樂悠咭/長者/殘疾人士"|text="不符合商店類型（主題樂園）"|result=0
+title="海港飲食：晚市優惠孖寶"|shop="海港飲食"|text="餐廳"|result=0
+title="新界北總區防災應急準備日（17/5）"|shop="新界北總區"|text="非指定商店類型及非商業優惠"|result=0
+title="一粥麵：藜菜聯婚 免費試食/大派利是 @樂富廣場（17/5）"|shop="一粥麵"|text="餐廳"|result=0
+title="2027年 公眾假期"|shop=""|text="非優惠貼文，僅為公眾假期資訊"|result=0
+title="Uniqlo：每週限定優惠（至21/5）"|shop="Uniqlo"|end_date="2024-05-21"|text="服裝店"|result=0
+title="大生生活超市：12周年 第2激（至31/5）"|shop="大生生活超市"|end_date="2024-05-31"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
