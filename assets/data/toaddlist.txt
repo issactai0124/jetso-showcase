@@ -56,3 +56,9 @@ title="大家樂 APP：八達通午市熱飲優惠券（18/5）"|shop="大家樂
 title="U士多：秒殺價（至28/5）"|shop="U士多"|end_date="2024-05-28"|text="普通特價，缺乏會員或特定支付門檻"|result=0
 title="麥當勞App：Value Monday 電子優惠券（18/5起）"|shop="麥當勞"|text="餐廳"|result=0
 title="AEON：夏日家具案（至27/5）"|shop="AEON"|end_date="2024-05-27"|text="家具店"|result=0
+title="MTR Mobile：港鐵即時賞（18/5）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳超級市場最新優惠（18/5）"|shop="百佳超級市場"|text="缺乏具體優惠詳情及會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（18/5）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="7-Eleven：最新優惠（18/5）"|shop="7-Eleven"|payment="yuu會員"|start_date="2026-05-18"|end_date="2026-06-16"|text="yuu會員購買指定飯糰可儲印花，儲齊8個印花送7-SELECT飯糰1件"|result=1
+title="Lenovo：年度開倉 6折起（至27/5）"|shop="Lenovo"|end_date="2024-05-27"|text="電器"|result=0
+title="華御結：皇牌御結日 指定御結 $12（14-15/5、18-20/5）"|shop="華御結"|start_date="2024-05-14"|end_date="2024-05-20"|text="普通特價宣傳，不具備會員或特定支付工具門檻"|result=0
