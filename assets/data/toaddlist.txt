@@ -1,0 +1,10 @@
+title="孖人牌 / staub：優質廚具開倉 低至2折（至31/5）"|shop="孖人牌 / staub"|end_date="2024-05-31"|text="不符合商店類型（廚具）及缺乏會員或特定支付門檻"|result=0
+title="東海堂：miffy 森林花語蛋白卷套裝"|shop="東海堂"|text="任何人均可享用的新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="Uniqlo：新品登場 Monchhichi UT"|shop="Uniqlo"|text="服裝店、新品推廣"|result=0
+title="大生生活超市：快閃優惠（至25/5）"|shop="大生生活超市"|end_date="2024-05-25"|text="普通特價"|result=0
+title="崇光百貨：啟德店 半年一度 感謝周年慶 Part 2（18-31/5）"|shop="崇光百貨"|start_date="2024-05-18"|end_date="2024-05-31"|text="百貨公司"|result=0
+title="元気寿司：午餐自選壽司盛 $90"|shop="元気寿司"|text="餐廳"|result=0
+title="崇光百貨：銅鑼灣店 半年一度 感謝周年慶 Part 2（18-31/5）"|shop="崇光百貨"|text="百貨公司"|result=0
+title="OK便利店：本週激筍（至24/5）"|shop="OK便利店"|end_date="2024-05-24"|text="普通特價/減價宣傳"|result=0
+title="美心MX：Eatizen會員 換購指定咖喱飯優惠（至31/5）"|shop="美心MX"|text="餐廳"|result=0
+title="一田 超市：挑戰特價（至28/5）"|shop="一田"|end_date="2024-05-28"|text="普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
