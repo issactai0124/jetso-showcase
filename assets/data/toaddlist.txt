@@ -25,3 +25,6 @@ title="價真棧：精選推廣（至28/5）"|shop="價真棧"|end_date="2024-05
 title="AEON：周三新鮮日（20/5）"|shop="AEON"|text="任何人均可享受的普通特價"|result=0
 title="小米：618年中購物優惠 多達過百款產品 最高減$3000（20/5-21/6）"|shop="小米"|text="電器店"|result=0
 title="7-Eleven：45周年限定 買維他奶飲品滿$45 送7-Eleven x 維他奶造型公仔（20/5-2/6）"|shop="7-Eleven"|text="任何人均可享用的普通推廣，不符合會員或特定支付方式要求"|result=0
+title="Pacific Coffee﻿：520甜蜜優惠 鮮奶咖啡 $52/2杯（20/5）"|shop="Pacific Coffee"|text="餐廳且為一般大眾優惠"|result=0
+title="OK便利店：5天狂減（20-25/5）"|shop="OK便利店"|start_date="2024-05-20"|end_date="2024-05-25"|text="普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（20/5）"|shop="萬寧"|applicable_days_of_week=3|text="沒有會員或特定支付方式門檻"|result=0
