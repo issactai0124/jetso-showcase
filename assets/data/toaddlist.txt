@@ -1,0 +1,9 @@
+title="MTR Mobile：港鐵即時賞（20/5）"|shop="MTR"|text="不符合商店類型"|result=0
+title="屈臣氏：星期三樂賞日（20/5）"|shop="屈臣氏"|start_date="2020-05-20"|end_date="2020-05-20"|applicable_days_of_week="3"|applicable_days_of_month="20"|text="沒有說明是會員專屬或特定支付方式的優惠"|result=0
+title="美心西餅：新登場 迷你班蘭椰子天使蛋糕"|shop="美心西餅"|payment="Eatizen美心薈會員"|rate=0.1|amt=15.8|text="Eatizen美心薈會員購買迷你班蘭椰子天使蛋糕可享9折優惠"|result=1
+title="7-Eleven：首度聯乘New Balance 換購「Mini拼砌模型磁貼」系列（至30/6）"|shop="7-Eleven"|start_date="2024-05-20"|end_date="2024-06-30"|text="普通推廣，沒有會員或特定支付方式門檻"|result=0
+title="麥當勞：「將軍漢堡系列」告別優惠（20/5起）"|shop="麥當勞"|start_date="2024-05-20"|text="餐廳"|result=0
+title="聖安娜餅屋：全新「韓式便當」"|shop="聖安娜餅屋"|text="沒有會員或指定支付方式門檻"|result=0
+title="大家樂：新產品 龍蝦汁海鮮焗飯"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：買雪糕/啤酒 滿$100 享75折（至23/5）"|shop="7-Eleven"|min_spend=100|rate=0.25|end_date="2024-05-23"|text="普通特價"|result=0
+title="美心MX：「即煎半份西多士」茶餐"|shop="美心MX"|text="餐廳"|result=0
