@@ -13,3 +13,4 @@ title="吉野家：「百事可樂 x 哥斯拉」聯乘套餐"|shop="吉野家"|
 title="齊柏林 Zeppelin ：11周年慶典 優惠連環賞（21-27/5）"|shop="齊柏林熱狗"|text="餐廳"|result=0
 title="大快活：阿活爆「抵」價茶餐 豉油皇炒麵+瑞士汁雞髀+餐飲 $34"|shop="大快活"|text="餐廳"|result=0
 title="佳宝食品超級市場：驚喜快閃 全線8折（21-24/5）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-05-21"|end_date="2026-05-24"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="八達通App：限時搶 $45換購券 - Pizza Hut「肉肉夏威夷風光普通批」（21/5、26/5、28/6）"|shop="Pizza Hut"|text="餐廳"|result=0
