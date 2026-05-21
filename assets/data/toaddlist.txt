@@ -1,0 +1,11 @@
+title="萬寧：今日出位價（21/5）"|shop="萬寧"|start_date="2024-05-21"|end_date="2024-05-21"|text="任何人均可享受的普通特價"|result=0
+title="惠康 / 百佳：最新優惠（21/5）"|shop="惠康 / 百佳"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（21/5）"|shop="7-Eleven"|start_date="2024-05-21"|end_date="2024-05-21"|text="普通特價，無會員或特定支付方式要求"|result=0
+title="樓上 / 大棧 / 余仁生：最新優惠（21/5）"|shop="樓上 / 大棧 / 余仁生"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="韓印紅：最新優惠（21/5）"|shop="韓印紅"|text="缺乏會員或特定支付方式門檻"|result=0
+title="奇華餅家：德福廣場店 全新面貌 8折優惠（至24/5）"|shop="奇華餅家"|text="普通特價優惠"|result=0
+title="維他：買指定飲品 滿$35 送限量版VLT公仔（至3/6）"|shop="OK便利店、7-Eleven"|text="任何人均可參與的贈品推廣，不符合會員或特定支付工具要求"|result=0
+title="千色 Citistore：初夏購物祭（至10/6）"|shop="千色 Citistore"|end_date="2024-06-10"|text="百貨公司"|result=0
+title="KFC：肯！抵DEAL（至27/5）"|shop="KFC"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 雨季精選單品"|shop="Uniqlo"|text="服裝店"|result=0
+title="Pizza Hut：45周年驚喜價 低至45折"|shop="Pizza Hut"|rate=0.55|text="餐廳"|result=0
