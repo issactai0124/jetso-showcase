@@ -9,3 +9,9 @@ title="千色 Citistore：初夏購物祭（至10/6）"|shop="千色 Citistore"|
 title="KFC：肯！抵DEAL（至27/5）"|shop="KFC"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - 雨季精選單品"|shop="Uniqlo"|text="服裝店"|result=0
 title="Pizza Hut：45周年驚喜價 低至45折"|shop="Pizza Hut"|rate=0.55|text="餐廳"|result=0
+title="麥當勞：長洲店 脆香素菇飽（21-24/5）"|shop="麥當勞"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至26/5）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-05-26"|text="yuu會員購買任何4罐裝啤酒可享專屬優惠"|result=1
+title="日本城：全場家品/家電/個人護理用品 買滿$120 即照價再85折（至25/5）"|shop="日本城"|min_spend=120|rate=0.15|end_date="2024-05-25"|text="任何人均可享用的普通特價，非會員或特定支付方式專屬"|result=0
+title="東海堂：全新「Cake Light蛋糕系列」"|shop="東海堂"|payment="Eatizen美心薈會員"|rate=0.1|text="Eatizen美心薈會員購買Cake Light系列可享9折優惠"|result=1
+title="AEON：初夏甜品祭 / 初夏玩水企劃 / TOPVALU 好生活提案（22/5-3/6）"|shop="AEON"|start_date="2024-05-22"|end_date="2024-06-03"|text="百貨公司及任何人均可享受的普通特價宣傳"|result=0
+title="醫管局：統一來電顯示開首號碼 18285及18286識別來電更方便（26/5起 分階段轉用）"|shop="醫管局"|text="非商店優惠/政府機構行政通知"|result=0
