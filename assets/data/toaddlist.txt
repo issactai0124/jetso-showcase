@@ -1,0 +1,9 @@
+title="萬寧：最新優惠（23/5）"|shop="萬寧"|start_date="2024-05-23"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="百佳超級市場最新優惠（23/5）"|shop="百佳超級市場"|text="缺乏具體優惠詳情或屬於一般減價宣傳"|result=0
+title="惠康超級市場最新優惠（23/5）"|shop="惠康超級市場"|start_date="2024-05-23"|text="普通特價或減價宣傳"|result=0
+title="屈臣氏：火熱搶（23/5）"|shop="屈臣氏"|start_date="2024-05-23"|text="任何人都可以享受的普通特價"|result=0
+title="AEON Day：自家品牌商品 8折優惠（至25/5）"|shop="AEON"|rate=0.2|end_date="2024-05-25"|text="百貨公司"|result=0
+title="易賞錢 MoneyBack：樂賞會 迎新禮遇/每日拍咭優惠/星期三樂賞日"|shop="易賞錢"|payment="易賞錢會員"|applicable_days_of_week="3"|text="易賞錢會員專享迎新禮遇、每日拍咭優惠及星期三樂賞日優惠"|result=1
+title="麥當勞App：抹茶麻糬三角批2件 $10（23/5起）"|shop="麥當勞"|text="餐廳"|result=0
+title="吉野家：全新「日式叉燒胡麻拌拉麵」$34起"|shop="吉野家"|text="餐廳"|result=0
+title="7-Eleven：「譚仔三哥米線」聯乘限定新品"|shop="7-Eleven"|start_date="2026-05-20"|text="任何人均可享受的普通特價或新品推廣"|result=0
