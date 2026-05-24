@@ -12,3 +12,11 @@ title="奇華餅家：今期推介（至28/5）"|shop="奇華餅家"|end_date="2
 title="譚公寶誕2026 - 賀誕巡遊（24/5）"|shop="譚公寶誕"|text="節慶活動/非指定商店類型"|result=0
 title="壽司郎 Sushiro：限定商品優惠"|shop="壽司郎"|text="餐廳"|result=0
 title="一田超市：一田新鮮宣言（至11/6）/ 買手嚴選（至4/6）"|shop="一田超市"|text="普通特價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：今日出位價（24/5）"|shop="萬寧"|start_date="2024-05-24"|end_date="2024-05-24"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（24/5）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻之一般優惠"|result=0
+title="樓上：最新優惠（24/5）"|shop="樓上"|text="普通特價"|result=0
+title="A-1 Bakery：麵包脆餅 全新口味「士多啤梨」/ 網購限定「桔梗信玄餅」和菓子千層蛋糕 "|shop="A-1 Bakery"|text="新品推廣及網購限定，非會員或特定支付優惠"|result=0
+title="MOS Burger：全新特惠套餐"|shop="MOS Burger"|text="餐廳"|result=0
+title="U士多：秒殺價（至4/6）"|shop="U士多"|end_date="2024-06-04"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：會員限定 端午粽套裝優惠（至14/6）"|shop="大家樂"|payment="Club 100會員"|min_spend=400|amt=50|end_date="2026-06-14"|text="餐廳"|result=0
+title="OK便利店：抵食套餐（17/6） / 店長推介（至3/6）"|shop="OK便利店"|text="普通特價，非會員或特定支付方式優惠"|result=0
