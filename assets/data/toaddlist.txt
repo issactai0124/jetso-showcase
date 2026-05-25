@@ -5,3 +5,7 @@ title="惠康超級市場最新優惠（25/5）"|shop="惠康超級市場"|text=
 title="7-Eleven：買7-SELECT咖喱魚蛋/碗仔羹 送維他無糖赤香紅茶/冷泡無糖雲澗綠茶（至29/5）"|shop="7-Eleven"|payment="yuu會員"|min_spend=20|end_date="2026-06-16"|text="yuu會員買指定7-SELECT產品每滿$20可儲印花，儲齊7個印花送7-SELECT產品1件"|result=1
 title="奇華餅家：五月粽優惠 / 新產品 櫻花蝦臘腸 五花腩肉粽 "|shop="奇華餅家"|text="普通特價或新品推廣，缺乏會員或特定支付方式門檻"|result=0
 title="聖安娜餅屋：朱古力系列 配方升級"|shop="聖安娜餅屋"|text="新品推廣且無會員或特定支付要求"|result=0
+title="元気寿司：網購「人氣極上壽司盛」買1送1（至29/5）"|shop="元気壽司"|text="餐廳"|result=0
+title="松屋 Matsuya：觀塘三布目店 5月26日開幕"|shop="松屋"|text="餐廳"|result=0
+title="大家樂：超值外賣 孖寶優惠（26-29/5）"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至7/6）"|shop="759 阿信屋"|end_date="2024-06-07"|text="任何人都可以享受的普通特價"|result=0
