@@ -1,0 +1,9 @@
+title="屈臣氏：星期三樂賞日（27/5）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-05-27"|end_date="2020-05-27"|applicable_days_of_week=3|text="易賞錢會員於星期三樂賞日可享專屬優惠"|result=1
+title="MTR Mobile：港鐵即時賞（27/5）"|shop="MTR"|text="不符合商店類型"|result=0
+title="惠康超級市場最新優惠（27/5）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="韓印紅：最新優惠（27/5）"|shop="韓印紅"|start_date="2024-05-27"|text="沒有門檻的普通特價"|result=0
+title="7-Eleven：最新優惠（27/5）"|shop="7-Eleven"|start_date="2024-05-27"|text="沒有指定支付方式或會員要求"|result=0
+title="美心烘焙店：法包系列"|shop="美心烘焙店"|text="沒有會員或特定支付方式要求"|result=0
+title="すき家 Sukiya ：初夏清爽好滋味 溫泉蛋鹽蔥牛丼 / 炭火烤雞丼"|shop="すき家 Sukiya"|text="餐廳"|result=0
+title="壽司郎 Sushiro：日本產頂級池魚 限時優惠（至31/5）"|shop="壽司郎 Sushiro"|start_date="2024-05-27"|end_date="2024-05-31"|text="餐廳"|result=0
+title="大快活：午市 厚切豚皇 拼日式野菜清酒豬軟骨飯"|shop="大快活"|text="餐廳"|result=0
