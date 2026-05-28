@@ -1,2 +1,12 @@
 title="759 阿信屋：全線7折優惠（28-31/5）"|shop="759 阿信屋"|text="任何人都可以享受的普通特價"|result=0
 title="KFC：國際漢堡包日 全新「BIG爆! 巴辣雞腿包」（28-31/5）"|shop="KFC"|text="餐廳"|result=0
+title="萬寧：今日出位價（28/5）"|shop="萬寧"|start_date="2024-05-28"|end_date="2024-05-28"|text="任何人均可享受的普通特價"|result=0
+title="惠康超級市場最新優惠（28/5）"|shop="惠康超級市場"|text="普通特價"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（28/5）"|shop="7-Eleven"|start_date="2026-05-28"|end_date="2026-05-28"|text="任何人均可享受的普通特價"|result=0
+title="樓上 / 大棧：最新優惠（28/5）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="美心西餅：限時優惠"|shop="美心西餅"|text="缺乏會員或特定支付方式要求"|result=0
+title="日本城：全場家品/家電/個人護理用品 買滿$120 即照價再85折（至31/5）"|shop="日本城"|min_spend=120|rate=0.15|end_date="2024-05-31"|text="任何人均可享用的普通特價及商店類型不符"|result=0
+title="吉野家：【特色熱狗】套餐 $20起"|shop="吉野家"|text="餐廳"|result=0
+title="屈臣氏：買5件DARLIE全亮白酵素牙膏 送總值 $604.9 禮品（至2/6）"|shop="屈臣氏"|text="任何人均可享受的普通特價/贈品推廣，非會員或特定支付方式專屬"|result=0
+title="東海堂：新產品 三文魚沙律藜麥飯糰包​"|shop="東海堂"|text="新品推廣，任何人均可享受"|result=0
+title="海港飲食：超值全包宴"|shop="海港飲食"|text="餐廳"|result=0
