@@ -30,3 +30,10 @@ title="Living Plaza / Daiso Japan：週末優惠（至2/6）"|shop="Living Plaza
 title="爭鮮迴轉壽司：限時快閃 奢華鵝肝（至31/5）"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
 title="iHerb.com：618早鳥優惠 74折（至3/6）"|shop="iHerb.com"|rate=0.26|end_date="2024-06-03"|text="折扣碼非會員專屬或特定支付方式"|result=0
 title="美心MX： 蟲草花雲吞雞 $45起"|shop="美心MX"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至2/6）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-06-09"|text="yuu會員可於yuu App以優惠積分兌換7-Eleven電子現金券，最高可慳1,700積分"|result=1
+title="北角東碼頭有機農夫市集（30-31/5）"|shop="北角東碼頭有機農夫市集"|start_date="2024-05-30"|end_date="2024-05-31"|text="任何人均可參與的市集活動，非會員或特定支付優惠"|result=0
+title="美心西餅：新登場 虎皮厚切卷蛋朱古力味 / 班蘭雪芳蛋糕"|shop="美心西餅"|text="新品推廣，無會員或特定支付方式要求"|result=0
+title="山頂纜車：138周年 限時快閃優惠 優惠套票 $138（30/5-5/6）"|shop="山頂纜車"|text="不符合商店類型（旅遊景點）且為大眾優惠"|result=0
+title="AEON：足球狂熱（至19/7）"|shop="AEON"|end_date="2024-07-19"|text="百貨公司且為一般減價宣傳，缺乏會員或特定支付門檻"|result=0
+title="譚仔雲南米線：30周年慶 湖南酸辣湯米線配腩肉‧魚腐 $30（30/5）"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="優品360：本週優惠（至4/6）"|shop="優品360"|end_date="2024-06-04"|text="普通特價/減價宣傳"|result=0
