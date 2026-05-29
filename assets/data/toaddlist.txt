@@ -17,3 +17,16 @@ title="小米：米家洗衣乾衣機/前置式洗衣機 5月29日發售"|shop="
 title="佳宝食品超級市場：週週佳驚喜（29-31/5）"|shop="佳宝食品超級市場"|start_date="2024-05-29"|end_date="2024-05-31"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="聖安娜：日日至抵價（至10/6）"|shop="聖安娜"|end_date="2024-06-10"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="AEON：父之日 / 父親節獻禮 特許銷售商推介（至21/6）"|shop="AEON"|end_date="2024-06-21"|text="百貨公司及一般特價推廣"|result=0
+title="MTR Mobile：港鐵即時賞（29/5）"|shop="MTR Mobile"|text="不符合商店類型（交通/積分獎賞）"|result=0
+title="百佳超級市場最新優惠（29/5）"|shop="百佳超級市場"|start_date="2024-05-29"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（29/5）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻之一般特價宣傳"|result=0
+title="屈臣氏最新購物優惠（29/5）"|shop="屈臣氏"|min_spend=99|start_date="2026-05-27"|end_date="2026-06-02"|text="任何人均可享受的普通特價/贈品優惠，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（29/5）"|shop="萬寧"|text="任何人均可享受的普通特價或週五優惠"|result=0
+title="大家樂：早餐 菠菜煙肉 3.6牛乳炒滑蛋"|shop="大家樂"|text="餐廳"|result=0
+title="牙膏最新優惠（29/5）"|shop=""|text="缺乏會員或特定支付方式門檻"|result=0
+title="阿波羅 Appolo：Monaka 週末推廣（至31/5）"|shop="阿波羅 Appolo"|end_date="2024-05-31"|text="任何人都可以享受的普通特價"|result=0
+title="KFC：期間限定 朱古力布朗尼葡撻"|shop="KFC"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至2/6）"|shop="Living Plaza / Daiso Japan"|text="任何人都可以享受的普通週末優惠"|result=0
+title="爭鮮迴轉壽司：限時快閃 奢華鵝肝（至31/5）"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="iHerb.com：618早鳥優惠 74折（至3/6）"|shop="iHerb.com"|rate=0.26|end_date="2024-06-03"|text="折扣碼非會員專屬或特定支付方式"|result=0
+title="美心MX： 蟲草花雲吞雞 $45起"|shop="美心MX"|text="餐廳"|result=0
