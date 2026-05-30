@@ -1,0 +1,10 @@
+title="萬寧：最新優惠（30/5）"|shop="萬寧"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="百佳超級市場最新優惠（30/5）"|shop="百佳超級市場"|start_date="2024-05-30"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（30/5）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="Pizza Hut：指定分店 週末假日限定 全新『醒晨早餐』$35起"|shop="Pizza Hut"|text="餐廳"|result=0
+title="屈臣氏：火熱搶（30/5）"|shop="屈臣氏"|start_date="2024-05-30"|end_date="2024-05-30"|text="任何人都可以享受的普通特價"|result=0
+title="AEON：感謝日（至2/6）"|shop="AEON"|payment="AEON會員/信用卡"|rate=0.05|end_date="2024-06-02"|text="AEON感謝日，會員或指定信用卡持有人可享95折優惠"|result=1
+title="7-Eleven：7仔預購網店 今期精品（至9/6）"|shop="7-Eleven"|start_date="2024-05-27"|end_date="2024-06-09"|text="任何人都可以享受的新品推廣，缺乏特定支付方式或會員專屬門檻"|result=0
+title="Dough Bros.：門店限定 限時 $200 兩個 Pizza"|shop="Dough Bros."|text="餐廳及一般特價優惠"|result=0
+title="OK便利店：會員至抵價（至3/6）/ 全新「波提冬甩」"|shop="OK便利店"|payment="會員"|end_date="2024-06-03"|text="OK便利店會員可享會員至抵價優惠至6月3日"|result=1
+title="奇華餅家：今期推介（至4/6）"|shop="奇華餅家"|end_date="2024-06-04"|text="普通特價/減價宣傳"|result=0
