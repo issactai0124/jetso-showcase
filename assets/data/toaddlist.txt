@@ -8,3 +8,6 @@ title="7-Eleven：7仔預購網店 今期精品（至9/6）"|shop="7-Eleven"|sta
 title="Dough Bros.：門店限定 限時 $200 兩個 Pizza"|shop="Dough Bros."|text="餐廳及一般特價優惠"|result=0
 title="OK便利店：會員至抵價（至3/6）/ 全新「波提冬甩」"|shop="OK便利店"|payment="會員"|end_date="2024-06-03"|text="OK便利店會員可享會員至抵價優惠至6月3日"|result=1
 title="奇華餅家：今期推介（至4/6）"|shop="奇華餅家"|end_date="2024-06-04"|text="普通特價/減價宣傳"|result=0
+title="屈臣氏礦物質有氣水：免費試飲（31/5-2/6）"|shop="屈臣氏蒸餾水"|start_date="2020-05-31"|end_date="2020-06-02"|text="任何人均可參與的免費試飲活動，不符合會員或特定支付方式門檻"|result=0
+title="東海堂：焦糖燉蛋系列冷凍蛋糕 $68（至31/5）"|shop="東海堂"|start_date="2026-05-30"|end_date="2026-05-31"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="Uniqlo：本週優惠（至4/6）"|shop="Uniqlo"|text="服裝店"|result=0
