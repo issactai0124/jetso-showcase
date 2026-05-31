@@ -18,3 +18,9 @@ title="百好飲食集團：晚市全包宴"|shop="百好飲食集團"|text="餐
 title="U士多：秒殺價（至11/6）"|shop="U士多"|end_date="2024-06-11"|text="普通特價，缺乏會員或特定支付門檻"|result=0
 title="AEON：夏日BB孩童樂園（至21/6）"|shop="AEON"|text="百貨公司及一般減價宣傳"|result=0
 title="一田超市：挑戰特價（至4/6）"|shop="一田超市"|end_date="2024-06-04"|text="普通特價"|result=0
+title="昂坪360：本地居民限定「回到開幕價」優惠"|shop="昂坪360"|text="不符合商店類型"|result=0
+title="聖安娜：父親節蛋糕 高達83折（至14/6）"|shop="聖安娜"|text="任何人均可享受的預訂優惠，非會員或特定支付方式專屬"|result=0
+title="龍豐：推廣員駐場限定優惠（1-7/6）"|shop="龍豐"|start_date="2024-06-01"|end_date="2024-06-07"|text="任何人均可享用的推廣員駐場優惠，無會員或特定支付門檻"|result=0
+title="麥當勞：新成員「$39 雙層芝士孖堡套餐」 / 人氣著數套餐優惠（1/6起）"|shop="麥當勞"|text="餐廳"|result=0
+title="佳宝食品超級市場：全場貨品 8折（1-4/6）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-06-01"|end_date="2026-06-04"|text="任何人均可享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="KFC：「肯！抵DEAL」6月限時優惠"|shop="KFC"|text="餐廳"|result=0
