@@ -35,3 +35,8 @@ title="美心MX：外賣燒味 激抵優惠（至21/6）"|shop="美心MX"|start_
 title="天仁茗茶：Toy Story 5 限定乳酪系列"|shop="天仁茗茶"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="元気寿司：茶餐 自選壽司盛 $62"|shop="元気寿司"|text="餐廳"|result=0
 title="太興：外賣限定 珍味瑤柱貴妃雞"|shop="太興"|text="餐廳"|result=0
+title="KFC﻿：指定分店 免費派發 經典葡撻（2/6）"|shop="KFC"|text="餐廳"|result=0
+title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/6）"|shop="西樹泡芙"|start_date="2024-06-02"|end_date="2024-06-02"|text="任何人均可享用的普通特價，缺乏會員或特定支付門檻"|result=0
+title="OK 便利店：本週激筍（至7/6）"|shop="OK 便利店"|text="任何人都可以享受的普通特價"|result=0
+title="東海堂：父親節蛋糕 優先預訂 低至86折（至18/6）"|shop="東海堂"|payment="Eatizen美心薈會員"|rate=0.14|end_date="2024-06-18"|text="6月18日或之前Eatizen美心薈會員預訂指定父親節系列蛋糕可享86折"|result=1
+title="大生生活超市：今期精選優惠（至15/6）"|shop="大生生活超市"|text="普通特價/減價宣傳"|result=0
