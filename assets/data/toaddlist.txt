@@ -13,3 +13,15 @@ title="Haagen-Dazs：世界甜品系列 限定優惠券（至14/7）"|shop="Haag
 title="foodpanda ：6月優惠碼"|shop="foodpanda"|text="餐廳"|result=0
 title="McCafé：全新 飲品套票（至31/7）"|shop="McCafé"|text="餐廳"|result=0
 title="AEON：100周年 限定特賣（至30/6）"|shop="AEON"|end_date="2024-06-30"|text="普通特價且屬百貨公司"|result=0
+title="萬寧：今日出位價（4/6）"|shop="萬寧"|start_date="2024-06-04"|end_date="2024-06-04"|text="任何人均可享受的普通特價"|result=0
+title="惠康 / 百佳：最新優惠（4/6）"|shop="惠康 / 百佳"|text="缺乏具體優惠內容及會員/支付門檻資訊"|result=0
+title="樓上 / 安記 / 大棧：最新優惠（4/6）"|shop="樓上 / 安記 / 大棧"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="7-Eleven：全新「芹菜豬肉蒸餃」$11/份（至16/6）"|shop="7-Eleven"|start_date="2026-06-03"|end_date="2026-06-16"|text="任何人都可以享受的普通特價/新品推廣"|result=0
+title="大家樂：最新「呢啲GOOD價」早午餐"|shop="大家樂"|text="餐廳"|result=0
+title="屈臣氏：買5支指定高露潔牙膏 送總值$295豐富禮品（至9/6）"|shop="屈臣氏"|start_date="2026-06-03"|end_date="2026-06-09"|text="任何人均可享用的普通特價或贈品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="倫敦大酒樓：超值堂食套餐 / 全包宴套餐（至30/6）"|shop="倫敦大酒樓"|text="餐廳"|result=0
+title="維他：買牛奶產品 滿$80 送「朱朱牛牛班戟煎鍋」（至9/7）"|shop="維他"|min_spend=80|start_date="2026-06-03"|end_date="2026-07-09"|text="任何人均可享受的普通推廣"|result=0
+title="聖安娜：新登場 TABASCO微辣系列"|shop="聖安娜"|text="新品推廣且無會員或特定支付要求"|result=0
+title="Uniqlo：優惠專區 - 皇牌商品 迎接舒爽夏日"|shop="Uniqlo"|text="服裝店"|result=0
+title="第五屆 香港潮州節（5-9/6）"|shop="香港潮州節"|start_date="2026-06-05"|end_date="2026-06-09"|text="普通活動推廣，且無特定支付方式或會員門檻要求"|result=0
+title="7-Eleven：本週優惠（至9/6）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
