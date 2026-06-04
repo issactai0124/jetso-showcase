@@ -31,3 +31,5 @@ title="宜家 IKEA：yuu會員日 9折優惠（5/6） "|shop="IKEA"|payment="yuu
 title="惠康超市：換購 限量版「應援兩用袋」盲盒（5/6起）"|shop="惠康超市"|start_date="2024-06-05"|text="普通換購活動，不符合會員或特定支付方式門檻"|result=0
 title="Binggrae：免費派發Melona雪條（5-7/5、12-14/6）"|shop="Binggrae"|text="任何人均可享受的免費派發活動，缺乏會員或特定支付門檻"|result=0
 title="佳宝食品超級市場：週週佳驚喜（5-11/6）"|shop="佳宝食品超級市場"|start_date="2024-06-05"|end_date="2024-06-11"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="麥當勞：FIFA世界盃開心樂園餐 送Squishmallows玩具（5/6起）"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：週末勁減（5-7/6）"|shop="AEON"|start_date="2024-06-05"|end_date="2024-06-07"|text="百貨公司及任何人均可享有的週末優惠"|result=0
