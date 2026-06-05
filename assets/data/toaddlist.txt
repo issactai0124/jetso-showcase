@@ -33,3 +33,21 @@ title="Binggrae：免費派發Melona雪條（5-7/5、12-14/6）"|shop="Binggrae"
 title="佳宝食品超級市場：週週佳驚喜（5-11/6）"|shop="佳宝食品超級市場"|start_date="2024-06-05"|end_date="2024-06-11"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
 title="麥當勞：FIFA世界盃開心樂園餐 送Squishmallows玩具（5/6起）"|shop="麥當勞"|text="餐廳"|result=0
 title="AEON：週末勁減（5-7/6）"|shop="AEON"|start_date="2024-06-05"|end_date="2024-06-07"|text="百貨公司及任何人均可享有的週末優惠"|result=0
+title="MTR Mobile：港鐵即時賞（5/6）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（5/6）"|shop="百佳超級市場"|text="一般減價宣傳"|result=0
+title="惠康超級市場最新優惠（5/6）"|shop="惠康超級市場"|text="普通特價"|result=0
+title="屈臣氏最新購物優惠（5/6）"|shop="屈臣氏"|min_spend=99|start_date="2026-06-03"|end_date="2026-06-09"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（5/6）"|shop="萬寧"|text="普通特價/減價宣傳"|result=0
+title="牙膏最新優惠（5/6）"|text="缺乏具體商店及會員或特定支付門檻之一般特價"|result=0
+title="阿波羅 Appolo：雪條/雪條 週末優惠（至7/6）"|shop="阿波羅 Appolo"|min_spend=28|end_date="2024-06-07"|text="任何人都可以享受的普通特價/週末優惠"|result=0
+title="眼鏡88：日本品牌抗藍光單光·漸進鏡片 低至5折（至8/6）"|shop="眼鏡88"|text="不符合商店類型及缺乏會員/支付門檻"|result=0
+title="東海堂：甜品類 限時優惠"|shop="東海堂"|text="任何人都可以享受的普通特價"|result=0
+title="759 阿信屋：勁抵價（至8/6）"|shop="759 阿信屋"|end_date="2024-06-08"|text="普通特價/減價宣傳，無門檻要求"|result=0
+title="MOS Burger：新登場 日式和風早餐"|shop="MOS Burger"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至7/6）"|shop="Living Plaza / Daiso Japan"|end_date="2024-06-07"|text="週末優惠且無特定支付或會員門檻"|result=0
+title="OK便利店：震撼價 / 飲品優惠（至17/6）"|shop="OK便利店"|end_date="2024-06-17"|text="普通特價，無會員或特定支付門檻"|result=0
+title="Pizza Hut：45周年驚喜價 第二彈（至17/6）"|shop="Pizza Hut"|text="餐廳"|result=0
+title="莎莎：化妝品 最新優惠（至21/6）"|shop="莎莎"|end_date="2024-06-21"|text="沒有門檻的普通特價"|result=0
+title="明星海鮮酒家：父親節晚飯 超值全包宴"|shop="明星海鮮酒家"|text="餐廳"|result=0
+title="大家樂：茶市 日式咖喱汁香煎大雞扒飯 + 飲品 $32"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至9/6）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-06-09"|text="yuu會員可以4,500積分兌換$25電子現金券，或以9,300積分兌換$55電子現金券，比平時更優惠"|result=1
