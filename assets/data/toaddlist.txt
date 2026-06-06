@@ -70,3 +70,8 @@ title="奇華餅家：今期推介（至11/6）"|shop="奇華餅家"|end_date="2
 title="吉野家：全新「濃郁旨味雞白湯系列」"|shop="吉野家"|text="餐廳"|result=0
 title="元氣壽司：父之日特選壽司盛 85折優惠（至24/6）"|shop="元氣壽司"|rate=0.15|amt=51.2|end_date="2024-06-24"|text="餐廳"|result=0
 title="一田超市：挑戰特價 / 新鮮宣言（至11/6）"|shop="一田超市"|end_date="2024-06-11"|text="普通特價"|result=0
+title="香港糖尿聯會：30周年慶典 家庭健康同樂嘉年華（7/6）"|shop="香港糖尿聯會"|text="非指定商店類型（嘉年華/非零售店）"|result=0
+title="美心MX：冬瓜盅晚市小菜套餐"|shop="美心MX"|text="餐廳"|result=0
+title="「六五環境日暨全民回收日」嘉年華（7/6）"|shop="環境保護署"|text="非指定商店類型且無會員或支付門檻"|result=0
+title="Uniqlo：本週優惠（至11/6）"|shop="Uniqlo"|text="服裝店"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至16/6）"|shop="7-Eleven"|end_date="2024-06-16"|text="任何人都可以享受的普通特價"|result=0
