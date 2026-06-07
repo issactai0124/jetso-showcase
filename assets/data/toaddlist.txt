@@ -84,3 +84,9 @@ title="壽司郎 Sushiro：柑橘醋 酸爽開胃隱藏食法"|shop="壽司郎"|
 title="A-1 Bakery：沖繩麵包祭典 / 特別版 Pokémon寶可夢 PacPack三文治"|shop="A-1 Bakery"|text="新品推廣及抽獎活動，非會員或特定支付方式專屬優惠"|result=0
 title="大家樂：全新 鐵板餐 - 迷迭香厚切大豬扒‧菠蘿蝦串 / 港式花生醬西多士"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：抵食套餐 / 店長推介（至17/6）"|shop="OK便利店"|end_date="2024-06-17"|text="任何人均可享用的普通特價"|result=0
+title="蛋撻王：感謝日 自家製產品 75折（8/6）"|shop="蛋撻王"|text="非會員或特定支付優惠"|result=0
+title="壽司郎 Sushiro：九龍灣淘大店 開幕優惠（8/6）"|shop="壽司郎"|text="餐廳"|result=0
+title="U士多：足球狂熱 睇波必食（至18/6）"|shop="U士多"|end_date="2024-06-18"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="一粥麵：至抵Deal 指定粉麵+熱飲 $29（逢星期一至三、至1/7）"|shop="一粥麵"|text="餐廳"|result=0
+title="MTR Mobile：宏利MPF 免費港鐵單程車票（8/6、18/6、28/6）"|shop="MTR Mobile / 宏利MPF"|text="非目標商店類型"|result=0
+title="AEON：嘩！心動價！（至30/6）"|shop="AEON"|end_date="2024-06-30"|text="普通特價"|result=0
