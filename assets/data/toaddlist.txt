@@ -75,3 +75,12 @@ title="美心MX：冬瓜盅晚市小菜套餐"|shop="美心MX"|text="餐廳"|res
 title="「六五環境日暨全民回收日」嘉年華（7/6）"|shop="環境保護署"|text="非指定商店類型且無會員或支付門檻"|result=0
 title="Uniqlo：本週優惠（至11/6）"|shop="Uniqlo"|text="服裝店"|result=0
 title="7-Eleven：今期「$10一口價」限時優惠（至16/6）"|shop="7-Eleven"|end_date="2024-06-16"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：今日出位價（7/6）"|shop="萬寧"|start_date="2024-06-07"|end_date="2024-06-07"|text="任何人都可以享受的普通特價"|result=0
+title="惠康超級市場最新優惠（7/6）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻資訊，且通常為一般特價"|result=0
+title="樓上 / 南北行：最新優惠（7/6）"|shop="樓上 / 南北行"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="百佳超級市場最新優惠（7/6）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式資訊"|result=0
+title="韓印紅：最新優惠（7/6）"|shop="韓印紅"|text="缺乏會員或特定支付方式門檻"|result=0
+title="壽司郎 Sushiro：柑橘醋 酸爽開胃隱藏食法"|shop="壽司郎"|text="餐廳"|result=0
+title="A-1 Bakery：沖繩麵包祭典 / 特別版 Pokémon寶可夢 PacPack三文治"|shop="A-1 Bakery"|text="新品推廣及抽獎活動，非會員或特定支付方式專屬優惠"|result=0
+title="大家樂：全新 鐵板餐 - 迷迭香厚切大豬扒‧菠蘿蝦串 / 港式花生醬西多士"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：抵食套餐 / 店長推介（至17/6）"|shop="OK便利店"|end_date="2024-06-17"|text="任何人均可享用的普通特價"|result=0
