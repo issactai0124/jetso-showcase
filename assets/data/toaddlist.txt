@@ -9,3 +9,9 @@ title="大快活：父親節 六人盆菜"|shop="大快活"|text="餐廳"|result
 title="蘇寧 Suning：至抵買 低至33折（至31/7）"|shop="蘇寧"|end_date="2024-07-31"|text="電器店"|result=0
 title="聖安娜：買TABASCO產品 送雪碧茶（至12/6）"|shop="聖安娜"|end_date="2024-06-12"|text="普通特價，非會員或特定支付方式專屬"|result=0
 title="759 阿信屋：今期勁筍推介（至21/6）"|shop="759 阿信屋"|end_date="2024-06-21"|text="普通特價宣傳，無會員或特定支付方式要求"|result=0
+title="BTS WORLD TOUR ‘ARIRANG’ IN HONG KONG 優先訂票/公開發售（9/6起）"|shop="HK Ticketing"|text="不符合商店類型"|result=0
+title="唐記包點：蒸飯換領券 $318/12張"|shop="唐記包點"|text="任何人均可享用的普通特價優惠"|result=0
+title="OK便利店：本週激筍（至14/6）"|shop="OK便利店"|end_date="2024-06-14"|text="普通特價/減價宣傳，無會員或特定支付方式門檻"|result=0
+title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至30/6）"|shop="宜家家居"|text="餐廳、家具店"|result=0
+title="一粥麵：晚市 鮮味冬瓜盅"|shop="一粥麵"|text="餐廳"|result=0
+title="麥當勞：「FIFA世界盃2026」期間限定美食 / 一套6款「傳奇珍藏杯」（9/6起）"|shop="麥當勞"|text="餐廳"|result=0
