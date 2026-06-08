@@ -15,3 +15,4 @@ title="OK便利店：本週激筍（至14/6）"|shop="OK便利店"|end_date="202
 title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至30/6）"|shop="宜家家居"|text="餐廳、家具店"|result=0
 title="一粥麵：晚市 鮮味冬瓜盅"|shop="一粥麵"|text="餐廳"|result=0
 title="麥當勞：「FIFA世界盃2026」期間限定美食 / 一套6款「傳奇珍藏杯」（9/6起）"|shop="麥當勞"|text="餐廳"|result=0
+title="稻香：天天時光倒流 $8、$9、$10 歎點心"|shop="稻香"|text="餐廳"|result=0
