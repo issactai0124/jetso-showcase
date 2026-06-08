@@ -1,0 +1,11 @@
+title="MTR Mobile：港鐵即時賞（8/6）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="萬寧：今日出位價（8/6）"|shop="萬寧"|start_date="2024-06-08"|end_date="2024-06-08"|text="任何人都可以享受的普通特價"|result=0
+title="莎莎：VIP會員限定 全店9折（8/6）"|shop="莎莎"|payment="VIP會員"|rate=0.1|start_date="2024-06-08"|end_date="2024-06-08"|text="莎莎VIP會員於6月8日可享全店9折優惠"|result=1
+title="百佳超級市場最新優惠（8/6）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="7-Eleven：最新優惠（8/6）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="惠康超級市場最新優惠（8/6）"|shop="惠康超級市場"|start_date="2024-06-08"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="KFC：「肯！抵DEAL」6月限時優惠"|shop="KFC"|text="餐廳"|result=0
+title="大快活：父親節 六人盆菜"|shop="大快活"|text="餐廳"|result=0
+title="蘇寧 Suning：至抵買 低至33折（至31/7）"|shop="蘇寧"|end_date="2024-07-31"|text="電器店"|result=0
+title="聖安娜：買TABASCO產品 送雪碧茶（至12/6）"|shop="聖安娜"|end_date="2024-06-12"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="759 阿信屋：今期勁筍推介（至21/6）"|shop="759 阿信屋"|end_date="2024-06-21"|text="普通特價宣傳，無會員或特定支付方式要求"|result=0
