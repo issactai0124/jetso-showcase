@@ -1979,5 +1979,21 @@
         "min_spend": 100,
         "start_date": "2026-04-30",
         "end_date": "2026-05-03"
+    },
+    {
+        "id": "d-aplus_rewards-39100",
+        "shop_ids": [
+            "parknshop"
+        ],
+        "required_payment_ids": [
+            "aplus_rewards"
+        ],
+        "title_zh": "以AlipayHK簽帳滿$200可享9折",
+        "title_en": "10% off upon $200 spending with AlipayHK",
+        "rate": 0.1,
+        "amount": 20,
+        "min_spend": 200,
+        "start_date": "2026-06-01",
+        "end_date": "2026-06-30"
     }
 ]
