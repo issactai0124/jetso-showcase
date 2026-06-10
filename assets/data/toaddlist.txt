@@ -45,3 +45,10 @@ title="太興：父親節限定 極品化皮乳豬"|shop="太興"|text="餐廳"|
 title="龍豐：睇波必備（至14/6）"|shop="龍豐"|end_date="2024-06-14"|text="普通特價，無會員或特定支付方式門檻"|result=0
 title="美心MX：燒春雞鐵板2人餐 $79"|shop="美心MX"|text="餐廳"|result=0
 title="山崎麵包：6月特價の選"|shop="山崎麵包"|text="任何人都可以享受的普通特價"|result=0
+title="奧海城/屯門市廣場/荃新天地：免費全程直播世界盃104場賽事（11/6-19/7）"|shop="奧海城/屯門市廣場/荃新天地"|text="商場活動且任何人均可參與"|result=0
+title="港鐵 MTR：《鐵聲之巔：百萬積分爭奪戰》全民線上挑戰 嬴取百萬MTR分（11-13/6）"|shop="港鐵 MTR"|start_date="2026-06-11"|end_date="2026-06-13"|text="不符合指定商店類型"|result=0
+title="鴻福堂：捱夜打氣 3重賞 低至半價（至12/6）"|shop="鴻福堂"|end_date="2024-06-12"|text="純特價"|result=0
+title="大快活：阿活小菜 - 鴨胸冬瓜燉湯套餐"|shop="大快活"|text="餐廳"|result=0
+title="日本城：全場商品 買4送1"|shop="日本城"|text="任何人都可以享受的普通特價"|result=0
+title="華御結：指定御結 $12（11-12/6、15-17/6）"|shop="華御結"|start_date="2024-06-11"|end_date="2024-06-17"|applicable_days_of_month="11,12,15,16,17"|text="普通特價"|result=0
+title="佳宝食品超級市場：全場貨品8折（11/6起）"|shop="佳宝食品超級市場"|payment="無"|rate=0.2|start_date="2026-06-11"|text="無指定支付方式或會員身份，純粹全場減價"|result=0
