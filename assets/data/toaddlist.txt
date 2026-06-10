@@ -1,2 +1,4 @@
 title="KFC：全新「抵DEAL星期四」"|shop="KFC"|text="餐廳"|result=0
 title="759 阿信屋：全線7折（11-14/6）"|shop="759 阿信屋"|rate=0.3|start_date="2024-06-11"|end_date="2024-06-14"|text="完全排除「任何人」都可以享受的普通特價"|result=0
+title="萬寧：今日出位價（11/6）"|shop="萬寧"|start_date="2024-06-11"|end_date="2024-06-11"|text="任何人都可以享受的普通特價"|result=0
+title="惠康 / 百佳：最新優惠（11/6）"|shop="惠康 / 百佳"|text="沒有門檻的普通特價"|result=0
