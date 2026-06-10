@@ -33,3 +33,15 @@ title="爭鮮迴轉壽司：指定分店 Happy Sushi Day（6月逢星期三）"|
 title="永安百貨：夏季超值大減價 低至3折（10/6-5/7）"|shop="永安百貨"|start_date="2024-06-10"|end_date="2024-07-05"|text="百貨公司"|result=0
 title="ViuTV：免費直播25場「2026美加墨世界盃」賽事（11/6起）"|shop="ViuTV"|text="不符合商店類型且為大眾免費優惠"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（10/6）"|shop="萬寧"|text="普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（10/6）"|shop="MTR"|text="不符合商店類型"|result=0
+title="惠康超級市場最新優惠（10/6）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：yuu會員 三重激賞（10/6）"|shop="萬寧"|payment="yuu會員"|start_date="2024-06-10"|end_date="2024-06-10"|applicable_days_of_month=10|text="yuu會員於6月10日在萬寧購物可享三重激賞優惠"|result=1
+title="7-Eleven：指定店舖 購物滿$100 即享8折（至12/6）"|shop="7-Eleven"|min_spend=100|rate=0.2|start_date="2026-06-10"|end_date="2026-06-12"|text="任何人均可享受的普通特價，不符合會員或特定支付方式門檻"|result=0
+title="崇光百貨：年輕服飾及鞋履配飾展銷 / 國際品牌女士服飾展（至15/6）"|shop="崇光百貨"|end_date="2024-06-15"|text="百貨公司、服裝店"|result=0
+title="759阿信屋：購買啤酒/果酒類產品 滿$88 即減$10（至14/6）"|shop="759阿信屋"|payment="會員"|min_spend=88|amt=10|start_date="2024-06-10"|end_date="2024-06-14"|text="會員購買啤酒/果酒類產品滿$88即減$10"|result=1
+title="一粥麵：即炒系列 "|shop="一粥麵"|text="餐廳"|result=0
+title="百佳超市：用AlipayHK埋單 買$200即減$20（至30/6）"|shop="百佳超市"|payment="AlipayHK"|min_spend=200|rate=0.1|amt=20|start_date="2026-06-01"|end_date="2026-06-30"|text="於百佳超市以AlipayHK掃碼領券，消費滿$200即減$20"|result=1
+title="太興：父親節限定 極品化皮乳豬"|shop="太興"|text="餐廳"|result=0
+title="龍豐：睇波必備（至14/6）"|shop="龍豐"|end_date="2024-06-14"|text="普通特價，無會員或特定支付方式門檻"|result=0
+title="美心MX：燒春雞鐵板2人餐 $79"|shop="美心MX"|text="餐廳"|result=0
+title="山崎麵包：6月特價の選"|shop="山崎麵包"|text="任何人都可以享受的普通特價"|result=0
