@@ -2,3 +2,16 @@ title="KFC：全新「抵DEAL星期四」"|shop="KFC"|text="餐廳"|result=0
 title="759 阿信屋：全線7折（11-14/6）"|shop="759 阿信屋"|rate=0.3|start_date="2024-06-11"|end_date="2024-06-14"|text="完全排除「任何人」都可以享受的普通特價"|result=0
 title="萬寧：今日出位價（11/6）"|shop="萬寧"|start_date="2024-06-11"|end_date="2024-06-11"|text="任何人都可以享受的普通特價"|result=0
 title="惠康 / 百佳：最新優惠（11/6）"|shop="惠康 / 百佳"|text="沒有門檻的普通特價"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（11/6）"|shop="7-Eleven"|start_date="2026-06-11"|end_date="2026-06-12"|text="普通特價/新品推廣，無會員或特定支付方式門檻"|result=0
+title="樓上 / 大棧 / 安記：最新優惠（11/6）"|shop="樓上 / 大棧 / 安記"|text="普通特價或減價宣傳"|result=0
+title="Chateraise：父親節系列原個蛋糕 95折早鳥優惠（至14/6）"|shop="Chateraise"|rate=0.05|start_date="2024-05-30"|end_date="2024-06-14"|text="任何人都可以享受的普通特價"|result=0
+title="八達通：搭港鐵過境 搭6賞1（至2/8）"|shop="港鐵"|payment="八達通App"|end_date="2024-08-02"|text="交通服務"|result=0
+title="A-1 Bakery：全新「法式棒系列」"|shop="A-1 Bakery"|text="不符合會員專屬或特定支付方式要求"|result=0
+title="香港國際旅遊展2026（11-14/6）"|shop="香港國際旅遊展"|payment=""|min_spend=""|rate=""|amt=""|start_date="2026-06-11"|end_date="2026-06-14"|applicable_days_of_week="1,2,3,4"|applicable_days_of_month=""|text="機票"|result=0
+title="多彩皇宮酒樓：燒中豬 $9.9 / 乾炒牛河 $19.8 / 1蚊經典菜式"|shop="多彩皇宮酒樓"|text="餐廳"|result=0
+title="允記：會員夏日感謝祭"|shop="允記"|payment="會員"|text="允記為會員提供的夏日感謝祭優惠，但未提供具體折扣內容、最低消費額、適用日期或時間。"|result=2
+title="OK便利店：「對拼 Super Goal」遊戲 贏取 MacBook Neo（至15/7）"|shop="Circle K"|payment="免費參與"|rate=0|amt=0|start_date="2026-06-11"|end_date="2026-07-15"|text="無消費門檻，任何人均可參與的抽獎活動，不符合嚴格條件"|result=0
+title="大家樂：龍蝦汁焗豬扒飯 / 豆腐花珍珠糯香奶茶"|shop="大家樂"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 機能日常服 享受舒適生活"|shop="Uniqlo"|text="服裝店"|result=0
+title="KFC：新品 「辣蜜蜜！香蜜鬆餅」"|shop="KFC"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至16/6）"|shop="7-Eleven"|payment="yuu 會員"|rate=0|amt=0|start_date="2024-06-10"|end_date="2024-06-16"|text="yuu 會員購買雀巢濃豆樂雪條 買8送1，yuu 會員購買任何維他奶山水豆漿236毫升 買4送1，其他為普通特價，不符合嚴格條件。"|result=0
