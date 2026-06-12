@@ -22,3 +22,18 @@ title="大生生活超市：買滿$168 享88折（12/6）"|shop="大生生活超
 title="千色 Citistore：戶外出遊祭（至8/7）"|shop="千色 Citistore"|end_date="2024-07-08"|text="百貨公司"|result=0
 title="萬寧：全場產品 無門檻88折（12/6）"|shop="萬寧"|payment="銀聯手機Pay或銀聯二維碼"|min_spend=500|amt=40|text="憑銀聯手機Pay或銀聯二維碼於門市單一簽帳淨額滿HK$500或以上即減$40"|result=1
 title="AEON：超級均一價（12/6-5/7）"|shop="AEON"|start_date="2024-06-12"|end_date="2024-07-05"|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（12/6）"|shop="MTR Mobile"|text="不符合商店類型（交通/應用程式獎賞）"|result=0
+title="百佳超級市場最新優惠（12/6）"|shop="百佳超級市場"|text="普通特價、減價宣傳"|result=0
+title="惠康超級市場最新優惠（12/6）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏最新購物優惠（12/6）"|shop="屈臣氏"|min_spend=99|start_date="2026-06-10"|end_date="2026-06-16"|text="任何人均可享受的普通特價或贈品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：周五購物攻略（12/6）"|shop="萬寧"|start_date="2024-12-06"|end_date="2024-12-06"|text="一般特價或減價宣傳"|result=0
+title="阿波羅 Appolo：雪條優惠（至14/6）"|shop="阿波羅 Appolo"|min_spend=28|end_date="2024-06-14"|text="任何人都可以享受的普通特價"|result=0
+title="MOS Café：新商品 和風洋食 明太子意粉"|shop="MOS Café"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至16/6）"|shop="Living Plaza / Daiso Japan"|end_date="2024-06-16"|text="週末優惠且無特定支付方式或會員門檻要求"|result=0
+title="香港太空館：「駿馬之旅．文藝傳承」光影表演（至24/6）"|shop="香港太空館"|text="不符合商店類型（博物館/文化活動）"|result=0
+title="OK便利店： 指定分店 3COINS精選產品發售"|shop="Circle K"|payment="YAICHI TOMO 會員"|rate=0.34|start_date="2024-06-11"|text="YAICHI TOMO 會員於指定 Circle K 購買 3COINS 產品時，於結帳時出示實體或電子會員卡亦可同步享用「與日同價」66 折優惠。"|result=1
+title="AEON：週末勁減（至14/6）"|shop="AEON"|text="此優惠為週末勁減，任何人均可享用，不符合會員專屬或特定支付方式的要求。"|result=0
+title="大家樂：父親節/端午節 樂聚盆菜"|shop="大家樂"|text="餐廳"|result=0
+title="實惠 Pricerite：會員限定 精選產品 低至7折"|shop="Pricerite"|payment="會員"|rate=0.3|start_date=""|end_date=""|text="會員限定精選產品低至7折"|result=1
+title="聖安娜：新口味 斑蘭蛋糕系列"|shop="聖安娜"|text="餐廳"|result=0
+title="海港飲食：端陽、父親節全包宴及套餐（至21/6）"|shop="海港飲食"|text="餐廳"|result=0
