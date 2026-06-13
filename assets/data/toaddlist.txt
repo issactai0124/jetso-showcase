@@ -49,3 +49,8 @@ title="奇華餅家：今期推介（至18/6）"|shop="奇華餅家"|end_date="2
 title="AEON：涼夏冷氣展 第二擊（至30/6）"|shop="AEON"|end_date="2024-06-30"|text="百貨公司及電器優惠"|result=0
 title="聖安娜：日日至抵價（至24/6）"|shop="聖安娜"|end_date="2024-06-24"|text="任何人均可享受的普通特價"|result=0
 title="一田超市：挑戰特價（至18/6）"|shop="一田超市"|end_date="2024-06-18"|text="普通特價，無會員或特定支付方式要求"|result=0
+title="大家樂： 烤雞二人餐 $69"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至23/6）"|shop="7-Eleven"|start_date="2024-06-10"|end_date="2024-06-23"|text="新品推廣且無特定會員或支付方式門檻"|result=0
+title="東海堂：「初夏の甘い味」蜜瓜系列"|shop="東海堂"|payment="Eatizen美心薈會員"|rate=0.1|text="Eatizen美心薈會員專享東海堂蜜瓜系列蛋糕9折優惠"|result=1
+title="百佳超市：低至17折 換購 CICIBELLA 行李箱/旅行用品（至29/10）"|shop="百佳超市"|end_date="2024-10-29"|text="普通換購推廣，非會員或特定支付方式專屬"|result=0
+title="Uniqlo：本週優惠（至17/6）"|shop="Uniqlo"|end_date="2024-06-17"|text="服裝店"|result=0
