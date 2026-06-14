@@ -1,0 +1,10 @@
+title="萬寧：今日出位價（14/6）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（14/6）"|shop="百佳超級市場"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="惠康超級市場最新優惠（14/6）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="A-1 Bakery：父親節蛋糕 85折早鳥優惠（至16/6）"|shop="A-1 Bakery"|rate=0.15|end_date="2024-06-16"|text="任何人均可享有的早鳥優惠"|result=0
+title="DJI：618特惠 最高現省46%（至21/6）"|shop="DJI"|end_date="2024-06-21"|text="電器"|result=0
+title="美心西餅：Kuromi烘焙系列"|shop="美心西餅"|text="任何人都可以享受的新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="恒生銀行：美元新資金 2個月定存年利率5.8%（至30/6）"|shop="恒生銀行"|end_date="2024-06-30"|text="銀行"|result=0
+title="大快活：晚市限定 一人燒肉"|shop="大快活"|text="餐廳"|result=0
+title="OK便利店：會員至抵價（至17/6）"|shop="OK便利店"|payment="OK便利店會員"|end_date="2024-06-17"|text="OK便利店會員可享至抵價優惠至6月17日"|result=1
+title="大家樂：龍蝦汁海鮮焗飯2人餐 $114"|shop="大家樂"|text="餐廳"|result=0
