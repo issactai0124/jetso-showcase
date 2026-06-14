@@ -1995,5 +1995,15 @@
         "min_spend": 200,
         "start_date": "2026-06-01",
         "end_date": "2026-06-30"
+    },
+    {
+        "id": "d-unknown-79512",
+        "shop_ids": [
+            "arome"
+        ],
+        "required_payment_ids": [],
+        "title_zh": "憑Eatizen美心薈會員可享9折",
+        "title_en": "10% off with Eatizen美心薈會員",
+        "rate": 0.1
     }
 ]
