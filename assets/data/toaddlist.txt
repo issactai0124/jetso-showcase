@@ -8,3 +8,5 @@ title="恒生銀行：美元新資金 2個月定存年利率5.8%（至30/6）"|s
 title="大快活：晚市限定 一人燒肉"|shop="大快活"|text="餐廳"|result=0
 title="OK便利店：會員至抵價（至17/6）"|shop="OK便利店"|payment="OK便利店會員"|end_date="2024-06-17"|text="OK便利店會員可享至抵價優惠至6月17日"|result=1
 title="大家樂：龍蝦汁海鮮焗飯2人餐 $114"|shop="大家樂"|text="餐廳"|result=0
+title="龍豐：推廣員駐場限定優惠（15-21/6）"|shop="龍豐"|start_date="2024-06-15"|end_date="2024-06-21"|text="任何人均可享受的推廣員駐場優惠，缺乏會員或特定支付門檻"|result=0
+title="麥當勞App：換購極限量「FIFA 世界盃 2026™」紀念品（15/6起）"|shop="麥當勞"|text="餐廳"|result=0
