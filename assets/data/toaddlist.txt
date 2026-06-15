@@ -21,3 +21,8 @@ title="KFC：「肯！抵DEAL」6月限時優惠"|shop="KFC"|text="餐廳"|resul
 title="大快活：快活關愛長者咭 父親節窩心優惠加碼（至21/6）"|shop="大快活"|payment="快活關愛長者咭"|amt=6|start_date="2026-06-15"|end_date="2026-06-21"|text="餐廳"|result=0
 title="MOS Burger：新商品 夏日沖繩冬甩"|shop="MOS Burger"|text="餐廳"|result=0
 title="元氣壽司：夏の味覚 第二彈（15/6起）"|shop="元氣壽司"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至21/6）"|shop="OK便利店"|end_date="2024-06-21"|text="任何人都可以享受的普通特價"|result=0
+title="麥當勞APP：親子會 父親節禮遇（至21/6）"|shop="麥當勞"|text="餐廳"|result=0
+title="中國人壽：請您食雪糕（16/6、20-21/6）"|shop="中國人壽"|text="任何人均可享用的宣傳活動，不符合會員或特定支付方式要求"|result=0
+title="壽司郎 Sushiro：盛夏百味 第2彈（16/6起）"|shop="壽司郎"|text="餐廳"|result=0
+title="A-1 Bakery：雲朵提拉米蘇 / 足球主題產品"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
