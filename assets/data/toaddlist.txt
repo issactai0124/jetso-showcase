@@ -60,3 +60,9 @@ title="南記粉麵：期間限定 金銀蒜湯米線"|shop="南記粉麵"|text=
 title="7-Eleven：今期「$10一口價」限時優惠（至30/6）"|shop="7-Eleven"|payment="yuu 會員"|end_date="2024-06-30"|text="yuu 會員購買指定牛奶飲品可獲印花，儲齊5個印花即送1件"|result=1
 title="Pepper Lunch：全新 午後の輕食 低至$26"|shop="Pepper Lunch"|text="餐廳"|result=0
 title="六合彩：端午金多寶 $8000萬（18/6）"|shop="六合彩"|text="非優惠貼文 (六合彩)"|result=0
+title="東海堂：端午粽 快閃優惠"|shop="東海堂"|text="普通特價/減價宣傳，無會員或特定支付門檻"|result=0
+title="渣打銀行：新一期 高息馬拉松活期存款 高達3.5%活期存款年利率（至30/6）"|shop="渣打銀行"|text="不符合商店類型（銀行/金融服務）"|result=0
+title="すき家 Sukiya：綿滑焦糖吉士布甸套餐 限時優惠"|shop="すき家 Sukiya"|text="餐廳"|result=0
+title="京東 Mall：香港首店 6月18日開業"|shop="京東MALL"|start_date="2024-06-18"|text="電器及家居店、普通開業優惠"|result=0
+title="大家樂：晚市 冬瓜盅套餐"|shop="大家樂"|text="餐廳"|result=0
+title="大生生活超市：今期精選優惠（至30/6）"|shop="大生生活超市"|end_date="2024-06-30"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
