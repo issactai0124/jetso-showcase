@@ -77,3 +77,6 @@ title="爭鮮：【迷你兵團與大怪獸】聯乘餐點"|shop="爭鮮"|paymen
 title="屈臣氏：買指定舒適達牙膏 送總值高達$990禮品（至23/6）"|shop="屈臣氏"|payment="指定支付方式"|rate=0|amt=0|end_date="2024-06-23"|text="屈臣氏：買指定舒適達牙膏 送總值高達$990禮品（至23/6） - 優惠內容為贈品，非直接折扣，且未明確說明支付方式或會員身份要求，不符合嚴格篩選條件。"|result=0
 title="大生生活超市：快閃優惠（至25/6）"|shop="大生生活超市"|text="不符合會員專屬或特定支付方式要求"|result=0
 title="Uniqlo：優惠專區 - 清爽舒適夏日單品"|shop="Uniqlo"|text="服裝店"|result=0
+title="7-Eleven：本週優惠（至23/6）"|shop="7-Eleven"|end_date="2024-06-23"|text="普通特價，無會員或支付門檻"|result=0
+title="大澳端午龍舟遊涌（至19/6）"|shop="香港大澳傳統龍舟聯合會"|start_date="2026-06-18"|end_date="2026-06-19"|text="非指定商店類型（文化活動）"|result=0
+title="雅芳婷 afontane：年度盤點清貨 低至2折（19/6-1/7）"|shop="雅芳婷"|rate=0.8|start_date="2024-06-19"|end_date="2024-07-01"|text="家具店及普通特價"|result=0
