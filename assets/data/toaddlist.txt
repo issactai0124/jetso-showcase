@@ -66,3 +66,14 @@ title="すき家 Sukiya：綿滑焦糖吉士布甸套餐 限時優惠"|shop="す
 title="京東 Mall：香港首店 6月18日開業"|shop="京東MALL"|start_date="2024-06-18"|text="電器及家居店、普通開業優惠"|result=0
 title="大家樂：晚市 冬瓜盅套餐"|shop="大家樂"|text="餐廳"|result=0
 title="大生生活超市：今期精選優惠（至30/6）"|shop="大生生活超市"|end_date="2024-06-30"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="莎莎：獨家獎賞日（18/6）"|shop="莎莎"|payment="會員"|start_date="2024-06-18"|end_date="2024-06-18"|applicable_days_of_month=18|text="6月18日莎莎會員獨家獎賞日優惠"|result=1
+title="百佳超級市場最新優惠（18/6）"|shop="百佳超級市場"|text="沒有指定支付方式或會員要求"|result=0
+title="惠康超級市場最新優惠（18/6）"|shop="惠康超級市場"|text="不符合會員專屬或特定支付方式要求"|result=0
+title="樓上：最新優惠（18/6）"|shop="樓上"|text="不符合商店類型"|result=0
+title="KFC：全新早餐「晨級松露蛋系列」"|shop="KFC"|text="餐廳"|result=0
+title="大家樂APP：八達通茶市優惠券（18/6）"|shop="大家樂"|payment="八達通"|min_spend=40|amt=15|start_date="2026-06-18"|end_date="2026-06-24"|applicable_days_of_month="18"|text="6月18日於大家樂APP領取八達通專享茶市優惠券，憑券於茶市惠顧滿$40，並以八達通全數付款，即可以$10換購脆炸雞髀（價值$25）。優惠券領取只限2026年6月18日，優惠券有效日期為2026年6月18日至24日。"|result=0
+title="BigC：今期精選品牌推介（至30/6）"|shop="BigC"|text="不符合商店類型"|result=0
+title="爭鮮：【迷你兵團與大怪獸】聯乘餐點"|shop="爭鮮"|payment=""|min_spend=""|rate=""|amt=""|start_date="2026-06-18"|end_date="2027-07-31"|applicable_days_of_week=""|applicable_days_of_month=""|text="餐廳"|result=0
+title="屈臣氏：買指定舒適達牙膏 送總值高達$990禮品（至23/6）"|shop="屈臣氏"|payment="指定支付方式"|rate=0|amt=0|end_date="2024-06-23"|text="屈臣氏：買指定舒適達牙膏 送總值高達$990禮品（至23/6） - 優惠內容為贈品，非直接折扣，且未明確說明支付方式或會員身份要求，不符合嚴格篩選條件。"|result=0
+title="大生生活超市：快閃優惠（至25/6）"|shop="大生生活超市"|text="不符合會員專屬或特定支付方式要求"|result=0
+title="Uniqlo：優惠專區 - 清爽舒適夏日單品"|shop="Uniqlo"|text="服裝店"|result=0
