@@ -80,3 +80,4 @@ title="Uniqlo：優惠專區 - 清爽舒適夏日單品"|shop="Uniqlo"|text="服
 title="7-Eleven：本週優惠（至23/6）"|shop="7-Eleven"|end_date="2024-06-23"|text="普通特價，無會員或支付門檻"|result=0
 title="大澳端午龍舟遊涌（至19/6）"|shop="香港大澳傳統龍舟聯合會"|start_date="2026-06-18"|end_date="2026-06-19"|text="非指定商店類型（文化活動）"|result=0
 title="雅芳婷 afontane：年度盤點清貨 低至2折（19/6-1/7）"|shop="雅芳婷"|rate=0.8|start_date="2024-06-19"|end_date="2024-07-01"|text="家具店及普通特價"|result=0
+title="AEON：人氣角色大召集 / 越南節（至1/7）"|shop="AEON"|end_date="2024-07-01"|text="百貨公司及普通特價宣傳"|result=0
