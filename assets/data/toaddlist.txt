@@ -99,3 +99,7 @@ title="榮華：父親節優惠 全店8折（至21/6）"|shop="榮華"|text="任
 title="永明香港國際龍舟節2026（至1/7）"|shop="永明香港國際龍舟節"|end_date="2026-07-01"|text="不符合商店類型 (活動/節日)"|result=0
 title="大家樂：茶市 經典港式組合 碗仔翅 拼 咖喱三寶"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：5天限定（至23/6）"|shop="7-Eleven"|payment="yuu 會員"|rate=0.1667|end_date="2026-08-11"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
+title="麥當勞：首次推出 貓山王xD24雙重榴槤新地 @甜品站"|shop="麥當勞"|text="餐廳"|result=0
+title="U士多：足球狂熱 睇波必食（至2/7）"|shop="U士多"|end_date="2024-07-02"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：父親節長者雙重賞（20-21/6）"|shop="大家樂"|payment="長者會員/長者咭/樂悠咭/長者八達通"|min_spend=40|amt=4|start_date="2026-06-20"|end_date="2026-06-21"|text="餐廳"|result=0
+title="優品360：最新優惠（2/7）"|shop="優品360"|text="普通特價或缺乏會員/特定支付門檻"|result=0
