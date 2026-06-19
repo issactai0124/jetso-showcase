@@ -81,3 +81,21 @@ title="7-Eleven：本週優惠（至23/6）"|shop="7-Eleven"|end_date="2024-06-2
 title="大澳端午龍舟遊涌（至19/6）"|shop="香港大澳傳統龍舟聯合會"|start_date="2026-06-18"|end_date="2026-06-19"|text="非指定商店類型（文化活動）"|result=0
 title="雅芳婷 afontane：年度盤點清貨 低至2折（19/6-1/7）"|shop="雅芳婷"|rate=0.8|start_date="2024-06-19"|end_date="2024-07-01"|text="家具店及普通特價"|result=0
 title="AEON：人氣角色大召集 / 越南節（至1/7）"|shop="AEON"|end_date="2024-07-01"|text="百貨公司及普通特價宣傳"|result=0
+title="MTR Mobile：港鐵即時賞（19/6）"|shop="MTR"|payment="MTR Mobile 會員"|text="不符合商店類型"|result=0
+title="7-Eleven：夏日限定 蜜瓜味新地 / 買1送1（逢星期五）"|shop="7-Eleven"|start_date="2026-06-17"|applicable_days_of_week=5|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="百佳超級市場最新優惠（19/6）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（19/6）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="屈臣氏最新購物優惠（19/6）"|shop="屈臣氏"|text="缺乏具體優惠內容，未能確認會員或特定支付門檻"|result=0
+title="萬寧：周五購物攻略（19/6）"|shop="萬寧"|text="任何人都可以享受的普通特價/週末優惠"|result=0
+title="A-1 Bakery：指定分店 免費試食 裸麥提子合桃包（19/6）"|shop="A-1 Bakery"|text="一般推廣活動及免費試食，非會員專屬優惠"|result=0
+title="Cottex：所有貨品折扣後 再88折（至21/6）"|shop="Cottex"|rate=0.12|start_date="2024-06-19"|end_date="2024-06-21"|text="家具店且為一般減價"|result=0
+title="阿波羅 Appolo：Magic Cone / Pari Cone 週末優惠（至21/6）"|shop="阿波羅 Appolo"|end_date="2024-06-21"|text="任何人均可享用的普通特價優惠"|result=0
+title="香港街市：2026街市足球盛事直播 / 睇好波羸巨獎（至19/7）"|shop="香港街市"|text="餐廳、小店、任何人均可參與的普通推廣"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至22/6）"|shop="Living Plaza / Daiso Japan"|end_date="2024-06-22"|text="週末優惠且無會員或特定支付門檻"|result=0
+title="爭鮮迴轉壽司：父の日限定優惠（至21/6）"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="AEON：感謝日（至22/6）"|shop="AEON"|payment="AEON會員/信用卡"|rate=0.05|end_date="2024-06-22"|text="AEON會員於感謝日可享5%優惠"|result=1
+title="吉野家：全新「滿腹極上定食料理」系列"|shop="吉野家"|payment="吉野家族 APP 會員"|amt=5|text="餐廳"|result=0
+title="榮華：父親節優惠 全店8折（至21/6）"|shop="榮華"|text="任何人均可享有的普通特價"|result=0
+title="永明香港國際龍舟節2026（至1/7）"|shop="永明香港國際龍舟節"|end_date="2026-07-01"|text="不符合商店類型 (活動/節日)"|result=0
+title="大家樂：茶市 經典港式組合 碗仔翅 拼 咖喱三寶"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至23/6）"|shop="7-Eleven"|payment="yuu 會員"|rate=0.1667|end_date="2026-08-11"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
