@@ -103,3 +103,10 @@ title="麥當勞：首次推出 貓山王xD24雙重榴槤新地 @甜品站"|shop
 title="U士多：足球狂熱 睇波必食（至2/7）"|shop="U士多"|end_date="2024-07-02"|text="任何人都可以享受的普通特價"|result=0
 title="大家樂：父親節長者雙重賞（20-21/6）"|shop="大家樂"|payment="長者會員/長者咭/樂悠咭/長者八達通"|min_spend=40|amt=4|start_date="2026-06-20"|end_date="2026-06-21"|text="餐廳"|result=0
 title="優品360：最新優惠（2/7）"|shop="優品360"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="萬寧：今日出位價（20/6）"|shop="萬寧"|start_date="2024-06-20"|end_date="2024-06-20"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（20/6）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（20/6）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="奇華餅家：今期推介（至25/6）"|shop="奇華餅家"|end_date="2024-06-25"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="7-Eleven：全新一期 yuu印花獎賞（至11/8）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-08-11"|text="yuu會員於7-Eleven可享yuu印花獎賞"|result=1
+title="一粥麵：全新 鮮味冬瓜盅午市套餐"|shop="一粥麵"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至25/6）"|shop="一田超市"|end_date="2024-06-25"|text="普通特價"|result=0
