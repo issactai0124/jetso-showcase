@@ -110,3 +110,7 @@ title="奇華餅家：今期推介（至25/6）"|shop="奇華餅家"|end_date="2
 title="7-Eleven：全新一期 yuu印花獎賞（至11/8）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-08-11"|text="yuu會員於7-Eleven可享yuu印花獎賞"|result=1
 title="一粥麵：全新 鮮味冬瓜盅午市套餐"|shop="一粥麵"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至25/6）"|shop="一田超市"|end_date="2024-06-25"|text="普通特價"|result=0
+title="南記粉麵：網單快閃 9折優惠（至21/6）"|shop="南記粉麵"|text="餐廳"|result=0
+title="荃灣區防災應急嘉年華（21/6）"|shop="荃灣區防災應急嘉年華"|text="不符合商店類型（社區活動/嘉年華）"|result=0
+title="大家樂：網購 鐵板二人餐券 $150（至27/7）"|shop="大家樂"|text="餐廳"|result=0
+title="Uniqlo：本週優惠（至25/6）"|shop="Uniqlo"|end_date="2024-06-25"|text="服裝店"|result=0
