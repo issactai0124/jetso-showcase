@@ -114,3 +114,11 @@ title="南記粉麵：網單快閃 9折優惠（至21/6）"|shop="南記粉麵"|
 title="荃灣區防災應急嘉年華（21/6）"|shop="荃灣區防災應急嘉年華"|text="不符合商店類型（社區活動/嘉年華）"|result=0
 title="大家樂：網購 鐵板二人餐券 $150（至27/7）"|shop="大家樂"|text="餐廳"|result=0
 title="Uniqlo：本週優惠（至25/6）"|shop="Uniqlo"|end_date="2024-06-25"|text="服裝店"|result=0
+title="萬寧：今日出位價（21/6）"|shop="萬寧"|start_date="2024-06-21"|end_date="2024-06-21"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（21/6）"|shop="百佳超級市場"|start_date="2024-06-21"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（21/6）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="一粥麵：晚市 消費滿$70 送紅豆沙（至21/6）"|shop="一粥麵"|text="餐廳"|result=0
+title="爭鮮：「迷你兵團與大怪獸」周邊商品"|shop="爭鮮"|min_spend=80|start_date="2026-06-18"|end_date="2026-07-31"|text="餐廳且不具備會員或特定支付門檻"|result=0
+title="大家樂：新登場 香茅「越」好味系列"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：抵食套餐 / 店長推介 / 震撼價（至1/7）"|shop="OK便利店"|end_date="2024-07-01"|text="任何人都可以享受的普通特價"|result=0
+title="美心西餅：三眼仔檸檬包"|shop="美心西餅"|amt=2|rate=0.15|start_date="2026-06-18"|end_date="2026-07-16"|text="普通特價、減價宣傳 (無會員或特定支付要求)"|result=0
