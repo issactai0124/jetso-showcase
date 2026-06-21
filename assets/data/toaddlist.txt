@@ -122,3 +122,5 @@ title="爭鮮：「迷你兵團與大怪獸」周邊商品"|shop="爭鮮"|min_sp
 title="大家樂：新登場 香茅「越」好味系列"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：抵食套餐 / 店長推介 / 震撼價（至1/7）"|shop="OK便利店"|end_date="2024-07-01"|text="任何人都可以享受的普通特價"|result=0
 title="美心西餅：三眼仔檸檬包"|shop="美心西餅"|amt=2|rate=0.15|start_date="2026-06-18"|end_date="2026-07-16"|text="普通特價、減價宣傳 (無會員或特定支付要求)"|result=0
+title="龍豐：推廣員駐場限定優惠（22-28/6）"|shop="龍豐"|start_date="2024-06-22"|end_date="2024-06-28"|text="普通特價/推廣活動"|result=0
+title="yuu：KFC 指定套餐 買1送1（22/6、25/6）"|shop="KFC"|payment="yuu會員"|text="餐廳"|result=0
