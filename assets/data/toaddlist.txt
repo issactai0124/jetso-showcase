@@ -124,3 +124,13 @@ title="OK便利店：抵食套餐 / 店長推介 / 震撼價（至1/7）"|shop="
 title="美心西餅：三眼仔檸檬包"|shop="美心西餅"|amt=2|rate=0.15|start_date="2026-06-18"|end_date="2026-07-16"|text="普通特價、減價宣傳 (無會員或特定支付要求)"|result=0
 title="龍豐：推廣員駐場限定優惠（22-28/6）"|shop="龍豐"|start_date="2024-06-22"|end_date="2024-06-28"|text="普通特價/推廣活動"|result=0
 title="yuu：KFC 指定套餐 買1送1（22/6、25/6）"|shop="KFC"|payment="yuu會員"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（19/6）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（22/6）"|shop="百佳超級市場"|start_date="2024-06-22"|text="缺乏會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（22/6）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式資訊"|result=0
+title="7-Eleven：最新優惠（至26/6）"|shop="7-Eleven"|end_date="2024-06-26"|text="任何人都可以享受的普通特價"|result=0
+title="一粥麵：至抵Deal 指定粉麵+熱飲 $29（逢星期一至三、至1/7）"|shop="一粥麵"|text="餐廳"|result=0
+title="壽司郎 Sushiro：外賣自取優惠（至25/6）"|shop="壽司郎"|text="餐廳"|result=0
+title="MOS Cafe：全新升級沙律"|shop="MOS Cafe"|text="餐廳"|result=0
+title="譚仔三哥米線：必試價小食（至28/6）"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至5/7）"|shop="759 阿信屋"|end_date="2024-07-05"|text="任何人都可以享受的普通特價"|result=0
+title="元気寿司：網購快閃優惠 特上嚴選壽司盛 75折（至26/6）"|shop="元気寿司"|text="餐廳"|result=0
