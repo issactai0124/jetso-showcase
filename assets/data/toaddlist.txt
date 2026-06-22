@@ -134,3 +134,6 @@ title="MOS Cafe：全新升級沙律"|shop="MOS Cafe"|text="餐廳"|result=0
 title="譚仔三哥米線：必試價小食（至28/6）"|shop="譚仔三哥米線"|text="餐廳"|result=0
 title="759 阿信屋：今期勁筍推介（至5/7）"|shop="759 阿信屋"|end_date="2024-07-05"|text="任何人都可以享受的普通特價"|result=0
 title="元気寿司：網購快閃優惠 特上嚴選壽司盛 75折（至26/6）"|shop="元気寿司"|text="餐廳"|result=0
+title="OK 便利店：本週激筍（至28/6）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
+title="明星海鮮酒家：6月份晚飯優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
+title="麥當勞：全新「滋味分享盒」"|shop="麥當勞"|text="餐廳"|result=0
