@@ -137,3 +137,14 @@ title="元気寿司：網購快閃優惠 特上嚴選壽司盛 75折（至26/6�
 title="OK 便利店：本週激筍（至28/6）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
 title="明星海鮮酒家：6月份晚飯優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
 title="麥當勞：全新「滋味分享盒」"|shop="麥當勞"|text="餐廳"|result=0
+title="萬寧 / 屈臣氏：最新優惠（23/6）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-06-23"|end_date="2024-06-23"|text="易賞錢會員於屈臣氏品牌日購買指定產品可享額外88折，滿$60送$20電子現金券"|result=1
+title="大家樂：會員開心星期二 四重芝士焗肉醬意粉＋港式咖喱 $99（23/6）"|shop="大家樂"|text="餐廳"|result=0
+title="惠康超級市場最新優惠（23/6）"|shop="惠康超級市場"|start_date="2024-06-23"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="錢大媽：大角咀中美樓店開業 免費送菜（至24/6）"|shop="錢大媽"|text="任何人都可以享受的開業推廣"|result=0
+title="美心MX：長者全日8折（至28/6）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|rate=0.2|start_date="2024-06-23"|end_date="2024-06-28"|text="餐廳"|result=0
+title="759 阿信屋：勁抵價（至24/6）"|shop="759 阿信屋"|end_date="2024-06-24"|text="普通特價，無會員或特定支付門檻"|result=0
+title="元氣壽司：《我的英雄學院》限定餐目及禮品"|shop="元氣壽司"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至29/6）"|shop="龍豐"|end_date="2024-06-29"|text="任何人都可以享受的普通特價"|result=0
+title="東海堂：新登場 亞麻籽燕麥包"|shop="東海堂"|text="新品推廣且非會員或特定支付優惠"|result=0
+title="莎莎：化妝品最新優惠（至13/7）"|shop="莎莎"|end_date="2024-07-13"|text="普通特價或減價宣傳，非會員或特定支付方式專屬"|result=0
+title="稻香：早D開飯"|shop="稻香"|text="餐廳"|result=0
