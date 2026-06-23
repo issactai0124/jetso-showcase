@@ -148,3 +148,7 @@ title="龍豐：每週至抵「豐搶價」 （至29/6）"|shop="龍豐"|end_dat
 title="東海堂：新登場 亞麻籽燕麥包"|shop="東海堂"|text="新品推廣且非會員或特定支付優惠"|result=0
 title="莎莎：化妝品最新優惠（至13/7）"|shop="莎莎"|end_date="2024-07-13"|text="普通特價或減價宣傳，非會員或特定支付方式專屬"|result=0
 title="稻香：早D開飯"|shop="稻香"|text="餐廳"|result=0
+title="休閒服飾及家品開倉（24-29/6）"|shop="休閒服飾及家品開倉"|start_date="2024-06-24"|end_date="2024-06-29"|text="服裝店、家具店"|result=0
+title="佳宝食品超級市場：全場貨品8折（至28/6）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-06-11"|end_date="2026-06-28"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="意粉屋 The Spaghetti House：全線全日主餐牌 單點8折（24-30/6）"|shop="意粉屋"|rate=0.2|start_date="2024-06-24"|end_date="2024-06-30"|text="餐廳"|result=0
+title="AEON：周三新鮮日（24/6）"|shop="AEON"|text="任何人都可以享受的普通特價"|result=0
