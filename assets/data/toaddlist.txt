@@ -1,0 +1,4 @@
+title="Häagen-Dazs﻿：外賣雙球雪糕 買1送1（至28/6）"|shop="Häagen-Dazs"|start_date="2024-06-23"|end_date="2024-06-28"|text="任何人均可享受的普通特價"|result=0
+title="廚具小家電開倉 2折起（24/6-5/7）"|shop="廚具小家電開倉"|start_date="2024-06-24"|end_date="2024-07-05"|text="電器及一般減價宣傳"|result=0
+title="OK便利店：5天狂減（24-28/6）/ 雪糕75折（24-26/6）"|shop="OK便利店"|start_date="2024-06-24"|end_date="2024-06-28"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（24/6）"|shop="萬寧"|text="普通特價/減價宣傳"|result=0
