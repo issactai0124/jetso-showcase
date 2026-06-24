@@ -15,3 +15,5 @@ title="昂坪360：本地居民限定 水晶+標準纜車日間套票 半價優�
 title="聖安娜：全新「斑蘭瑞士卷」"|shop="聖安娜"|text="新品推廣/普通特價"|result=0
 title="港島香格里拉：cafe TOO 快閃優惠 - 買1送1/買2送2/買2送1（至26/6）"|shop="cafe TOO"|text="餐廳"|result=0
 title="大家樂：茶市 番茄濃湯香酥豬扒腸仔鳥冬 + 飲品 $31"|shop="大家樂"|text="餐廳"|result=0
+title="日本城：全場買滿$120 即享精選家品71折"|shop="日本城"|min_spend=120|rate=0.29|text="家具店且非會員或特定支付方式專屬優惠"|result=0
+title="KFC：全新【肯！超值茶餐】$20"|shop="KFC"|text="餐廳"|result=0
