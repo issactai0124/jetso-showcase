@@ -17,3 +17,14 @@ title="港島香格里拉：cafe TOO 快閃優惠 - 買1送1/買2送2/買2送1�
 title="大家樂：茶市 番茄濃湯香酥豬扒腸仔鳥冬 + 飲品 $31"|shop="大家樂"|text="餐廳"|result=0
 title="日本城：全場買滿$120 即享精選家品71折"|shop="日本城"|min_spend=120|rate=0.29|text="家具店且非會員或特定支付方式專屬優惠"|result=0
 title="KFC：全新【肯！超值茶餐】$20"|shop="KFC"|text="餐廳"|result=0
+title="惠康 / 百佳：最新優惠（25/6）"|shop="惠康 / 百佳"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（25/6）"|shop="7-Eleven"|start_date="2026-06-25"|end_date="2026-06-25"|text="任何人均可享用的普通特價"|result=0
+title="樓上 / 大棧：最新優惠（25/6）"|shop="樓上 / 大棧"|text="缺乏具體優惠詳情及會員/支付方式門檻資訊"|result=0
+title="一粥麵：全新 超值港式早餐"|shop="一粥麵"|text="餐廳"|result=0
+title="yuu：KFC 指定套餐 買1送1（22/6、25/6）"|shop="KFC"|text="餐廳"|result=0
+title="大家樂：超值家餸 原隻足一斤醬香雞 $50 "|shop="大家樂"|text="餐廳"|result=0
+title="卡撒天嬌 Casablanca：夏日感謝祭（至5/7）"|shop="卡撒天嬌 Casablanca"|text="家具店"|result=0
+title="燒肉LIKE：澳洲和牛肩三角三重套餐"|shop="燒肉LIKE"|text="餐廳"|result=0
+title="華御結：App會員 電子優惠券套裝 $98/7張"|shop="華御結"|payment="App會員"|min_spend=98|text="App會員可享$98購買7張電子優惠券套裝"|result=1
+title="奇華餅家：迪士尼小熊維尼系列 / 香港手信系列"|shop="奇華餅家"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="Uniqlo：優惠專區 - 活力機能夏日 盛夏好物節"|shop="Uniqlo"|text="服裝店"|result=0
