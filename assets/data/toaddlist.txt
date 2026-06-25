@@ -28,3 +28,8 @@ title="燒肉LIKE：澳洲和牛肩三角三重套餐"|shop="燒肉LIKE"|text="�
 title="華御結：App會員 電子優惠券套裝 $98/7張"|shop="華御結"|payment="App會員"|min_spend=98|text="App會員可享$98購買7張電子優惠券套裝"|result=1
 title="奇華餅家：迪士尼小熊維尼系列 / 香港手信系列"|shop="奇華餅家"|text="新品推廣且無特定支付或會員門檻"|result=0
 title="Uniqlo：優惠專區 - 活力機能夏日 盛夏好物節"|shop="Uniqlo"|text="服裝店"|result=0
+title="聖安娜：新登場 日式超軟口袋三文治(SKIPPY花生醬系列)"|shop="聖安娜"|min_spend=18|text="任何人均可享用的普通特價"|result=0
+title="千色店 / APITA / UNY：低至23折 換購 美亞廚具 迪士尼皮克斯反斗奇兵廚具產品（至13/9）"|shop="千色店 / APITA / UNY"|end_date="2024-09-13"|text="百貨公司"|result=0
+title="7-Eleven：本週優惠（至30/6）"|shop="7-Eleven"|end_date="2024-06-30"|text="任何人都可以享受的普通特價"|result=0
+title="工展會購物節 震撼賞（26-29/6）"|shop="工展會"|start_date="2024-06-26"|end_date="2024-06-29"|text="展覽會且為一般減價推廣"|result=0
+title="大家樂：晚市 冬瓜盅2人餐 $99（27/6-1/7）"|shop="大家樂"|text="餐廳"|result=0
