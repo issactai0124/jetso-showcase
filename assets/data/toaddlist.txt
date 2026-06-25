@@ -35,3 +35,6 @@ title="工展會購物節 震撼賞（26-29/6）"|shop="工展會"|start_date="2
 title="大家樂：晚市 冬瓜盅2人餐 $99（27/6-1/7）"|shop="大家樂"|text="餐廳"|result=0
 title="萬寧：指定門市 全場購物滿$188 即享88折（26/6）"|shop="萬寧"|min_spend=188|rate=0.12|start_date="2026-06-26"|end_date="2026-06-26"|text="任何人均可享受的普通特價"|result=0
 title="AEON：年中大激賞（26-28/6）"|shop="AEON"|start_date="2024-06-26"|end_date="2024-06-28"|text="百貨公司及普通特價宣傳"|result=0
+title="MTR Mobile：港鐵即時賞（26/6）"|shop="MTR"|text="非指定商店類型"|result=0
+title="百佳超級市場最新優惠（26/6）"|shop="百佳超級市場"|start_date="2024-06-26"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（26/6）"|shop="惠康超級市場"|start_date="2024-06-26"|text="缺乏會員或特定支付方式門檻"|result=0
