@@ -49,3 +49,5 @@ title="759 阿信屋：今期急凍冷凍精選（至5/7）"|shop="759 阿信屋
 title="7-Eleven：5天限定（至30/6）"|shop="7-Eleven"|payment="yuu 會員"|end_date="2026-08-11"|text="yuu 會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
 title="馬拉松 Marathon Sports：免費「睇波打氣包」（27/6、4/7、11/7、18/7）"|shop="馬拉松"|text="服裝店/體育用品店"|result=0
 title="萬寧 Mannings：回收藥物計劃（至23/7）"|shop="萬寧"|end_date="2024-07-23"|text="任何人均可參與，非會員或特定支付優惠"|result=0
+title="聖安娜：日日至抵價（至8/7）"|shop="聖安娜"|text="任何人都可以享受的普通特價"|result=0
+title="麥當勞App：$46四道菜套餐（至30/6）"|shop="麥當勞"|text="餐廳"|result=0
