@@ -51,3 +51,4 @@ title="馬拉松 Marathon Sports：免費「睇波打氣包」（27/6、4/7、11
 title="萬寧 Mannings：回收藥物計劃（至23/7）"|shop="萬寧"|end_date="2024-07-23"|text="任何人均可參與，非會員或特定支付優惠"|result=0
 title="聖安娜：日日至抵價（至8/7）"|shop="聖安娜"|text="任何人都可以享受的普通特價"|result=0
 title="麥當勞App：$46四道菜套餐（至30/6）"|shop="麥當勞"|text="餐廳"|result=0
+title="KFC：肯！抵DEAL 限時加碼（27-30/6）"|shop="KFC"|text="餐廳"|result=0
