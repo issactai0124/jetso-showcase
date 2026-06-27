@@ -10,3 +10,4 @@ title="文具佬生活百貨：全店折實滿$88 即享88折（至28/6）"|shop
 title="東海堂：新登場 英式鬆餅"|shop="東海堂"|text="新品推廣且無特定支付方式或會員門檻"|result=0
 title="Big C﻿：購物滿$88 全單享88折（至28/6）"|shop="Big C"|min_spend=88|rate=0.12|end_date="2024-06-28"|text="任何人均可享用的普通特價（無會員或特定支付要求）"|result=0
 title="Uniqlo：本週優惠（至2/7）"|shop="Uniqlo"|text="服裝店"|result=0
+title="一粥麵：外賣快閃優惠（29-30/6）"|shop="一粥麵"|text="餐廳"|result=0
