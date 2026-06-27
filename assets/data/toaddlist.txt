@@ -1,0 +1,7 @@
+title="萬寧：最新優惠（27/6）"|shop="萬寧"|start_date="2024-06-27"|end_date="2024-06-27"|text="普通特價/減價宣傳"|result=0
+title="百佳超級市場最新優惠（27/6）"|shop="百佳超級市場"|text="普通特價/缺乏會員或特定支付門檻"|result=0
+title="惠康超級市場最新優惠（27/6）"|shop="惠康超級市場"|start_date="2024-06-27"|text="缺乏會員或特定支付方式門檻"|result=0
+title="GU：本週優惠（至2/7）"|shop="GU"|end_date="2024-07-02"|text="服裝店"|result=0
+title="美心MX：茶市加推 魚湯米線系列"|shop="美心MX"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至7/7）"|shop="7-Eleven"|start_date="2024-06-24"|end_date="2024-07-07"|text="新品推廣"|result=0
+title="EW Eikowada：Summer Sale"|shop="EW Eikowada"|text="服裝店"|result=0
