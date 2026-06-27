@@ -5,3 +5,8 @@ title="GU：本週優惠（至2/7）"|shop="GU"|end_date="2024-07-02"|text="服�
 title="美心MX：茶市加推 魚湯米線系列"|shop="美心MX"|text="餐廳"|result=0
 title="7-Eleven：7仔預購網店 今期精品（至7/7）"|shop="7-Eleven"|start_date="2024-06-24"|end_date="2024-07-07"|text="新品推廣"|result=0
 title="EW Eikowada：Summer Sale"|shop="EW Eikowada"|text="服裝店"|result=0
+title="一田超市：挑戰特價（至2/7）"|shop="一田超市"|end_date="2024-07-02"|text="普通特價，無會員或特定支付要求"|result=0
+title="文具佬生活百貨：全店折實滿$88 即享88折（至28/6）"|shop="文具佬生活百貨"|min_spend=88|rate=0.12|end_date="2024-06-28"|text="商店類型不符及非會員/特定支付優惠"|result=0
+title="東海堂：新登場 英式鬆餅"|shop="東海堂"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="Big C﻿：購物滿$88 全單享88折（至28/6）"|shop="Big C"|min_spend=88|rate=0.12|end_date="2024-06-28"|text="任何人均可享用的普通特價（無會員或特定支付要求）"|result=0
+title="Uniqlo：本週優惠（至2/7）"|shop="Uniqlo"|text="服裝店"|result=0
