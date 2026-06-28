@@ -20,3 +20,8 @@ title="宜家家居 IKEA： 買滿$188 送FABLER BJÖRN球衣一套（至30/6）
 title="榮華：試爐月餅"|shop="榮華"|text="普通特價或新品推廣，無會員或特定支付門檻"|result=0
 title="bossini：7.1限定禮遇 全店貨品 再7折（至1/7）"|shop="bossini"|text="服裝店"|result=0
 title="OK便利店：會員至抵價 / 解渴至COOL價 / 啤酒 買1送1（至1/7）"|shop="OK便利店"|payment="會員"|end_date="2024-07-01"|text="OK便利店會員至抵價優惠"|result=1
+title="譚仔三十周年美食巡禮展（29/6-1/7）"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="龍豐：推廣員駐場限定優惠（29/6-5/7）"|shop="龍豐"|start_date="2024-06-29"|end_date="2024-07-05"|text="任何人均可享受的普通特價/推廣優惠"|result=0
+title="大快活：晚市 冬瓜燉湯滋味二人餐 $99（至5/7）"|shop="大快活"|text="餐廳"|result=0
+title="MTR Mobile ：港鐵商場「一Click即搶」電子優惠券（26/9）"|shop="港鐵商場"|text="百貨公司/商場"|result=0
+title="佳宝食品超級市場：週週佳驚喜（29/6-2/7）"|shop="佳宝食品超級市場"|start_date="2024-06-29"|end_date="2024-07-02"|text="普通特價/無門檻"|result=0
