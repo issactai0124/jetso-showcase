@@ -10,3 +10,9 @@ title="恒香老餅家：中秋月餅 早鳥優惠 低至48折"|shop="恒香老�
 title="TONYMOLY ：夏季大減價 低至3折（至3/7）"|shop="TONYMOLY"|rate=0.7|start_date="2026-06-27"|end_date="2026-07-03"|text="任何人都可以享受的普通特價"|result=0
 title="恒生信用卡：酒店自助餐 買1送1 / $1 +FUN DOLLAR優惠（至30/9）"|shop="酒店自助餐"|payment="恒生信用卡"|end_date="2024-09-30"|text="餐廳"|result=0
 title="太興集團：15大品牌 感謝日 全日堂食71折（1/7）"|shop="太興集團"|text="餐廳"|result=0
+title="譚詠麟與您「刻骨銘心」世界巡迴演唱會 – 終極篇 (香港站) 門票公開發售（30/6起）"|shop="城市售票網"|text="不符合商店類型及為公開發售"|result=0
+title="AEON：Mono Mono筲箕灣店 開幕優惠（30/6-12/7）"|shop="AEON Mono Mono"|start_date="2024-06-30"|end_date="2024-07-12"|text="任何人都可以享受的普通特價/開幕優惠"|result=0
+title="意粉屋 The Spaghetti House：意粉/薄餅  全日一律 71折（至5/7）"|shop="意粉屋"|rate=0.29|start_date="2024-06-29"|end_date="2024-07-05"|text="餐廳"|result=0
+title="六合彩：估計頭獎基金 $3900萬（30/6）"|shop="香港賽馬會"|text="非指定商店類型"|result=0
+title="OK 便利店：本週激筍（至5/7）"|shop="OK 便利店"|end_date="2024-07-05"|text="普通特價宣傳，非會員或特定支付方式專屬"|result=0
+title="慶祝香港特區成立29周年 7.1優惠一覽 - 公共交通/文化藝術消閒"|text="公共交通/文化藝術消閒"|result=0
