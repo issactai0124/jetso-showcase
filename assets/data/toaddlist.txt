@@ -18,3 +18,11 @@ title="OK 便利店：本週激筍（至5/7）"|shop="OK 便利店"|end_date="20
 title="慶祝香港特區成立29周年 7.1優惠一覽 - 公共交通/文化藝術消閒"|text="公共交通/文化藝術消閒"|result=0
 title="U士多：最新優惠（至9/7）"|shop="U士多"|end_date="2024-07-09"|text="純特價"|result=0
 title="海港飲食：燒鵝皇 71折（1/7）"|shop="海港飲食"|text="餐廳"|result=0
+title="萬寧 / 屈臣氏：最新優惠（30/6）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-06-30"|end_date="2024-06-30"|text="易賞錢會員購買指定產品享88折，滿$60送$20電子現金券"|result=1
+title="惠康 / 百佳：最新優惠（30/6）"|shop="惠康 / 百佳"|text="普通特價"|result=0
+title="759 阿信屋：勁抵價（至1/7）"|shop="759 阿信屋"|end_date="2024-07-01"|text="任何人都可以享受的普通特價"|result=0
+title="東海堂：新登場 豆乳軟包"|shop="東海堂"|text="新品推廣"|result=0
+title="海馬牌：最新優惠 低至半價"|shop="海馬牌"|text="家具店"|result=0
+title="美心月餅：優先預購 低至55折（至20/7）"|shop="美心月餅"|rate=0.45|end_date="2026-07-20"|text="任何人都可以享受的普通特價"|result=0
+title="龍豐：每週至抵「豐搶價」 （至6/7）"|shop="龍豐"|end_date="2024-07-06"|text="任何人都可以享受的普通特價"|result=0
+title="大快活：晚市早鳥優惠 會員手機點餐 9折"|shop="大快活"|text="餐廳"|result=0
