@@ -48,3 +48,10 @@ title="7-Eleven：7CAFÉ  $11即磨咖啡（至3/7）/ 7仔食檔 $11餡餅（�
 title="759 阿信屋：週年慶感謝祭 全線7折（至5/7）"|shop="759 阿信屋"|rate=0.3|end_date="2024-07-05"|result=0|text="任何人都可以享受的普通特價"
 title="維記牛奶：新登場 菠蘿熱情果乳酪 "|shop="維記牛奶"|start_date="2024-07-01"|text="新品推廣"|result=0
 title="OK便利店：5天狂減（至5/7）"|shop="OK便利店"|end_date="2024-07-05"|text="沒有門檻"|result=0
+title="KFC：「肯！抵DEAL」7月限時優惠"|shop="KFC"|text="餐廳"|result=0
+title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/7）"|shop="西樹泡芙"|text="普通特價優惠，無會員或特定支付方式要求"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至14/7）"|shop="7-Eleven"|end_date="2024-07-14"|text="任何人都可以享受的普通特價"|result=0
+title="香港開心購物節2026 - 麥當勞/美心西餅/鴻福堂/KFC 買1送1（至31/8）"|shop="麥當勞/美心西餅/鴻福堂/KFC"|end_date="2026-08-31"|text="包含餐廳且為一般大眾優惠"|result=0
+title="美心MX：長者晚市 75折優惠（2/7）"|shop="美心MX"|text="餐廳"|result=0
+title="屈臣氏：全港藥餘回收計劃（2/7起）"|shop="屈臣氏"|payment="易賞錢"|start_date="2024-07-02"|text="易賞錢會員於7月2日起參與藥餘回收計劃可獲贈積分"|result=1
+title="AEON：100周年 限定特賣（至31/7）"|shop="AEON"|end_date="2024-07-31"|text="百貨公司及普通特價"|result=0
