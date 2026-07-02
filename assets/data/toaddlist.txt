@@ -15,3 +15,4 @@ title="Pepper Lunch：黑椒牛肉飯 買1送1（3/7）"|shop="Pepper Lunch"|tex
 title="7-Eleven：本週優惠（至7/7）"|shop="7-Eleven"|end_date="2024-07-07"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="KFC：「好肯癲」系列 - 重手蘑菇汁薯條（至15/7）"|shop="KFC"|end_date="2024-07-15"|text="餐廳"|result=0
 title="東海堂：Miffy蛋糕及精品"|shop="東海堂"|payment="Eatizen美心薈會員"|rate=0.1|amt=25.9|text="Eatizen美心薈會員專享Miffy日曆草莓蛋糕9折優惠"|result=1
+title="佳宝食品超級市場：週週佳驚喜（3-9/7）"|shop="佳宝食品超級市場"|start_date="2024-07-03"|end_date="2024-07-09"|text="任何人均可享受的普通特價"|result=0
