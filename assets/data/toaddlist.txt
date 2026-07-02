@@ -6,3 +6,12 @@ title="爭鮮外帶壽司：盛夏鰻祭（至31/7）"|shop="爭鮮外帶壽司"
 title="美心西餅：黃金芒果拿破崙"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="元気寿司：全新盛夏「海の月：澳洲鮮味巡禮」餐目"|shop="元気寿司"|text="餐廳"|result=0
 title="美亞 Meyer：Summer Sale 精選廚具 低至2折（至31/8）"|shop="美亞廚具"|end_date="2026-08-31"|text="不符合商店類型（廚具）且為任何人均可享用的普通特價"|result=0
+title="大快活：阿活錫蘭港式奶茶 升級配方"|shop="大快活"|text="餐廳"|result=0
+title="壽司郎 Sushiro：夏の感謝祭 / 小童推薦Menu"|shop="壽司郎"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 新輪廓 夏日姿態"|shop="Uniqlo"|text="服裝店"|result=0
+title="美心MX：惠顧魚湯米線系列 送凍檸檬百事（至31/7）"|shop="美心MX"|start_date="2026-07-01"|end_date="2026-07-31"|text="餐廳"|result=0
+title="中銀Visa信用卡：簽賬 賺高達5%回贈（至31/12）"|shop="本地實體商戶"|payment="中銀Visa信用卡"|rate=0.05|end_date="2024-12-31"|text="包含餐廳、百貨公司及電器等排除商店類型"|result=0
+title="Pepper Lunch：黑椒牛肉飯 買1送1（3/7）"|shop="Pepper Lunch"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至7/7）"|shop="7-Eleven"|end_date="2024-07-07"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="KFC：「好肯癲」系列 - 重手蘑菇汁薯條（至15/7）"|shop="KFC"|end_date="2024-07-15"|text="餐廳"|result=0
+title="東海堂：Miffy蛋糕及精品"|shop="東海堂"|payment="Eatizen美心薈會員"|rate=0.1|amt=25.9|text="Eatizen美心薈會員專享Miffy日曆草莓蛋糕9折優惠"|result=1
