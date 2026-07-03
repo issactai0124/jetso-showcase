@@ -32,3 +32,7 @@ title="麥當勞：今期「開心樂園餐」送TOMICA玩具車（3/7起）"|sh
 title="Chateraise：Japanese White Peach Fair（至31/7）"|shop="Chateraise"|end_date="2024-07-31"|text="沒有門檻的普通特價/新品推廣"|result=0
 title="大家樂：晚市 花膠金湯雲吞雞鍋二人餐"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：5天限定（至7/7）"|shop="7-Eleven"|end_date="2024-07-07"|text="任何人都可以享受的普通特價"|result=0
+title="美心MX：Eatizen會員限定 單拼燒味飯配茶/啡 8折（至31/8）"|shop="美心MX"|text="餐廳"|result=0
+title="樓上：$2優惠券"|shop="樓上"|amt=2|text="缺乏會員或特定支付方式門檻"|result=0
+title="奇華餅家：中秋月餅 早鳥優惠（至31/7）"|shop="奇華餅家"|end_date="2024-07-31"|text="任何人均可享有的普通特價/早鳥優惠"|result=0
+title="優品360：最新優惠（至19/7）"|shop="優品360"|end_date="2024-07-19"|text="任何人都可以享受的普通特價"|result=0
