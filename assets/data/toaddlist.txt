@@ -36,3 +36,12 @@ title="美心MX：Eatizen會員限定 單拼燒味飯配茶/啡 8折（至31/8�
 title="樓上：$2優惠券"|shop="樓上"|amt=2|text="缺乏會員或特定支付方式門檻"|result=0
 title="奇華餅家：中秋月餅 早鳥優惠（至31/7）"|shop="奇華餅家"|end_date="2024-07-31"|text="任何人均可享有的普通特價/早鳥優惠"|result=0
 title="優品360：最新優惠（至19/7）"|shop="優品360"|end_date="2024-07-19"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：最新優惠（4/7）"|shop="萬寧"|start_date="2024-07-04"|end_date="2024-07-04"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="百佳超級市場最新優惠（4/7）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（4/7）"|shop="惠康超級市場"|text="普通特價、減價宣傳"|result=0
+title="大家樂APP：港式奶茶 $1（至10/7）"|shop="大家樂"|payment="Club 100會員"|end_date="2024-07-10"|text="餐廳"|result=0
+title="GU：本週優惠（至9/7）"|shop="GU"|text="服裝店"|result=0
+title="榮華：公益月餅券2026（至8/9）"|shop="榮華餅家"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="AEON：日本食品節 / 旅行用品展（至15/7）"|shop="AEON"|end_date="2024-07-15"|text="百貨公司及普通特價宣傳"|result=0
+title="壽司郎 Sushiro：下午茶set $40起"|shop="壽司郎"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至9/7）"|shop="一田超市"|end_date="2024-07-09"|text="普通特價"|result=0
