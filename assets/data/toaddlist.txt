@@ -45,3 +45,6 @@ title="榮華：公益月餅券2026（至8/9）"|shop="榮華餅家"|text="任�
 title="AEON：日本食品節 / 旅行用品展（至15/7）"|shop="AEON"|end_date="2024-07-15"|text="百貨公司及普通特價宣傳"|result=0
 title="壽司郎 Sushiro：下午茶set $40起"|shop="壽司郎"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至9/7）"|shop="一田超市"|end_date="2024-07-09"|text="普通特價"|result=0
+title="東海堂：新登場 芝麻忌廉朱古力蛋糕 / 和風炙火法包系列"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="Uniqlo：本週優惠（至9/7）"|shop="Uniqlo"|text="服裝店"|result=0
+title="大生生活超市：今期精選優惠（至15/7）"|shop="大生生活超市"|end_date="2024-07-15"|text="普通特價，任何人均可享有"|result=0
