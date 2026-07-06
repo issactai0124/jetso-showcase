@@ -12,3 +12,15 @@ title="華御結：全新「日本寶藏美食大發現」系列御結 $16（6-7
 title="龍豐：推廣員駐場限定優惠（6-12/7）"|shop="龍豐"|start_date="2024-07-06"|end_date="2024-07-12"|text="任何人均可享受的普通特價優惠"|result=0
 title="美心 MX：晚市 清蒸原條海斑"|shop="美心 MX"|text="餐廳"|result=0
 title="AEON：嘩！心動價！（至31/7）"|shop="AEON"|end_date="2024-07-31"|text="百貨公司及普通特價宣傳"|result=0
+title="MTR Mobile：港鐵即時賞（6/7）"|shop="MTR Mobile"|payment="MTR Mobile會員"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（6/7）"|shop="百佳超級市場"|text="普通特價宣傳"|result=0
+title="惠康超級市場最新優惠（6/7）"|shop="惠康超級市場"|text="普通特價優惠"|result=0
+title="7-Eleven：最新優惠（6/7）"|shop="7-Eleven"|start_date="2026-07-06"|end_date="2026-07-09"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="麥當勞：「至尊漢堡」IS BACK！會員優先試食（6/7） "|shop="麥當勞"|text="餐廳"|result=0
+title="美心MX：長者優惠 全日惠顧滿$40 減$8（至19/7）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|min_spend=40|amt=8|start_date="2024-07-06"|end_date="2024-07-19"|applicable_days_of_week="1,2,3,4,5,6,7"|text="餐廳"|result=0
+title="東海堂：新登場 Pochacco粟米濃湯脆筒新地"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="大家樂：最新「呢啲GOOD價」"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至19/7）"|shop="759 阿信屋"|end_date="2024-07-19"|text="普通特價，任何人均可享受，無會員或特定支付門檻"|result=0
+title="鴻福堂：全新 港式系列健康餐 試嚐優惠（至19/7）"|shop="鴻福堂"|start_date="2024-07-06"|end_date="2024-07-19"|text="任何人均可享用的普通特價"|result=0
+title="OK便利店：本週激筍（至12/7）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
+title="美心 MX：最新「新超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
