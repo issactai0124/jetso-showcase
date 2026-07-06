@@ -26,3 +26,4 @@ title="OK便利店：本週激筍（至12/7）"|shop="OK便利店"|text="任何�
 title="美心 MX：最新「新超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
 title="日本城：超值精選 $100 任揀3件 / 買滿$60 即送$15現金優惠券"|shop="日本城"|text="任何人均可享受的普通特價及現金券優惠，缺乏會員或特定支付方式門檻"|result=0
 title="天星小輪：免費乘船日（7/7）"|shop="天星小輪"|start_date="2026-07-07"|end_date="2026-07-07"|applicable_days_of_week="2"|text="非指定商店類型及大眾優惠"|result=0
+title="一粥麵：雲吞麵慶 7月兩大優惠"|shop="一粥麵"|text="餐廳"|result=0
