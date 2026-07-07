@@ -27,3 +27,14 @@ title="美心 MX：最新「新超值」套餐"|shop="美心 MX"|text="餐廳"|r
 title="日本城：超值精選 $100 任揀3件 / 買滿$60 即送$15現金優惠券"|shop="日本城"|text="任何人均可享受的普通特價及現金券優惠，缺乏會員或特定支付方式門檻"|result=0
 title="天星小輪：免費乘船日（7/7）"|shop="天星小輪"|start_date="2026-07-07"|end_date="2026-07-07"|applicable_days_of_week="2"|text="非指定商店類型及大眾優惠"|result=0
 title="一粥麵：雲吞麵慶 7月兩大優惠"|shop="一粥麵"|text="餐廳"|result=0
+title="萬寧 / 屈臣氏：最新優惠（7/7）"|``` shop="屈臣氏"|payment="易賞錢會員"|rate=0.12|start_date="2024-07-07"|end_date="2024-07-07"|text="易賞錢會員於屈臣氏品牌日購買指定產品可享額外88折"|result=1 ```
+title="百佳超級市場最新優惠（7/7）"|shop="百佳超級市場"|text="普通特價，任何人均可享受"|result=0
+title="惠康超級市場最新優惠（7/7）"|shop="惠康超級市場"|text="沒有提及會員或特定支付方式要求"|result=0
+title="魚尚：魚尚日 半額（7月 逢星期二）"|shop="魚尚"|rate=0.5|applicable_days_of_week=2|text="任何人均可享受的普通特價"|result=0
+title="膳魔師 Thermos：Summer Sale（至12/7）"|shop="膳魔師 Thermos"|start_date="2026-07-01"|end_date="2026-07-12"|text="不符合商店類型且為一般減價促銷"|result=0
+title="美心現場烘焙店：牛油年糕"|shop="美心現場烘焙店"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：APP會員優惠"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：勁抵價（至8/7）"|shop="759 阿信屋"|end_date="2024-07-08"|text="普通特價或減價宣傳，無會員或特定支付門檻"|result=0
+title="滙豐信用卡：「麥當勞」簽賬 額外15%「獎賞錢」回贈（至31/7）"|shop="麥當勞"|payment="滙豐信用卡"|rate=0.15|end_date="2024-07-31"|text="餐廳"|result=0
+title="U士多：最新優惠（至16/7）"|shop="U士多"|end_date="2024-07-16"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="龍豐：每週至抵「豐搶價」 （至13/7）"|shop="龍豐"|end_date="2024-07-13"|text="普通特價，非會員或特定支付方式優惠"|result=0
