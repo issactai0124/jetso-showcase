@@ -43,3 +43,5 @@ title="運動及休閒服飾特賣 低至1折（8-13/7）"|shop="運動及休閒
 title="壽司郎 Sushiro：主菜單限時優惠（至3/8）"|shop="壽司郎"|text="餐廳"|result=0
 title="AEON：周三新鮮日 / 大特賣（8/7）"|shop="AEON"|text="任何人均可享受的普通特價宣傳"|result=0
 title="大家樂：茶市限定 雞髀+雞翼 $22（8-10/7）"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：5天狂減（8-12/7）"|shop="OK便利店"|start_date="2024-07-08"|end_date="2024-07-12"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（8/7）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
