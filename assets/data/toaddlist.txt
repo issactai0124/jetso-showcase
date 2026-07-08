@@ -53,3 +53,7 @@ title="聖安娜：港式西餅 $24/6件 / 指定甜品 第2件半價"|shop="聖
 title="大家樂：11點著數 搶先食"|shop="大家樂"|text="餐廳"|result=0
 title="759 阿信屋：指定貨品 雙重賞（至12/7）"|shop="759 阿信屋"|payment="會員"|min_spend=88|rate=0.1|start_date="2024-07-08"|end_date="2024-07-12"|text="會員購買指定產品滿$88或$118可享額外9折優惠"|result=1
 title="南記粉麵：港式混醬小食系列"|shop="南記粉麵"|text="餐廳"|result=0
+title="Starbucks：買手調飲品/食品 滿$68 即減$8（至20/7）"|shop="Starbucks"|min_spend=68|amt=8|end_date="2024-07-20"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 把握夏日時機"|shop="Uniqlo"|text="服裝店"|result=0
+title="東海堂：指定產品 限時優惠（至31/7）"|shop="東海堂"|end_date="2024-07-31"|text="任何人都可以享受的普通特價"|result=0
+title="松屋 Matsuya：荃灣富華中心店 7月9日開業"|shop="松屋"|text="餐廳"|result=0
