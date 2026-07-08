@@ -45,3 +45,11 @@ title="AEON：周三新鮮日 / 大特賣（8/7）"|shop="AEON"|text="任何人�
 title="大家樂：茶市限定 雞髀+雞翼 $22（8-10/7）"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：5天狂減（8-12/7）"|shop="OK便利店"|start_date="2024-07-08"|end_date="2024-07-12"|text="任何人都可以享受的普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（8/7）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（8/7）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（8/7）"|shop="百佳超級市場"|text="缺乏具體優惠詳情及支付/會員門檻資訊"|result=0
+title="屈臣氏：星期三樂賞日（8/7）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2024-08-07"|end_date="2024-08-07"|applicable_days_of_week=3|text="易賞錢會員於星期三在屈臣氏購物可享樂賞日優惠"|result=1
+title="7-Eleven / OK便利店：DREYER'S Toy Story 雪糕禮袋"|shop="7-Eleven / OK便利店"|text="任何人都可以享受的普通特價、減價宣傳、新品推廣"|result=0
+title="聖安娜：港式西餅 $24/6件 / 指定甜品 第2件半價"|shop="聖安娜"|text="普通特價，非會員或特定支付方式優惠"|result=0
+title="大家樂：11點著數 搶先食"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：指定貨品 雙重賞（至12/7）"|shop="759 阿信屋"|payment="會員"|min_spend=88|rate=0.1|start_date="2024-07-08"|end_date="2024-07-12"|text="會員購買指定產品滿$88或$118可享額外9折優惠"|result=1
+title="南記粉麵：港式混醬小食系列"|shop="南記粉麵"|text="餐廳"|result=0
