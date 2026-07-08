@@ -57,3 +57,5 @@ title="Starbucks：買手調飲品/食品 滿$68 即減$8（至20/7）"|shop="St
 title="Uniqlo：優惠專區 - 把握夏日時機"|shop="Uniqlo"|text="服裝店"|result=0
 title="東海堂：指定產品 限時優惠（至31/7）"|shop="東海堂"|end_date="2024-07-31"|text="任何人都可以享受的普通特價"|result=0
 title="松屋 Matsuya：荃灣富華中心店 7月9日開業"|shop="松屋"|text="餐廳"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（9/7）"|shop="7-Eleven"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="AEON：升級家居 自選組合 低至22折（至31/8）"|shop="AEON"|end_date="2024-08-31"|text="百貨公司及家居用品之普通特價優惠"|result=0
