@@ -1,0 +1,7 @@
+title="惠康超級市場最新優惠（9/7）"|shop="惠康超級市場"|start_date="2024-07-09"|text="一般特價宣傳，缺乏會員或特定支付門檻"|result=0
+title="樓上：最新優惠（9/7）"|shop="樓上"|text="普通特價、減價宣傳"|result=0
+title="大家樂：早餐 紐西蘭南冰魚柳+腸仔+炒麵 / 即煎紐西蘭西冷牛扒"|shop="大家樂"|text="餐廳"|result=0
+title="Daiso Japan：石籬店 所有貨品 半價（至12/7）"|shop="Daiso Japan"|rate=0.5|end_date="2024-07-12"|text="任何人均可享用的普通特價"|result=0
+title="KFC：肯！奇趣兒童餐"|shop="KFC"|text="餐廳"|result=0
+title="聖安娜：任何消費折實滿$30 送迷你TABASCO"|shop="聖安娜餅屋"|min_spend=30|text="任何人均可享用，非會員或特定支付方式優惠"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至21/7）"|shop="7-Eleven"|start_date="2024-07-08"|end_date="2024-07-21"|text="普通新品推廣，非會員專屬或特定支付方式優惠"|result=0
