@@ -5,3 +5,11 @@ title="Daiso Japan：石籬店 所有貨品 半價（至12/7）"|shop="Daiso Jap
 title="KFC：肯！奇趣兒童餐"|shop="KFC"|text="餐廳"|result=0
 title="聖安娜：任何消費折實滿$30 送迷你TABASCO"|shop="聖安娜餅屋"|min_spend=30|text="任何人均可享用，非會員或特定支付方式優惠"|result=0
 title="7-Eleven：7仔預購網店 今期精品（至21/7）"|shop="7-Eleven"|start_date="2024-07-08"|end_date="2024-07-21"|text="普通新品推廣，非會員專屬或特定支付方式優惠"|result=0
+title="美心MX：全新 奇異果希臘式乳酪杯 / 冰山甜品"|shop="美心MX"|text="餐廳"|result=0
+title="千色 Citistore：夏日大激拼 – 均一價 / 每日驚喜限定（至3/8）"|shop="千色 Citistore"|end_date="2024-08-03"|text="百貨公司"|result=0
+title="Pizza Hut：《反斗奇兵5》全新美食系列 / 限量造型精品 / 主題店"|shop="Pizza Hut"|text="餐廳"|result=0
+title="759 阿信屋：今期急凍冷凍精選（至19/7）"|shop="759 阿信屋"|end_date="2024-07-19"|text="普通特價/減價宣傳"|result=0
+title="安記：感謝祭（10-12/7）"|shop="安記"|start_date="2024-07-10"|end_date="2024-07-12"|text="普通特價/減價宣傳"|result=0
+title="A-1 Bakery：經典美味復活 "|shop="A-1 Bakery"|text="普通特價/新品推廣"|result=0
+title="7-Eleven：本週優惠（至14/7）"|shop="7-Eleven"|end_date="2024-07-14"|text="普通特價，任何人均可享受"|result=0
+title="壽司郎 Sushiro：康城店 開幕優惠（10/7起）"|shop="壽司郎"|text="餐廳"|result=0
