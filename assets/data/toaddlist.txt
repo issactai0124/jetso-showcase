@@ -13,3 +13,6 @@ title="安記：感謝祭（10-12/7）"|shop="安記"|start_date="2024-07-10"|en
 title="A-1 Bakery：經典美味復活 "|shop="A-1 Bakery"|text="普通特價/新品推廣"|result=0
 title="7-Eleven：本週優惠（至14/7）"|shop="7-Eleven"|end_date="2024-07-14"|text="普通特價，任何人均可享受"|result=0
 title="壽司郎 Sushiro：康城店 開幕優惠（10/7起）"|shop="壽司郎"|text="餐廳"|result=0
+title="佳宝食品超級市場：週週佳驚喜（10-16/7）"|shop="佳宝食品超級市場"|start_date="2024-07-10"|end_date="2024-07-16"|text="普通特價，不符合會員或特定支付方式要求"|result=0
+title="美心西餅：每日激抵（至12/7）"|shop="美心西餅"|end_date="2024-07-12"|text="普通特價"|result=0
+title="7-Eleven：711大折日 77折（10-11/7）"|shop="7-Eleven"|payment="八達通App電子優惠券及八達通"|min_spend=100|amt=10|start_date="2026-07-10"|end_date="2026-07-11"|text="憑八達通App電子優惠券以八達通消費滿$100即減$10"|result=1
