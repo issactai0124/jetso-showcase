@@ -46,3 +46,7 @@ title="GU：本週優惠（至16/7）"|shop="GU"|text="服裝店"|result=0
 title="大家樂：晚市 花膠金湯雲吞雞鍋2人餐/老火湯2人餐 $99（11-13/7）"|shop="大家樂"|text="餐廳"|result=0
 title="Chateraise：指定雪條 $50/6件（至13/8）"|shop="Chateraise"|start_date="2026-07-10"|end_date="2026-08-13"|text="任何人都可以享受的普通特價"|result=0
 title="一田超市：挑戰特價（至16/7）"|shop="一田超市"|end_date="2024-07-16"|text="普通特價，無門檻"|result=0
+title="美心MX：外賣加餸 港式燒味 - 豉香雞/紅燒乳鴿"|shop="美心MX"|text="餐廳"|result=0
+title="BigC：今期精選品牌推介（至21/7）"|shop="BigC"|end_date="2024-07-21"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="宜家 IKEA：清貨大減價 低至3折（至29/7）"|shop="IKEA"|rate=0.7|end_date="2024-07-29"|text="家具店、普通特價"|result=0
+title="Uniqlo：本週優惠（至16/7）"|shop="Uniqlo"|text="服裝店"|result=0
