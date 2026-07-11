@@ -38,3 +38,11 @@ title="AEON Day：自家品牌商品 8折優惠（至12/7）"|shop="AEON"|text="
 title="萬寧 Mannings：全場無門檻 88折（11/7）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
 title="美心西餅：巴斯克芝士蛋糕 買1送1（至14/7）"|shop="美心西餅"|end_date="2024-07-14"|text="任何人都可以享受的普通特價"|result=0
 title="優品360：本週優惠（至19/7）"|shop="優品360"|end_date="2024-07-19"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：最新優惠（11/7）"|shop="萬寧"|text="普通特價或減價宣傳"|result=0
+title="百佳超級市場最新優惠（11/7）"|shop="百佳超級市場"|text="普通特價、減價宣傳"|result=0
+title="惠康超級市場最新優惠（11/7）"|shop="惠康超級市場"|text="普通特價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="HKTVmall﻿：鬥減價 85折（至12/7）"|shop="HKTVmall"|min_spend=299|rate=0.15|start_date="2024-07-11"|end_date="2024-07-12"|text="任何人均可使用的優惠碼，非會員專屬或特定支付方式"|result=0
+title="GU：本週優惠（至16/7）"|shop="GU"|text="服裝店"|result=0
+title="大家樂：晚市 花膠金湯雲吞雞鍋2人餐/老火湯2人餐 $99（11-13/7）"|shop="大家樂"|text="餐廳"|result=0
+title="Chateraise：指定雪條 $50/6件（至13/8）"|shop="Chateraise"|start_date="2026-07-10"|end_date="2026-08-13"|text="任何人都可以享受的普通特價"|result=0
+title="一田超市：挑戰特價（至16/7）"|shop="一田超市"|end_date="2024-07-16"|text="普通特價，無門檻"|result=0
