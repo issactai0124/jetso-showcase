@@ -58,3 +58,8 @@ title="美心西餅：全新 香醇咖啡系列麵包"|shop="美心西餅"|text=
 title="大快活：睇波必備零食 - 銀魚花生"|shop="大快活"|min_spend=30|end_date="2024-07-31"|text="餐廳"|result=0
 title="聖安娜：法式栗子撻 增量升級"|shop="聖安娜餅屋"|text="任何人都可以享受的普通特價"|result=0
 title="OK便利店：會員至抵價（至15/7）"|shop="OK便利店"|payment="會員"|end_date="2024-07-15"|text="OK便利店會員可享至抵價優惠至7月15日"|result=1
+title="大家樂：買電子現金券套裝 送高達$290優惠券"|shop="大家樂"|text="餐廳"|result=0
+title="KFC：國際薯塊日 - 巨桶格格脆薯塊（13/7）"|shop="KFC"|text="餐廳"|result=0
+title="龍豐：推廣員駐場限定優惠（13-19/7）"|shop="龍豐"|start_date="2024-07-13"|end_date="2024-07-19"|text="缺乏會員或特定支付方式門檻"|result=0
+title="美心MX：夏日瓜粒湯飯"|shop="美心MX"|text="餐廳"|result=0
+title="麥當勞App：Value Monday 電子優惠券（13/7起）"|shop="麥當勞"|text="餐廳"|result=0
