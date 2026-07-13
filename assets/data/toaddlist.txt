@@ -68,3 +68,9 @@ title="百佳超級市場最新優惠（13/7）"|shop="百佳超級市場"|text=
 title="惠康超級市場最新優惠（13/7）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
 title="7-Eleven：最新優惠（13/7）"|shop="7-Eleven"|payment="八達通App電子優惠券"|min_spend=50|amt=5|start_date="2024-07-13"|end_date="2024-07-31"|text="由即日起至7月31日，於7-Eleven使用八達通App電子優惠券消費滿$50即減$5"|result=1
 title="包點先生：早晨套餐優惠 / 夏日精選優惠"|shop="包點先生"|amt=5|applicable_days_of_week="1,2"|text="任何人均可享用的普通特價"|result=0
+title="Starbucks：星巴克 熊士多啤梨造型玻璃杯（13/7起）"|shop="Starbucks"|text="餐廳及一般特價優惠"|result=0
+title="美心西餅：每日激抵（至19/7）"|shop="美心西餅"|end_date="2024-07-19"|text="普通特價/減價宣傳"|result=0
+title="大家樂：午市 天天超值選"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至19/7）"|shop="OK便利店"|end_date="2024-07-19"|text="任何人都可以享受的普通特價"|result=0
+title="美心 MX：最新「新超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
+title="海港飲食：晚市優惠孖寶"|shop="海港飲食"|text="餐廳"|result=0
