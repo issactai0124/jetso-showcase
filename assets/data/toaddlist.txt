@@ -74,3 +74,4 @@ title="大家樂：午市 天天超值選"|shop="大家樂"|text="餐廳"|result
 title="OK便利店：本週激筍（至19/7）"|shop="OK便利店"|end_date="2024-07-19"|text="任何人都可以享受的普通特價"|result=0
 title="美心 MX：最新「新超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
 title="海港飲食：晚市優惠孖寶"|shop="海港飲食"|text="餐廳"|result=0
+title="大家樂：最新外賣優惠（14-20/7）"|shop="大家樂"|text="餐廳"|result=0
