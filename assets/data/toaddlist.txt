@@ -75,3 +75,12 @@ title="OK便利店：本週激筍（至19/7）"|shop="OK便利店"|end_date="202
 title="美心 MX：最新「新超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
 title="海港飲食：晚市優惠孖寶"|shop="海港飲食"|text="餐廳"|result=0
 title="大家樂：最新外賣優惠（14-20/7）"|shop="大家樂"|text="餐廳"|result=0
+title="萬寧 / 屈臣氏：最新優惠（14/7）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-07-14"|end_date="2024-07-14"|text="易賞錢會員於品牌日購買指定產品可享88折，滿$60送$20電子現金券"|result=1
+title="惠康超級市場最新優惠（14/7）"|shop="惠康超級市場"|text="普通特價/減價宣傳"|result=0
+title="東海堂：新登場 雙色貓咪牛奶吐司 / 堅果綠茶牛角型包"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="港鐵 MTR：搭東鐵遊深圳 小童免費同行（至31/8）"|shop="港鐵"|end_date="2024-08-31"|text="非指定商店類型"|result=0
+title="759 阿信屋：勁抵價（至15/7）"|shop="759 阿信屋"|end_date="2024-07-15"|text="普通特價，不符合會員或特定支付方式門檻"|result=0
+title="美心MX：外賣加餸 港式燒味 $35起（至3/8）"|shop="美心MX"|start_date="2026-07-14"|end_date="2026-08-03"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至20/7）"|shop="龍豐"|end_date="2024-07-20"|text="任何人都可以享受的普通特價"|result=0
+title="Giordano：全新 Chiikawa 聯乘系列"|shop="Giordano"|text="服裝店"|result=0
+title="Eatizen 美心薈 App：【美心集團70周年】限定禮遇 低至7折"|shop="美心西餅、東海堂、魚尚"|payment="Eatizen 會員"|rate=0.3|text="Eatizen會員可享美心西餅、東海堂、魚尚及美心月餅等餅店及食品店低至7折優惠"|result=1
