@@ -84,3 +84,16 @@ title="美心MX：外賣加餸 港式燒味 $35起（至3/8）"|shop="美心MX"|
 title="龍豐：每週至抵「豐搶價」 （至20/7）"|shop="龍豐"|end_date="2024-07-20"|text="任何人都可以享受的普通特價"|result=0
 title="Giordano：全新 Chiikawa 聯乘系列"|shop="Giordano"|text="服裝店"|result=0
 title="Eatizen 美心薈 App：【美心集團70周年】限定禮遇 低至7折"|shop="美心西餅、東海堂、魚尚"|payment="Eatizen 會員"|rate=0.3|text="Eatizen會員可享美心西餅、東海堂、魚尚及美心月餅等餅店及食品店低至7折優惠"|result=1
+title="莎莎：化妝品 最新優惠（至29/7）"|shop="莎莎"|end_date="2024-07-29"|text="普通特價宣傳，缺乏會員或特定支付門檻"|result=0
+title="大家樂：午晚市 咖喱吉列竹筴魚飯"|shop="大家樂"|text="餐廳"|result=0
+title="許志安 Andy Hui《On Stage》Live in Concert 2026 優先訂票（15-18/7）"|shop="Klook"|text="演唱會"|result=0
+title="元氣壽司：DSE考生限定 堂食全枱送特製元気手卷（15/7）"|shop="元氣壽司"|text="餐廳"|result=0
+title="Pacific Coffee：下午2點後 美式咖啡/鮮奶咖啡 買1送1（至20/7）"|shop="Pacific Coffee"|text="餐廳及任何人均可享用的普通優惠"|result=0
+title="日本城：品牌新名字「JHC 真好城」（15/7起）"|shop="日本城"|start_date="2024-07-15"|text="非指定商店類型及缺乏會員/特定支付門檻"|result=0
+title="7-Eleven：DSE考試限定 免費7CAFE即磨咖啡（15/7）"|shop="7-Eleven"|payment="DSE考生"|start_date="2024-07-15"|end_date="2024-07-15"|text="非會員或特定支付方式優惠"|result=0
+title="上海姥姥：素食菜式 7折優惠（逢初一十五）"|shop="上海姥姥"|text="餐廳"|result=0
+title="i.t Bazaar Sale 3折起（15-20/7）"|shop="i.t"|start_date="2024-07-15"|end_date="2024-07-20"|text="服裝店"|result=0
+title="美心西餅：DSE考生限定 免費領取道地生豆乳系列/美心奶茶系列（15/7）"|shop="美心西餅"|payment="DSE考生"|min_spend=0|start_date="2024-07-15"|end_date="2024-07-15"|applicable_days_of_month=15|text="7月15日DSE考生憑准考證或成績單可免費領取飲品一支"|result=1
+title="香港書展2026（15-21/7）"|shop="香港書展"|start_date="2026-07-15"|end_date="2026-07-21"|text="不符合商店類型（展覽/活動）且無特定會員或支付門檻"|result=0
+title="AEON：周三新鮮日（15/7）"|shop="AEON"|text="百貨公司及任何人均可享用的普通特價優惠"|result=0
+title="Häagen-Dazs：雙球華芙筒 買1送1（15-19/7）"|shop="Häagen-Dazs"|start_date="2024-07-15"|end_date="2024-07-19"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
