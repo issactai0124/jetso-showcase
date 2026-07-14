@@ -97,3 +97,5 @@ title="美心西餅：DSE考生限定 免費領取道地生豆乳系列/美心�
 title="香港書展2026（15-21/7）"|shop="香港書展"|start_date="2026-07-15"|end_date="2026-07-21"|text="不符合商店類型（展覽/活動）且無特定會員或支付門檻"|result=0
 title="AEON：周三新鮮日（15/7）"|shop="AEON"|text="百貨公司及任何人均可享用的普通特價優惠"|result=0
 title="Häagen-Dazs：雙球華芙筒 買1送1（15-19/7）"|shop="Häagen-Dazs"|start_date="2024-07-15"|end_date="2024-07-19"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="OK便利店：5天狂減（15-19/7）"|shop="OK便利店"|start_date="2024-07-15"|end_date="2024-07-19"|text="普通特價/減價宣傳"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（15/7）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
