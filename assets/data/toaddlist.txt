@@ -126,3 +126,8 @@ title="屈臣氏：買指定高露潔牙膏5支 送總值$547豐富禮品（至2
 title="A-1 Bakery：季節限定 山形縣白桃蛋糕系列 / Lotus脆脆乳酪麻糬波波球"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="全民運動日2026 免費康樂設施（1-2/8）（抽籤申請：16-20/7）"|shop="康文署"|text="不符合商店類型（政府康樂設施）"|result=0
 title="美心MX：原條珍寶脆魚柳 / 果咖果茶 $9.9"|shop="美心MX"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 夏日精選優惠"|shop="Uniqlo"|text="服裝店"|result=0
+title="7-Eleven：本週優惠（至21/7）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="NITORI：荃灣如心廣場店 7月17日開幕"|shop="NITORI"|text="家具店"|result=0
+title="佳宝食品超級市場：週週佳驚喜（17-23/7）"|shop="佳宝食品超級市場"|start_date="2024-07-17"|end_date="2024-07-23"|text="普通特價/無門檻優惠"|result=0
+title="AEON：環球美食派對（17-29/7）"|shop="AEON"|start_date="2024-07-17"|end_date="2024-07-29"|text="百貨公司及普通特價宣傳"|result=0
