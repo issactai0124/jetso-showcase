@@ -14,3 +14,5 @@ title="7-Eleven：5天限定（至21/7）"|shop="7-Eleven"|payment="yuu會員"|r
 title="香港迪士尼樂園： 香港居民專享 「夏日Chill 爽」4PM門票優惠（至31/8）"|shop="香港迪士尼樂園"|end_date="2024-08-31"|text="不符合商店類型"|result=0
 title="AEON：開心放暑假 / 盛夏餐飲及特許銷售商優惠（至29/7）"|shop="AEON"|end_date="2024-07-29"|text="百貨公司及餐廳"|result=0
 title="優品360：最新優惠（至30/7）"|shop="優品360"|end_date="2024-07-30"|text="任何人都可以享受的普通特價"|result=0
+title="麥當勞：McGriddles全日早餐 / 任何超值套餐 免費轉薯餅（18-20/7）"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：感謝日（18-20/7）/ 週末限時放題（18/7）"|shop="AEON"|text="百貨公司"|result=0
