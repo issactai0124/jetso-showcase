@@ -11,3 +11,6 @@ title="樓上：$2優惠券"|shop="樓上"|text="未能提供會員或特定支�
 title="聖安娜：全新「芫茜麵包」"|shop="聖安娜"|text="新品推廣"|result=0
 title="稻香： 宵夜火鍋自助 任飲任食 $98起"|shop="稻香"|text="餐廳"|result=0
 title="7-Eleven：5天限定（至21/7）"|shop="7-Eleven"|payment="yuu會員"|rate=0.167|end_date="2024-07-21"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
+title="香港迪士尼樂園： 香港居民專享 「夏日Chill 爽」4PM門票優惠（至31/8）"|shop="香港迪士尼樂園"|end_date="2024-08-31"|text="不符合商店類型"|result=0
+title="AEON：開心放暑假 / 盛夏餐飲及特許銷售商優惠（至29/7）"|shop="AEON"|end_date="2024-07-29"|text="百貨公司及餐廳"|result=0
+title="優品360：最新優惠（至30/7）"|shop="優品360"|end_date="2024-07-30"|text="任何人都可以享受的普通特價"|result=0
