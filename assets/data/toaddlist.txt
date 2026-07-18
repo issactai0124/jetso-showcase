@@ -29,3 +29,4 @@ title="聖安娜：全新 巴斯克芝士蛋糕系列 / 鹼水貝果"|shop="聖�
 title="Uniqlo：本週優惠（至23/7）"|shop="Uniqlo"|end_date="2024-07-23"|text="服裝店"|result=0
 title="稻香：全新套餐 海鮮肆和菜 "|shop="稻香"|text="餐廳"|result=0
 title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/7）"|shop="宜家 IKEA"|end_date="2024-07-31"|text="餐廳、家具店"|result=0
+title="百佳超級市場最新優惠（19/7）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
