@@ -25,3 +25,6 @@ title="7-Eleven：買7CAFÉ咖啡套券 送「蠟筆小新LED矽膠拍拍燈」/
 title="永年士多：全新晚市二人餐 $99"|shop="永年士多"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至23/7）"|shop="一田超市"|end_date="2024-07-23"|text="普通特價"|result=0
 title="KFC： 好肯癲 脆片爆茜葡撻"|shop="KFC"|text="餐廳"|result=0
+title="聖安娜：全新 巴斯克芝士蛋糕系列 / 鹼水貝果"|shop="聖安娜"|text="新品推廣且無會員或特定支付要求"|result=0
+title="Uniqlo：本週優惠（至23/7）"|shop="Uniqlo"|end_date="2024-07-23"|text="服裝店"|result=0
+title="稻香：全新套餐 海鮮肆和菜 "|shop="稻香"|text="餐廳"|result=0
