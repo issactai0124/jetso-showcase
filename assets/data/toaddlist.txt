@@ -37,3 +37,6 @@ title="意美廚 Ideale Chef：盛夏廚具優惠 6折（至9/8）"|shop="意美
 title="A-1 Bakery：全新 黑芝麻蛋糕系列"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="美心MX：「日式鐵板拉麵」茶餐"|shop="美心MX"|text="餐廳"|result=0
 title="OK便利店：震撼價 / 抵食套餐 / 店長推介（至29/7）"|shop="OK便利店"|end_date="2024-07-29"|text="普通特價或減價宣傳"|result=0
+title="龍豐：推廣員駐場限定優惠（20-26/7）"|shop="龍豐"|start_date="2024-07-20"|end_date="2024-07-26"|text="缺乏會員或特定支付方式門檻"|result=0
+title="聖安娜：新品登場 D24榴槤x麻糬"|shop="聖安娜"|payment="金會員"|rate=0.15|start_date="2024-07-23"|text="聖安娜金會員購買指定D24榴槤系列蛋糕可享低至85折優惠"|result=1
+title="大生生活超市：今期精選優惠（至31/7）"|shop="大生生活超市"|end_date="2024-07-31"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
