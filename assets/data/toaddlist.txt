@@ -30,3 +30,10 @@ title="Uniqlo：本週優惠（至23/7）"|shop="Uniqlo"|end_date="2024-07-23"|t
 title="稻香：全新套餐 海鮮肆和菜 "|shop="稻香"|text="餐廳"|result=0
 title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/7）"|shop="宜家 IKEA"|end_date="2024-07-31"|text="餐廳、家具店"|result=0
 title="百佳超級市場最新優惠（19/7）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（19/7）"|shop="惠康超級市場"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="樓上 / 位元堂：最新優惠（19/7）"|shop="樓上 / 位元堂"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="美心西餅：全新「芒果Bling Bling蛋糕」"|shop="美心西餅"|payment="Eatizen會員"|rate=0.1|amt=18.8|text="Eatizen會員購買芒果Bling Bling蛋糕可享9折優惠"|result=1
+title="意美廚 Ideale Chef：盛夏廚具優惠 6折（至9/8）"|shop="意美廚 Ideale Chef"|rate=0.4|end_date="2026-08-09"|text="廚具店及一般減價優惠"|result=0
+title="A-1 Bakery：全新 黑芝麻蛋糕系列"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="美心MX：「日式鐵板拉麵」茶餐"|shop="美心MX"|text="餐廳"|result=0
+title="OK便利店：震撼價 / 抵食套餐 / 店長推介（至29/7）"|shop="OK便利店"|end_date="2024-07-29"|text="普通特價或減價宣傳"|result=0
