@@ -42,3 +42,10 @@ title="聖安娜：新品登場 D24榴槤x麻糬"|shop="聖安娜"|payment="金�
 title="大生生活超市：今期精選優惠（至31/7）"|shop="大生生活超市"|end_date="2024-07-31"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="萬寧：今日出位價（20/7）"|shop="萬寧"|start_date="2024-07-20"|end_date="2024-07-20"|text="任何人都可以享受的普通特價"|result=0
 title="百佳超級市場最新優惠（20/7）"|shop="百佳超級市場"|start_date="2024-07-20"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（20/7）"|shop="惠康超級市場"|start_date="2024-07-20"|text="普通特價宣傳"|result=0
+title="7-Eleven：最新優惠（20/7）"|shop="7-Eleven"|min_spend=100|rate=0.2|start_date="2026-07-20"|end_date="2026-07-23"|text="任何人均可享受的普通特價，不符合會員或特定支付方式門檻"|result=0
+title="美心MX / 美心Food² ：長者全日8折（至29/7）"|shop="美心MX / 美心Food²"|text="餐廳"|result=0
+title="華御結：指定御結 $12（16-17/7、20-22/7）"|shop="華御結"|text="任何人均可享受的普通特價"|result=0
+title="KFC：本週「肯！抵DEAL」（至31/7）"|shop="KFC"|text="餐廳"|result=0
+title="大家樂：最新「呢啲GOOD價」"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至20/7）"|shop="759 阿信屋"|end_date="2024-07-20"|text="任何人都可以享受的普通特價"|result=0
