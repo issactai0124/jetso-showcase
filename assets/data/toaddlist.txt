@@ -49,3 +49,9 @@ title="華御結：指定御結 $12（16-17/7、20-22/7）"|shop="華御結"|tex
 title="KFC：本週「肯！抵DEAL」（至31/7）"|shop="KFC"|text="餐廳"|result=0
 title="大家樂：最新「呢啲GOOD價」"|shop="大家樂"|text="餐廳"|result=0
 title="759 阿信屋：今期勁筍推介（至20/7）"|shop="759 阿信屋"|end_date="2024-07-20"|text="任何人都可以享受的普通特價"|result=0
+title="美心 MX：本週「心超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
+title="六合彩：暑期金多寶 $1億（21/7）"|shop="香港賽馬會"|text="不符合商店類型"|result=0
+title="稻香：35週年 換購「粒粒鎖匙扣」（至9/8）"|shop="稻香"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至26/7）"|shop="OK便利店"|end_date="2024-07-26"|text="普通特價，沒有會員或特定支付方式要求"|result=0
+title="大家樂：捧盃大激賞（至24/7）"|shop="大家樂"|text="餐廳"|result=0
+title="壽司郎 Sushiro： 「世界計畫 繽紛舞台！feat. 初音未來」聯乘食品/精品（21/7起）"|shop="壽司郎"|text="餐廳"|result=0
