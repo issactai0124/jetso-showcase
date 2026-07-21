@@ -64,3 +64,8 @@ title="美心西餅：每日激抵（至26/7）"|shop="美心西餅"|end_date="2
 title="Lenovo：年度開倉 6折起（至28/7）"|shop="Lenovo"|end_date="2024-07-28"|text="電器"|result=0
 title="大家樂：本週App會員優惠（至26/7）"|shop="大家樂"|text="餐廳"|result=0
 title="759 阿信屋：勁抵價（至22/7）"|shop="759 阿信屋"|end_date="2024-07-22"|text="普通特價"|result=0
+title="吉野家：早茶甜點新品 楓糖冬甩 $16起"|shop="吉野家"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至27/7）"|shop="龍豐"|end_date="2024-07-27"|text="普通特價"|result=0
+title="東海堂：期間限定 草莓牛乳新地"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="Marathon Sports 馬拉松便服及運動名牌開倉 低至2折（22-27/7）"|shop="Marathon Sports"|start_date="2024-07-22"|end_date="2024-07-27"|text="服裝店"|result=0
+title="AEON：周三新鮮日（22/7）"|shop="AEON"|text="任何人均可享受的普通特價優惠"|result=0
