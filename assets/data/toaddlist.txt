@@ -9,3 +9,11 @@ title="大家樂：早餐「呢啲GOOD價」新組合"|shop="大家樂"|text="�
 title="美心西餅：軟歐包系列"|shop="美心西餅"|text="普通特價/新品推廣，非會員或特定支付方式優惠"|result=0
 title="富臨皇宮：外賣自取 鮑魚三寶 $268"|shop="富臨皇宮"|text="餐廳"|result=0
 title="7-Eleven：7仔預購網店 今期精品（至4/8）"|shop="7-Eleven"|start_date="2024-07-22"|end_date="2024-08-04"|text="任何人均可參與的新品預購，缺乏會員或特定支付方式門檻"|result=0
+title="すき家 Sukiya：和風經典飯後甜品 - 宇治抹茶生銅鑼燒/綿滑焦糖吉士布甸"|shop="すき家 Sukiya"|text="餐廳、新品推廣"|result=0
+title="美心MX：全新 懷舊冰飲系列"|shop="美心MX"|text="餐廳"|result=0
+title="Uniqlo：優惠專區- 夏日精選優惠"|shop="Uniqlo"|text="服裝店"|result=0
+title="Starbucks：夏日冷萃與茶系飲品"|shop="Starbucks"|text="餐廳"|result=0
+title="一粥麵：晚市 冬瓜盅2人餐 $109（23-26/7）"|shop="一粥麵"|text="餐廳"|result=0
+title="Italian Tomato：「白桃の果蜜」蛋糕系列 / 每日新鮮出爐 雪芳蛋糕系列"|shop="Italian Tomato"|text="普通特價、減價宣傳，不具備會員或特定支付方式門檻"|result=0
+title="AEON：中秋節月餅券 精選優惠 第二擊（至2/9）"|shop="AEON"|end_date="2024-09-02"|text="百貨公司及普通特價"|result=0
+title="大家樂：冬瓜盅2人餐 $99（24-28/7）"|shop="大家樂"|text="餐廳"|result=0
