@@ -1,3 +1,11 @@
 title="大快活：「街頭小食」系列 加配優惠 / 新登場 韭菜拼盤茶餐"|shop="大快活"|text="餐廳"|result=0
 title="OK便利店：5天狂減（22-26/7）"|shop="OK便利店"|start_date="2024-07-22"|end_date="2024-07-26"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（22/7）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價或減價宣傳"|result=0
+title="MTR Mobile：港鐵即時賞（22/7）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳超級市場最新優惠（22/7）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏：星期三樂賞日（22/7）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-07-22"|end_date="2020-07-22"|applicable_days_of_week=3|text="易賞錢會員於星期三在屈臣氏購物可享樂賞日優惠"|result=1
+title="錢大媽：彩虹采頤花園店開業 免費送蔬菜（至23/7）"|shop="錢大媽"|start_date="2024-07-22"|end_date="2024-07-23"|text="任何人均可享受的開業推廣"|result=0
+title="大家樂：早餐「呢啲GOOD價」新組合"|shop="大家樂"|text="餐廳"|result=0
+title="美心西餅：軟歐包系列"|shop="美心西餅"|text="普通特價/新品推廣，非會員或特定支付方式優惠"|result=0
+title="富臨皇宮：外賣自取 鮑魚三寶 $268"|shop="富臨皇宮"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至4/8）"|shop="7-Eleven"|start_date="2024-07-22"|end_date="2024-08-04"|text="任何人均可參與的新品預購，缺乏會員或特定支付方式門檻"|result=0
