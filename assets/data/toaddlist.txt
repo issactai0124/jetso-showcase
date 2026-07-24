@@ -12,3 +12,8 @@ title="聖安娜：全店正價產品 3件88折（至26/7）"|shop="聖安娜"|r
 title="大快活：阿活奶茶學院挑戰站 指定分店 四重賞推廣（至12/8）"|shop="大快活"|text="餐廳"|result=0
 title="Don Don Donki：週末優惠（至26/7）"|shop="Don Don Donki"|end_date="2024-07-26"|applicable_days_of_week="6,7"|text="普通特價"|result=0
 title="美心西餅：新登場 芝士脆脆條"|shop="美心西餅"|text="新品推廣"|result=0
+title="7-Eleven：5天限定（至28/7）"|shop="7-Eleven"|payment="yuu會員"|rate=0.1667|end_date="2024-07-28"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
+title="LOG-ON：Summer Sale 購物滿$300 享8折優惠（至26/7）"|shop="LOG-ON"|min_spend=300|rate=0.2|start_date="2024-07-24"|end_date="2024-07-26"|text="不符合商店類型且為任何人均可享用的普通特價"|result=0
+title="豐澤 Fortress：《DanDaDan》獨家夏日潮物 / 夏日折慶大開催（至13/9）"|shop="豐澤 Fortress"|text="電器店"|result=0
+title="價真棧：夏日快閃價 買滿$100 享全場9折（至26/7）"|shop="價真棧"|min_spend=100|rate=0.1|end_date="2024-07-26"|text="普通特價，不限會員或特定支付方式"|result=0
+title="吉野家：驚喜福袋 $28（至30/9）"|shop="吉野家"|text="餐廳"|result=0
