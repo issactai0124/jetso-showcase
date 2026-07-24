@@ -17,3 +17,4 @@ title="LOG-ON：Summer Sale 購物滿$300 享8折優惠（至26/7）"|shop="LOG-
 title="豐澤 Fortress：《DanDaDan》獨家夏日潮物 / 夏日折慶大開催（至13/9）"|shop="豐澤 Fortress"|text="電器店"|result=0
 title="價真棧：夏日快閃價 買滿$100 享全場9折（至26/7）"|shop="價真棧"|min_spend=100|rate=0.1|end_date="2024-07-26"|text="普通特價，不限會員或特定支付方式"|result=0
 title="吉野家：驚喜福袋 $28（至30/9）"|shop="吉野家"|text="餐廳"|result=0
+title="優品360：本週優惠（至30/7）"|shop="優品360"|end_date="2024-07-30"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
