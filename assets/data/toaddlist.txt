@@ -2,3 +2,7 @@ title="萬寧：最新優惠（25/7）"|shop="萬寧"|start_date="2024-07-25"|te
 title="百佳超級市場最新優惠（25/7）"|shop="百佳超級市場"|start_date="2024-07-25"|text="任何人都可以享受的普通特價"|result=0
 title="惠康超級市場最新優惠（25/7）"|shop="惠康超級市場"|start_date="2024-07-25"|text="普通特價"|result=0
 title="聖安娜：日日至抵價（至5/8）"|shop="聖安娜"|end_date="2024-08-05"|text="任何人都可以享受的普通特價"|result=0
+title="Don Don Donki：7週年大創業祭 第一期（至2/8）"|shop="Don Don Donki"|end_date="2024-08-02"|text="普通特價/減價宣傳"|result=0
+title="一粥麵：全新 四柚特飲系列"|shop="一粥麵"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至30/7）"|shop="一田超市"|end_date="2024-07-30"|text="普通特價，無會員或特定支付方式要求"|result=0
+title="Uniqlo：本週優惠（至30/7）"|shop="Uniqlo"|end_date="2024-07-30"|text="服裝店"|result=0
