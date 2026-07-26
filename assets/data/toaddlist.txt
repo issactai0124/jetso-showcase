@@ -6,3 +6,11 @@ title="Don Don Donki：7週年大創業祭 第一期（至2/8）"|shop="Don Don 
 title="一粥麵：全新 四柚特飲系列"|shop="一粥麵"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至30/7）"|shop="一田超市"|end_date="2024-07-30"|text="普通特價，無會員或特定支付方式要求"|result=0
 title="Uniqlo：本週優惠（至30/7）"|shop="Uniqlo"|end_date="2024-07-30"|text="服裝店"|result=0
+title="IKEA：網上購物 全單88折（26/7）"|shop="IKEA"|text="家具店"|result=0
+title="萬寧：今日出位價（26/7）"|shop="萬寧"|start_date="2024-07-26"|end_date="2024-07-26"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（26/7）"|shop="百佳超級市場"|start_date="2024-07-26"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（26/7）"|shop="惠康"|min_spend=600|rate=0.08|start_date="2024-07-26"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上 / 位元堂：最新優惠（26/7）"|shop="樓上 / 位元堂"|text="缺乏會員或特定支付方式門檻"|result=0
+title="A-1 Bakery：沖繩麵包祭"|shop="A-1 Bakery"|text="普通特價或新品推廣，非會員或特定支付方式專屬"|result=0
+title="大家樂：Haagen-Dazs雪糕迷你杯優惠"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：會員至抵價（至29/7）"|shop="OK便利店"|payment="OK便利店會員"|end_date="2024-07-29"|text="OK便利店會員可享會員至抵價優惠至7月29日"|result=1
