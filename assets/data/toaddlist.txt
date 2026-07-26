@@ -14,3 +14,5 @@ title="樓上 / 位元堂：最新優惠（26/7）"|shop="樓上 / 位元堂"|te
 title="A-1 Bakery：沖繩麵包祭"|shop="A-1 Bakery"|text="普通特價或新品推廣，非會員或特定支付方式專屬"|result=0
 title="大家樂：Haagen-Dazs雪糕迷你杯優惠"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：會員至抵價（至29/7）"|shop="OK便利店"|payment="OK便利店會員"|end_date="2024-07-29"|text="OK便利店會員可享會員至抵價優惠至7月29日"|result=1
+title="龍豐：推廣員駐場限定優惠（27/7-2/8）"|shop="龍豐"|start_date="2024-07-27"|end_date="2024-08-02"|text="任何人均可享受的推廣員駐場優惠，缺乏會員或特定支付門檻"|result=0
+title="759 阿信屋：購物滿$100 送$15現金券（至2/8）"|shop="759 阿信屋"|min_spend=100|amt=15|end_date="2024-08-02"|text="任何人都可以享受的普通特價"|result=0
