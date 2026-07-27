@@ -25,3 +25,7 @@ title="惠康超級市場最新優惠（27/7）"|shop="惠康超級市場"|text=
 title="大家樂：會員限定 全日奶茶 $1"|shop="大家樂"|payment="會員"|text="餐廳"|result=0
 title="譚仔雲南米線：小食大放餸（至7/8）"|shop="譚仔雲南米線"|end_date="2024-08-07"|text="餐廳"|result=0
 title="美心西餅：每日激抵（至31/7）"|shop="美心西餅"|end_date="2024-07-31"|text="普通特價宣傳，無會員或特定支付門檻"|result=0
+title="八達通App：「CHIIKAWA ARTIVERSE」特展珍藏版八達通 優先預訂（28/7起）"|shop="八達通App"|payment="八達通App"|start_date="2024-07-28"|text="不符合商店類型及屬於新品推廣"|result=0
+title="美心 MX：本週「心超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至2/8）"|shop="OK便利店"|end_date="2024-08-02"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="麥當勞：「CHIIKAWA ARTIVERSE」聯乘 全新升級版 黃金蟹堡 及 蝦堡系列 / 全港獨家「CHIIKAWA ARTIVERSE」幻彩開運御守 / 期間限定主題店"|shop="麥當勞"|text="餐廳"|result=0
