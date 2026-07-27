@@ -16,3 +16,12 @@ title="大家樂：Haagen-Dazs雪糕迷你杯優惠"|shop="大家樂"|text="餐�
 title="OK便利店：會員至抵價（至29/7）"|shop="OK便利店"|payment="OK便利店會員"|end_date="2024-07-29"|text="OK便利店會員可享會員至抵價優惠至7月29日"|result=1
 title="龍豐：推廣員駐場限定優惠（27/7-2/8）"|shop="龍豐"|start_date="2024-07-27"|end_date="2024-08-02"|text="任何人均可享受的推廣員駐場優惠，缺乏會員或特定支付門檻"|result=0
 title="759 阿信屋：購物滿$100 送$15現金券（至2/8）"|shop="759 阿信屋"|min_spend=100|amt=15|end_date="2024-08-02"|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（27/7）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|start_date="2024-07-27"|end_date="2024-07-27"|text="不符合商店類型"|result=0
+title="萬寧：今日出位價（27/7）"|shop="萬寧"|start_date="2024-07-27"|end_date="2024-07-27"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（27/7）"|shop="百佳超級市場"|start_date="2024-07-27"|text="一般減價宣傳"|result=0
+title="7-Eleven：最新優惠（27/7）"|shop="7-Eleven"|start_date="2024-07-27"|end_date="2024-07-28"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="大快活App：全日手機點餐 88折（27/7）"|shop="大快活"|text="餐廳"|result=0
+title="惠康超級市場最新優惠（27/7）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：會員限定 全日奶茶 $1"|shop="大家樂"|payment="會員"|text="餐廳"|result=0
+title="譚仔雲南米線：小食大放餸（至7/8）"|shop="譚仔雲南米線"|end_date="2024-08-07"|text="餐廳"|result=0
+title="美心西餅：每日激抵（至31/7）"|shop="美心西餅"|end_date="2024-07-31"|text="普通特價宣傳，無會員或特定支付門檻"|result=0
