@@ -29,3 +29,10 @@ title="八達通App：「CHIIKAWA ARTIVERSE」特展珍藏版八達通 優先預
 title="美心 MX：本週「心超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
 title="OK便利店：本週激筍（至2/8）"|shop="OK便利店"|end_date="2024-08-02"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="麥當勞：「CHIIKAWA ARTIVERSE」聯乘 全新升級版 黃金蟹堡 及 蝦堡系列 / 全港獨家「CHIIKAWA ARTIVERSE」幻彩開運御守 / 期間限定主題店"|shop="麥當勞"|text="餐廳"|result=0
+title="屈臣氏 / 萬寧：最新優惠（28/7）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-07-28"|end_date="2024-07-28"|text="易賞錢會員於屈臣氏品牌日購買指定產品享額外88折，滿$60送$20電子現金券"|result=1
+title="惠康超級市場最新優惠（28/7）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="759 阿信屋：勁抵價（至29/7）"|shop="759 阿信屋"|end_date="2024-07-29"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：11點著數 搶先食 - 香煎雞扒滷香肉燥飯"|shop="大家樂"|text="餐廳"|result=0
+title="東海堂：Miffy一口冰皮月餅 / 忌廉芝士軟歐包"|shop="東海堂"|payment="滙豐信用卡"|rate=0.4|text="憑滙豐信用卡購買Miffy一口冰皮月餅可享6折優惠"|result=1
+title="敏華冰廳：新產品 番茄濃湯系列"|shop="敏華冰廳"|text="餐廳"|result=0
+title="美心西餅 ：新登場  黑芝麻麻糬巴斯克芝士蛋糕 / 黑糖麥包"|shop="美心西餅"|text="新品推廣且無特定支付方式或會員門檻"|result=0
