@@ -36,3 +36,6 @@ title="大家樂：11點著數 搶先食 - 香煎雞扒滷香肉燥飯"|shop="�
 title="東海堂：Miffy一口冰皮月餅 / 忌廉芝士軟歐包"|shop="東海堂"|payment="滙豐信用卡"|rate=0.4|text="憑滙豐信用卡購買Miffy一口冰皮月餅可享6折優惠"|result=1
 title="敏華冰廳：新產品 番茄濃湯系列"|shop="敏華冰廳"|text="餐廳"|result=0
 title="美心西餅 ：新登場  黑芝麻麻糬巴斯克芝士蛋糕 / 黑糖麥包"|shop="美心西餅"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="龍豐：每週至抵「豐搶價」 （至3/8）"|shop="龍豐"|end_date="2024-08-03"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="名牌服飾特賣 低至1折（29/7-3/8）"|shop="名牌服飾"|start_date="2024-07-29"|end_date="2024-08-03"|text="服裝店"|result=0
+title="AEON：周三新鮮日（29/7）"|shop="AEON"|applicable_days_of_week=3|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
