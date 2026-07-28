@@ -39,3 +39,5 @@ title="美心西餅 ：新登場  黑芝麻麻糬巴斯克芝士蛋糕 / 黑糖�
 title="龍豐：每週至抵「豐搶價」 （至3/8）"|shop="龍豐"|end_date="2024-08-03"|text="普通特價，非會員或特定支付方式專屬"|result=0
 title="名牌服飾特賣 低至1折（29/7-3/8）"|shop="名牌服飾"|start_date="2024-07-29"|end_date="2024-08-03"|text="服裝店"|result=0
 title="AEON：周三新鮮日（29/7）"|shop="AEON"|applicable_days_of_week=3|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="爭鮮迴轉壽司：三文魚激減優惠（29-31/7）"|shop="爭鮮迴轉壽司"|start_date="2024-07-29"|end_date="2024-07-31"|text="餐廳"|result=0
+title="Pepper Lunch：日式叉燒黑椒飯 買1送1（29/7）"|shop="Pepper Lunch"|text="餐廳"|result=0
