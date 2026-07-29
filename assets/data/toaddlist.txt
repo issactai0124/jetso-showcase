@@ -50,3 +50,7 @@ title="聖安娜：買超軟三文治 送陽光飲品（至2/8）"|shop="聖安�
 title="大快活APP：會員手機點餐 全單8折（至31/7）"|shop="大快活"|payment="大快活APP會員"|rate=0.2|start_date="2026-07-29"|end_date="2026-07-31"|text="餐廳"|result=0
 title=" 美心西餅：港鐵 x 美心西餅 香滑奶黃月餅 / 人氣蛋糕 迷你甜品"|shop="美心西餅"|payment="滙豐信用卡"|rate=0.4|text="憑滙豐信用卡購買港鐵 x 美心西餅香滑奶黃月餅可享優惠價$155.4"|result=1
 title="7-Eleven：今期「$10一口價」限時優惠（至11/8）"|shop="7-Eleven"|end_date="2024-08-11"|text="任何人都可以享受的普通特價"|result=0
+title="一粥麵：潮式系列 新菜式"|shop="一粥麵"|text="餐廳"|result=0
+title="東海堂：換購限定版「Miffy花花餐碟」"|shop="東海堂"|end_date="2026-08-31"|text="任何人均可參與的普通換購優惠，缺乏會員或特定支付方式門檻"|result=0
+title="佳宝食品超級市場：全場8折（30/7-2/8）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-07-30"|end_date="2026-08-02"|text="普通特價，不符合會員或特定支付方式門檻"|result=0
+title="大家樂：爆抵鐵板餐 $49（20-31/7）"|shop="大家樂"|text="餐廳"|result=0
