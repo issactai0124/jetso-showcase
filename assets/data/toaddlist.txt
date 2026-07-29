@@ -43,3 +43,10 @@ title="爭鮮迴轉壽司：三文魚激減優惠（29-31/7）"|shop="爭鮮迴�
 title="Pepper Lunch：日式叉燒黑椒飯 買1送1（29/7）"|shop="Pepper Lunch"|text="餐廳"|result=0
 title="OK便利店：5天狂減（29/7-2/8）"|shop="OK便利店"|start_date="2024-07-29"|end_date="2024-08-02"|text="任何人都可以享受的普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（29/7）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（29/7）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="屈臣氏：星期三樂賞日（29/7）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-07-29"|end_date="2020-07-29"|applicable_days_of_week=3|text="屈臣氏星期三樂賞日，易賞錢會員專享優惠"|result=1
+title="華御結：御結雙重賞（至31/7）"|shop="華御結"|end_date="2024-08-04"|applicable_days_of_week="1,2,3,4,5"|text="任何人都可以享受的普通特價"|result=0
+title="聖安娜：買超軟三文治 送陽光飲品（至2/8）"|shop="聖安娜"|start_date="2024-07-29"|end_date="2024-08-02"|text="任何人均可享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="大快活APP：會員手機點餐 全單8折（至31/7）"|shop="大快活"|payment="大快活APP會員"|rate=0.2|start_date="2026-07-29"|end_date="2026-07-31"|text="餐廳"|result=0
+title=" 美心西餅：港鐵 x 美心西餅 香滑奶黃月餅 / 人氣蛋糕 迷你甜品"|shop="美心西餅"|payment="滙豐信用卡"|rate=0.4|text="憑滙豐信用卡購買港鐵 x 美心西餅香滑奶黃月餅可享優惠價$155.4"|result=1
+title="7-Eleven：今期「$10一口價」限時優惠（至11/8）"|shop="7-Eleven"|end_date="2024-08-11"|text="任何人都可以享受的普通特價"|result=0
