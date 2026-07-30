@@ -61,3 +61,8 @@ title="7-Eleven：7-SELECT X 道地 首度聯乘 烏龍茶系列 烘焙新品"|s
 title="美心MX： Eatizen會員限定 $70購買$100電子現金券（至31/8）"|shop="美心MX"|text="餐廳"|result=0
 title="A-1 Bakery：新品 芒果乳酪芝士蛋糕"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="Uniqlo：優惠專區 - 夏日精選優惠"|shop="Uniqlo"|text="服裝店"|result=0
+title="聖安娜：新登場 意式石板薄餅"|shop="聖安娜"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="大家樂：最新「呢啲GOOD價」"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至4/8）"|shop="7-Eleven"|end_date="2024-08-04"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="すき家 Sukiya：北角店 7月31日開張"|shop="すき家 Sukiya"|text="餐廳"|result=0
+title="東海堂：UCC聯乘「最高な珈琲時間」系列"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
