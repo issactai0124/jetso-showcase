@@ -90,3 +90,12 @@ title="保誠請你食雪糕 @尖沙咀（1-2/8）"|shop="保誠"|start_date="20
 title="漢科：夏日の祭 漢科電腦節 地至4折（1-4/8）"|shop="漢科"|start_date="2026-08-01"|end_date="2026-08-04"|text="電子產品店"|result=0
 title="麥當勞App：「CHIIKAWA ARTIVERSE 幻彩開運御守」限量加推預售"|shop="麥當勞"|text="餐廳"|result=0
 title="優惠360：最新優惠（至13/8）"|text="貼文內容不包含任何優惠資訊，無法分析。"|result=-1
+title="萬寧：最新優惠（1/8）"|shop="萬寧"|text="缺乏會員或特定支付方式門檻"|result=0
+title="百佳超級市場最新優惠（1/8）"|shop="百佳超級市場"|text="沒有門檻的普通特價"|result=0
+title="惠康超級市場最新優惠（1/8）"|shop="惠康超級市場"|text="純特價或不符門檻"|result=0
+title="美心MX：長者限定 全日惠顧 滿$30 減$6（至16/8）"|shop="美心MX"|text="餐廳"|result=0
+title="KFC﻿：本週「肯！抵DEAL 」（至7/8）"|shop="KFC"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：重新發現 新價格（1/8起）"|shop="Living Plaza, Daiso Japan"|start_date="2024-08-01"|text="任何人都可以享受的普通特價"|result=0
+title="A-1 Bakery：件裝蛋糕 買4送1（至31/8）"|shop="A-1 Bakery"|start_date="2024-08-01"|end_date="2024-08-31"|text="任何人都可以享受的普通特價"|result=0
+title="一粥麵：手工鮮蝦雲吞 $29/盒"|shop="一粥麵"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至6/8）"|shop="一田超市"|end_date="2024-08-06"|text="普通特價"|result=0
