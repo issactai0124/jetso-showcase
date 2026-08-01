@@ -99,3 +99,8 @@ title="Living Plaza / Daiso Japan：重新發現 新價格（1/8起）"|shop="Li
 title="A-1 Bakery：件裝蛋糕 買4送1（至31/8）"|shop="A-1 Bakery"|start_date="2024-08-01"|end_date="2024-08-31"|text="任何人都可以享受的普通特價"|result=0
 title="一粥麵：手工鮮蝦雲吞 $29/盒"|shop="一粥麵"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至6/8）"|shop="一田超市"|end_date="2024-08-06"|text="普通特價"|result=0
+title="鴻福堂：招牌杞子醬汁燒賣 $10/份（逢星期六日、至30/8）"|shop="鴻福堂"|start_date="2024-08-01"|end_date="2024-08-30"|applicable_days_of_week="6,7"|text="任何人都可以享受的週末優惠，缺乏會員或特定支付方式門檻"|result=0
+title="東海堂：新產品 焦糖雞蛋布丁大福甜品"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="Uniqlo：本週優惠（至6/8）"|shop="Uniqlo"|text="服裝店"|result=0
+title="元氣壽司：「極の味覚」餐目"|shop="元氣壽司"|text="餐廳"|result=0
+title="大生生活超市：今期精選優惠（至15/8）"|shop="大生生活超市"|end_date="2024-08-15"|text="普通特價，無會員或特定支付要求"|result=0
