@@ -6,3 +6,7 @@ title="樓上：忽然驚喜 100%鮮芒果雪條(5支裝/袋) $29（至12/8）"|
 title="AlipayHK：$2 夏日購物驚喜禮券"|shop="AlipayHK"|payment="AlipayHK"|amt=2|text="未註明適用商店類型"|result=0
 title="Living Plaza/ Daiso Japan：8月新優惠"|shop="Living Plaza/ Daiso Japan"|start_date="2024-08-01"|end_date="2024-08-31"|text="非指定商店類型且為一般減價宣傳"|result=0
 title="聖安娜：全新【夏日果漾系列】/ 好立克木糠布甸杯"|shop="聖安娜"|payment="金會員"|rate=0.15|start_date="2024-08-06"|text="聖安娜金會員購買指定夏日果漾系列蛋糕可享低至85折優惠"|result=1
+title="OK便利店：震撼價 / 店長推介（至12/8）"|shop="OK便利店"|end_date="2024-08-12"|text="任何人都可以享受的普通特價"|result=0
+title="龍豐：每週精選推廣（3-9/8）"|shop="龍豐"|start_date="2024-08-03"|end_date="2024-08-09"|text="普通特價宣傳，無門檻"|result=0
+title="簡簡單單 ecLIVING：家品狂歡月 精選貨品 3折起（至31/8）"|shop="ecLIVING"|end_date="2024-08-31"|text="家品店且為一般減價優惠"|result=0
+title="AEON：100周年 限定特賣（至31/8）"|shop="AEON"|end_date="2024-08-31"|text="百貨公司及普通特價"|result=0
