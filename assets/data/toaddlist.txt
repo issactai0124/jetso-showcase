@@ -1,0 +1,8 @@
+title="萬寧：今日出位價（2/8）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（2/8）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超市：鈣思寶 $60/3排（至6/8）"|shop="惠康超市"|end_date="2024-08-06"|text="任何人都可以享受的普通特價"|result=0
+title="一粥麵：「爆脆金黃吉列魚柳」早餐"|shop="一粥麵"|text="餐廳"|result=0
+title="樓上：忽然驚喜 100%鮮芒果雪條(5支裝/袋) $29（至12/8）"|shop="樓上"|end_date="2026-08-12"|text="任何人都可以享受的普通特價，沒有會員或特定支付方式門檻"|result=0
+title="AlipayHK：$2 夏日購物驚喜禮券"|shop="AlipayHK"|payment="AlipayHK"|amt=2|text="未註明適用商店類型"|result=0
+title="Living Plaza/ Daiso Japan：8月新優惠"|shop="Living Plaza/ Daiso Japan"|start_date="2024-08-01"|end_date="2024-08-31"|text="非指定商店類型且為一般減價宣傳"|result=0
+title="聖安娜：全新【夏日果漾系列】/ 好立克木糠布甸杯"|shop="聖安娜"|payment="金會員"|rate=0.15|start_date="2024-08-06"|text="聖安娜金會員購買指定夏日果漾系列蛋糕可享低至85折優惠"|result=1
