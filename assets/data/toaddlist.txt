@@ -20,3 +20,7 @@ title="華御結：御結雙重賞（至4/8）"|shop="華御結"|start_date="202
 title="永安百貨：家品及廚具展（至7/9）"|shop="永安百貨"|end_date="2024-09-07"|text="百貨公司"|result=0
 title="OK便利店：本週激筍（至9/8）"|shop="OK便利店"|end_date="2024-08-09"|text="普通特價/減價宣傳"|result=0
 title="Pizza Hut：一人餐 My Box 買1送1"|shop="Pizza Hut"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至16/8）"|shop="759 阿信屋"|end_date="2024-08-16"|text="普通特價、減價宣傳"|result=0
+title="美心 MX：午市 本週「心超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
+title="譚仔雲南米線：晚市 兩碗過橋米線 $99起（至14/8）"|shop="譚仔雲南米線"|end_date="2024-08-14"|text="餐廳"|result=0
+title="AEON：嘩！心動價！（至31/8）"|shop="AEON"|end_date="2024-08-31"|text="任何人均可享有的普通特價"|result=0
