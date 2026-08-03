@@ -10,3 +10,13 @@ title="OK便利店：震撼價 / 店長推介（至12/8）"|shop="OK便利店"|e
 title="龍豐：每週精選推廣（3-9/8）"|shop="龍豐"|start_date="2024-08-03"|end_date="2024-08-09"|text="普通特價宣傳，無門檻"|result=0
 title="簡簡單單 ecLIVING：家品狂歡月 精選貨品 3折起（至31/8）"|shop="ecLIVING"|end_date="2024-08-31"|text="家品店且為一般減價優惠"|result=0
 title="AEON：100周年 限定特賣（至31/8）"|shop="AEON"|end_date="2024-08-31"|text="百貨公司及普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（3/8）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="喜茶：新品「苦抹·濃」買1送1（3/8）"|shop="喜茶"|text="餐廳及一般新品推廣優惠"|result=0
+title="百佳超級市場最新優惠（3/8）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（3/8）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：最新優惠（3/8）"|shop="7-Eleven"|start_date="2026-08-03"|end_date="2026-08-05"|text="任何人均可享受的普通特價或新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="麥當勞：McGriddles配飲品 $29（星期一至五早上11點前）"|shop="麥當勞"|text="餐廳"|result=0
+title="華御結：御結雙重賞（至4/8）"|shop="華御結"|start_date="2024-08-03"|end_date="2024-08-04"|text="普通特價，無會員或特定支付方式門檻"|result=0
+title="永安百貨：家品及廚具展（至7/9）"|shop="永安百貨"|end_date="2024-09-07"|text="百貨公司"|result=0
+title="OK便利店：本週激筍（至9/8）"|shop="OK便利店"|end_date="2024-08-09"|text="普通特價/減價宣傳"|result=0
+title="Pizza Hut：一人餐 My Box 買1送1"|shop="Pizza Hut"|text="餐廳"|result=0
