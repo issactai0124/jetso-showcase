@@ -24,3 +24,5 @@ title="759 阿信屋：今期勁筍推介（至16/8）"|shop="759 阿信屋"|end
 title="美心 MX：午市 本週「心超值」套餐"|shop="美心 MX"|text="餐廳"|result=0
 title="譚仔雲南米線：晚市 兩碗過橋米線 $99起（至14/8）"|shop="譚仔雲南米線"|end_date="2024-08-14"|text="餐廳"|result=0
 title="AEON：嘩！心動價！（至31/8）"|shop="AEON"|end_date="2024-08-31"|text="任何人均可享有的普通特價"|result=0
+title="麥當勞：新一輪「CHIIKAWA ARTIVERSE」幻彩開運御守 - 小八/飛鼠/栗子饅頭/風獅爺（4/8起）"|shop="麥當勞"|text="餐廳"|result=0
+title="一粥麵：指定粥麵 連熱飲 $29（8月 逢星期二至四）、"|shop="一粥麵"|text="餐廳"|result=0
