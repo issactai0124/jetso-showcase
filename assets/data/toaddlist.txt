@@ -26,3 +26,13 @@ title="譚仔雲南米線：晚市 兩碗過橋米線 $99起（至14/8）"|shop=
 title="AEON：嘩！心動價！（至31/8）"|shop="AEON"|end_date="2024-08-31"|text="任何人均可享有的普通特價"|result=0
 title="麥當勞：新一輪「CHIIKAWA ARTIVERSE」幻彩開運御守 - 小八/飛鼠/栗子饅頭/風獅爺（4/8起）"|shop="麥當勞"|text="餐廳"|result=0
 title="一粥麵：指定粥麵 連熱飲 $29（8月 逢星期二至四）、"|shop="一粥麵"|text="餐廳"|result=0
+title="屈臣氏：自家品牌日 3件88折（4/8）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-08-04"|end_date="2024-08-04"|text="易賞錢會員於屈臣氏品牌日購買3件指定產品享88折，滿$60送$20現金券"|result=1
+title="惠康 / 百佳：最新優惠（4/8）"|shop="百佳"|min_spend=50|start_date="2026-08-04"|end_date="2026-08-13"|text="沒有會員或特定支付方式門檻"|result=0
+title="譚仔雲南米線APP：惠顧滿 $65 送「譚仔蔥油雞脾」（4/8）"|shop="譚仔雲南米線"|payment="譚仔APP會員"|min_spend=65|start_date="2026-08-04"|end_date="2026-08-04"|applicable_days_of_week="2"|text="餐廳"|result=0
+title="7-Eleven：買指定食品 送100衝勁活力電解質運動飲品（至7/8）"|shop="7-Eleven"|end_date="2024-08-07"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="魚尚：魚尚日 半額（8月 逢星期二）"|shop="魚尚"|text="任何人均可享受的普通特價"|result=0
+title="759阿信屋：勁抵價（至5/8）"|shop="759阿信屋"|end_date="2024-08-05"|text="普通特價"|result=0
+title="大家樂：最新「呢啲GOOD價」/ 會員限定 開心星期二"|shop="大家樂"|text="餐廳"|result=0
+title="莎莎：面膜 最新優惠（至16/8）"|shop="莎莎"|end_date="2024-08-16"|text="普通特價或減價宣傳"|result=0
+title="美心西餅：全新「五穀子希臘式乳酪系列」"|shop="美心西餅"|text="任何人都可以享受的新品推廣"|result=0
+title="龍豐：每週至抵「豐搶價」 （至10/8）"|shop="龍豐"|end_date="2024-08-10"|text="普通特價，無會員或特定支付門檻"|result=0
