@@ -42,3 +42,5 @@ title="八達通App：Pizza Hut快閃優惠券 消費滿$100 送夏威夷風光�
 title="名牌服飾及旅行用品開倉（5-10/8）"|shop="名牌服飾及旅行用品開倉"|start_date="2024-08-05"|end_date="2024-08-10"|text="服裝店"|result=0
 title="樓上：$2優惠券"|shop="樓上"|amt=2|text="沒有提及會員或特定支付方式要求"|result=0
 title="AEON：周三新鮮日（5/8）"|shop="AEON"|text="任何人均可享受的普通特價"|result=0
+title="東方樹葉：20個港鐵站 免費派發飲品（5-9/8）"|shop="東方樹葉"|start_date="2024-08-05"|end_date="2024-08-09"|text="任何人均可參與的免費派發活動，缺乏會員或特定支付門檻"|result=0
+title="OK 便利店：5天狂減（5-9/8）"|shop="OK 便利店"|start_date="2024-08-05"|end_date="2024-08-09"|text="任何人都可以享受的普通特價"|result=0
