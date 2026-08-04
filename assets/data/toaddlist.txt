@@ -36,3 +36,9 @@ title="大家樂：最新「呢啲GOOD價」/ 會員限定 開心星期二"|shop
 title="莎莎：面膜 最新優惠（至16/8）"|shop="莎莎"|end_date="2024-08-16"|text="普通特價或減價宣傳"|result=0
 title="美心西餅：全新「五穀子希臘式乳酪系列」"|shop="美心西餅"|text="任何人都可以享受的新品推廣"|result=0
 title="龍豐：每週至抵「豐搶價」 （至10/8）"|shop="龍豐"|end_date="2024-08-10"|text="普通特價，無會員或特定支付門檻"|result=0
+title="壽司郎 Sushiro： 7週年創業祭（4/8起）"|shop="壽司郎"|text="餐廳"|result=0
+title="名牌服飾特賣 低至1折（5-10/8）"|shop="名牌服飾"|start_date="2024-08-05"|end_date="2024-08-10"|text="服裝店"|result=0
+title="八達通App：Pizza Hut快閃優惠券 消費滿$100 送夏威夷風光必勝批 (迷你批)（至7/8）"|shop="Pizza Hut"|text="餐廳"|result=0
+title="名牌服飾及旅行用品開倉（5-10/8）"|shop="名牌服飾及旅行用品開倉"|start_date="2024-08-05"|end_date="2024-08-10"|text="服裝店"|result=0
+title="樓上：$2優惠券"|shop="樓上"|amt=2|text="沒有提及會員或特定支付方式要求"|result=0
+title="AEON：周三新鮮日（5/8）"|shop="AEON"|text="任何人均可享受的普通特價"|result=0
