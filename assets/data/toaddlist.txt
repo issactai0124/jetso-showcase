@@ -57,3 +57,4 @@ title="吉野家：早餐 全新「香濃忌廉雞湯通粉」"|shop="吉野家"
 title="大快活：品味經典 味聚上海"|shop="大快活"|text="餐廳"|result=0
 title="千色 Citistore：今期熱賣推介（至16/9）"|shop="千色 Citistore"|text="百貨公司"|result=0
 title="美心MX：長者晚市 75折（6/8）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|rate=0.25|start_date="2024-08-06"|end_date="2024-08-06"|text="餐廳"|result=0
+title="KFC:「好肯癲」新成員 是拉差醬雞腿包 / 秘製家鄉炸蛋（6/8起）"|shop="KFC"|text="餐廳"|result=0
