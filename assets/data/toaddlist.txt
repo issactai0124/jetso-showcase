@@ -51,3 +51,9 @@ title="7-Eleven：指定店舖 購物滿$100 即享8折優惠（至7/8）  "|sho
 title="IKEA：yuu會員日 95折優惠（5/8）"|shop="IKEA"|payment="yuu會員"|rate=0.05|start_date="2026-08-05"|end_date="2026-08-05"|text="家具店"|result=0
 title="A-1 Bakery：新品 日本產蛋沙律王者系列"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付要求"|result=0
 title="麥當勞：期間限定「KITKAT 呂宋芒威化味新地」系列 @甜品站（5/8起）"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：尖沙咀店 嶄新面貌 精彩體驗（至16/8）"|shop="AEON"|end_date="2024-08-16"|text="百貨公司及缺乏會員/特定支付門檻"|result=0
+title="大家樂：Club 100會員 最新優惠（至16/8）"|shop="大家樂"|text="餐廳"|result=0
+title="吉野家：早餐 全新「香濃忌廉雞湯通粉」"|shop="吉野家"|text="餐廳"|result=0
+title="大快活：品味經典 味聚上海"|shop="大快活"|text="餐廳"|result=0
+title="千色 Citistore：今期熱賣推介（至16/9）"|shop="千色 Citistore"|text="百貨公司"|result=0
+title="美心MX：長者晚市 75折（6/8）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|rate=0.25|start_date="2024-08-06"|end_date="2024-08-06"|text="餐廳"|result=0
