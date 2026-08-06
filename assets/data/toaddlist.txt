@@ -70,3 +70,7 @@ title="永安百貨：星期四至日至抵推介（至9/8）"|shop="永安百�
 title="大快活：憑「快活關愛長者咭」惠顧 即減$6（至11/8）"|shop="大快活"|payment="快活關愛長者咭"|amt=6|start_date="2026-08-05"|end_date="2026-08-11"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - 消暑好物推介"|shop="Uniqlo"|text="服裝店"|result=0
 title="稻香：暑假同樂 任點任食 $8、$9、$10點心"|shop="稻香"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至11/8）"|shop="7-Eleven"|end_date="2024-08-11"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：晚市 老火湯2人餐 $109（7-10/8）/ 茶市 金蜜雞翼拼揚州炒飯 $32（至17/8）"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：人氣角色巡禮 / TOPVALU 盛夏好生活（7-19/8）"|shop="AEON"|start_date="2024-08-07"|end_date="2024-08-19"|text="普通特價/減價宣傳"|result=0
+title="佳宝食品超級市場：週週佳驚喜（7-13/8）"|shop="佳宝食品超級市場"|start_date="2024-08-07"|end_date="2024-08-13"|text="任何人都可以享受的普通特價"|result=0
