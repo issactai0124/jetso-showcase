@@ -58,3 +58,15 @@ title="大快活：品味經典 味聚上海"|shop="大快活"|text="餐廳"|res
 title="千色 Citistore：今期熱賣推介（至16/9）"|shop="千色 Citistore"|text="百貨公司"|result=0
 title="美心MX：長者晚市 75折（6/8）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|rate=0.25|start_date="2024-08-06"|end_date="2024-08-06"|text="餐廳"|result=0
 title="KFC:「好肯癲」新成員 是拉差醬雞腿包 / 秘製家鄉炸蛋（6/8起）"|shop="KFC"|text="餐廳"|result=0
+title="惠康 / 百佳：最新優惠（6/8）"|shop="惠康 / 百佳"|text="缺乏會員或特定支付方式門檻，屬一般特價宣傳"|result=0
+title="包點先生：凍迷你菜肉包 $20/4個（指定星期四）"|shop="包點先生"|min_spend=20|amt=7|applicable_days_of_week=4|text="沒有門檻的普通特價"|result=0
+title="樓上 / 大棧：最新優惠（6/8）"|shop="樓上 / 大棧"|text="普通特價或資訊不足"|result=0
+title="東海堂：全新「焦糖啫喱雞蛋布丁卷」"|shop="東海堂"|text="任何人都可以享受的新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="眼鏡88：周年感謝 名牌鏡架 買1送1（至11/8）"|shop="眼鏡88"|end_date="2024-08-11"|text="不符合商店類型及屬於一般減價推廣"|result=0
+title="鬍鬚爺爺 Beard Papa's：Happy 88 Day 2026（至9/8）"|shop="Beard Papa's"|start_date="2026-08-06"|end_date="2026-08-09"|text="任何人都可以享受的普通特價"|result=0
+title="BigC：今期精選品牌推介（至18/8）"|shop="BigC"|end_date="2024-08-18"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：期間限定 日式咖喱牛面焗飯 / 日式咖喱煎蛋焗豬扒飯"|shop="大家樂"|text="餐廳"|result=0
+title="永安百貨：星期四至日至抵推介（至9/8）"|shop="永安百貨"|end_date="2024-08-09"|text="百貨公司"|result=0
+title="大快活：憑「快活關愛長者咭」惠顧 即減$6（至11/8）"|shop="大快活"|payment="快活關愛長者咭"|amt=6|start_date="2026-08-05"|end_date="2026-08-11"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 消暑好物推介"|shop="Uniqlo"|text="服裝店"|result=0
+title="稻香：暑假同樂 任點任食 $8、$9、$10點心"|shop="稻香"|text="餐廳"|result=0
