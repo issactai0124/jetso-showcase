@@ -81,3 +81,12 @@ title="屈臣氏最新購物優惠（7/8）"|shop="屈臣氏"|text="沒有門檻
 title="萬寧：周五購物攻略（7/8）"|shop="萬寧"|applicable_days_of_week=5|text="普通特價/週末優惠，沒有門檻"|result=0
 title="阿波羅 Appolo：果味雪條系列優惠（至9/8）"|shop="阿波羅 Appolo"|end_date="2023-08-09"|text="普通特價"|result=0
 title="牙膏最新優惠（7/8）"|text="缺乏足夠資訊判斷是否符合會員或特定支付方式要求，且看似普通特價"|result=0
+title="A-1 Bakery：門市限定 7折大優惠日（7/8）"|shop="A-1 Bakery"|rate=0.3|amt=18|start_date="2026-08-07"|end_date="2026-08-07"|text="任何人均可享受的普通特價"|result=0
+title="AEON：週末勁減（至9/8）"|shop="AEON"|end_date="2024-09-08"|text="週末優惠且無特定支付或會員門檻"|result=0
+title="彩豐：迎夏優惠（至9/8）"|shop="彩豐"|end_date="2024-08-09"|text="普通特價或減價宣傳"|result=0
+title="聖安娜：日日至抵價（至19/8）"|shop="聖安娜"|end_date="2024-08-19"|text="任何人都可以享受的普通特價"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至9/8）"|shop="Living Plaza / Daiso Japan"|end_date="2024-09-08"|text="任何人均可享有的週末優惠，缺乏會員或特定支付門檻"|result=0
+title="實惠 Pricerite：精選家品/家電優惠"|shop="實惠 Pricerite"|text="家具店/電器店"|result=0
+title="美心西餅：全新 鮮果蛋糕 / 蜘蛛俠天際穿梭蛋糕"|shop="美心西餅"|payment="Eatizen會員"|rate=0.1|end_date="2024-08-31"|text="Eatizen會員享9折優惠，憑指定電影戲票購指定蛋糕享8折"|result=1
+title="海馬牌 / 軒琴居：8月精選"|shop="海馬牌 / 軒琴居"|text="家具店"|result=0
+title="7-Eleven：5天限定（至11/8）"|shop="7-Eleven"|payment="yuu會員"|rate=0.1667|start_date="2024-08-07"|end_date="2024-08-11"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
