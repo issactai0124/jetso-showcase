@@ -102,3 +102,5 @@ title="百佳超級市場最新優惠（8/8）"|shop="百佳超級市場"|text="
 title="美心MX：長者全日8折（至28/8）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|rate=0.2|start_date="2024-08-08"|end_date="2024-08-28"|text="餐廳"|result=0
 title="AEON Day：自家品牌商品 8折優惠（至9/8）"|shop="AEON"|text="百貨公司、普通特價"|result=0
 title="Don Don Donki：7週年大創業祭 第二期（至16/8）"|shop="Don Don Donki"|end_date="2024-08-16"|text="普通特價宣傳，無會員或特定支付方式門檻"|result=0
+title="大家樂：8.8 月月「雙」賞 樂賞分快閃優惠（至10/8）"|shop="大家樂"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至13/8）"|shop="一田超市"|end_date="2024-08-13"|text="普通特價"|result=0
