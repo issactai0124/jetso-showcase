@@ -104,3 +104,5 @@ title="AEON Day：自家品牌商品 8折優惠（至9/8）"|shop="AEON"|text="�
 title="Don Don Donki：7週年大創業祭 第二期（至16/8）"|shop="Don Don Donki"|end_date="2024-08-16"|text="普通特價宣傳，無會員或特定支付方式門檻"|result=0
 title="大家樂：8.8 月月「雙」賞 樂賞分快閃優惠（至10/8）"|shop="大家樂"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至13/8）"|shop="一田超市"|end_date="2024-08-13"|text="普通特價"|result=0
+title="Uniqlo：本週優惠（至13/8）"|shop="Uniqlo"|end_date="2024-08-13"|text="服裝店"|result=0
+title="AEON：夏祭 / 簡約生活提案（至19/8）"|shop="AEON"|end_date="2024-08-19"|text="百貨公司及一般特價推廣"|result=0
