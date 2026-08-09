@@ -6,3 +6,7 @@ title="千色 Citistore：中秋月餅券 早鳥優惠"|shop="千色 Citistore"|
 title="大家樂：優惠延長 晚市 $49 爆抵鐵板餐 / $59 原個冬瓜盅套餐（至13/8）"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：7仔預購網店 今期精品（至18/8）"|shop="7-Eleven"|start_date="2024-08-05"|end_date="2024-08-18"|text="任何人都可以享受的新品推廣"|result=0
 title="永安百貨：游泳及戶外服飾特集（至31/8）"|shop="永安百貨"|end_date="2024-08-31"|text="百貨公司"|result=0
+title="Chateraise：赤肉蜜瓜 FAIR（至30/8）"|shop="Chateraise"|start_date="2026-08-07"|end_date="2026-08-30"|text="任何人均可享用的新品推廣"|result=0
+title="美心MX：指定分店 魚湯浸魚"|shop="美心MX"|text="餐廳"|result=0
+title="OK便利店：會員至抵價（至12/8）"|shop="OK便利店"|payment="會員"|end_date="2024-08-12"|text="OK便利店會員專享至抵價優惠至8月12日"|result=1
+title="東海堂：夏の祭 Kuromi & My Melody夏祭蛋糕套裝"|shop="東海堂"|payment="Eatizen會員"|rate=0.1|amt=23.9|text="Eatizen會員購買Kuromi & My Melody夏祭蛋糕套裝可享9折優惠"|result=1
