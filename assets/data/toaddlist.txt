@@ -11,3 +11,4 @@ title="美心MX：指定分店 魚湯浸魚"|shop="美心MX"|text="餐廳"|resul
 title="OK便利店：會員至抵價（至12/8）"|shop="OK便利店"|payment="會員"|end_date="2024-08-12"|text="OK便利店會員專享至抵價優惠至8月12日"|result=1
 title="東海堂：夏の祭 Kuromi & My Melody夏祭蛋糕套裝"|shop="東海堂"|payment="Eatizen會員"|rate=0.1|amt=23.9|text="Eatizen會員購買Kuromi & My Melody夏祭蛋糕套裝可享9折優惠"|result=1
 title="龍豐：每週精選推廣（10-16/8）"|shop="龍豐"|start_date="2024-08-10"|end_date="2024-08-16"|text="普通特價宣傳"|result=0
+title="麥當勞App：Value Monday 電子優惠券 / 下午茶時段 首度加入 鴛鴦McGriddles班戟（10/8起）"|shop="麥當勞"|text="餐廳"|result=0
