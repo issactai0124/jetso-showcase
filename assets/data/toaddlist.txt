@@ -25,3 +25,4 @@ title="美心MX：外賣加餸 港式燒味 低至6折（至30/8）"|shop="美�
 title="OK便利店：本週激筍（至16/8）"|shop="OK便利店"|end_date="2024-08-16"|text="任何人都可以享受的普通特價"|result=0
 title="Pizza Hut：下午茶放題 $56起（至4/9）"|shop="Pizza Hut"|text="餐廳"|result=0
 title="GODIVA：指定夾心及松露巧克力 買1送1（至23/8）"|shop="GODIVA"|end_date="2024-08-23"|text="任何人均可享用的普通特價"|result=0
+title="大家樂：eatCDC全新面貌 介面升級 / 早餐套票 $100 五個包 + 10張折扣券"|shop="大家樂"|text="餐廳"|result=0
