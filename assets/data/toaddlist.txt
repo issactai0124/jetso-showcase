@@ -20,3 +20,8 @@ title="惠康超級市場最新優惠（10/8）"|shop="惠康超級市場"|text=
 title="萬寧 / 屈臣氏：會員日 全單95折（10/8）"|shop="萬寧 / 屈臣氏"|payment="會員"|rate=0.05|start_date="2024-08-10"|end_date="2024-08-10"|text="萬寧及屈臣氏會員於8月10日可享全單95折優惠"|result=1
 title="KFC﻿：本週「肯！抵DEAL 」（至14/8）"|shop="KFC"|start_date="2026-08-10"|end_date="2026-08-14"|text="餐廳"|result=0
 title="美心西餅：新登場 JOGUMAN meets Maxim’s Cakes 抖陣先蛋糕 / 特別版產品周邊"|shop="美心西餅"|payment="Eatizen 會員"|rate=0.1|text="Eatizen 會員購買 JOGUMAN 系列蛋糕可享 9 折優惠"|result=1
+title="莎莎：化妝品 最新優惠（至16/8）"|shop="莎莎"|end_date="2024-08-16"|text="普通特價，沒有提及會員或特定支付方式要求"|result=0
+title="美心MX：外賣加餸 港式燒味 低至6折（至30/8）"|shop="美心MX"|rate=0.4|start_date="2026-08-10"|end_date="2026-08-30"|text="餐廳及一般特價優惠"|result=0
+title="OK便利店：本週激筍（至16/8）"|shop="OK便利店"|end_date="2024-08-16"|text="任何人都可以享受的普通特價"|result=0
+title="Pizza Hut：下午茶放題 $56起（至4/9）"|shop="Pizza Hut"|text="餐廳"|result=0
+title="GODIVA：指定夾心及松露巧克力 買1送1（至23/8）"|shop="GODIVA"|end_date="2024-08-23"|text="任何人均可享用的普通特價"|result=0
