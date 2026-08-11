@@ -40,3 +40,5 @@ title="八達通App：麥當勞App 點餐滿$45 賺$5獎賞（至23/8）"|shop="
 title="759 阿信屋：勁抵價（至12/8）"|shop="759 阿信屋"|end_date="2024-08-12"|text="普通特價，沒有提及會員或特定支付方式要求"|result=0
 title="大家樂：本週會員優惠（至16/8）"|shop="大家樂"|text="餐廳"|result=0
 title="明星海鮮酒家：晚飯超值優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至17/8）"|shop="龍豐"|end_date="2024-08-17"|text="普通特價，無會員或特定支付門檻"|result=0
+title="海港飲食：時令午市精選 低至$38"|shop="海港飲食"|applicable_days_of_week="1,2,3,4,5"|text="餐廳"|result=0
