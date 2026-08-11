@@ -30,3 +30,13 @@ title="759 阿信屋：今期急凍冷凍精選（至16/8）"|shop="759 阿信�
 title="松屋 Matsuya：開業2週年優惠（11-17/8）"|shop="松屋 Matsuya"|text="餐廳"|result=0
 title="麥當勞：限定登場 魚柳蝦堡 / 櫻花蝦味Shake Shake薯條 / 白提子椰果梳打（11/8起）"|shop="麥當勞"|text="餐廳"|result=0
 title="大快活：晚市 冬瓜燉湯滋味二人餐 $99"|shop="大快活"|text="餐廳"|result=0
+title="屈臣氏：自家品牌日 3件88折（11/8）"|shop="屈臣氏"|payment="易賞錢會員"|rate=0.12|start_date="2024-08-11"|end_date="2024-08-11"|text="易賞錢會員於屈臣氏品牌日購買指定屈臣氏品牌產品3件可享額外88折"|result=1
+title="惠康超級市場最新優惠（11/8）"|shop="惠康超級市場"|text="一般特價宣傳"|result=0
+title="美心西餅：買黑糖合桃提子裸麥包 送水動樂飲品"|shop="美心西餅"|text="任何人都可以享受的普通特價"|result=0
+title="爭鮮迴轉壽司：芝芝有味"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="7-Eleven：7-SELECT鮮果汁 $11/支（至14/8）"|shop="7-Eleven"|end_date="2024-08-14"|text="普通特價，任何人均可享受"|result=0
+title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
+title="八達通App：麥當勞App 點餐滿$45 賺$5獎賞（至23/8）"|shop="麥當勞"|payment="八達通App/麥當勞App"|min_spend=45|amt=5|end_date="2024-08-23"|text="餐廳"|result=0
+title="759 阿信屋：勁抵價（至12/8）"|shop="759 阿信屋"|end_date="2024-08-12"|text="普通特價，沒有提及會員或特定支付方式要求"|result=0
+title="大家樂：本週會員優惠（至16/8）"|shop="大家樂"|text="餐廳"|result=0
+title="明星海鮮酒家：晚飯超值優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
