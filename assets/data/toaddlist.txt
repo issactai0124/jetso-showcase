@@ -45,3 +45,7 @@ title="海港飲食：時令午市精選 低至$38"|shop="海港飲食"|applicab
 title="夏日BB購物節 低至1折（12-17/8）"|shop="夏日BB購物節"|start_date="2024-08-12"|end_date="2024-08-17"|text="任何人均可享受的普通特價且不符商店類型"|result=0
 title="Chateraise：人氣泡芙組合優惠 "|shop="Chateraise"|start_date="2026-07-31"|text="任何人均可享受的普通特價"|result=0
 title="馬拉松便服及運動名牌 X 特褔 Tefal 開倉（12-17/8）"|shop="馬拉松, 特褔"|start_date="2024-08-12"|end_date="2024-08-17"|text="服裝店及電器店"|result=0
+title="AEON：周三新鮮日 / 大特賣（12/8）"|shop="AEON"|text="任何人均可享受的普通特價/周三新鮮日"|result=0
+title="東海堂：新登場 雜穀乳酪包系列"|shop="東海堂"|text="新品推廣，任何人均可享受，缺乏會員或特定支付方式門檻"|result=0
+title="OK便利店：5天狂減（12-16/8）"|shop="OK便利店"|start_date="2024-08-12"|end_date="2024-08-16"|text="普通特價，任何人均可享受"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（12/8）"|shop="萬寧"|applicable_days_of_week=3|text="任何人均可享受的普通特價"|result=0
