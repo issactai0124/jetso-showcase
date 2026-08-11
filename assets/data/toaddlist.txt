@@ -42,3 +42,6 @@ title="大家樂：本週會員優惠（至16/8）"|shop="大家樂"|text="餐�
 title="明星海鮮酒家：晚飯超值優惠"|shop="明星海鮮酒家"|text="餐廳"|result=0
 title="龍豐：每週至抵「豐搶價」 （至17/8）"|shop="龍豐"|end_date="2024-08-17"|text="普通特價，無會員或特定支付門檻"|result=0
 title="海港飲食：時令午市精選 低至$38"|shop="海港飲食"|applicable_days_of_week="1,2,3,4,5"|text="餐廳"|result=0
+title="夏日BB購物節 低至1折（12-17/8）"|shop="夏日BB購物節"|start_date="2024-08-12"|end_date="2024-08-17"|text="任何人均可享受的普通特價且不符商店類型"|result=0
+title="Chateraise：人氣泡芙組合優惠 "|shop="Chateraise"|start_date="2026-07-31"|text="任何人均可享受的普通特價"|result=0
+title="馬拉松便服及運動名牌 X 特褔 Tefal 開倉（12-17/8）"|shop="馬拉松, 特褔"|start_date="2024-08-12"|end_date="2024-08-17"|text="服裝店及電器店"|result=0
