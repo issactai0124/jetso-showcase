@@ -72,3 +72,6 @@ title="維他：買指定飲品 送「維他菊花茶便攜式噴霧風扇」（
 title="大家樂：超值家餸 外賣優惠 足一斤鹹香雞 $50"|shop="大家樂"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - 消暑好物推介​"|shop="Uniqlo"|text="服裝店"|result=0
 title="大快活：APP會員限定 阿活燒肉套餐 減$10（至25/8）"|shop="大快活"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至18/8）"|shop="7-Eleven"|end_date="2024-08-18"|text="普通特價"|result=0
+title="中華文化嘉年華（14-17/8）"|shop="中華文化嘉年華"|start_date="2026-08-14"|end_date="2026-08-17"|text="非指定商店類型（文化活動）且為公眾免費活動"|result=0
+title="農夫山泉：免費派發 茶π冰爽果茶（14-23/8）"|shop="農夫山泉"|start_date="2020-08-14"|end_date="2020-08-23"|text="任何人均可參與的免費推廣，缺乏會員或特定支付門檻"|result=0
