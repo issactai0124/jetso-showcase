@@ -78,3 +78,14 @@ title="農夫山泉：免費派發 茶π冰爽果茶（14-23/8）"|shop="農夫�
 title="東海堂：新登場 朱古力麻糬菠蘿包/榛子朱古力麻糬銅鑼燒​"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
 title="佳宝食品超級市場：週週佳驚喜（14-20/8）"|shop="佳宝食品超級市場"|start_date="2024-08-14"|end_date="2024-08-20"|text="普通特價宣傳，不符合會員或特定支付方式要求"|result=0
 title="大家樂：晚市 冬瓜盅2人餐 $99（14-18/8）"|shop="大家樂"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（14/8）"|shop="MTR"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（14/8）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（14/8）"|shop="惠康超級市場"|start_date="2024-08-14"|text="普通特價、減價宣傳"|result=0
+title="屈臣氏最新購物優惠（14/8）"|shop="屈臣氏"|text="普通特價宣傳，缺乏會員或特定支付門檻"|result=0
+title="萬寧：周五購物攻略（14/8）"|shop="萬寧"|start_date="2020-08-14"|applicable_days_of_week=5|text="普通特價或週末優惠"|result=0
+title="阿波羅 Appolo：Monaka雪糕優惠（至16/8）"|shop="阿波羅 Appolo"|min_spend=22|end_date="2024-08-16"|text="任何人都可以享受的普通特價"|result=0
+title="牙膏最新優惠（14/8）"|shop="未提供"|text="缺乏會員或特定支付方式門檻"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至16/8）"|shop="Living Plaza / Daiso Japan"|end_date="2024-08-16"|text="任何人均可享有的週末優惠"|result=0
+title="米線陣： 熱鍋系列 / 花膠蟹柳魚粒冬瓜盅配米線"|shop="米線陣"|text="餐廳"|result=0
+title="實惠 Pricerite：精選傢俬/床品優惠"|shop="實惠 Pricerite"|text="家具店"|result=0
+title="AEON：週末勁減（至16/8）"|shop="AEON"|end_date="2024-08-16"|text="百貨公司及週末優惠"|result=0
