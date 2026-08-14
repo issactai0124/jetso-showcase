@@ -89,3 +89,5 @@ title="Living Plaza / Daiso Japan：週末優惠（至16/8）"|shop="Living Plaz
 title="米線陣： 熱鍋系列 / 花膠蟹柳魚粒冬瓜盅配米線"|shop="米線陣"|text="餐廳"|result=0
 title="實惠 Pricerite：精選傢俬/床品優惠"|shop="實惠 Pricerite"|text="家具店"|result=0
 title="AEON：週末勁減（至16/8）"|shop="AEON"|end_date="2024-08-16"|text="百貨公司及週末優惠"|result=0
+title="海港飲食：超值午市．全包宴"|shop="海港酒家"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至18/8）"|shop="7-Eleven"|payment="yuu會員"|end_date="2023-08-25"|text="yuu會員以4,500積分兌換7-Eleven電子現金券$25，或以9,300積分兌換$55電子現金券"|result=1
