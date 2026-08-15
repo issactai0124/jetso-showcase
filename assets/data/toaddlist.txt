@@ -96,3 +96,9 @@ title="AEON：Mono Mono置富店 開幕優惠（15-30/8）"|shop="AEON"|start_da
 title="香港濕地公園：全國生態日 免費入場 （15/8）"|shop="香港濕地公園"|start_date="2026-08-15"|end_date="2026-08-15"|text="不符合商店類型（公園/景點）且為任何人均可享受的普通優惠"|result=0
 title="維他奶 山水 ：免費派發全新「無添加糖鮮豆漿480毫升」（15-16/8、22-23/8、29-30/8）"|shop="維他奶 山水"|text="任何人均可享受的普通特價或新品推廣"|result=0
 title="優惠360：最新優惠（至27/8）"|shop="優品360"|end_date="2024-08-27"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：最新優惠（15/8）"|shop="萬寧"|start_date="2024-08-15"|end_date="2024-08-15"|text="普通特價或減價宣傳"|result=0
+title="百佳超級市場最新優惠（15/8）"|shop="百佳超級市場"|min_spend=100|amt=12|start_date="2026-08-14"|end_date="2026-08-19"|text="任何人均可享受的普通特價優惠"|result=0
+title="惠康超級市場最新優惠（15/8）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="聖安娜：全新升級 花生糯米糍"|shop="聖安娜"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="U士多：最新優惠（至27/8）"|shop="U士多"|end_date="2024-08-27"|text="普通特價或減價宣傳"|result=0
+title="7-Eleven：CoCo壱番屋 / 築地銀だこ 聯乘食品"|shop="7-Eleven"|text="新品推廣且無會員或特定支付門檻"|result=0
