@@ -102,3 +102,4 @@ title="惠康超級市場最新優惠（15/8）"|shop="惠康超級市場"|text=
 title="聖安娜：全新升級 花生糯米糍"|shop="聖安娜"|text="新品推廣且無特定支付或會員門檻"|result=0
 title="U士多：最新優惠（至27/8）"|shop="U士多"|end_date="2024-08-27"|text="普通特價或減價宣傳"|result=0
 title="7-Eleven：CoCo壱番屋 / 築地銀だこ 聯乘食品"|shop="7-Eleven"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="樓上：$2優惠券"|shop="樓上"|amt=2|text="缺乏會員或特定支付方式要求"|result=0
