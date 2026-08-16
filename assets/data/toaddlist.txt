@@ -112,3 +112,7 @@ title="百佳超級市場最新優惠（16/8）"|shop="百佳超級市場"|text=
 title="樓上 / 位元堂：最新優惠（16/8）"|shop="樓上 / 位元堂"|text="缺乏會員或特定支付方式門檻資訊"|result=0
 title="美心西餅：新登場 菠蘿包鳳梨酥 / 黑芝麻麻糬"|shop="美心西餅"|text="任何人都可以享受的普通特價、新品推廣"|result=0
 title="BoC Pay+：大快活 付款優惠（至15/10）"|shop="大快活"|payment="BoC Pay+"|min_spend=30|amt=3|start_date="2024-08-15"|end_date="2024-10-15"|text="餐廳"|result=0
+title="7-Eleven：全新一期 yuu印花獎賞（至6/10）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-10-06"|text="yuu會員於7-Eleven可享印花獎賞"|result=1
+title="奇趣天地：文具部/卡通文具用品 全線88折（至20/9）"|shop="奇趣天地"|text="不符商店類型及無門檻普通特價"|result=0
+title="大家樂：新產品 日式咖喱煎蛋焗豬扒飯"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：抵食套餐 / 店長推介 / 震撼價（至26/8）"|shop="OK便利店"|end_date="2024-08-26"|text="任何人都可以享受的普通特價"|result=0
