@@ -116,3 +116,7 @@ title="7-Eleven：全新一期 yuu印花獎賞（至6/10）"|shop="7-Eleven"|pay
 title="奇趣天地：文具部/卡通文具用品 全線88折（至20/9）"|shop="奇趣天地"|text="不符商店類型及無門檻普通特價"|result=0
 title="大家樂：新產品 日式咖喱煎蛋焗豬扒飯"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：抵食套餐 / 店長推介 / 震撼價（至26/8）"|shop="OK便利店"|end_date="2024-08-26"|text="任何人都可以享受的普通特價"|result=0
+title="爭鮮迴轉壽司：三文魚限時優惠（17-19/8）"|shop="爭鮮迴轉壽司"|rate=0.33|start_date="2024-08-17"|end_date="2024-08-19"|text="餐廳"|result=0
+title="大生生活超市：夏日有泰度（至25/8）"|shop="大生生活超市"|end_date="2024-08-25"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="龍豐：每週精選推廣（17-23/8）"|shop="龍豐"|start_date="2024-08-17"|end_date="2024-08-23"|text="普通特價宣傳，非會員或特定支付方式優惠"|result=0
+title="麥當勞App：Monday麥麥勁賞 / 限量新品 巨無霸吹氣墊/沙灘巾（17/8起）"|shop="麥當勞"|text="餐廳"|result=0
