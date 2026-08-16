@@ -107,3 +107,8 @@ title="一田超市：挑戰特價（至20/8）"|shop="一田超市"|end_date="2
 title="Chateraise：2026夏日冰品祭（至31/10）"|shop="Chateraise"|min_spend=179|start_date="2026-08-14"|end_date="2026-10-31"|text="普通特價或推廣，非會員或特定支付方式專屬"|result=0
 title="美心MX：外賣加餸 沙薑雲英雞"|shop="美心MX"|text="餐廳"|result=0
 title="Uniqlo：每週限定優惠（至20/8）"|shop="Uniqlo"|end_date="2024-08-20"|text="服裝店"|result=0
+title="萬寧：今日出位價（16/8）"|shop="萬寧"|start_date="2024-08-16"|end_date="2024-08-16"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（16/8）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="樓上 / 位元堂：最新優惠（16/8）"|shop="樓上 / 位元堂"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="美心西餅：新登場 菠蘿包鳳梨酥 / 黑芝麻麻糬"|shop="美心西餅"|text="任何人都可以享受的普通特價、新品推廣"|result=0
+title="BoC Pay+：大快活 付款優惠（至15/10）"|shop="大快活"|payment="BoC Pay+"|min_spend=30|amt=3|start_date="2024-08-15"|end_date="2024-10-15"|text="餐廳"|result=0
