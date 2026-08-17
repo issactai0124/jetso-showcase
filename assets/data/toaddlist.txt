@@ -131,3 +131,4 @@ title="759 阿信屋：今期勁筍推介（至30/8）"|shop="759 阿信屋"|tex
 title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
 title="OK便利店：本週激筍（至23/8）"|shop="OK便利店"|end_date="2024-08-23"|text="任何人都可以享受的普通特價"|result=0
 title="易賞錢 MoneyBack：用1分搶 大家樂優惠券/現金券（18/8）"|shop="大家樂"|text="餐廳"|result=0
+title="一粥麵：晚市 冬瓜盅2人餐 $109（18-24/8）"|shop="一粥麵"|text="餐廳"|result=0
