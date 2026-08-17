@@ -120,3 +120,7 @@ title="爭鮮迴轉壽司：三文魚限時優惠（17-19/8）"|shop="爭鮮迴�
 title="大生生活超市：夏日有泰度（至25/8）"|shop="大生生活超市"|end_date="2024-08-25"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
 title="龍豐：每週精選推廣（17-23/8）"|shop="龍豐"|start_date="2024-08-17"|end_date="2024-08-23"|text="普通特價宣傳，非會員或特定支付方式優惠"|result=0
 title="麥當勞App：Monday麥麥勁賞 / 限量新品 巨無霸吹氣墊/沙灘巾（17/8起）"|shop="麥當勞"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（17/8）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|start_date="2024-08-17"|end_date="2024-08-17"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（17/8）"|shop="百佳超級市場"|text="缺乏具體優惠內容及會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（17/8）"|shop="惠康超級市場"|text="普通特價或減價宣傳，非會員或特定支付方式專屬"|result=0
+title="7-Eleven：最新優惠（17/8）"|shop="7-Eleven"|start_date="2026-08-17"|end_date="2026-08-21"|text="任何人都可以享受的普通特價或產品推廣，缺乏會員或特定支付方式門檻"|result=0
