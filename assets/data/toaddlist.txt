@@ -147,3 +147,4 @@ title="名牌戶外用品及品味生活展（19-24/8）"|shop="名牌戶外用�
 title="AEON：周三新鮮日（19/8）"|shop="AEON"|text="任何人都可以享受的普通特價及百貨公司"|result=0
 title="東海堂：全新 Hello Kitty/Pochacco「Fancy Sweets 三文治甜品系列」"|shop="東海堂"|text="新品推廣且無特定支付方式或會員門檻"|result=0
 title="大生生活超市：快閃優惠（至25/8）"|shop="大生生活超市"|end_date="2024-08-25"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（19/8）"|shop="萬寧"|applicable_days_of_week=3|text="任何人都可以享受的普通特價"|result=0
