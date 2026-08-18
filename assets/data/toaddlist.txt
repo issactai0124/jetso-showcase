@@ -136,3 +136,8 @@ title="KFC：最新「肯！抵DEAL」（至31/8）"|shop="KFC"|end_date="2024-0
 title="屈臣氏：最新優惠（18/8）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-08-18"|end_date="2024-08-18"|text="易賞錢會員於品牌日買指定產品享額外88折，滿$60送$20電子現金券"|result=1
 title="百佳超級市場最新優惠（18/8）"|shop="百佳超級市場"|text="任何人都可以享受的普通特價"|result=0
 title="惠康超級市場最新優惠（18/8）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="聖安娜：新口味 酸種三文治"|shop="聖安娜"|payment="會員"|amt=6|text="聖安娜會員憑電子券購買新口味酸種三文治可享優惠價$26"|result=1
+title="大家樂：買指定招牌焗飯套餐 送《劇場版 CHIIKAWA 人魚島的秘密》 扇子"|shop="大家樂"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至24/8）"|shop="龍豐"|end_date="2024-08-24"|text="普通特價，任何人均可享受，缺乏會員或特定支付門檻"|result=0
+title="美心西餅：Eatizen會員 芒果 mochi 芝士蛋糕 77折（至31/8） "|shop="美心西餅"|payment="Eatizen會員"|rate=0.23|amt=59.3|end_date="2026-08-31"|text="Eatizen會員購買或預訂芒果mochi芝士蛋糕享77折"|result=1
+title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/8）"|shop="宜家 IKEA"|end_date="2024-08-31"|text="餐廳、家具店"|result=0
