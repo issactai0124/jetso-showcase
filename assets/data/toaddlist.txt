@@ -143,3 +143,7 @@ title="美心西餅：Eatizen會員 芒果 mochi 芝士蛋糕 77折（至31/8）
 title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/8）"|shop="宜家 IKEA"|end_date="2024-08-31"|text="餐廳、家具店"|result=0
 title="家用電器及休閒服飾特賣 低至1折（19-24/8）"|shop="家用電器及休閒服飾"|start_date="2024-08-19"|end_date="2024-08-24"|text="電器及服裝店"|result=0
 title="譚仔雲南米線：小食大放餸（至31/8）"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="名牌戶外用品及品味生活展（19-24/8）"|shop="名牌戶外用品及品味生活展"|start_date="2024-08-19"|end_date="2024-08-24"|text="不符合商店類型且為一般特價活動"|result=0
+title="AEON：周三新鮮日（19/8）"|shop="AEON"|text="任何人都可以享受的普通特價及百貨公司"|result=0
+title="東海堂：全新 Hello Kitty/Pochacco「Fancy Sweets 三文治甜品系列」"|shop="東海堂"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="大生生活超市：快閃優惠（至25/8）"|shop="大生生活超市"|end_date="2024-08-25"|text="任何人都可以享受的普通特價"|result=0
