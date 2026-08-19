@@ -150,3 +150,8 @@ title="大生生活超市：快閃優惠（至25/8）"|shop="大生生活超市"
 title="萬寧：星期三氹氹你 優惠大放送（19/8）"|shop="萬寧"|applicable_days_of_week=3|text="任何人都可以享受的普通特價"|result=0
 title="MTR Mobile：港鐵即時賞（19/8）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
 title="大家樂：茶市限定 抵食Chill驚喜！（至31/8）"|shop="大家樂"|end_date="2024-08-31"|text="餐廳"|result=0
+title="譚仔三哥米線：8月會員限定小食優惠（至31/8）"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="7-Eleven：買指定品牌蛋白產品4件 即享8折（至23/8）"|shop="7-Eleven"|rate=0.2|end_date="2024-08-23"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="大快活：月滿中秋盆菜 三重驚喜"|shop="大快活"|text="餐廳"|result=0
+title="包點先生：全新 傳統中式糕點"|shop="包點先生"|text="普通特價及新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：黃昏5-6點 著數搶先食"|shop="大家樂"|text="餐廳"|result=0
