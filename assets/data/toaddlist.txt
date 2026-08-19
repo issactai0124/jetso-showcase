@@ -155,3 +155,5 @@ title="7-Eleven：買指定品牌蛋白產品4件 即享8折（至23/8）"|shop=
 title="大快活：月滿中秋盆菜 三重驚喜"|shop="大快活"|text="餐廳"|result=0
 title="包點先生：全新 傳統中式糕點"|shop="包點先生"|text="普通特價及新品推廣，缺乏會員或特定支付方式門檻"|result=0
 title="大家樂：黃昏5-6點 著數搶先食"|shop="大家樂"|text="餐廳"|result=0
+title="A-1 Bakery：新登場 栗米濃湯麻糬燒 / 章魚燒麻糬波波球"|shop="A-1 Bakery"|text="新品推廣，非會員或特定支付優惠"|result=0
+title="Pizza Hut：yuu會員 限量搶券 低至45折美食（逢星期四、至10/9）"|shop="Pizza Hut"|text="餐廳"|result=0
