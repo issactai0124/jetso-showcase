@@ -157,3 +157,5 @@ title="包點先生：全新 傳統中式糕點"|shop="包點先生"|text="普�
 title="大家樂：黃昏5-6點 著數搶先食"|shop="大家樂"|text="餐廳"|result=0
 title="A-1 Bakery：新登場 栗米濃湯麻糬燒 / 章魚燒麻糬波波球"|shop="A-1 Bakery"|text="新品推廣，非會員或特定支付優惠"|result=0
 title="Pizza Hut：yuu會員 限量搶券 低至45折美食（逢星期四、至10/9）"|shop="Pizza Hut"|text="餐廳"|result=0
+title="OK便利店：買雪糕滿$60 即享8折優惠（20-22/8）"|shop="OK便利店"|min_spend=60|rate=0.2|start_date="2024-08-20"|end_date="2024-08-22"|text="任何人均可享用的普通特價"|result=0
+title="Pizza Hut：快閃優惠 Pizza 買1送1（20-31/8）"|shop="Pizza Hut"|text="餐廳"|result=0
