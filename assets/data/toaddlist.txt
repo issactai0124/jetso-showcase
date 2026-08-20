@@ -170,3 +170,7 @@ title="一粥麵：中秋鮑魚佛跳牆盆菜 早鳥7折優惠（至24/9）"|sh
 title="永安百貨：星期四至日至抵推介（至23/8）"|shop="永安百貨"|end_date="2024-08-23"|text="百貨公司"|result=0
 title="永年士多：下午茶餐 $18起"|shop="永年士多"|text="餐廳"|result=0
 title="Uniqlo：優惠專區 - Back to school & work"|shop="Uniqlo"|text="服裝店"|result=0
+title="KFC：期間限定 「日式滑蛋雞扒桶飯」系列"|shop="KFC"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至25/8）"|shop="7-Eleven"|end_date="2024-08-25"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="香港電腦通訊節2026（21-24/8）"|shop="香港電腦通訊節2026"|start_date="2026-08-21"|end_date="2026-08-24"|text="電器"|result=0
+title="佳宝食品超級市場：週週佳驚喜（21-26/8）"|shop="佳宝食品超級市場"|start_date="2024-08-21"|end_date="2024-08-26"|text="普通特價，無會員或特定支付方式門檻"|result=0
