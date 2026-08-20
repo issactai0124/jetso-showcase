@@ -164,3 +164,9 @@ title="惠康 / 百佳：最新優惠（20/8）"|shop="惠康 / 百佳"|start_da
 title="樓上 / 大棧：最新優惠（20/8）"|shop="樓上 / 大棧"|text="缺乏具體優惠內容及會員或特定支付方式門檻資訊"|result=0
 title="大家樂：eatCDC限定套裝  早市/茶市 平均低至$30一餐"|shop="大家樂"|text="餐廳"|result=0
 title="Living Plaza / Daiso Japan：週末優惠（至23/8）"|shop="Living Plaza / Daiso Japan"|end_date="2024-08-23"|text="任何人均可享有的週末優惠"|result=0
+title="譚仔三哥米線：全新「紅燒湯獅子頭沙河粉」"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="屈臣氏：買指定舒適達牙膏5支 送總值$542禮品（至25/8）"|shop="屈臣氏"|text="普通特價/贈品推廣，非會員或特定支付方式專屬"|result=0
+title="一粥麵：中秋鮑魚佛跳牆盆菜 早鳥7折優惠（至24/9）"|shop="一粥麵"|text="餐廳"|result=0
+title="永安百貨：星期四至日至抵推介（至23/8）"|shop="永安百貨"|end_date="2024-08-23"|text="百貨公司"|result=0
+title="永年士多：下午茶餐 $18起"|shop="永年士多"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - Back to school & work"|shop="Uniqlo"|text="服裝店"|result=0
