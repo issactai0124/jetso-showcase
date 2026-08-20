@@ -174,3 +174,5 @@ title="KFC：期間限定 「日式滑蛋雞扒桶飯」系列"|shop="KFC"|text=
 title="7-Eleven：本週優惠（至25/8）"|shop="7-Eleven"|end_date="2024-08-25"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="香港電腦通訊節2026（21-24/8）"|shop="香港電腦通訊節2026"|start_date="2026-08-21"|end_date="2026-08-24"|text="電器"|result=0
 title="佳宝食品超級市場：週週佳驚喜（21-26/8）"|shop="佳宝食品超級市場"|start_date="2024-08-21"|end_date="2024-08-26"|text="普通特價，無會員或特定支付方式門檻"|result=0
+title="銀色債券2026 保證息率4.25厘（認購期：21/8-4/9）"|shop="香港政府"|payment="1967年或之前出生的香港居民"|min_spend=10000|rate=0.0425|start_date="2026-08-21"|end_date="2026-09-04"|text="非指定商店類型 (金融產品/債券)"|result=0
+title="一田夏日購物賞（21-30/8）"|shop="一田"|start_date="2024-08-21"|end_date="2024-08-30"|text="百貨公司及普通特價"|result=0
