@@ -185,3 +185,5 @@ title="萬寧：周五購物攻略（21/8）"|shop="萬寧"|text="普通特價�
 title="阿波羅 Appolo：奇脆冰杯 $25/4件（至23/8）"|shop="阿波羅 Appolo"|end_date="2024-08-23"|text="任何人都可以享受的普通特價"|result=0
 title="AEON：週末勁減（至23/8）"|shop="AEON"|end_date="2024-08-23"|text="週末優惠/普通特價"|result=0
 title="譚仔雲南米線：APP會員限定 GymGym套餐 $47起"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="真好城 JHC：全場買滿$125 家品即享75折"|shop="JHC"|min_spend=125|text="任何人均可享受的普通特價"|result=0
+title="大家樂：會員限定 四市套餐優惠（至6/9）"|shop="大家樂"|text="餐廳"|result=0
