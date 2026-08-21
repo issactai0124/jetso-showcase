@@ -187,3 +187,8 @@ title="AEON：週末勁減（至23/8）"|shop="AEON"|end_date="2024-08-23"|text=
 title="譚仔雲南米線：APP會員限定 GymGym套餐 $47起"|shop="譚仔雲南米線"|text="餐廳"|result=0
 title="真好城 JHC：全場買滿$125 家品即享75折"|shop="JHC"|min_spend=125|text="任何人均可享受的普通特價"|result=0
 title="大家樂：會員限定 四市套餐優惠（至6/9）"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至25/8）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-08-25"|text="yuu會員可享指定牛奶買5送1及以積分兌換現金券優惠"|result=1
+title="元気寿司：《DAN DA DAN》限定餐目/精品"|shop="元気寿司"|text="餐廳"|result=0
+title="LOFT： 8月22日開幕 @MOKO"|shop="LOFT"|payment="YAICHI TOMO 付費會員"|start_date="2026-08-21"|end_date="2026-08-24"|text="雜貨店"|result=0
+title="A-1 Bakery：指定分店 免費試食 章魚燒麻糬波波球（22/8）"|shop="A-1 Bakery"|min_spend=50|start_date="2026-08-22"|end_date="2026-08-22"|text="非會員專屬或指定支付方式優惠"|result=0
+title="AEON：夏之麵祭（至2/9）"|shop="AEON"|end_date="2024-09-02"|text="一般減價宣傳及百貨公司"|result=0
