@@ -192,3 +192,4 @@ title="元気寿司：《DAN DA DAN》限定餐目/精品"|shop="元気寿司"|t
 title="LOFT： 8月22日開幕 @MOKO"|shop="LOFT"|payment="YAICHI TOMO 付費會員"|start_date="2026-08-21"|end_date="2026-08-24"|text="雜貨店"|result=0
 title="A-1 Bakery：指定分店 免費試食 章魚燒麻糬波波球（22/8）"|shop="A-1 Bakery"|min_spend=50|start_date="2026-08-22"|end_date="2026-08-22"|text="非會員專屬或指定支付方式優惠"|result=0
 title="AEON：夏之麵祭（至2/9）"|shop="AEON"|end_date="2024-09-02"|text="一般減價宣傳及百貨公司"|result=0
+title="優品360：本週優惠（至27/8）"|shop="優品360"|end_date="2024-08-27"|text="普通特價/減價宣傳"|result=0
