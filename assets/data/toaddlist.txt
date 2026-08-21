@@ -177,3 +177,11 @@ title="佳宝食品超級市場：週週佳驚喜（21-26/8）"|shop="佳宝食�
 title="銀色債券2026 保證息率4.25厘（認購期：21/8-4/9）"|shop="香港政府"|payment="1967年或之前出生的香港居民"|min_spend=10000|rate=0.0425|start_date="2026-08-21"|end_date="2026-09-04"|text="非指定商店類型 (金融產品/債券)"|result=0
 title="一田夏日購物賞（21-30/8）"|shop="一田"|start_date="2024-08-21"|end_date="2024-08-30"|text="百貨公司及普通特價"|result=0
 title="大家樂：外賣優惠 五層脆燒腩/原隻鹹香雞（21-25/8）/ 爆抵鐵板餐（至27/8）"|shop="大家樂"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（21/8）"|shop="MTR"|payment="MTR Mobile 會員"|start_date="2024-08-21"|end_date="2024-08-21"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（21/8）"|shop="百佳超級市場"|text="普通特價/沒有門檻"|result=0
+title="惠康超級市場最新優惠（21/8）"|shop="惠康超級市場"|start_date="2024-08-21"|text="缺乏會員或特定支付方式門檻之優惠資訊"|result=0
+title="屈臣氏最新購物優惠（21/8）"|shop="屈臣氏"|start_date="2024-08-21"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="萬寧：周五購物攻略（21/8）"|shop="萬寧"|text="普通特價宣傳，無提及會員或特定支付方式要求"|result=0
+title="阿波羅 Appolo：奇脆冰杯 $25/4件（至23/8）"|shop="阿波羅 Appolo"|end_date="2024-08-23"|text="任何人都可以享受的普通特價"|result=0
+title="AEON：週末勁減（至23/8）"|shop="AEON"|end_date="2024-08-23"|text="週末優惠/普通特價"|result=0
+title="譚仔雲南米線：APP會員限定 GymGym套餐 $47起"|shop="譚仔雲南米線"|text="餐廳"|result=0
