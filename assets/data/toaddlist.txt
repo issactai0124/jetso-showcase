@@ -200,3 +200,6 @@ title="屈臣氏：火熱搶（22/8）"|shop="屈臣氏"|start_date="2024-08-22"
 title="奇華餅家：LINE FRIENDS 什錦奶皇月餅禮盒 / 港式經典餅家掛飾公仔匙扣盲盒 / 夏日雙重賞"|shop="奇華餅家"|text="普通特價或新品推廣，缺乏會員或特定支付方式門檻"|result=0
 title="7-Eleven：7仔預購網店 今期精品（至1/9）"|shop="7-Eleven"|start_date="2024-08-19"|end_date="2024-09-01"|text="新品推廣且無特定支付或會員折扣門檻"|result=0
 title="海港飲食：APP優惠 脆皮皇子豬 / 皇帝龍蝦"|shop="海港飲食"|text="餐廳"|result=0
+title="Uniqlo：每週限定優惠（至27/8）"|shop="Uniqlo"|end_date="2024-08-27"|text="服裝店"|result=0
+title="大家樂：eatCDC限定 日式咖喱焗飯二人餐券 $114"|shop="大家樂"|text="餐廳"|result=0
+title="大生生活超市：今期精選優惠（至6/9）"|shop="大生生活超市"|end_date="2024-09-06"|text="普通特價"|result=0
