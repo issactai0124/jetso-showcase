@@ -203,3 +203,9 @@ title="海港飲食：APP優惠 脆皮皇子豬 / 皇帝龍蝦"|shop="海港飲�
 title="Uniqlo：每週限定優惠（至27/8）"|shop="Uniqlo"|end_date="2024-08-27"|text="服裝店"|result=0
 title="大家樂：eatCDC限定 日式咖喱焗飯二人餐券 $114"|shop="大家樂"|text="餐廳"|result=0
 title="大生生活超市：今期精選優惠（至6/9）"|shop="大生生活超市"|end_date="2024-09-06"|text="普通特價"|result=0
+title="萬寧：今日出位價（23/8）"|shop="萬寧"|start_date="2024-08-23"|end_date="2024-08-23"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（23/8）"|shop="百佳超級市場"|start_date="2024-08-23"|text="普通特價宣傳且缺乏會員或特定支付門檻"|result=0
+title="惠康超級市場最新優惠（23/8）"|shop="惠康超級市場"|text="普通特價或減價宣傳，沒有提及會員或特定支付方式要求"|result=0
+title="樓上：最新優惠（23/8）"|shop="樓上"|text="普通特價或未提及會員/支付門檻"|result=0
+title="東海堂：霜田有沙 喵·便當月餅"|shop="東海堂"|payment="滙豐信用卡"|rate=0.4|end_date="2026-09-20"|text="憑滙豐信用卡購買指定月餅可享6折優惠"|result=1
+title="759 阿信屋：今期急凍冷凍精選（至30/8）"|shop="759 阿信屋"|end_date="2024-08-30"|text="普通特價、減價宣傳"|result=0
