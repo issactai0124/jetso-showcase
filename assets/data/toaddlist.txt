@@ -211,3 +211,8 @@ title="東海堂：霜田有沙 喵·便當月餅"|shop="東海堂"|payment="滙
 title="759 阿信屋：今期急凍冷凍精選（至30/8）"|shop="759 阿信屋"|end_date="2024-08-30"|text="普通特價、減價宣傳"|result=0
 title="Buffalo：繽紛下廚樂 低至3折（至6/9）"|shop="Buffalo"|end_date="2024-09-06"|text="非指定商店類型及一般減價"|result=0
 title="OK便利店：會員至抵價（至26/8）"|shop="OK便利店"|payment="會員"|end_date="2024-08-26"|text="OK便利店會員專享至抵價優惠至8月26日"|result=1
+title="爭鮮：會員限定 COUPON EXPRESS優惠加碼 $9.9尊享$40現金優惠券（24-31/8）"|shop="爭鮮"|text="餐廳"|result=0
+title="龍豐：每週精選推廣（24-30/8）"|shop="龍豐"|start_date="2024-08-24"|end_date="2024-08-30"|text="普通特價宣傳"|result=0
+title="壽司郎 Sushiro：指定分店 任何消費 送萌抱壽司吊2個（24/8起）"|shop="壽司郎"|text="餐廳"|result=0
+title="AEON：開心上學去 第2擊（至9/9）"|shop="AEON"|end_date="2024-09-09"|text="百貨公司及普通特價推廣"|result=0
+title="麥當勞：McGriddles全日早餐 / 脆薯餅 $10 / 超值套餐 免費轉配（24-28/8）"|shop="麥當勞"|text="餐廳"|result=0
