@@ -227,3 +227,4 @@ title="海港薈：鮑魚皇子豬全包宴"|shop="海港薈"|text="餐廳"|resu
 title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
 title="OK便利店：本週激筍（至30/8）"|shop="OK便利店"|end_date="2024-08-30"|text="任何人都可以享受的普通特價"|result=0
 title="一粥麵：外賣快閃優惠（25-28/8）"|shop="一粥麵"|text="餐廳"|result=0
+title="759 阿信屋：勁抵價（25-26/8）"|shop="759 阿信屋"|start_date="2024-08-25"|end_date="2024-08-26"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
