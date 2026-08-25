@@ -240,3 +240,4 @@ title="兒童圖書．童裝玩具．休閒服飾開倉（26/8-1/9）"|shop="兒
 title="爭鮮迴轉：指定分店 南方藍鰭吞拿魚祭（26-30/8）"|shop="爭鮮迴轉"|start_date="2024-08-26"|end_date="2024-08-30"|text="餐廳、任何人都可以享受的普通特價"|result=0
 title="AEON：周三新鮮日（26/8）"|shop="AEON"|text="任何人均可享有的普通特價優惠"|result=0
 title="OK便利店：5天狂減（26-30/8）"|shop="OK便利店"|start_date="2024-08-26"|end_date="2024-08-30"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（26/8）"|shop="萬寧"|start_date="2020-08-26"|end_date="2020-08-26"|applicable_days_of_week=3|text="任何人均可享受的普通特價或週三優惠"|result=0
