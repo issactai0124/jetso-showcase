@@ -231,3 +231,8 @@ title="759 阿信屋：勁抵價（25-26/8）"|shop="759 阿信屋"|start_date="
 title="萬寧 / 屈臣氏：最新優惠（25/8）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-08-25"|end_date="2024-08-25"|text="易賞錢會員於屈臣氏品牌日購買指定產品享額外88折，滿$60送$20電子現金券"|result=1
 title="百佳超級市場最新優惠（25/8）"|shop="百佳超級市場"|text="普通特價宣傳"|result=0
 title="惠康超級市場最新優惠（25/8）"|shop="惠康超級市場"|start_date="2024-08-25"|text="普通特價或未提及會員/特定支付方式門檻"|result=0
+title="東海堂：指定分店 全新三文治"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="MOS Burger：限時優惠套餐（至31/8）"|shop="MOS Burger"|start_date="2026-08-24"|end_date="2026-08-31"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至31/8）"|shop="龍豐"|end_date="2024-08-31"|text="普通特價"|result=0
+title="Pizza Hut：抵食EVERYDAY（星期一至四）"|shop="Pizza Hut"|text="餐廳"|result=0
+title="大家樂：GOOD價 新蔥激"|shop="大家樂"|text="餐廳"|result=0
