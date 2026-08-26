@@ -245,3 +245,6 @@ title="MTR Mobile：港鐵即時賞（26/8）"|shop="MTR Mobile"|text="不符合
 title="百佳 / 惠康：最新優惠（26/8）"|shop="百佳 / 惠康"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
 title="7-Eleven：買高蛋白飲品/牛奶/豆漿/豆奶/乳酪產品 滿 $100 即享75折（至30/8） "|shop="7-Eleven"|min_spend=100|rate=0.25|end_date="2024-08-30"|text="任何人都可以享受的普通特價"|result=0
 title="大家樂：早餐 呢啲GOOD價"|shop="大家樂"|text="餐廳"|result=0
+title="實惠 Pricerite：精選傢俬/家品/家電/寵物產品 低至4折"|shop="實惠 Pricerite"|text="傢俬店、電器、普通特價"|result=0
+title="華御結：超值御結雙重賞（26-28/8、1-2/9）"|shop="華御結"|start_date="2024-08-26"|end_date="2024-09-02"|text="任何人均可享用的普通特價"|result=0
+title="HK Express：長者限定 來回機票 低至兩折（預訂至30/8）"|shop="HK Express"|text="機票"|result=0
