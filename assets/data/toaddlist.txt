@@ -254,3 +254,4 @@ title="OK便利店：買能量飲品/高蛋白飲品/豆漿豆奶 滿$80 即享8
 title="MOS Burger：APP限定 下午茶餐印花活動（至6/9）"|shop="MOS Burger"|payment="MOS HK APP會員"|start_date="2026-08-24"|end_date="2026-09-06"|text="餐廳"|result=0
 title="吉野家：「深宵食堂」系列 $35起"|shop="吉野家"|text="餐廳"|result=0
 title="佳宝食品超級市場：全場8折（27/8-1/9）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-08-27"|end_date="2026-09-01"|text="普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="KFC：「好肯癲」系列 - 全新「雞粒粟米片奇脆撈」（27/8起）"|shop="KFC"|text="餐廳"|result=0
