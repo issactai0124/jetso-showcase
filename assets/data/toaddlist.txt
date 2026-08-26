@@ -248,3 +248,9 @@ title="大家樂：早餐 呢啲GOOD價"|shop="大家樂"|text="餐廳"|result=0
 title="實惠 Pricerite：精選傢俬/家品/家電/寵物產品 低至4折"|shop="實惠 Pricerite"|text="傢俬店、電器、普通特價"|result=0
 title="華御結：超值御結雙重賞（26-28/8、1-2/9）"|shop="華御結"|start_date="2024-08-26"|end_date="2024-09-02"|text="任何人均可享用的普通特價"|result=0
 title="HK Express：長者限定 來回機票 低至兩折（預訂至30/8）"|shop="HK Express"|text="機票"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至8/9）"|shop="7-Eleven"|end_date="2024-09-08"|text="任何人均可享受的普通特價"|result=0
+title="すき家 Sukiya：大埔太和廣場店 8月27日開張"|shop="すき家 Sukiya"|text="餐廳"|result=0
+title="OK便利店：買能量飲品/高蛋白飲品/豆漿豆奶 滿$80 即享8折（至28/8）"|shop="OK便利店"|min_spend=80|rate=0.2|end_date="2024-08-28"|text="任何人都可以享受的普通特價"|result=0
+title="MOS Burger：APP限定 下午茶餐印花活動（至6/9）"|shop="MOS Burger"|payment="MOS HK APP會員"|start_date="2026-08-24"|end_date="2026-09-06"|text="餐廳"|result=0
+title="吉野家：「深宵食堂」系列 $35起"|shop="吉野家"|text="餐廳"|result=0
+title="佳宝食品超級市場：全場8折（27/8-1/9）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-08-27"|end_date="2026-09-01"|text="普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
