@@ -241,3 +241,7 @@ title="爭鮮迴轉：指定分店 南方藍鰭吞拿魚祭（26-30/8）"|shop="
 title="AEON：周三新鮮日（26/8）"|shop="AEON"|text="任何人均可享有的普通特價優惠"|result=0
 title="OK便利店：5天狂減（26-30/8）"|shop="OK便利店"|start_date="2024-08-26"|end_date="2024-08-30"|text="任何人都可以享受的普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（26/8）"|shop="萬寧"|start_date="2020-08-26"|end_date="2020-08-26"|applicable_days_of_week=3|text="任何人均可享受的普通特價或週三優惠"|result=0
+title="MTR Mobile：港鐵即時賞（26/8）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳 / 惠康：最新優惠（26/8）"|shop="百佳 / 惠康"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：買高蛋白飲品/牛奶/豆漿/豆奶/乳酪產品 滿 $100 即享75折（至30/8） "|shop="7-Eleven"|min_spend=100|rate=0.25|end_date="2024-08-30"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：早餐 呢啲GOOD價"|shop="大家樂"|text="餐廳"|result=0
