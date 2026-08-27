@@ -258,3 +258,13 @@ title="KFC：「好肯癲」系列 - 全新「雞粒粟米片奇脆撈」（27/8
 title="惠康超級市場最新優惠（27/8）"|shop="惠康超級市場"|text="普通特價或減價宣傳"|result=0
 title="樓上 / 大棧：最新優惠（27/8）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付方式門檻要求"|result=0
 title="美心西餅：全新「芋頭紫米杯」"|shop="美心西餅"|text="新品推廣且無會員或特定支付要求"|result=0
+title="Uniqlo：優惠專區 夏日精選優惠​​"|shop="Uniqlo"|text="服裝店"|result=0
+title="大家樂：迎新月・樂團圓 中秋豐盛盆菜"|shop="大家樂"|text="餐廳"|result=0
+title="海港飲食：晚市優惠孖寶 / 晚市超值四選一"|shop="海港飲食"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至1/9）"|shop="7-Eleven"|end_date="2024-09-01"|text="任何人都可以享受的普通特價"|result=0
+title="譚仔三哥米線：全新「青爽紅甜雙椒拌米線」"|shop="譚仔三哥米線"|payment="八達通"|text="餐廳"|result=0
+title="大快活：APP會員限定 超值茶餐 $20起（至5/9）"|shop="大快活"|text="餐廳"|result=0
+title="八達通：828樂悠節 大派$828萬現金回贈（28/8-10/9）"|shop="八達通參與商戶"|payment="樂悠咭"|min_spend=100|amt=8|start_date="2024-08-28"|end_date="2024-09-10"|text="以樂悠咭於指定商戶(含超市、便利店、藥妝)單次消費滿$100可獲$8現金回贈"|result=1
+title="大家樂：晚市 冬瓜盅2人餐 $99（28/8-1/9）"|shop="大家樂"|start_date="2024-08-28"|end_date="2024-09-01"|text="餐廳"|result=0
+title="麥當勞：開心樂園餐 全新8款人氣CHIIKAWA玩具筆套（28/8起）"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：感謝日（28/8-2/9）"|shop="AEON"|start_date="2024-08-28"|end_date="2024-09-02"|text="百貨公司及普通減價宣傳"|result=0
