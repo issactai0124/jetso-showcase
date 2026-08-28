@@ -272,3 +272,18 @@ title="MTR Mobile：港鐵即時賞（28/8）"|shop="MTR Mobile"|payment="MTR Mo
 title="百佳超級市場最新優惠（28/8）"|shop="百佳超級市場"|start_date="2024-08-28"|text="普通特價"|result=0
 title="惠康超級市場最新優惠（28/8）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
 title="萬寧：周五購物攻略（28/8）"|shop="萬寧"|text="普通特價"|result=0
+title="吉野家：滋味早餐之選 香濃忌廉雞湯通粉"|shop="吉野家"|text="餐廳"|result=0
+title="眼鏡88：指定變色鏡片 5折（至31/8）"|shop="眼鏡88"|rate=0.5|end_date="2024-08-31"|text="非指定商店類型及一般減價優惠"|result=0
+title="阿波羅 Appolo：Magic Cone / Pari Cone 優惠（至30/8）"|shop="阿波羅"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="759阿信屋：長者限定 7折優惠（至30/8）"|shop="759阿信屋"|payment="長者"|rate=0.3|end_date="2024-08-30"|text="長者限定享7折優惠"|result=1
+title="聖安娜：全店正價產品 3件88折（至31/8）"|shop="聖安娜"|rate=0.12|end_date="2024-08-31"|text="任何人都可以享受的普通特價"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至2/9）"|shop="Living Plaza / Daiso Japan"|text="週末優惠且無會員或特定支付要求"|result=0
+title="美心西餅：秋日味道 栗子忌廉切餅"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="八達通：828樂悠節 商戶優惠一覽（28/8起）"|shop="八達通"|payment="樂悠卡"|start_date="2024-08-28"|text="包含餐廳等不符條件之商戶"|result=0
+title="7-Eleven：5天限定（至1/9）"|shop="7-Eleven"|payment="yuu會員"|end_date="2026-10-06"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
+title="GODIVA：新登場 薄荷味黑巧克力奶昔"|shop="GODIVA"|text="新品推廣且無會員或特定支付要求"|result=0
+title="TONYMOLY：19週年大減價 全場貨品 低至3折（至3/9）"|shop="TONYMOLY"|start_date="2026-08-28"|end_date="2026-09-03"|text="任何人均可享受的普通特價"|result=0
+title="Pepper Lunch：肉の日 黑椒牛肉飯 免費增加最大肉量（29/8）"|shop="Pepper Lunch"|start_date="2026-08-29"|end_date="2026-08-29"|text="餐廳"|result=0
+title="惠康超市：開學大折日 全店88折（29/8）"|shop="惠康超市"|rate=0.12|start_date="2024-08-29"|end_date="2024-08-29"|text="任何人均可享受的普通特價"|result=0
+title="芬達 Fanta：免費派發 橙味及提子味汽水"|shop="芬達 Fanta"|text="任何人都可以享受的普通特價、減價宣傳、週末優惠、新品推廣等"|result=0
+title="優品360：感謝祭（至10/9）"|shop="優品360"|end_date="2024-09-10"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
