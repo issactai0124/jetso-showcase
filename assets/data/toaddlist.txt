@@ -268,3 +268,7 @@ title="八達通：828樂悠節 大派$828萬現金回贈（28/8-10/9）"|shop="
 title="大家樂：晚市 冬瓜盅2人餐 $99（28/8-1/9）"|shop="大家樂"|start_date="2024-08-28"|end_date="2024-09-01"|text="餐廳"|result=0
 title="麥當勞：開心樂園餐 全新8款人氣CHIIKAWA玩具筆套（28/8起）"|shop="麥當勞"|text="餐廳"|result=0
 title="AEON：感謝日（28/8-2/9）"|shop="AEON"|start_date="2024-08-28"|end_date="2024-09-02"|text="百貨公司及普通減價宣傳"|result=0
+title="MTR Mobile：港鐵即時賞（28/8）"|shop="MTR Mobile"|payment="MTR Mobile會員"|start_date="2024-08-28"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（28/8）"|shop="百佳超級市場"|start_date="2024-08-28"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（28/8）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="萬寧：周五購物攻略（28/8）"|shop="萬寧"|text="普通特價"|result=0
