@@ -300,3 +300,14 @@ title="易賞錢：樂賞會迎新禮遇 / 828樂悠節 加碼優惠"|shop="易�
 title="麥當勞：樂悠節限定 4份指定套餐 $100起 + 送$48優惠券"|shop="麥當勞"|text="餐廳"|result=0
 title="鄰里同樂 · 夏日嘉年華（30/8）"|shop="仁愛堂"|start_date="2026-08-30"|end_date="2026-08-30"|text="社區活動"|result=0
 title="Uniqlo：期間限定優惠（至3/9）"|shop="Uniqlo"|end_date="2024-09-03"|text="服裝店"|result=0
+title="樓上 / 南北行：最新優惠（30/8）"|shop="樓上 / 南北行"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="百佳超級市場最新優惠（30/8）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（30/8）"|shop="惠康超級市場"|text="普通特價或減價宣傳，非會員或特定支付方式專屬優惠"|result=0
+title="7-Eleven：韓式手卷 2.0系列"|shop="7-Eleven"|start_date="2026-08-26"|end_date="2026-09-08"|text="任何人都可以享受的新品推廣優惠"|result=0
+title="紅十字會輸血服務中心：成功捐血 送「Blood Hero迷你保溫杯」（至5/9）"|shop="紅十字會輸血服務中心"|start_date="2024-08-30"|end_date="2024-09-05"|text="不符合商店類型"|result=0
+title="譚仔雲南米線：樂悠咭限定 素菜卷大纖米線配雜菌素湯 $38（至10/9）"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="美心西餅：新登場 紫薯味卷蛋"|shop="美心西餅"|text="新品推廣且無會員或特定支付要求"|result=0
+title="OK便利店：店長推介 / 震撼價（至9/9）"|shop="OK便利店"|end_date="2024-09-09"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="大家樂：買$400現金券 送$400優惠券"|shop="大家樂"|text="餐廳"|result=0
+title="松屋 Matsuya：葵涌廣場店 8月31日開幕"|shop="松屋 Matsuya"|start_date="2023-08-31"|text="餐廳"|result=0
+title="龍豐：每週精選推廣（31/8-6/9）"|shop="龍豐"|start_date="2023-08-31"|end_date="2023-09-06"|text="普通特價"|result=0
