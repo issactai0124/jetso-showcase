@@ -323,3 +323,8 @@ title="永安百貨：Autumn Beauty（至27/9）"|shop="永安百貨"|end_date="
 title="759 阿信屋：今期勁筍推介（至13/9）"|shop="759 阿信屋"|end_date="2024-09-13"|text="普通特價或減價宣傳"|result=0
 title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
 title="OK便利店：本週激筍（至6/9）"|shop="OK便利店"|end_date="2024-09-06"|text="普通特價或減價宣傳"|result=0
+title="美心西餅：Back To School（1-5/9）"|shop="美心西餅"|start_date="2024-09-01"|end_date="2024-09-05"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="KFC：9月「肯！抵DEAL」"|shop="KFC"|text="餐廳"|result=0
+title="德國寶 German Pool：土瓜灣店 終極清貨 全場1折起（1-12/9）"|shop="德國寶 German Pool"|start_date="2024-09-01"|end_date="2024-09-12"|text="電器店及普通特價"|result=0
+title="一粥麵：至抵Deal（9月 逢星期二至四）"|shop="一粥麵"|text="餐廳"|result=0
+title="大快活：爆抵烤雞套餐 $68​"|shop="大快活"|text="餐廳"|result=0
