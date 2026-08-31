@@ -312,3 +312,14 @@ title="大家樂：買$400現金券 送$400優惠券"|shop="大家樂"|text="餐
 title="松屋 Matsuya：葵涌廣場店 8月31日開幕"|shop="松屋 Matsuya"|start_date="2023-08-31"|text="餐廳"|result=0
 title="龍豐：每週精選推廣（31/8-6/9）"|shop="龍豐"|start_date="2023-08-31"|end_date="2023-09-06"|text="普通特價"|result=0
 title="麥當勞App：麥麥勁賞 - $10九件麥樂雞 / $20脆辣雞腿飽配中汽水 / $20煙肉蛋漢堡配中汽水 / $10兩個香芋批（31/8起）"|shop="麥當勞"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（31/8）"|shop="MTR Mobile"|text="非指定商店類型"|result=0
+title="萬寧：今日出位價（31/8）"|shop="萬寧"|start_date="2024-08-31"|end_date="2024-08-31"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（31/8）"|shop="百佳超級市場"|start_date="2024-08-31"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（31/8）"|shop="惠康超級市場"|start_date="2024-08-31"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：最新優惠（31/8）"|shop="7-Eleven"|text="任何人均可享用的普通特價及電子優惠券，缺乏會員或特定支付方式門檻"|result=0
+title="東海堂：全新「香脆曲奇」"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="維他奶/鈣思寳：買1送1（至6/9）"|shop="7-Eleven/OK便利店"|start_date="2026-08-31"|end_date="2026-09-06"|text="任何人均可享受的普通特價優惠"|result=0
+title="永安百貨：Autumn Beauty（至27/9）"|shop="永安百貨"|end_date="2024-09-27"|text="百貨公司"|result=0
+title="759 阿信屋：今期勁筍推介（至13/9）"|shop="759 阿信屋"|end_date="2024-09-13"|text="普通特價或減價宣傳"|result=0
+title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至6/9）"|shop="OK便利店"|end_date="2024-09-06"|text="普通特價或減價宣傳"|result=0
