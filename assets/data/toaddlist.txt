@@ -332,3 +332,18 @@ title="屈臣氏：自家品牌日 3件88折（1/9）"|shop="屈臣氏"|payment=
 title="百佳超級市場最新優惠（1/9）"|shop="百佳超級市場"|text="普通特價或減價宣傳，不符合會員或特定支付方式專屬條件"|result=0
 title="惠康超級市場最新優惠（1/9）"|shop="惠康"|payment="指定Visa信用卡"|min_spend=500|amt=40|start_date="2026-08-31"|end_date="2026-10-04"|text="於惠康門市以指定Visa信用卡單一簽賬滿HK$500即減HK$40"|result=1
 title="魚尚：魚尚日 半額（9月 逢星期二）"|shop="魚尚"|text="任何人均可享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="Jollibean：日日驚喜 指定飲品 $28（至30/9）"|shop="Jollibean"|end_date="2024-09-30"|text="任何人都可以享受的普通特價"|result=0
+title="BoC Pay+：月月賞 每月1號 新優惠券上線"|shop="BoC Pay"|payment="BoC Pay"|applicable_days_of_month=1|text="未註明商店類型"|result=0
+title="東海堂：開學優惠（至14/9）"|shop="東海堂"|text="任何人均可享用的普通特價"|result=0
+title="大家樂：「紐西蘭南冰魚柳 精選湯粉•多士」早餐 $33"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：新學年！能量滿分 POWER UP！（至9/9）"|shop="OK便利店"|payment="OK Stamp It會員"|rate=0.2|start_date="2026-08-27"|end_date="2026-09-09"|text="OK Stamp It會員憑券購買Circle K夾心飛碟享8折優惠"|result=1
+title="龍豐：每週至抵「豐搶價」 （至7/9）"|shop="龍豐"|end_date="2024-09-07"|text="任何人均可享受的普通特價"|result=0
+title="美心MX / 美心Food²：學生優惠（至30/6/2027）"|shop="美心MX / 美心Food²"|text="餐廳"|result=0
+title="太興：粵西沙薑雞 外賣限定驚喜價"|shop="太興"|text="餐廳"|result=0
+title="渣打銀行：新一期 高息馬拉松活期存款 高達3.5%活期存款年利率（至30/9）"|shop="渣打銀行"|text="不符合商店類型"|result=0
+title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/9）"|shop="西樹泡芙"|start_date="2024-09-02"|end_date="2024-09-02"|text="任何人均可享用的普通特價"|result=0
+title="名牌服飾特賣 低至1折（2-7/9）"|shop="名牌服飾"|start_date="2024-09-02"|end_date="2024-09-07"|text="服裝店"|result=0
+title="A-1 Bakery：新會員大募集 限時迎新禮遇（至4/9）"|shop="A-1 Bakery"|payment="會員"|min_spend=0|amt=19|start_date="2026-09-01"|end_date="2026-09-04"|text="登記成為新會員可獲贈價值$19牛肉碎咖哩電子換領券"|result=1
+title="AEON：周三新鮮日（2/9）"|shop="AEON"|text="任何人均可享受的普通特價，不符合會員或特定支付方式門檻"|result=0
+title="永年士多：會員限定 紫菜鳳城水餃麵 $19"|shop="永年士多"|text="餐廳"|result=0
+title="Living Plaza / Daiso Japan：9月新優惠"|shop="Living Plaza / Daiso Japan"|text="缺乏會員或特定支付門檻資訊，且商店類型不符"|result=0
