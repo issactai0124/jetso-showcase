@@ -347,3 +347,5 @@ title="A-1 Bakery：新會員大募集 限時迎新禮遇（至4/9）"|shop="A-1
 title="AEON：周三新鮮日（2/9）"|shop="AEON"|text="任何人均可享受的普通特價，不符合會員或特定支付方式門檻"|result=0
 title="永年士多：會員限定 紫菜鳳城水餃麵 $19"|shop="永年士多"|text="餐廳"|result=0
 title="Living Plaza / Daiso Japan：9月新優惠"|shop="Living Plaza / Daiso Japan"|text="缺乏會員或特定支付門檻資訊，且商店類型不符"|result=0
+title="Pizza Hut：日日買1送1（至30/9）"|shop="Pizza Hut"|start_date="2026-09-01"|end_date="2026-09-30"|text="餐廳"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（2/9）"|shop="萬寧"|applicable_days_of_week=3|text="一般特價宣傳，非會員或特定支付方式專屬"|result=0
