@@ -360,3 +360,8 @@ title="一粥麵：單點皇牌粥麵 +$9隨心配人氣小食"|shop="一粥麵"
 title="海馬牌 / 軒琴居：開學換季優惠"|shop="海馬牌 / 軒琴居"|text="家具店"|result=0
 title="壽司郎 Sushiro：九州祭"|shop="壽司郎 Sushiro"|text="餐廳"|result=0
 title="宜家 IKEA：燒賣/魚蛋 $9.9/10粒 @美食站（至30/9） "|shop="宜家 IKEA"|end_date="2024-09-30"|text="餐廳"|result=0
+title="大家樂：晚市 爆抵鐵板餐 $49（至14/9）"|shop="大家樂"|end_date="2024-09-14"|text="餐廳"|result=0
+title="OK便利店：5天狂減（至6/9）/ 雪糕75折（至5/9）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
+title="美心MX / 美心Food²：長者晚市75折（3/9）"|shop="美心MX / 美心Food²"|payment="長者咭/樂悠咭/長者八達通"|rate=0.25|start_date="2020-09-03"|end_date="2020-09-03"|applicable_days_of_week="4"|text="餐廳"|result=0
+title="KFC：全新「山海珍味傳說」系列（3/9起）"|shop="KFC"|text="餐廳"|result=0
+title="海港飲食：中秋鮑魚花膠尚品鍋"|shop="海港酒家"|end_date="2026-09-27"|text="餐廳"|result=0
