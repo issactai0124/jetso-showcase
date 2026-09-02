@@ -349,3 +349,14 @@ title="永年士多：會員限定 紫菜鳳城水餃麵 $19"|shop="永年士多
 title="Living Plaza / Daiso Japan：9月新優惠"|shop="Living Plaza / Daiso Japan"|text="缺乏會員或特定支付門檻資訊，且商店類型不符"|result=0
 title="Pizza Hut：日日買1送1（至30/9）"|shop="Pizza Hut"|start_date="2026-09-01"|end_date="2026-09-30"|text="餐廳"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（2/9）"|shop="萬寧"|applicable_days_of_week=3|text="一般特價宣傳，非會員或特定支付方式專屬"|result=0
+title="MTR Mobile：港鐵即時賞（2/9）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（2/9）"|shop="百佳超級市場"|payment="BoC Pay+"|min_spend=200|amt=20|start_date="2024-09-02"|end_date="2026-09-30"|text="以BoC Pay+於百佳買滿HK$200領券即減HK$20"|result=1
+title="屈臣氏：星期三樂賞日（2/9）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-09-02"|end_date="2020-09-02"|applicable_days_of_week=3|text="易賞錢會員於星期三在屈臣氏購物可享樂賞日優惠"|result=1
+title="惠康超級市場最新優惠（2/9）"|shop="惠康超級市場"|text="普通特價或減價宣傳"|result=0
+title="吉野家：狂野沙嗲牛魔王 / 學生優惠"|shop="吉野家"|text="餐廳"|result=0
+title="759 阿信屋：勁抵價（至2/9）"|shop="759 阿信屋"|end_date="2024-09-02"|text="純特價或不符門檻"|result=0
+title="美心西餅：歐式酸種麵包"|shop="美心西餅"|text="新品推廣"|result=0
+title="一粥麵：單點皇牌粥麵 +$9隨心配人氣小食"|shop="一粥麵"|text="餐廳"|result=0
+title="海馬牌 / 軒琴居：開學換季優惠"|shop="海馬牌 / 軒琴居"|text="家具店"|result=0
+title="壽司郎 Sushiro：九州祭"|shop="壽司郎 Sushiro"|text="餐廳"|result=0
+title="宜家 IKEA：燒賣/魚蛋 $9.9/10粒 @美食站（至30/9） "|shop="宜家 IKEA"|end_date="2024-09-30"|text="餐廳"|result=0
