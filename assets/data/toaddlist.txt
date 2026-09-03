@@ -365,3 +365,14 @@ title="OK便利店：5天狂減（至6/9）/ 雪糕75折（至5/9）"|shop="OK�
 title="美心MX / 美心Food²：長者晚市75折（3/9）"|shop="美心MX / 美心Food²"|payment="長者咭/樂悠咭/長者八達通"|rate=0.25|start_date="2020-09-03"|end_date="2020-09-03"|applicable_days_of_week="4"|text="餐廳"|result=0
 title="KFC：全新「山海珍味傳說」系列（3/9起）"|shop="KFC"|text="餐廳"|result=0
 title="海港飲食：中秋鮑魚花膠尚品鍋"|shop="海港酒家"|end_date="2026-09-27"|text="餐廳"|result=0
+title="惠康 / 百佳：最新優惠（3/9）"|shop="惠康 / 百佳"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上 / 安記 / 大棧：最新優惠（3/9）"|shop="樓上 / 安記 / 大棧"|text="普通特價或缺乏會員/支付方式門檻"|result=0
+title="大快活：開學優惠四重奏"|shop="大快活"|text="餐廳"|result=0
+title="屈臣氏：買指定高露潔牙膏7支 送總值$999豐富禮品（至8/9）"|shop="屈臣氏"|start_date="2026-09-02"|end_date="2026-09-08"|text="任何人均可享受的普通特價或贈品推廣"|result=0
+title="元気寿司：全新「海洋的盛典：拖羅與海鮮祭」餐目"|shop="元気寿司"|text="餐廳"|result=0
+title="AlipayHK：現已登陸 Apple Pay 即享$88迎新禮券包"|shop="AlipayHK"|payment="Apple Pay"|amt=88|text="支付平台迎新優惠，非針對特定商店類別"|result=0
+title="吉野家：全新「明太子餐蛋漢堡」系列"|shop="吉野家"|text="餐廳"|result=0
+title="美心MX：9月期間 快閃優惠（至1/10）"|shop="美心MX"|start_date="2026-09-01"|end_date="2026-10-01"|applicable_days_of_week=1,2,3,4|text="餐廳"|result=0
+title="759 阿信屋：開學祭 全線7折（至6/9）"|shop="759 阿信屋"|rate=0.3|start_date="2024-09-03"|end_date="2024-09-06"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：黃昏早食驚喜 - 原個冬瓜盅+麻婆豆腐雞球燴飯（至14/9）"|shop="大家樂"|text="餐廳"|result=0
+title="稻香：金秋筒樂 $8、$9、$10點心 多達20款 任點任食"|shop="稻香"|text="餐廳"|result=0
