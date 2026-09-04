@@ -395,3 +395,7 @@ title="聖安娜：日日至抵價（至16/9）"|shop="聖安娜"|end_date="2024
 title="Living Plaza / Daiso Japan：週末優惠（至6/9）"|shop="Living Plaza / Daiso Japan"|end_date="2024-06-09"|text="週末優惠且無特定支付或會員門檻"|result=0
 title="美心西餅：香港情懷 ∙ 經典滋味 - 富豪雪糕造型蛋糕/港式奶茶雪芳蛋糕"|shop="美心西餅"|payment="Eatizen會員"|rate=0.1|text="Eatizen會員購買富豪雪糕造型蛋糕享9折優惠"|result=1
 title="7-Eleven：5天限定（至8/9）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-09-08"|text="yuu會員購買指定雪條享買8送1，購買指定牛奶享買5送1"|result=1
+title="宜家 IKEA：yuu會員限定 95折優惠（5/9）"|shop="IKEA"|payment="yuu會員"|rate=0.05|start_date="2024-09-05"|end_date="2024-09-05"|text="家具店"|result=0
+title="A-1 Bakery：經典美味復活 第3彈"|shop="A-1 Bakery"|text="普通特價、減價宣傳或新品推廣，非會員或特定支付方式專屬優惠"|result=0
+title="六合彩：50週年金多寶 估計頭獎基金 $2.28億（5/9）"|shop="香港賽馬會"|text="非指定商店類型及不符合會員或特定支付方式要求"|result=0
+title="優品360：本週優惠（至10/9）"|shop="優品360"|end_date="2024-10-09"|text="任何人都可以享受的普通特價"|result=0
