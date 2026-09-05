@@ -409,3 +409,8 @@ title="壽司郎 Sushiro：漁吉丸 - 天然藍鰭"|shop="壽司郎"|text="餐�
 title="759 阿信屋：新一輪 精選產品優惠券（至8/9）"|shop="759阿信屋"|payment="電子會員"|end_date="2026-09-08"|text="電子會員可於App內領取精選產品優惠券"|result=1
 title="大同老餅家：預售月餅券 第三輪優惠折扣（至25/9）"|shop="大同老餅家"|end_date="2024-09-25"|text="任何人都可以享受的普通特價"|result=0
 title="一田超市：挑戰特價（至10/9）"|shop="一田超市"|end_date="2024-09-10"|text="任何人都可以享受的普通特價"|result=0
+title="美心現場烘焙店：黑糖系列"|shop="美心現場烘焙店"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="香港賽馬會：馬季開鑼（6/9）"|shop="香港賽馬會"|text="不符合商店類型"|result=0
+title="燒肉Like：下午茶套餐優惠 $36起"|shop="燒肉Like"|text="餐廳"|result=0
+title="Uniqlo：每週限定優惠（至10/9）"|shop="Uniqlo"|end_date="2024-10-09"|text="服裝店"|result=0
+title="AEON：100周年 限定特賣（至30/9）"|shop="AEON"|end_date="2024-09-30"|text="百貨公司及普通特價"|result=0
