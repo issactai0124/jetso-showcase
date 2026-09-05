@@ -399,3 +399,13 @@ title="宜家 IKEA：yuu會員限定 95折優惠（5/9）"|shop="IKEA"|payment="
 title="A-1 Bakery：經典美味復活 第3彈"|shop="A-1 Bakery"|text="普通特價、減價宣傳或新品推廣，非會員或特定支付方式專屬優惠"|result=0
 title="六合彩：50週年金多寶 估計頭獎基金 $2.28億（5/9）"|shop="香港賽馬會"|text="非指定商店類型及不符合會員或特定支付方式要求"|result=0
 title="優品360：本週優惠（至10/9）"|shop="優品360"|end_date="2024-10-09"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：最新優惠（5/9）"|shop="萬寧"|start_date="2024-09-05"|text="普通特價"|result=0
+title="百佳超級市場最新優惠（5/9）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="惠康超級市場最新優惠（5/9）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏：火熱搶（5/9）"|shop="屈臣氏"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：早市 紫菜吞拿魚包"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至15/9）"|shop="7-Eleven"|start_date="2024-09-02"|end_date="2024-09-15"|text="任何人均可參與的新品推廣"|result=0
+title="壽司郎 Sushiro：漁吉丸 - 天然藍鰭"|shop="壽司郎"|text="餐廳"|result=0
+title="759 阿信屋：新一輪 精選產品優惠券（至8/9）"|shop="759阿信屋"|payment="電子會員"|end_date="2026-09-08"|text="電子會員可於App內領取精選產品優惠券"|result=1
+title="大同老餅家：預售月餅券 第三輪優惠折扣（至25/9）"|shop="大同老餅家"|end_date="2024-09-25"|text="任何人都可以享受的普通特價"|result=0
+title="一田超市：挑戰特價（至10/9）"|shop="一田超市"|end_date="2024-09-10"|text="任何人都可以享受的普通特價"|result=0
