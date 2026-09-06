@@ -422,3 +422,8 @@ title="唐記包點：新蒸包"|shop="唐記包點"|text="新品推廣且無特
 title="銀聯卡：「拼多多」購物 9折優惠（至31/12）"|shop="拼多多"|payment="銀聯卡"|min_spend=0|rate=0.1|amt=5|start_date="2026-09-01"|end_date="2026-12-31"|text="不符商店類型"|result=0
 title="美心MX：和風丼飯系列"|shop="美心MX"|text="餐廳"|result=0
 title="OK便利店：會員至抵價（至9/9）"|shop="OK便利店"|payment="會員"|end_date="2024-09-09"|text="OK便利店會員專享優惠，至2024年9月9日"|result=1
+title="大家樂：茶市 雞髀大激賞 $12/隻（7-10/9） "|shop="大家樂"|text="餐廳"|result=0
+title="龍豐：每週精選推廣（7-13/9）"|shop="龍豐"|start_date="2024-09-07"|end_date="2024-09-13"|text="普通特價宣傳"|result=0
+title="KFC：全新「肯！醒味」/ 新登場 貝果系列（至7/9起）"|shop="KFC"|text="餐廳"|result=0
+title="AEON：歡聚月下 饌享中秋（至25/9）"|shop="AEON"|end_date="2024-09-25"|text="百貨公司且為普通特價"|result=0
+title="麥當勞App：麥麥勁賞 第二週至抵優惠（7-13/9）"|shop="麥當勞"|text="餐廳"|result=0
