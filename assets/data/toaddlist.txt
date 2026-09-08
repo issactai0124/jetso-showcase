@@ -449,3 +449,12 @@ title="大生生活超市：今期精選優惠（至30/9）"|shop="大生生活�
 title="屈臣氏 / 萬寧：最新優惠（8/9）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-09-08"|end_date="2024-09-08"|text="易賞錢會員於屈臣氏品牌日買指定產品享額外88折，滿$60送$20電子現金券"|result=1
 title="百佳超級市場最新優惠（8/9）"|shop="百佳超級市場"|text="普通特價/減價宣傳，非會員或特定支付方式專屬"|result=0
 title="惠康超級市場最新優惠（8/9）"|shop="惠康超級市場"|text="普通特價或減價宣傳"|result=0
+title="美心西餅：全新「咸牛肉薯仔包」"|shop="美心西餅"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="大家樂：GOOD價 新蔥激"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：勁抵價（至9/9）"|shop="759 阿信屋"|end_date="2024-09-09"|text="任何人都可以享受的普通特價"|result=0
+title="聖安娜：新登場 高蛋白扭紋包  / 高鈣牛奶小餐包"|shop="聖安娜"|text="新品推廣及普通特價，非會員或特定支付方式專屬"|result=0
+title="龍豐：每週至抵「豐搶價」 （至14/9）"|shop="龍豐"|end_date="2024-09-14"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="大快活：午市 阿活咖喱吉列大豬扒"|shop="大快活"|text="餐廳"|result=0
+title="7-Eleven： 日本人氣品牌 niko and ... 聯乘第二彈"|shop="7-Eleven"|start_date="2024-09-07"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
+title="名牌服飾特賣 低至1折（9-14/9）"|rate=0.9|start_date="2024-09-09"|end_date="2024-09-14"|text="服裝店"|result=0
