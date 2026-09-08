@@ -459,3 +459,8 @@ title="7-Eleven： 日本人氣品牌 niko and ... 聯乘第二彈"|shop="7-Elev
 title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
 title="名牌服飾特賣 低至1折（9-14/9）"|rate=0.9|start_date="2024-09-09"|end_date="2024-09-14"|text="服裝店"|result=0
 title="AEON：周3大特賣 / 新鮮日（9/9）"|shop="AEON"|text="任何人均可享有的普通特價優惠"|result=0
+title="759 阿信屋：樂悠咭加碼賞 買滿$180 即送麵包/夾心餅（至10/9）"|shop="759 阿信屋"|payment="樂悠咭"|min_spend=180|end_date="2024-09-10"|text="憑樂悠咭於759阿信屋買滿$180即送麵包或夾心餅"|result=1
+title="簡簡單單 ecLIVING：秋日健康新煮意 3折起（至30/9）"|shop="ecLIVING 簡簡單單"|end_date="2024-09-30"|text="家居用品店及普通特價優惠"|result=0
+title="吉野家：激安美味大滿足"|shop="吉野家"|text="餐廳"|result=0
+title="OK便利店：5天狂減（9-13/9）"|shop="OK便利店"|start_date="2024-09-09"|end_date="2024-09-13"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（9/9）"|shop="萬寧"|start_date="2020-09-09"|end_date="2020-09-09"|applicable_days_of_week=3|text="普通特價或減價宣傳"|result=0
