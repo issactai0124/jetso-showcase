@@ -458,3 +458,4 @@ title="大快活：午市 阿活咖喱吉列大豬扒"|shop="大快活"|text="�
 title="7-Eleven： 日本人氣品牌 niko and ... 聯乘第二彈"|shop="7-Eleven"|start_date="2024-09-07"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="美心MX：午市 本週「心超值」套餐"|shop="美心MX"|text="餐廳"|result=0
 title="名牌服飾特賣 低至1折（9-14/9）"|rate=0.9|start_date="2024-09-09"|end_date="2024-09-14"|text="服裝店"|result=0
+title="AEON：周3大特賣 / 新鮮日（9/9）"|shop="AEON"|text="任何人均可享有的普通特價優惠"|result=0
