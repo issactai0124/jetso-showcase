@@ -473,3 +473,8 @@ title="大家樂：茶市 厚切火腿芝士西多士"|shop="大家樂"|text="�
 title="香港文化博物館：張國榮70誕辰紀念展（至10/5/2027）"|shop="香港文化博物館"|start_date="2024-09-09"|end_date="2027-05-10"|text="博物館"|result=0
 title="美心MX：燒味斬料 限時優惠（至28/9）"|shop="美心MX"|start_date="2026-09-08"|end_date="2026-09-28"|text="餐廳"|result=0
 title="7-Eleven：今期「$10一口價」限時優惠（至22/9）"|shop="7-Eleven"|end_date="2024-09-22"|text="任何人都可以享受的普通特價"|result=0
+title="大快活 x 24/7 Fitness：試玩試食套票"|shop="大快活"|text="餐廳"|result=0
+title="維他奶：買指定飲品滿$20 +$1換購「維他奶造型摺疊雨傘收納袋」"|shop="7-Eleven, Circle K"|min_spend=20|start_date="2024-09-09"|text="任何人均可享用的普通換購優惠"|result=0
+title="淘大：免費派發 限量版原釀．醇鮮頭抽（10-12/9）"|shop="淘大"|start_date="2020-09-10"|end_date="2020-09-12"|text="任何人均可享用的免費派發活動"|result=0
+title="華御結：指定御結 $12（10-11/9、14/9、15-16/9）"|shop="華御結"|text="任何人均可享受的普通特價"|result=0
+title="AEON：嘩！心動價！（至30/9）"|shop="AEON"|end_date="2024-09-30"|text="百貨公司及普通特價"|result=0
