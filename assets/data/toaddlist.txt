@@ -488,3 +488,9 @@ title="崇光百貨：Longchamp Flash Sale 低至1折（至14/9）"|shop="崇光
 title="山崎麵包：9月特價の選"|shop="山崎麵包"|text="任何人都可以享受的普通特價"|result=0
 title="中銀Visa信用卡：Apple Store網店簽賬 高達$1,000現金回贈（至6/11）"|shop="Apple Store"|payment="中銀Visa信用卡"|end_date="2024-11-06"|text="電器"|result=0
 title="OK便利店：魚蛋/燒賣 10粒$11（至23/9）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
+title="Pizza Hut：人氣「線條小狗」聯乘限量精品（至31/10）"|shop="Pizza Hut"|end_date="2024-10-31"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至15/9）"|shop="7-Eleven"|end_date="2024-09-15"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：晚市 老火湯2人餐 $109（11-14/9）"|shop="大家樂"|text="餐廳"|result=0
+title="美心西餅：免費派 富豪軟雪糕（11-13/9）  "|shop="美心西餅"|start_date="2026-09-11"|end_date="2026-09-13"|text="普通推廣活動，非會員或特定支付方式優惠"|result=0
+title="海港酒家：月滿賀中秋宴（11-27/9）"|shop="海港酒家"|text="餐廳"|result=0
+title="佳宝食品超級市場：週週佳驚喜（11-17/9）"|shop="佳宝食品超級市場"|start_date="2024-09-11"|end_date="2024-09-17"|text="任何人都可以享受的普通特價"|result=0
