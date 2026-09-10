@@ -478,3 +478,13 @@ title="維他奶：買指定飲品滿$20 +$1換購「維他奶造型摺疊雨傘
 title="淘大：免費派發 限量版原釀．醇鮮頭抽（10-12/9）"|shop="淘大"|start_date="2020-09-10"|end_date="2020-09-12"|text="任何人均可享用的免費派發活動"|result=0
 title="華御結：指定御結 $12（10-11/9、14/9、15-16/9）"|shop="華御結"|text="任何人均可享受的普通特價"|result=0
 title="AEON：嘩！心動價！（至30/9）"|shop="AEON"|end_date="2024-09-30"|text="百貨公司及普通特價"|result=0
+title="惠康超級市場最新優惠（10/9）"|shop="惠康超級市場"|start_date="2024-09-10"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（10/9）/ 買常餐D 即送燒賣5粒（至15/9）"|shop="7-Eleven"|text="任何人均可享受的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="樓上 / 大棧：最新優惠（10/9）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付門檻"|result=0
+title="萬寧 / 屈臣氏：會員日 全單95折（10/9）"|shop="萬寧 / 屈臣氏"|payment="會員"|rate=0.05|start_date="2024-09-10"|end_date="2024-09-10"|text="萬寧及屈臣氏會員於9月10日可享全單95折優惠"|result=1
+title="Living Plaza / Daiso Japan：所有$12貨品 一律$10（10/9）"|shop="Living Plaza / Daiso Japan"|amt=2|start_date="2024-09-10"|end_date="2024-09-10"|applicable_days_of_month="10"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：中秋豐盛盆菜"|shop="大家樂"|text="餐廳"|result=0
+title="崇光百貨：Longchamp Flash Sale 低至1折（至14/9）"|shop="崇光百貨"|text="百貨公司"|result=0
+title="山崎麵包：9月特價の選"|shop="山崎麵包"|text="任何人都可以享受的普通特價"|result=0
+title="中銀Visa信用卡：Apple Store網店簽賬 高達$1,000現金回贈（至6/11）"|shop="Apple Store"|payment="中銀Visa信用卡"|end_date="2024-11-06"|text="電器"|result=0
+title="OK便利店：魚蛋/燒賣 10粒$11（至23/9）"|shop="OK便利店"|text="任何人都可以享受的普通特價"|result=0
