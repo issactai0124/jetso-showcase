@@ -517,3 +517,5 @@ title="文昌開筆禮2026（12/9、19/9）"|text="不是優惠貼文"|result=0
 title="MOS Burger：日本直送人氣商品 月見半熟風蛋佛卡夏"|shop="MOS Burger"|start_date="2024-09-10"|text="餐廳"|result=0
 title="萬寧 Mannings：全場無門檻 即享88折（12/9）"|shop="萬寧 Mannings"|payment="已登記嘅VISA卡"|min_spend=500|rate=0.08|amt=40|start_date="2023-09-12"|end_date="2026-09-30"|text="憑已登記的VISA卡於萬寧門市單筆簽賬滿$500可享$40現金回贈"|result=1
 title="優品360：最新優惠（至24/9）"|shop="優品360"|end_date="2024-09-24"|text="優惠內容不詳，未提及會員或特定支付方式"|result=0
+title="萬寧：今日出位價（12/9）"|shop="萬寧"|start_date="2024-09-12"|end_date="2024-09-12"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（12/9）"|shop="百佳超級市場"|text="沒有指定支付方式或會員身份的普通特價"|result=0
