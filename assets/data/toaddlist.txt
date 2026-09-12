@@ -519,3 +519,10 @@ title="萬寧 Mannings：全場無門檻 即享88折（12/9）"|shop="萬寧 Man
 title="優品360：最新優惠（至24/9）"|shop="優品360"|end_date="2024-09-24"|text="優惠內容不詳，未提及會員或特定支付方式"|result=0
 title="萬寧：今日出位價（12/9）"|shop="萬寧"|start_date="2024-09-12"|end_date="2024-09-12"|text="任何人都可以享受的普通特價"|result=0
 title="百佳超級市場最新優惠（12/9）"|shop="百佳超級市場"|text="沒有指定支付方式或會員身份的普通特價"|result=0
+title="惠康超級市場最新優惠（12/9）"|shop="惠康超級市場"|text="一般特價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="Buffalo：月煮月美味 低至46折（至19/10）"|shop="Buffalo"|end_date="2023-10-19"|text="電器"|result=0
+title="美心西餅：全新 椰撻 配方大升級"|shop="美心西餅"|text="新品推廣"|result=0
+title="永安百貨：中秋食品巡禮（至28/9）"|shop="永安百貨"|end_date="2023-09-28"|text="百貨公司"|result=0
+title="大家樂：茶市 大地魚湯 雲吞水餃烏冬 拼西多士"|shop="大家樂"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至17/9）"|shop="一田超市"|end_date="2023-09-17"|text="完全排除「任何人」都可以享受的普通特價"|result=0
+title="東海堂：全新 日式蕨餅 / 無花果酸種包"|shop="東海堂"|text="新品推廣，無門檻優惠"|result=0
