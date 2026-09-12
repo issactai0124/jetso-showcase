@@ -526,3 +526,4 @@ title="永安百貨：中秋食品巡禮（至28/9）"|shop="永安百貨"|end_d
 title="大家樂：茶市 大地魚湯 雲吞水餃烏冬 拼西多士"|shop="大家樂"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至17/9）"|shop="一田超市"|end_date="2023-09-17"|text="完全排除「任何人」都可以享受的普通特價"|result=0
 title="東海堂：全新 日式蕨餅 / 無花果酸種包"|shop="東海堂"|text="新品推廣，無門檻優惠"|result=0
+title="Uniqlo：每週限定優惠（至17/9）"|shop="Uniqlo"|end_date="2024-09-17"|text="服裝店"|result=0
