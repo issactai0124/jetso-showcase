@@ -541,3 +541,10 @@ title="麥當勞：升級版脆辣雞腿飽 / 可口可樂 變色杯（14/9起�
 title="MTR Mobile：港鐵即時賞（14/9）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
 title="萬寧：今日出位價（14/9）"|shop="萬寧"|start_date="2024-09-14"|end_date="2024-09-14"|text="普通特價"|result=0
 title="百佳超級市場最新優惠（14/9）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻，屬於一般特價宣傳"|result=0
+title="惠康超級市場最新優惠（14/9）"|shop="惠康超級市場"|start_date="2024-09-14"|text="普通特價或減價宣傳"|result=0
+title="7-Eleven：最新優惠（14/9）"|shop="7-Eleven"|start_date="2026-09-14"|end_date="2026-09-18"|text="任何人都可以享受的普通特價或新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="美心西餅：驚喜限時優惠（15-17/9）"|shop="美心西餅"|start_date="2024-09-15"|end_date="2024-09-17"|text="任何人都可以享受的普通特價"|result=0
+title="永安百貨：秋季優質床上用品展（至21/9）"|shop="永安百貨"|end_date="2024-09-21"|text="百貨公司"|result=0
+title="OK便利店：本週激筍（至20/9）"|shop="OK便利店"|end_date="2024-09-20"|text="任何人均可享有的普通特價優惠"|result=0
+title="大家樂：外賣優惠 「足磅」沙薑雞 $50"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至27/9）"|shop="759 阿信屋"|end_date="2024-09-27"|text="任何人均可享受的普通特價"|result=0
