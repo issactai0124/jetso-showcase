@@ -548,3 +548,10 @@ title="永安百貨：秋季優質床上用品展（至21/9）"|shop="永安百�
 title="OK便利店：本週激筍（至20/9）"|shop="OK便利店"|end_date="2024-09-20"|text="任何人均可享有的普通特價優惠"|result=0
 title="大家樂：外賣優惠 「足磅」沙薑雞 $50"|shop="大家樂"|text="餐廳"|result=0
 title="759 阿信屋：今期勁筍推介（至27/9）"|shop="759 阿信屋"|end_date="2024-09-27"|text="任何人均可享受的普通特價"|result=0
+title="霸王茶姬：香港超級茶倉店限定 全球首發 抹茶巧克力曲奇綿綿茶冰｜會員限定 免費體驗券（15/9） / 買1送1（16-17/9）"|shop="霸王茶姬"|payment="CHAGEE HK&MO會員"|start_date="2024-09-15"|end_date="2024-09-17"|text="餐廳"|result=0
+title="A-1 Bakery：全新 焦糖朱古力千層蛋糕"|shop="A-1 Bakery"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="BIGBANG 2026-2027 WORLD TOUR  < XX : COSMOS > IN HONG KONG Visa卡優先預售（15/9）"|shop="TME live / ELF ASIA"|payment="Visa卡"|text="非指定商店類型 (演唱會門票)"|result=0
+title="美心MX：脆炸雞翼茶餐"|shop="美心MX"|text="餐廳"|result=0
+title="JHC 真好城：全場買滿$120 即享家品85折"|shop="JHC 真好城"|min_spend=120|text="任何人均可享受的普通特價及商店類型不符"|result=0
+title="KFC：最新【肯！抵DEAL】優惠（14-18/9、21-22/9）"|shop="KFC"|text="餐廳"|result=0
+title="壽司郎 Sushiro：Opanchu Usagi 聯乘商品（15/9起）"|shop="壽司郎"|text="餐廳"|result=0
