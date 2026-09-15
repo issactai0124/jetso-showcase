@@ -570,3 +570,6 @@ title="運動及休閒服飾特賣 低至1折（16-21/9）"|shop="運動及休�
 title="吉野家：會員限定 至抵現金券回贈（至2/11）/ 歡樂兒童餐 $27起"|shop="吉野家"|text="餐廳"|result=0
 title="i.t. X 名牌潮流服飾開倉（16-21/9）"|shop="i.t."|start_date="2024-09-16"|end_date="2024-09-21"|text="服裝店"|result=0
 title="AEON：周三新鮮日（16/9）"|shop="AEON"|text="任何人均可享用的普通特價優惠"|result=0
+title="海港飲食：阿拉斯加長腳蟹 $168起/斤"|shop="海港飲食"|text="餐廳"|result=0
+title="OK便利店：5天狂減（16-20/9）/ 啤酒75折（16-18/9）"|shop="OK便利店"|start_date="2024-09-16"|end_date="2024-09-20"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（16/9）"|shop="萬寧"|applicable_days_of_week=3|text="任何人均可享受的普通特價優惠"|result=0
