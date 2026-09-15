@@ -565,3 +565,8 @@ title="美心MX：即焗套餐 $39（至5/10）"|shop="美心MX"|start_date="202
 title="龍豐：每週至抵「豐搶價」 （至21/9）"|shop="龍豐"|end_date="2023-09-21"|text="普通特價"|result=0
 title="大家樂：泰式滑蛋咖喱 軟殼蟹•香茅豬扒飯"|shop="大家樂"|text="餐廳"|result=0
 title="759 阿信屋：勁抵價（至16/9）"|shop="759 阿信屋"|end_date="2024-09-16"|text="純特價"|result=0
+title="八達通App：新客戶 用八達通交電話費滿$100 可享$10回贈（至11/11）"|shop="八達通"|payment="八達通App新客戶"|min_spend=100|amt=10|end_date="2024-11-11"|text="非指定商店類型（電訊/繳費）"|result=0
+title="運動及休閒服飾特賣 低至1折（16-21/9）"|shop="運動及休閒服飾特賣"|start_date="2024-09-16"|end_date="2024-09-21"|text="服裝店"|result=0
+title="吉野家：會員限定 至抵現金券回贈（至2/11）/ 歡樂兒童餐 $27起"|shop="吉野家"|text="餐廳"|result=0
+title="i.t. X 名牌潮流服飾開倉（16-21/9）"|shop="i.t."|start_date="2024-09-16"|end_date="2024-09-21"|text="服裝店"|result=0
+title="AEON：周三新鮮日（16/9）"|shop="AEON"|text="任何人均可享用的普通特價優惠"|result=0
