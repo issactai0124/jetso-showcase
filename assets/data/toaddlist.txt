@@ -587,3 +587,4 @@ title="銀聯：電車免費乘車日（17/9）"|shop="香港電車"|payment="�
 title="丙午年中秋綵燈會"|shop="康樂及文化事務署"|text="非指定商店類型（文化活動/嘉年華）"|result=0
 title="一粥麵：外賣快閃優惠（17-19/9）"|shop="一粥麵"|text="餐廳"|result=0
 title="國際中秋綵燈匯 @維多利亞公園（17-27/9）"|shop="香港旅遊發展局"|start_date="2024-09-17"|end_date="2024-09-27"|text="活動/展覽"|result=0
+title="稻香：滋味肆和菜 每日輪換菜式 $198/套"|shop="稻香"|text="餐廳"|result=0
