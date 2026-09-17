@@ -593,3 +593,16 @@ title="惠康 / 百佳：最新優惠（17/9）"|shop="惠康、百佳"|start_da
 title="樓上 / 大棧：最新優惠（17/9）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付方式門檻資訊，屬於一般減價宣傳"|result=0
 title="美心西餅：健康系麵包"|shop="美心西餅"|text="普通特價/新品推廣且無會員或特定支付門檻"|result=0
 title="屈臣氏：買高露潔牙膏 送豐富禮品（至22/9）"|shop="屈臣氏"|start_date="2026-09-16"|end_date="2026-09-22"|text="普通特價"|result=0
+title="大家樂：黃昏5至6 著數搶先食 / 茶市 超抵食孖寶（至28/9）"|shop="大家樂"|text="餐廳"|result=0
+title="Uniqlo：優惠專區 - 煥新轉季穿搭 ​"|shop="Uniqlo"|text="服裝店"|result=0
+title="一粥麵：茶市新品 和風紫菜刈包系列 / 七味生炸無骨雞髀"|shop="一粥麵"|text="餐廳"|result=0
+title="千色 Citistore：激拼購物日（至7/10）"|shop="千色 Citistore"|end_date="2024-10-07"|text="百貨公司"|result=0
+title="聖安娜：日日至抵價（至30/9）"|shop="聖安娜"|end_date="2024-09-30"|text="普通特價"|result=0
+title="U士多：勁秋勁滋味（至24/9）"|shop="U士多"|end_date="2024-09-24"|text="普通特價宣傳，無會員或特定支付門檻"|result=0
+title="爭鮮迴轉壽司：全新 午市套餐 / 午後の約定"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至22/9）"|shop="7-Eleven"|end_date="2024-09-22"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="東海堂：買CHIIKAWA產品 $69加購CHIIKAWA索繩袋"|shop="東海堂"|text="普通特價或加購優惠，非會員或特定支付方式專屬"|result=0
+title="永安百貨：星期四至日 至抵推介（至20/9）"|shop="永安百貨"|end_date="2024-09-20"|text="百貨公司"|result=0
+title="元氣壽司：秋旬限定 特選壽司盛 8折優惠（至7/10）"|shop="元氣壽司"|text="餐廳"|result=0
+title="DFI 零售集團：140週年 日日狂賞 140萬yuu積分（18/9-29/10）"|shop="萬寧、7-Eleven、惠康、Market Place"|payment="yuu會員"|min_spend=30|start_date="2026-09-18"|end_date="2026-10-29"|text="yuu會員於萬寧、7-Eleven、惠康及Market Place單次消費滿$30可參加抽獎贏取140萬積分"|result=1
+title="佳宝食品超級市場：週週佳驚喜（18-23/9）"|shop="佳宝食品超級市場"|start_date="2024-09-18"|end_date="2024-09-23"|text="普通特價，任何人均可享受"|result=0
