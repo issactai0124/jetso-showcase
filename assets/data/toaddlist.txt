@@ -606,3 +606,19 @@ title="永安百貨：星期四至日 至抵推介（至20/9）"|shop="永安百
 title="元氣壽司：秋旬限定 特選壽司盛 8折優惠（至7/10）"|shop="元氣壽司"|text="餐廳"|result=0
 title="DFI 零售集團：140週年 日日狂賞 140萬yuu積分（18/9-29/10）"|shop="萬寧、7-Eleven、惠康、Market Place"|payment="yuu會員"|min_spend=30|start_date="2026-09-18"|end_date="2026-10-29"|text="yuu會員於萬寧、7-Eleven、惠康及Market Place單次消費滿$30可參加抽獎贏取140萬積分"|result=1
 title="佳宝食品超級市場：週週佳驚喜（18-23/9）"|shop="佳宝食品超級市場"|start_date="2024-09-18"|end_date="2024-09-23"|text="普通特價，任何人均可享受"|result=0
+title="MTR Mobile：港鐵即時賞（18/9）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店、健康美容店）"|result=0
+title="百佳超級市場最新優惠（18/9）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（18/9）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="屈臣氏最新購物優惠（18/9）"|shop="屈臣氏"|start_date="2024-09-18"|text="缺乏具體優惠內容及門檻資訊"|result=0
+title="萬寧：周五購物攻略（18/9）"|shop="萬寧"|start_date="2020-09-18"|end_date="2020-09-18"|applicable_days_of_week=5|text="任何人都可以享受的普通特價"|result=0
+title="海馬牌 / 軒琴居：最新優惠（18/9）"|shop="海馬牌 / 軒琴居"|text="家具店"|result=0
+title="牙膏最新優惠（18/9）"|shop="未註明"|text="內容為空且未提及會員或特定支付方式"|result=0
+title="阿波羅 Appolo：週末優惠（至20/9）"|shop="阿波羅 Appolo"|end_date="2024-09-20"|text="普通特價/週末優惠，缺乏會員或特定支付門檻"|result=0
+title="眼鏡88：薄型非球面鏡片 低至5折（至21/9）"|shop="眼鏡88"|rate=0.5|end_date="2024-09-21"|text="沒有門檻的普通特價"|result=0
+title="包點先生：長者優惠 缽仔蒸飯 減$5（逢星期五、至31/12）"|shop="包點先生"|payment="樂悠咭或長者咭"|amt=5|start_date="2026-09-11"|end_date="2026-12-31"|applicable_days_of_week="5"|text="憑樂悠咭或長者咭，逢星期五購買任何一款缽仔蒸飯即減$5"|result=1
+title="AEON：感謝日（至20/9）"|shop="AEON"|text="百貨公司"|result=0
+title="東海堂：指定分店 海鹽焦糖新地"|shop="東海堂"|text="任何人都可以享受的普通特價/新品推廣"|result=0
+title="Living Plaza / Daiso Japan：週末優惠（至20/9）"|shop="Living Plaza / Daiso Japan"|end_date="2023-09-20"|applicable_days_of_week="6,7"|text="週末優惠"|result=0
+title="大生生活超市：快閃優惠（至25/9）"|shop="大生生活超市"|end_date="2023-09-25"|text="沒有會員或指定支付方式門檻"|result=0
+title="大家樂：全新 三黃雞·姬松茸 滾滾黃金鍋"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至22/9）"|shop="7-Eleven"|payment="yuu 會員"|min_spend=5|rate=0.1667|start_date="2023-09-18"|end_date="2023-09-22"|text="yuu會員購買任何牛奶飲品946毫升/950毫升可享買5送1優惠"|result=1
