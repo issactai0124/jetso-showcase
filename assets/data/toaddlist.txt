@@ -628,3 +628,4 @@ title="饒館開放日2026（19-20/9、25-26/9）"|shop="饒宗頤文化館"|tex
 title="百佳超市：全單88折（19/9）"|shop="百佳"|payment="BoC Pay+"|min_spend=200|amt=20|start_date="2026-09-19"|end_date="2026-09-19"|applicable_days_of_week=6|applicable_days_of_month=19|text="88折後淨額滿$200，用BoC Pay+ App領券後付款再減$20"|result=1
 title="海港飲食：全新「晚市優惠孖寶」"|shop="海港飲食"|text="餐廳"|result=0
 title="惠康超市：全店88折（19/9）"|shop="惠康超市"|text="普通特價"|result=0
+title="大快活：首度聯乘日清湖池屋 推出別注版薯片 - 阿活焗豬扒飯/皇牌阿活咖喱"|shop="大快活"|text="餐廳"|result=0
