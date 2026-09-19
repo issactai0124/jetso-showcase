@@ -629,3 +629,11 @@ title="百佳超市：全單88折（19/9）"|shop="百佳"|payment="BoC Pay+"|mi
 title="海港飲食：全新「晚市優惠孖寶」"|shop="海港飲食"|text="餐廳"|result=0
 title="惠康超市：全店88折（19/9）"|shop="惠康超市"|text="普通特價"|result=0
 title="大快活：首度聯乘日清湖池屋 推出別注版薯片 - 阿活焗豬扒飯/皇牌阿活咖喱"|shop="大快活"|text="餐廳"|result=0
+title="萬寧：最新優惠（19/9）"|shop="萬寧"|text="普通特價/減價宣傳"|result=0
+title="百佳超級市場最新優惠（19/9）"|shop="百佳超級市場"|text="普通特價宣傳"|result=0
+title="惠康超級市場最新優惠（19/9）"|shop="惠康超級市場"|text="普通特價"|result=0
+title="KFC﻿：周末限定 6件雞$50（至20/9）"|shop="KFC"|text="餐廳"|result=0
+title="紅十字會輸血服務中心：成功捐血 送「捐血隊長 Captain BLOOD 花果茶盒」（至26/9）"|shop="紅十字會輸血服務中心"|start_date="2024-09-19"|end_date="2024-09-26"|text="不符合商店類型"|result=0
+title="元氣壽司：堂食限定 極上板海膽壽司拼盤 / 期間限定 軟雪糕"|shop="元氣壽司"|text="餐廳"|result=0
+title="大家樂：午市 天天超值選 珍珠帶子福建炒飯"|shop="大家樂"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至24/9）"|shop="一田超市"|end_date="2024-09-24"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
