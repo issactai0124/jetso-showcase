@@ -637,3 +637,5 @@ title="紅十字會輸血服務中心：成功捐血 送「捐血隊長 Captain 
 title="元氣壽司：堂食限定 極上板海膽壽司拼盤 / 期間限定 軟雪糕"|shop="元氣壽司"|text="餐廳"|result=0
 title="大家樂：午市 天天超值選 珍珠帶子福建炒飯"|shop="大家樂"|text="餐廳"|result=0
 title="一田超市：挑戰特價（至24/9）"|shop="一田超市"|end_date="2024-09-24"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="Uniqlo：每週限定優惠（至24/9）"|shop="Uniqlo"|end_date="2024-09-24"|text="服裝店"|result=0
+title="AEON：鮮味之旅 / HOME COORDY 周年慶典 / 生活健與美（至30/9）"|shop="AEON"|end_date="2024-09-30"|text="百貨公司及普通特價宣傳"|result=0
