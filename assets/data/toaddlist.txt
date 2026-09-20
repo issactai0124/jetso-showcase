@@ -647,3 +647,8 @@ title="東海堂：「Hello Kitty 小麥肌浪遊」蛋糕"|shop="東海堂"|pay
 title="APITA / 千色 Citistore / UNY：低至29折 換購「ELLE Since 1945 & Forever」系列（至16/11）"|shop="APITA / 千色 Citistore / UNY"|end_date="2024-11-16"|text="百貨公司及一般換購優惠"|result=0
 title="大家樂：買一哥焗豬扒飯2人餐 送限量版「可口可樂」磁吸鎖匙扣"|shop="大家樂"|min_spend=118|text="餐廳"|result=0
 title="OK便利店：會員至抵價（至23/9）"|shop="OK便利店"|payment="會員"|end_date="2024-09-23"|text="OK便利店會員至抵價優惠至9月23日"|result=1
+title="恒生 Mastercard：About Life 劉德華巡迴演唱會 - 香港站 優先購票（21-22/9）"|shop="Cityline"|payment="恒生 Mastercard"|start_date="2026-09-21"|end_date="2026-09-22"|text="演唱會門票"|result=0
+title="CHIIKAWA ARTIVERSE 中秋燈會 @AIRSIDE（21/9-4/10）"|shop="CHIIKAWA ARTIVERSE 中秋燈會限定店"|payment="特展持票人"|start_date="2024-09-21"|end_date="2024-10-04"|text="商店類型不符"|result=0
+title="龍豐：每週精選推廣（21-27/9）"|shop="龍豐"|start_date="2024-09-21"|end_date="2024-09-27"|text="普通特價宣傳"|result=0
+title="麥當勞：G-DRAGON 亞洲限定企劃 第二浪 / 限量「限定珍藏卡」/ 期間限定 主題店（21/9起）"|shop="麥當勞"|text="餐廳"|result=0
+title="奇華餅家：中秋月餅罐回收計劃2026 送$20優惠券（21/9-20/10）"|shop="奇華餅家"|amt=20|start_date="2026-09-21"|end_date="2026-10-20"|text="任何人均可參與的回收活動，非會員或特定支付優惠"|result=0
