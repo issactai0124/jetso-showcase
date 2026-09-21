@@ -652,3 +652,6 @@ title="CHIIKAWA ARTIVERSE 中秋燈會 @AIRSIDE（21/9-4/10）"|shop="CHIIKAWA A
 title="龍豐：每週精選推廣（21-27/9）"|shop="龍豐"|start_date="2024-09-21"|end_date="2024-09-27"|text="普通特價宣傳"|result=0
 title="麥當勞：G-DRAGON 亞洲限定企劃 第二浪 / 限量「限定珍藏卡」/ 期間限定 主題店（21/9起）"|shop="麥當勞"|text="餐廳"|result=0
 title="奇華餅家：中秋月餅罐回收計劃2026 送$20優惠券（21/9-20/10）"|shop="奇華餅家"|amt=20|start_date="2026-09-21"|end_date="2026-10-20"|text="任何人均可參與的回收活動，非會員或特定支付優惠"|result=0
+title="MTR Mobile：港鐵即時賞（21/9）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="萬寧：今日出位價（21/9）"|shop="萬寧"|start_date="2024-09-21"|end_date="2024-09-21"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（21/9）"|shop="百佳超級市場"|start_date="2024-09-21"|text="沒有提及會員或特定支付方式優惠"|result=0
