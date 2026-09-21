@@ -660,3 +660,10 @@ title="7-Eleven：最新優惠（21/9）"|shop="7-Eleven"|text="普通特價，�
 title="大家樂：蔥油 豬扒•雞翼•腸仔撈公仔麵 配凍低糖綠茶 $32"|shop="大家樂"|text="餐廳"|result=0
 title="爭鮮迴轉店：會員限定 堂食$34產品 送一碟半價優惠券（至30/9）"|shop="爭鮮迴轉店"|payment="會員"|text="餐廳"|result=0
 title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至30/9）"|shop="宜家家居"|text="家具店、餐廳"|result=0
+title="SKECHERS：開倉日（22-24/9）"|shop="SKECHERS"|payment="現金及八達通"|start_date="2026-09-22"|end_date="2026-09-24"|text="服裝店"|result=0
+title="聖安娜：西九龍中心店 開幕優惠"|shop="聖安娜"|payment="會員"|amt=80|text="登記成為聖安娜會員可享$80迎新優惠及會員折扣"|result=1
+title="奇華茶室：晚市 黯然銷魂飯 買1送1（至24/9）"|shop="奇華茶室"|start_date="2026-09-21"|end_date="2026-09-24"|text="餐廳且為一般大眾優惠"|result=0
+title="譚仔雲南米線：過小橋米線優惠套餐 $58起（至14/10）"|shop="譚仔雲南米線"|end_date="2026-10-14"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至27/9）"|shop="OK便利店"|end_date="2024-09-27"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="KFC：家鄉雞扒包 買1送1（至30/9）"|shop="KFC"|start_date="2026-09-21"|end_date="2026-09-30"|text="餐廳"|result=0
+title="壽司郎：九州祭 第二彈（22/9起）"|shop="壽司郎"|text="餐廳"|result=0
