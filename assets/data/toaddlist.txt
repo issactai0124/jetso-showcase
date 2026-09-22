@@ -678,3 +678,7 @@ title="大家樂：最新「GOOD價 新衝擊」"|shop="大家樂"|text="餐廳"
 title="OK便利店：嘉頓100周年 復刻懷舊罐系列"|shop="OK便利店"|text="任何人都可以享受的新品推廣，非會員或特定支付方式專屬"|result=0
 title="東海堂：新產品 芝士煙肉鹼水包"|shop="東海堂"|text="新品推廣"|result=0
 title="廚具及休閒服飾特賣 低至1折（23-28/9）"|shop="廚具及休閒服飾"|start_date="2024-09-23"|end_date="2024-09-28"|text="服裝店、家具店、普通特價"|result=0
+title="聖安娜：中秋送暖予長者 免費派月餅（23-25/9）"|shop="聖安娜"|payment="樂悠卡或長者咭"|min_spend=0|start_date="2024-09-23"|end_date="2024-09-25"|text="長者憑樂悠卡或長者咭可免費領取月餅乙個"|result=1
+title="AEON：周三新鮮日（23/9）"|shop="AEON"|start_date="2020-09-23"|text="任何人均可享受的普通特價"|result=0
+title="一粥麵：晚市 超值煲仔飯小菜2人餐 $88"|shop="一粥麵"|text="餐廳"|result=0
+title="OK便利店：5天狂減（23-27/9）/ 高蛋白飲品及豆奶 8折（23-25/9）"|shop="OK便利店"|start_date="2024-09-23"|end_date="2024-09-27"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
