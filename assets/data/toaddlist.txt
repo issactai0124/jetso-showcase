@@ -693,3 +693,9 @@ title="麥當勞App：PEACEMINUSONE 聯乘潮物（23/9起）"|shop="麥當勞"|
 title="MTR Mobile：高鐵8周年大抽獎 逾80萬份獎品 最高價值$3,000高鐵旅遊禮券（23/9、30/9、7/10）"|shop="港鐵高鐵"|text="交通/旅遊"|result=0
 title="大家樂：晚市 砂鍋肉骨茶"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：今期「$10一口價」限時優惠（至6/10）"|shop="7-Eleven"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="すき家 Sukiya：上環店 9月24日開張"|shop="すき家 Sukiya"|text="餐廳"|result=0
+title="秋季家居博覽2026（24-27/9）"|shop="秋季家居博覽2026"|text="家具店、電器"|result=0
+title="Italian Tomato Cafe：90分鐘 人氣蛋糕 無限任食 $98起"|shop="Italian Tomato Cafe"|applicable_days_of_week="1,2,3,4"|text="餐廳及不具備會員或特定支付門檻"|result=0
+title="大坑舞火龍2026（24-26/9）"|shop="大坑舞火龍"|text="文化活動/非指定商店類型"|result=0
+title="KFC：好肯癲！蟹季限定「大JAP蟹」系列（24/9起）"|shop="KFC"|text="餐廳"|result=0
+title="佳宝食品超級市場：9月中秋「折」慶 全場8折（24-29/9）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-09-24"|end_date="2026-09-29"|text="任何人都可以享受的普通特價"|result=0
