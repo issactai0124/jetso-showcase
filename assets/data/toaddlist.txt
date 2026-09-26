@@ -734,3 +734,7 @@ title="百佳超級市場最新優惠（26/9）"|shop="百佳超級市場"|text=
 title="惠康超級市場最新優惠（26/9）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
 title="7-Eleven：全新 港鐵與迪士尼系列限定主題精品"|shop="7-Eleven"|text="新品推廣，無會員或特定支付門檻"|result=0
 title="龍豐：國慶節優惠（至11/10）"|shop="龍豐"|end_date="2024-10-11"|text="普通特價/減價宣傳"|result=0
+title="東海堂：新登場 果香甜點"|shop="東海堂"|text="新品推廣且無會員或特定支付要求"|result=0
+title="一田超市：挑戰特價（至1/10）"|shop="一田超市"|end_date="2024-10-01"|text="普通特價"|result=0
+title="賞茶 A Nice Gift：12週年生日派對 主餐牌飲品 $20/杯（27/9）"|shop="賞茶"|text="普通特價及非指定商店類型"|result=0
+title="Uniqlo：秋日放假 煥新節 第一彈（至30/9） ​​"|shop="Uniqlo"|end_date="2024-09-30"|text="服裝店"|result=0
