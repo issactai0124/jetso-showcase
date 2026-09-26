@@ -729,3 +729,8 @@ title="7-Eleven：5天限定（至29/9）"|shop="7-Eleven"|end_date="2024-09-29"
 title="東方樹葉：中秋賞月送茶 / 飲好茶・送限定燈籠（至26/9）"|shop="東方樹葉"|text="任何人均可參與的推廣活動且非指定商店類型"|result=0
 title="六合彩：中秋金多寶 $6800萬（26/9）"|shop="香港賽馬會"|text="不符合商店類型"|result=0
 title="優品360：最新優惠（至8/10）"|shop="優品360"|end_date="2024-10-08"|text="普通特價或減價宣傳"|result=0
+title="萬寧：最新優惠（26/9）"|shop="萬寧"|text="普通特價或減價宣傳"|result=0
+title="百佳超級市場最新優惠（26/9）"|shop="百佳超級市場"|text="一般特價宣傳"|result=0
+title="惠康超級市場最新優惠（26/9）"|shop="惠康超級市場"|text="普通特價宣傳"|result=0
+title="7-Eleven：全新 港鐵與迪士尼系列限定主題精品"|shop="7-Eleven"|text="新品推廣，無會員或特定支付門檻"|result=0
+title="龍豐：國慶節優惠（至11/10）"|shop="龍豐"|end_date="2024-10-11"|text="普通特價/減價宣傳"|result=0
