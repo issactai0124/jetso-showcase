@@ -738,3 +738,7 @@ title="東海堂：新登場 果香甜點"|shop="東海堂"|text="新品推廣�
 title="一田超市：挑戰特價（至1/10）"|shop="一田超市"|end_date="2024-10-01"|text="普通特價"|result=0
 title="賞茶 A Nice Gift：12週年生日派對 主餐牌飲品 $20/杯（27/9）"|shop="賞茶"|text="普通特價及非指定商店類型"|result=0
 title="Uniqlo：秋日放假 煥新節 第一彈（至30/9） ​​"|shop="Uniqlo"|end_date="2024-09-30"|text="服裝店"|result=0
+title="萬寧：今日出位價（27/9）"|shop="萬寧"|start_date="2024-09-27"|end_date="2024-09-27"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（27/9）"|shop="百佳超級市場"|start_date="2024-09-27"|text="缺乏會員或特定支付方式門檻的普通特價"|result=0
+title="樓上：最新優惠（27/9）"|shop="樓上"|start_date="2024-09-27"|text="普通特價、減價宣傳"|result=0
+title="惠康：「係堅價」1週年"|shop="惠康"|text="普通特價或減價宣傳，無會員或特定支付方式門檻"|result=0
