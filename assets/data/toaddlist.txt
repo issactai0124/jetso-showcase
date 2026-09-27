@@ -742,3 +742,12 @@ title="萬寧：今日出位價（27/9）"|shop="萬寧"|start_date="2024-09-27"
 title="百佳超級市場最新優惠（27/9）"|shop="百佳超級市場"|start_date="2024-09-27"|text="缺乏會員或特定支付方式門檻的普通特價"|result=0
 title="樓上：最新優惠（27/9）"|shop="樓上"|start_date="2024-09-27"|text="普通特價、減價宣傳"|result=0
 title="惠康：「係堅價」1週年"|shop="惠康"|text="普通特價或減價宣傳，無會員或特定支付方式門檻"|result=0
+title="7-Eleven：買「7CAFÉ咖啡套券」送「niko and...不鏽鋼杯連吸管」（至20/10）"|shop="7-Eleven"|min_spend=180|start_date="2026-09-23"|end_date="2026-10-20"|text="任何人均可享受的普通推廣，缺乏會員或特定支付方式門檻"|result=0
+title="嘉頓 Garden：經典登場 100周年限定「復刻懷舊鐵罐系列」/ 隨罐附送限量版 Garden Buddies 收藏公仔"|shop="嘉頓"|text="任何人均可享受的普通特價/新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="OK便利店：會員至抵價 / 店長推介（至7/10）"|shop="OK便利店"|payment="會員"|end_date="2024-10-07"|text="OK便利店會員至抵價優惠至10月7日"|result=1
+title="建行信用卡：JANICE VIDAL衛蘭OUT OF FRAME世界巡迴演唱會 — 香港站 優先購票（28-30/9）"|shop="建行信用卡"|payment="建行信用卡"|start_date="2024-09-28"|end_date="2024-09-30"|text="演唱會門票"|result=0
+title="龍豐：每週精選推廣（28/9-4/10）"|shop="龍豐"|start_date="2024-09-28"|end_date="2024-10-04"|text="任何人都可以享受的普通特價"|result=0
+title="About Life 劉德華巡迴演唱會 - 香港站 門票網上抽籤公開發售（28-30/9）"|shop="劉德華巡迴演唱會"|payment="恒生 Mastercard 信用卡及扣賬卡"|start_date="2026-09-21"|end_date="2026-09-22"|text="演唱會/娛樂活動"|result=0
+title="萬寧：指定門市 全場購物滿$188 即享88折（28/9）"|shop="萬寧"|payment="已登記之VISA卡"|min_spend=500|amt=40|start_date="2026-09-28"|end_date="2026-09-30"|text="憑已登記之VISA卡於萬寧單筆簽賬滿$500可享$40現金回贈"|result=1
+title="全港戲院日：10.1半價睇好戲（開售：28/9起）"|shop="全港戲院"|text="不符合商店類型及無門檻大眾優惠"|result=0
+title="麥當勞App：限時發售「麥麥慳」套票 低至6折（28/9起）"|shop="麥當勞"|text="餐廳"|result=0
