@@ -796,3 +796,4 @@ title="綠綠賞：國慶回收 2倍賞（1/10）"|shop="綠綠賞"|payment="綠
 title="國慶煙花匯演（1/10）"|shop="文化體育及旅遊局"|text="非指定商店類型的優惠（公眾活動/煙花匯演）"|result=0
 title="美心MX：去骨海南雞套餐 77折（1-4/10）/ 長者晚市75折（1/10）"|shop="美心MX"|text="餐廳"|result=0
 title="MTR Mobile：歡慶國慶76週年大抽獎 送出77,000張免費車程（1/10）"|shop="MTR"|text="非指定商店類型（交通/公共事業）"|result=0
+title="7-Eleven：指定店舖 購物滿$100 即享8折優惠（1-4/10）"|shop="7-Eleven"|min_spend=100|rate=0.2|start_date="2026-10-01"|end_date="2026-10-04"|text="任何人均可享受的普通特價"|result=0
