@@ -818,3 +818,21 @@ title="百佳超級市場最新優惠（2/10）"|shop="百佳超級市場"|text=
 title="惠康超級市場最新優惠（2/10）"|shop="惠康超級市場"|text="普通特價宣傳，缺乏會員或特定支付門檻"|result=0
 title="屈臣氏最新購物優惠（2/10）"|shop="屈臣氏"|text="缺乏會員或特定支付方式門檻資訊"|result=0
 title="萬寧：周五購物攻略（2/10）"|shop="萬寧"|applicable_days_of_week=5|text="任何人都可以享受的普通特價"|result=0
+title="樓上 / 安記 / 大棧：最新優惠（2/10）"|shop="樓上 / 安記 / 大棧"|text="缺乏具體優惠詳情及會員/支付門檻資訊"|result=0
+title="牙膏最新優惠（2/10）"|shop=""|text="缺乏具體商店資訊及會員或特定支付方式門檻"|result=0
+title="阿波羅 Appolo：黃金周優惠（至4/10）"|shop="阿波羅"|start_date="2024-10-01"|end_date="2024-10-04"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="美心MX：叉燒濃湯意粉早餐"|shop="美心MX"|text="餐廳"|result=0
+title="東海堂：新產品 火腿沙律醬千層酥"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="Daiso Japan / Living Plaza：10月優惠"|shop="Daiso Japan / Living Plaza"|text="商店類型不符及屬於一般減價宣傳"|result=0
+title="美心現場烘焙店：懷舊沙翁"|shop="美心現場烘焙店"|text="普通特價或新品推廣，無會員或特定支付方式門檻"|result=0
+title="yuu：DFI 140周年宣傳車 解鎖雙重獎賞"|shop="惠康、萬寧、7-Eleven、Market Place"|payment="yuu會員"|start_date="2026-10-02"|end_date="2026-10-29"|text="yuu會員於宣傳車出示yuu ID可享惠康、萬寧、7-Eleven等品牌購物優惠及帆布袋禮品"|result=1
+title="元氣壽司：「秋祭」餐目"|shop="元氣壽司"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至6/10）"|shop="7-Eleven"|payment="yuu會員"|end_date="2026-10-06"|text="yuu會員購買維記乳酪飲品享買5送1印花優惠"|result=1
+title="大家樂：茶市 「厚」多多鮮油花生醬西多士 / 菠蘿油 配紅豆冰"|shop="大家樂"|text="餐廳"|result=0
+title="豐澤 Fortress：抵得祭 逾800件產品 低至1折（至27/10）"|shop="豐澤"|end_date="2024-10-27"|text="電器店"|result=0
+title="壽司郎：10月限定優惠"|shop="壽司郎"|text="餐廳"|result=0
+title="渣打銀行：新一期 高息馬拉松活期存款 高達3.6%活期存款年利率（至31/10）"|shop="渣打銀行"|end_date="2024-10-31"|text="不符合商店類型（銀行/金融服務）"|result=0
+title="大快活：晚市 阿活小菜滋味二人餐 $99（至5/10）"|shop="大快活"|text="餐廳"|result=0
+title="AEON：舒適家居新提案（至28/10）"|shop="AEON"|end_date="2024-10-28"|text="百貨公司及家居用品"|result=0
+title="六合彩：估計頭獎基金 $9800萬（3/10）"|shop="香港賽馬會"|text="非目標商店類型（博彩/六合彩）"|result=0
+title="優品360：本週優惠（至8/10）"|shop="優品360"|end_date="2024-10-08"|text="任何人均可享用的普通特價"|result=0
