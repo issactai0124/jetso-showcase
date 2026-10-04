@@ -860,3 +860,6 @@ title="美心MX：全新「三寶魚湯米線」系列"|shop="美心MX"|text="�
 title="宜家 IKEA：yuu會員限定 95折優惠（5/10）"|shop="IKEA"|payment="yuu會員"|rate=0.05|start_date="2026-10-05"|end_date="2026-10-05"|text="家具店"|result=0
 title="壽司郎：深水埗西九龍中心店 10月5日開幕"|shop="壽司郎"|text="餐廳"|result=0
 title="龍豐：每週精選推廣（5-11/10）"|shop="龍豐"|start_date="2024-10-05"|end_date="2024-10-11"|text="任何人都可以享受的普通特價"|result=0
+title="KFC：首度聯乘祥香園 期間限定「港式奶茶葡撻」（5/10起）"|shop="KFC"|start_date="2024-10-05"|text="餐廳"|result=0
+title="麥當勞App： 「Monday麥麥勁賞」第40週（5/10起）"|shop="麥當勞"|text="餐廳"|result=0
+title="AEON：100周年 第一擊 - 日本節 / 超級均一價（至14/10）"|shop="AEON"|end_date="2024-10-14"|text="百貨公司及普通特價"|result=0
