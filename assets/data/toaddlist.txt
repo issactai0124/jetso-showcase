@@ -850,3 +850,6 @@ title="宜家 IKEA：玉桂卷 買1送1 @美食站（至4/10）"|shop="宜家 IK
 title="AEON：出前一丁 $100放題（4/10）"|shop="AEON"|start_date="2024-10-04"|end_date="2024-10-04"|text="任何人均可享用的普通特價及百貨公司"|result=0
 title="Uniqlo：秋日放假 煥新節 第二彈（至8/10） ​​"|shop="Uniqlo"|end_date="2024-10-08"|text="服裝店"|result=0
 title="大生生活超市：今期精選優惠（至15/10）"|shop="大生生活超市"|end_date="2024-10-15"|text="普通特價，非會員或特定支付優惠"|result=0
+title="萬寧：今日出位價（4/10）"|shop="萬寧"|start_date="2024-10-04"|end_date="2024-10-04"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（4/10）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（4/10）"|shop="惠康超級市場"|start_date="2024-10-04"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
