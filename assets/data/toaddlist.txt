@@ -863,3 +863,12 @@ title="龍豐：每週精選推廣（5-11/10）"|shop="龍豐"|start_date="2024-
 title="KFC：首度聯乘祥香園 期間限定「港式奶茶葡撻」（5/10起）"|shop="KFC"|start_date="2024-10-05"|text="餐廳"|result=0
 title="麥當勞App： 「Monday麥麥勁賞」第40週（5/10起）"|shop="麥當勞"|text="餐廳"|result=0
 title="AEON：100周年 第一擊 - 日本節 / 超級均一價（至14/10）"|shop="AEON"|end_date="2024-10-14"|text="百貨公司及普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（5/10）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（5/10）"|shop="百佳超級市場"|start_date="2024-10-05"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（5/10）"|shop="惠康超級市場"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="聖安娜：買高蛋白扭紋包 送高蛋白質豆乳（至11/10）"|shop="聖安娜"|start_date="2024-10-05"|end_date="2024-10-11"|text="任何人均可享用的普通特價/新品推廣"|result=0
+title="7-Eleven：指定飯糰 $12（至7/10）"|shop="7-Eleven"|start_date="2026-10-05"|end_date="2026-10-07"|text="任何人都可以享受的普通特價"|result=0
+title="東海堂：限時優惠 包裝雪芳蛋糕（至8/10）"|shop="東海堂"|start_date="2026-10-04"|end_date="2026-10-08"|text="任何人均可享用的普通特價"|result=0
+title="半島漁港：下午茶優惠 燒味瀨粉 $26.8"|shop="半島漁港"|text="餐廳"|result=0
+title="759 阿信屋：今期急凍冷凍精選（至11/10）"|shop="759 阿信屋"|end_date="2024-11-10"|text="普通特價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="OK便利店：本週激筍（至11/10）"|shop="OK便利店"|end_date="2024-10-11"|text="任何人都可以享受的普通特價"|result=0
