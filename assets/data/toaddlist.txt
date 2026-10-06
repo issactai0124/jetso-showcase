@@ -889,3 +889,6 @@ title="HKTVmall：免運送貨 門檻下調"|shop="HKTVmall"|payment="會員"|mi
 title="Sidefame Warehouse Sale 低至1折（7-12/10）"|shop="Sidefame"|start_date="2024-10-07"|end_date="2024-10-12"|text="服裝店"|result=0
 title="美心MX：外賣優惠 港式燒味 低至6折（至26/10）"|shop="美心MX"|rate=0.4|start_date="2026-10-06"|end_date="2026-10-26"|text="餐廳"|result=0
 title="AEON：周三新鮮日（7/10）"|shop="AEON"|text="任何人均可享受的普通特價優惠"|result=0
+title="大家樂：黃昏5-6點 著數搶先食"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：5天狂減（7-11/10）"|shop="OK便利店"|start_date="2023-10-07"|end_date="2023-10-11"|text="普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（7/10）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價"|result=0
