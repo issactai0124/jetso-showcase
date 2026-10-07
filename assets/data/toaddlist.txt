@@ -904,3 +904,5 @@ title="7-Eleven：今期「$10一口價」限時優惠（至20/10）"|shop="7-El
 title="吉野家：歡樂兒童餐 $27起"|shop="吉野家"|text="餐廳"|result=0
 title="爭鮮外帶壽司：APP會員優惠（8-31/10）/ 港鐵九龍灣站 開幕優惠（8-10/10）"|shop="爭鮮外帶壽司"|payment="爭鮮會員"|amt=14|start_date="2024-10-08"|end_date="2024-10-31"|text="爭鮮會員憑APP優惠券購買指定外帶餐盒即減$14"|result=1
 title="AEON：100限定周年商品（至28/10）"|shop="AEON"|end_date="2024-10-28"|text="百貨公司及普通特價宣傳"|result=0
+title="華御結：指定御結 $12（8-9/10、12-14/10）"|shop="華御結"|text="任何人均可享用的普通特價優惠"|result=0
+title="大快活：全新「牛肉丼系列」"|shop="大快活"|text="餐廳"|result=0
