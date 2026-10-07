@@ -896,3 +896,11 @@ title="MTR Mobile：港鐵即時賞（7/10）"|shop="MTR"|text="不符合商店�
 title="百佳超級市場最新優惠（7/10）"|shop="百佳超級市場"|text="普通特價"|result=0
 title="屈臣氏：星期三樂賞日（7/10）"|shop="屈臣氏"|applicable_days_of_week=3|text="沒有門檻"|result=0
 title="大家樂：爆抵靚早"|shop="大家樂"|text="餐廳"|result=0
+title="崇光百貨：秋日廚具及家品展（至12/10）"|shop="崇光百貨"|end_date="2024-10-12"|text="百貨公司"|result=0
+title="東海堂：新登場 日式貝果"|shop="東海堂"|text="新品推廣且無門檻"|result=0
+title="MTR Mobile：高鐵8周年大抽獎 逾80萬份獎品 最高價值$3,000高鐵旅遊禮券（23/9、30/9、7/10）"|shop="MTR Mobile"|text="交通/旅遊"|result=0
+title="美心西餅：新產品 榛子朱古力魔糍 / 紫芋班蘭蛋糕"|shop="美心西餅"|payment="Eatizen 美心薈會員"|rate=0.1|amt=17.8|text="Eatizen 美心薈會員購買紫芋班蘭蛋糕可享會員價$160.2"|result=1
+title="7-Eleven：今期「$10一口價」限時優惠（至20/10）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="吉野家：歡樂兒童餐 $27起"|shop="吉野家"|text="餐廳"|result=0
+title="爭鮮外帶壽司：APP會員優惠（8-31/10）/ 港鐵九龍灣站 開幕優惠（8-10/10）"|shop="爭鮮外帶壽司"|payment="爭鮮會員"|amt=14|start_date="2024-10-08"|end_date="2024-10-31"|text="爭鮮會員憑APP優惠券購買指定外帶餐盒即減$14"|result=1
+title="AEON：100限定周年商品（至28/10）"|shop="AEON"|end_date="2024-10-28"|text="百貨公司及普通特價宣傳"|result=0
