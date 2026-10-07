@@ -892,3 +892,7 @@ title="AEON：周三新鮮日（7/10）"|shop="AEON"|text="任何人均可享受
 title="大家樂：黃昏5-6點 著數搶先食"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：5天狂減（7-11/10）"|shop="OK便利店"|start_date="2023-10-07"|end_date="2023-10-11"|text="普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（7/10）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（7/10）"|shop="MTR"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（7/10）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="屈臣氏：星期三樂賞日（7/10）"|shop="屈臣氏"|applicable_days_of_week=3|text="沒有門檻"|result=0
+title="大家樂：爆抵靚早"|shop="大家樂"|text="餐廳"|result=0
