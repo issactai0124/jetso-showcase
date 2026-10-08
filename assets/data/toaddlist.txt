@@ -912,3 +912,10 @@ title="莎莎：VIP會員限定 全店9折（8/10）"|shop="莎莎"|payment="VIP
 title="樓上/大棧/盞記/南北行：最新優惠（8/10）"|shop="樓上/大棧/盞記/南北行"|text="普通特價或未提及會員/特定支付要求"|result=0
 title="魚尚：13週年 感謝祭（至14/10）"|shop="魚尚"|end_date="2024-10-14"|text="任何人均可享受的普通特價"|result=0
 title="759 阿信屋：嘩鬼祭 全線7折（至11/10）"|shop="759 阿信屋"|rate=0.3|start_date="2024-10-08"|end_date="2024-10-11"|text="普通特價"|result=0
+title="元気寿司：$12 滿腹の選"|shop="元気寿司"|text="餐廳"|result=0
+title="美心MX：加餸新口味 和風照燒醬油雞"|shop="美心MX"|text="餐廳、任何人都可以享受的新品推廣"|result=0
+title="Uniqlo：優惠專區 - 從舒適秋裝開始"|shop="Uniqlo"|text="服裝店"|result=0
+title="大家樂：Club100會員限定 會員全日賞（至1/11）"|shop="大家樂"|payment="Club100會員"|end_date="2026-11-01"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至13/10）"|shop="7-Eleven"|start_date="2026-10-07"|end_date="2026-10-13"|text="任何人都可以享受的普通特價"|result=0
+title="滙豐Mastercard：郭富城ICONIC MOMENT啟德跨年演唱會26/27 優先訂票（9-10/10）"|shop="快達票"|payment="滙豐Mastercard"|start_date="2026-10-09"|end_date="2026-10-10"|text="演唱會"|result=0
+title="萬寧：門市全場無門檻 88折（9/10）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
