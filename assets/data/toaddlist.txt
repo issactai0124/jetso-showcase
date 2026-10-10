@@ -946,3 +946,16 @@ title="AEON Day：自家品牌商品 8折優惠（10-11/9）"|shop="AEON"|paymen
 title="優品360：最新優惠（至22/10）"|shop="優品360"|end_date="2024-10-22"|text="一般特價優惠"|result=0
 title="萬寧：今日出位價（10/10）"|shop="萬寧"|start_date="2024-10-10"|end_date="2024-10-10"|text="任何人均可享受的普通特價"|result=0
 title="百佳超級市場最新優惠（10/10）"|shop="百佳超級市場"|text="內文缺乏具體優惠詳情及會員/支付門檻要求"|result=0
+title="惠康超級市場最新優惠（10/10）"|shop="惠康超級市場"|start_date="2024-10-10"|text="普通特價宣傳"|result=0
+title="萬寧 / 屈臣氏：會員日 全單95折（10/10）"|shop="萬寧 / 屈臣氏"|payment="會員"|rate=0.05|start_date="2024-10-10"|end_date="2024-10-10"|applicable_days_of_month="10"|text="10月10日萬寧及屈臣氏會員可享全單95折優惠"|result=1
+title="Daiso Japan / Living Plaza：所有$12貨品 一律$10（至11/10）"|shop="Daiso Japan / Living Plaza"|amt=2|start_date="2024-10-10"|end_date="2024-10-11"|text="任何人均可享用的普通特價"|result=0
+title="HKTVmall﻿：跟貼超市價 再打85折（至11/10）"|shop="HKTVmall"|min_spend=99|rate=0.15|start_date="2020-10-10"|end_date="2020-10-11"|text="任何人都可以享受的普通特價"|result=0
+title="Chateraise：全新商品「絲滑焦糖布甸」"|shop="Chateraise"|start_date="2024-10-09"|text="新品推廣且無會員或特定支付方式門檻"|result=0
+title="7-Eleven：首度聯乘 7-SELECT x 清原 芋泥系列"|shop="7-Eleven"|text="新品推廣，無會員或特定支付方式要求"|result=0
+title="大家樂：10.10 月月「雙」賞 樂賞分快閃優惠（至12/10）"|shop="大家樂"|text="餐廳"|result=0
+title="聖安娜：秋日限定 Chestnut Crush栗子蛋糕系列"|shop="聖安娜"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="KFC﻿：最新「肯！抵DEAL」（至16/10）"|shop="KFC"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至15/10）"|shop="一田超市"|end_date="2024-10-15"|text="普通特價"|result=0
+title="一粥麵：全新升級「厚切」豬膶系列"|shop="一粥麵"|text="餐廳"|result=0
+title="Uniqlo：每週限定優惠（至15/10）"|shop="Uniqlo"|text="服裝店"|result=0
+title="海港飲食：長腳蟹乳豬宴 APP限定 激減$300（至30/10）"|shop="海港飲食"|text="餐廳"|result=0
