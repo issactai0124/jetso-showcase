@@ -959,3 +959,7 @@ title="一田超市：挑戰特價（至15/10）"|shop="一田超市"|end_date="
 title="一粥麵：全新升級「厚切」豬膶系列"|shop="一粥麵"|text="餐廳"|result=0
 title="Uniqlo：每週限定優惠（至15/10）"|shop="Uniqlo"|text="服裝店"|result=0
 title="海港飲食：長腳蟹乳豬宴 APP限定 激減$300（至30/10）"|shop="海港飲食"|text="餐廳"|result=0
+title="萬寧：今日出位價（11/10）"|shop="萬寧"|start_date="2024-10-11"|end_date="2024-10-11"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（11/10）"|shop="百佳超級市場"|min_spend=150|amt=18|start_date="2024-10-11"|end_date="2024-10-12"|text="任何人均可享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（11/10）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上：最新優惠（11/10）"|shop="樓上"|start_date="2024-10-11"|text="未提及會員或特定支付方式要求"|result=0
