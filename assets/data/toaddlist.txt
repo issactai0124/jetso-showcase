@@ -963,3 +963,10 @@ title="萬寧：今日出位價（11/10）"|shop="萬寧"|start_date="2024-10-11
 title="百佳超級市場最新優惠（11/10）"|shop="百佳超級市場"|min_spend=150|amt=18|start_date="2024-10-11"|end_date="2024-10-12"|text="任何人均可享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="惠康超級市場最新優惠（11/10）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
 title="樓上：最新優惠（11/10）"|shop="樓上"|start_date="2024-10-11"|text="未提及會員或特定支付方式要求"|result=0
+title="大家樂：心滿意粥 一粥兩件隨心配"|shop="大家樂"|text="餐廳"|result=0
+title="三聯書店/中華書局/商務印書館：秋季大減價 低至5折（至25/10）"|shop="三聯書店/中華書局/商務印書館"|text="不符合商店類型及為一般減價活動"|result=0
+title="A-1 Bakery：指定分店 酸種麵包"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="7-Eleven：全新一期 yuu印花獎賞（至1/12）"|shop="7-Eleven"|payment="yuu會員"|end_date="2024-12-01"|text="yuu會員於7-Eleven可享印花獎賞"|result=1
+title="美心MX：原隻香草燒雞2人餐 $88"|shop="美心MX"|text="餐廳"|result=0
+title="OK便利店：抵食套裝（至4/11）/ 店長推介（至21/10）"|shop="OK便利店"|text="普通特價"|result=0
+title="一粥麵：晚市 靚湯小菜套餐 $59起"|shop="一粥麵"|text="餐廳"|result=0
