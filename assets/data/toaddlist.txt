@@ -973,3 +973,6 @@ title="一粥麵：晚市 靚湯小菜套餐 $59起"|shop="一粥麵"|text="餐�
 title="九巴：新皇崗口岸 轉乘優惠「搭兩程 俾一程」/ 八達通首月推出回贈（12/10起）"|shop="九巴"|text="交通工具"|result=0
 title="龍豐：每週精選推廣（12-18/10）"|shop="龍豐"|start_date="2024-10-12"|end_date="2024-10-18"|text="普通特價宣傳"|result=0
 title="AEON：嘩！心動價！（至31/10）"|shop="AEON"|end_date="2024-10-31"|text="普通特價，無會員或特定支付門檻"|result=0
+title="MTR Mobile：港鐵即時賞（12/10）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|result=0|text="不符合指定商店類型"
+title="萬寧：今日出位價（12/10）"|shop="萬寧"|start_date="2024-10-12"|end_date="2024-10-12"|text="任何人均可享受的普通特價（出位價）"|result=0
+title="百佳超級市場最新優惠（12/10）"|shop="百佳超級市場"|text="普通特價"|result=0
