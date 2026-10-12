@@ -976,3 +976,13 @@ title="AEON：嘩！心動價！（至31/10）"|shop="AEON"|end_date="2024-10-31
 title="MTR Mobile：港鐵即時賞（12/10）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|result=0|text="不符合指定商店類型"
 title="萬寧：今日出位價（12/10）"|shop="萬寧"|start_date="2024-10-12"|end_date="2024-10-12"|text="任何人均可享受的普通特價（出位價）"|result=0
 title="百佳超級市場最新優惠（12/10）"|shop="百佳超級市場"|text="普通特價"|result=0
+title="惠康超級市場最新優惠（12/10）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="7-Eleven：最新優惠（12/10）"|shop="7-Eleven"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="海港飲食：阿拉斯加長腳蟹 $168起/斤（12/10起）"|shop="海港飲食"|start_date="2024-10-12"|text="餐廳"|result=0
+title="PayMe：搶額外10張港幣1元快閃萬用券（至13/10）"|shop="PayMe"|payment="PayMe"|amt=1|end_date="2024-10-13"|text="非指定商店類型及包含餐廳等排除類別"|result=0
+title="碌碌DUCK：免費雪糕車（至17/10）"|shop="碌碌DUCK"|start_date="2026-10-12"|end_date="2026-10-18"|text="任何人均可參與的普通宣傳活動，非會員或特定支付方式優惠"|result=0
+title="美心西餅：芒果Mochi芝士蛋糕甜品 / 杜拜朱古力開心果蛋糕甜品 期間限定價"|shop="美心西餅"|text="任何人均可享用的普通特價/新品推廣"|result=0
+title="元気寿司：午餐自選壽司盛 $90"|shop="元気寿司"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至25/10）"|shop="759 阿信屋"|end_date="2024-10-25"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="鴻福堂：健康餐新品 - 蘇杭甜醋魚套餐/翡翠海鮮蒸蛋套餐 / 試嚐價優惠（至18/10）"|shop="鴻福堂"|end_date="2024-10-18"|text="任何人均可享用的新品推廣優惠"|result=0
+title="OK便利店：本週激筍（至18/10）"|shop="OK便利店"|end_date="2024-10-18"|text="普通特價宣傳，非會員或特定支付方式專屬"|result=0
