@@ -986,3 +986,8 @@ title="元気寿司：午餐自選壽司盛 $90"|shop="元気寿司"|text="餐�
 title="759 阿信屋：今期勁筍推介（至25/10）"|shop="759 阿信屋"|end_date="2024-10-25"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
 title="鴻福堂：健康餐新品 - 蘇杭甜醋魚套餐/翡翠海鮮蒸蛋套餐 / 試嚐價優惠（至18/10）"|shop="鴻福堂"|end_date="2024-10-18"|text="任何人均可享用的新品推廣優惠"|result=0
 title="OK便利店：本週激筍（至18/10）"|shop="OK便利店"|end_date="2024-10-18"|text="普通特價宣傳，非會員或特定支付方式專屬"|result=0
+title="鳳城酒家：秋冬雙饗 蛇宴 / 大閘蟹宴"|shop="鳳城酒家"|text="餐廳"|result=0
+title="屈臣氏：自家品牌日 3件額外88折（13/10）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-10-13"|end_date="2024-10-13"|text="易賞錢會員於屈臣氏品牌日買3件指定產品享額外88折，滿$60送$20電子現金券"|result=1
+title="惠康超級市場最新優惠（13/10）"|shop="惠康超級市場"|text="普通特價或減價宣傳"|result=0
+title="麥當勞：The Signature Collection x 王嘉爾原創奇幻IP「Under the Castle」全新《黑魂版三重芝士安格斯》/ 限定萬聖節主題美食"|shop="麥當勞"|text="餐廳"|result=0
+title="大家樂：爆筍午餐 / Club100會員 開心星期二"|shop="大家樂"|text="餐廳"|result=0
