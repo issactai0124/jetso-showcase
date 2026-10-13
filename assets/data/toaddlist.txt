@@ -991,3 +991,11 @@ title="屈臣氏：自家品牌日 3件額外88折（13/10）"|shop="屈臣氏"|
 title="惠康超級市場最新優惠（13/10）"|shop="惠康超級市場"|text="普通特價或減價宣傳"|result=0
 title="麥當勞：The Signature Collection x 王嘉爾原創奇幻IP「Under the Castle」全新《黑魂版三重芝士安格斯》/ 限定萬聖節主題美食"|shop="麥當勞"|text="餐廳"|result=0
 title="大家樂：爆筍午餐 / Club100會員 開心星期二"|shop="大家樂"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至19/10）"|shop="龍豐"|end_date="2024-10-19"|text="任何人均可享受的普通特價"|result=0
+title="大快活：「酬神孖寶」套裝"|shop="大快活"|text="餐廳"|result=0
+title="Shanghai Tang Bazaar Sale（14-18/10）"|shop="Shanghai Tang"|start_date="2024-10-14"|end_date="2024-10-18"|text="服裝店"|result=0
+title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至31/10）"|shop="宜家 IKEA"|end_date="2024-10-31"|text="餐廳/家具店"|result=0
+title="名牌嬰童服飾及用品開倉（14-19/10）"|shop="名牌嬰童服飾及用品開倉"|start_date="2024-10-14"|end_date="2024-10-19"|text="服裝店"|result=0
+title="唐記包點：枝竹羊腩飯 / 臘味糯米飯"|shop="唐記包點"|text="普通特價或新品推廣，非會員或特定支付方式優惠"|result=0
+title="AEON：周3大特賣 / 新鮮日（14/10）"|shop="AEON"|applicable_days_of_week="3"|text="任何人均可享受的普通特價"|result=0
+title="一田超市：精選好貨 均一價 $20（至25/10）"|shop="一田超市"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
