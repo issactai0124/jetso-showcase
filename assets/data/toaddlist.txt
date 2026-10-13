@@ -999,3 +999,4 @@ title="名牌嬰童服飾及用品開倉（14-19/10）"|shop="名牌嬰童服飾
 title="唐記包點：枝竹羊腩飯 / 臘味糯米飯"|shop="唐記包點"|text="普通特價或新品推廣，非會員或特定支付方式優惠"|result=0
 title="AEON：周3大特賣 / 新鮮日（14/10）"|shop="AEON"|applicable_days_of_week="3"|text="任何人均可享受的普通特價"|result=0
 title="一田超市：精選好貨 均一價 $20（至25/10）"|shop="一田超市"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（14/10）"|shop="萬寧"|start_date="2020-10-14"|end_date="2020-10-14"|applicable_days_of_week=3|text="任何人都可以享受的普通特價"|result=0
