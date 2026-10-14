@@ -1000,3 +1000,7 @@ title="唐記包點：枝竹羊腩飯 / 臘味糯米飯"|shop="唐記包點"|tex
 title="AEON：周3大特賣 / 新鮮日（14/10）"|shop="AEON"|applicable_days_of_week="3"|text="任何人均可享受的普通特價"|result=0
 title="一田超市：精選好貨 均一價 $20（至25/10）"|shop="一田超市"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（14/10）"|shop="萬寧"|start_date="2020-10-14"|end_date="2020-10-14"|applicable_days_of_week=3|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（14/10）"|shop="MTR"|text="非指定商店類型（交通/港鐵）"|result=0
+title="屈臣氏：星期三樂賞日（14/10）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-10-14"|end_date="2020-10-14"|applicable_days_of_week=3|text="易賞錢會員於星期三可享屈臣氏樂賞日優惠"|result=1
+title="759 阿信屋：勁抵價（至14/10）"|shop="759 阿信屋"|end_date="2024-10-14"|text="普通特價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：爆抵靚早"|shop="大家樂"|text="餐廳"|result=0
