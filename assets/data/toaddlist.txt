@@ -1004,3 +1004,10 @@ title="MTR Mobile：港鐵即時賞（14/10）"|shop="MTR"|text="非指定商店
 title="屈臣氏：星期三樂賞日（14/10）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-10-14"|end_date="2020-10-14"|applicable_days_of_week=3|text="易賞錢會員於星期三可享屈臣氏樂賞日優惠"|result=1
 title="759 阿信屋：勁抵價（至14/10）"|shop="759 阿信屋"|end_date="2024-10-14"|text="普通特價宣傳，缺乏會員或特定支付方式門檻"|result=0
 title="大家樂：爆抵靚早"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至27/10）"|shop="7-Eleven"|start_date="2024-10-14"|end_date="2024-10-27"|text="普通新品推廣或預購，非會員專屬或特定支付方式優惠"|result=0
+title="東海堂：全新 Miffy抹茶紅豆麻糬包 / 黑松露煙肉芝士包 "|shop="東海堂"|text="任何人都可以享受的新品推廣，沒有會員或特定支付方式門檻"|result=0
+title="奇華餅家：養生系列曲奇 / M+『設計啊!』杏仁餅禮盒"|shop="奇華餅家"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="上海姥姥：外賣自取 買小菜 送主食"|shop="上海姥姥"|text="餐廳"|result=0
+title="海港飲食：古法羊腩煲"|shop="海港飲食"|text="餐廳"|result=0
+title="美心西餅：特濃朱古力海綿蛋糕 限時優惠"|shop="美心西餅"|text="任何人都可以享受的普通特價"|result=0
+title="一粥麵：孖寶外賣套餐 $99（15-17/10）"|shop="一粥麵"|start_date="2024-10-15"|end_date="2024-10-17"|text="餐廳"|result=0
