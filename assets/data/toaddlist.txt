@@ -1015,3 +1015,14 @@ title="7-Eleven：茶葉蛋 $7/2隻（15/10）"|shop="7-Eleven"|start_date="2026
 title="KFC：全新「金蜜黑椒脆雞」系列（15/10起）"|shop="KFC"|text="餐廳"|result=0
 title="喜茶：芒椰糯米飯 買1送1（15/10）"|shop="喜茶"|start_date="2024-10-15"|end_date="2024-10-15"|text="餐廳及任何人均可享受的新品推廣"|result=0
 title="佳宝食品超級市場：全場8折（15-22/10）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-10-15"|end_date="2026-10-22"|text="普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="萬寧：今日出位價（15/10）"|shop="萬寧"|start_date="2024-10-15"|end_date="2024-10-15"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（15/10）"|shop="百佳超級市場"|text="缺乏具體優惠詳情或屬於普通特價"|result=0
+title="惠康超級市場最新優惠（15/10）"|shop="惠康超級市場"|start_date="2024-10-15"|text="普通特價或減價宣傳，非會員或特定支付方式專屬"|result=0
+title="樓上 / 大棧：最新優惠（15/10）"|shop="樓上 / 大棧"|text="缺乏會員或特定支付方式門檻"|result=0
+title="東海堂：門市限時優惠（至17/10）"|shop="東海堂"|start_date="2026-10-11"|end_date="2026-10-17"|text="任何人都可以享受的普通特價"|result=0
+title="AEON：Mono Mono炮台山店 開幕優惠（至28/10）"|shop="AEON Mono Mono"|end_date="2024-10-28"|text="百貨公司及一般減價推廣"|result=0
+title="M&S：食品及飲品 消費滿$100 享78折（至19/10）"|shop="M&S"|min_spend=100|rate=0.22|end_date="2024-10-19"|text="普通特價，沒有門檻要求（如會員或特定支付方式），且商店屬百貨公司類別"|result=0
+title="屈臣氏：買指定高露潔牙膏 送總值高達$999豐富禮品（至20/10）"|shop="屈臣氏"|start_date="2026-10-14"|end_date="2026-10-20"|text="任何人均可享受的普通特價/贈品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="山崎麵包：10月特價の選"|shop="山崎麵包"|text="任何人均可享受的普通特價"|result=0
+title="7-Eleven：本週優惠（至20/10）"|shop="7-Eleven"|end_date="2024-10-20"|text="任何人都可以享受的普通特價"|result=0
+title="美心西餅：復古原盤出爐 經典椰檳"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
