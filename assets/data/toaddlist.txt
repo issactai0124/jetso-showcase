@@ -1027,3 +1027,7 @@ title="山崎麵包：10月特價の選"|shop="山崎麵包"|text="任何人均�
 title="7-Eleven：本週優惠（至20/10）"|shop="7-Eleven"|end_date="2024-10-20"|text="任何人都可以享受的普通特價"|result=0
 title="美心西餅：復古原盤出爐 經典椰檳"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="MOS Burger：20週年感謝祭典（16-18/10）"|shop="MOS Burger"|text="餐廳"|result=0
+title="7-Eleven：新口味 薄荷朱古力新地 / 買1送1（逢星期五）"|shop="7-Eleven"|applicable_days_of_week=5|text="任何人均可享用的普通特價優惠"|result=0
+title="稻香：「滋味肆和菜」最新菜單"|shop="稻香"|text="餐廳"|result=0
+title="小米：年度「雙11」購物狂歡節 超過150款智能產品勁減 低至65折（16/10-15/11）"|shop="小米"|rate=0.35|start_date="2026-10-16"|end_date="2026-11-15"|text="電器店及普通特價"|result=0
+title="KFC：「好肯癲」系列 - 萬聖節「邪惡南團」限定新品（16/10起）"|shop="KFC"|text="餐廳"|result=0
