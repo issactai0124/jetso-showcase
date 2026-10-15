@@ -1026,3 +1026,4 @@ title="屈臣氏：買指定高露潔牙膏 送總值高達$999豐富禮品（�
 title="山崎麵包：10月特價の選"|shop="山崎麵包"|text="任何人均可享受的普通特價"|result=0
 title="7-Eleven：本週優惠（至20/10）"|shop="7-Eleven"|end_date="2024-10-20"|text="任何人都可以享受的普通特價"|result=0
 title="美心西餅：復古原盤出爐 經典椰檳"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="MOS Burger：20週年感謝祭典（16-18/10）"|shop="MOS Burger"|text="餐廳"|result=0
