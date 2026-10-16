@@ -1044,3 +1044,6 @@ title="壽司郎：月中限定加推"|shop="壽司郎"|text="餐廳"|result=0
 title="大家樂：火鍋堅料大折日（至19/10）"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：5天限定（至20/10）"|shop="7-Eleven"|payment="yuu 會員"|end_date="2026-12-01"|text="yuu 會員購買任何牛奶飲品946毫升/950毫升可享買5送1印花優惠"|result=1
 title="美心MX：焗飯/意粉 配紅豆冰 $39起（至28/10）"|shop="美心MX"|start_date="2026-10-15"|end_date="2026-10-28"|text="餐廳"|result=0
+title="優品360：本週優惠（至22/10）"|shop="優品360"|end_date="2024-10-22"|text="普通特價/減價宣傳"|result=0
+title="稻香：頭牌小菜 $1加配優惠"|shop="稻香"|text="餐廳"|result=0
+title="AEON：100周年 第二擊（至28/10）"|shop="AEON"|end_date="2024-10-28"|text="百貨公司及一般減價宣傳"|result=0
