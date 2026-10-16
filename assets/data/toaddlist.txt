@@ -1031,3 +1031,16 @@ title="7-Eleven：新口味 薄荷朱古力新地 / 買1送1（逢星期五）"|
 title="稻香：「滋味肆和菜」最新菜單"|shop="稻香"|text="餐廳"|result=0
 title="小米：年度「雙11」購物狂歡節 超過150款智能產品勁減 低至65折（16/10-15/11）"|shop="小米"|rate=0.35|start_date="2026-10-16"|end_date="2026-11-15"|text="電器店及普通特價"|result=0
 title="KFC：「好肯癲」系列 - 萬聖節「邪惡南團」限定新品（16/10起）"|shop="KFC"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（16/10）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（16/10）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（16/10）"|shop="惠康超級市場"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="屈臣氏最新購物優惠（16/10）"|shop="屈臣氏"|text="內容不完整，缺乏具體優惠詳情"|result=-1
+title="萬寧：周五購物攻略（16/10）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
+title="牙膏最新優惠（16/10）"|shop=""|text="一般減價宣傳"|result=0
+title="阿波羅 Appolo：奇脆冰杯 $21/3件（至19/10）"|shop="阿波羅 Appolo"|min_spend=21|end_date="2024-10-19"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="聖安娜：重陽節限時優惠（至19/10）/ 日日至抵價（至28/10）"|shop="聖安娜"|text="任何人都可以享受的普通特價"|result=0
+title="759 阿信屋：App電子會員 買滿$100 即享7折（至19/10）"|shop="759 阿信屋"|payment="App電子會員"|min_spend=100|rate=0.3|start_date="2024-10-16"|end_date="2024-10-19"|text="電子會員凡以正價購物滿$100即享7折"|result=1
+title="壽司郎：月中限定加推"|shop="壽司郎"|text="餐廳"|result=0
+title="大家樂：火鍋堅料大折日（至19/10）"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至20/10）"|shop="7-Eleven"|payment="yuu 會員"|end_date="2026-12-01"|text="yuu 會員購買任何牛奶飲品946毫升/950毫升可享買5送1印花優惠"|result=1
+title="美心MX：焗飯/意粉 配紅豆冰 $39起（至28/10）"|shop="美心MX"|start_date="2026-10-15"|end_date="2026-10-28"|text="餐廳"|result=0
