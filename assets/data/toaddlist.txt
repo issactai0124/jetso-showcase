@@ -1054,3 +1054,8 @@ title="屈臣氏：火熱搶（17/10）"|shop="屈臣氏"|start_date="2024-10-17
 title="賽馬會好動城市計劃 - 活力街頭運動嘉年華（至19/10）"|shop="崇光啟德店"|text="百貨公司"|result=0
 title="大家樂：惠顧咖喱系列 送汽水/凍低糖綠茶（至19/10）"|shop="大家樂"|text="餐廳"|result=0
 title="AEON：感謝日（至20/10）"|shop="AEON"|payment="AEON會員/信用卡"|rate=0.05|end_date="2024-10-20"|applicable_days_of_month="2,20"|text="AEON感謝日，會員或持指定信用卡簽帳可享5%優惠"|result=1
+title="吉野家：全新 肉燥溏心蛋丼 / 巨丼新系列"|shop="吉野家"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至22/10）"|shop="一田超市"|end_date="2024-10-22"|text="普通特價"|result=0
+title="聖安娜：超級星期週優惠"|shop="聖安娜"|text="普通特價或減價宣傳，非會員或特定支付方式專屬"|result=0
+title="WeChat Pay HK：百佳超市 掃碼拎優惠券（至30/11）"|shop="百佳超市"|payment="WeChat Pay HK"|min_spend=200|amt=20|end_date="2024-11-30"|text="WeChat Pay HK用戶於百佳掃碼可領取$200減$20等多款電子優惠券"|result=1
+title="Uniqlo：轉季精選優惠（至22/10）"|shop="Uniqlo"|text="服裝店"|result=0
