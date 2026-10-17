@@ -1047,3 +1047,6 @@ title="美心MX：焗飯/意粉 配紅豆冰 $39起（至28/10）"|shop="美心M
 title="優品360：本週優惠（至22/10）"|shop="優品360"|end_date="2024-10-22"|text="普通特價/減價宣傳"|result=0
 title="稻香：頭牌小菜 $1加配優惠"|shop="稻香"|text="餐廳"|result=0
 title="AEON：100周年 第二擊（至28/10）"|shop="AEON"|end_date="2024-10-28"|text="百貨公司及一般減價宣傳"|result=0
+title="萬寧：最新優惠（17/10）"|shop="萬寧"|start_date="2024-10-17"|text="普通特價或減價宣傳"|result=0
+title="百佳超級市場最新優惠（17/10）"|shop="百佳超級市場"|text="普通特價/減價宣傳"|result=0
+title="惠康超級市場最新優惠（17/10）"|shop="惠康超級市場"|text="普通特價、減價宣傳"|result=0
