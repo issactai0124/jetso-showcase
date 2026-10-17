@@ -1050,3 +1050,7 @@ title="AEON：100周年 第二擊（至28/10）"|shop="AEON"|end_date="2024-10-2
 title="萬寧：最新優惠（17/10）"|shop="萬寧"|start_date="2024-10-17"|text="普通特價或減價宣傳"|result=0
 title="百佳超級市場最新優惠（17/10）"|shop="百佳超級市場"|text="普通特價/減價宣傳"|result=0
 title="惠康超級市場最新優惠（17/10）"|shop="惠康超級市場"|text="普通特價、減價宣傳"|result=0
+title="屈臣氏：火熱搶（17/10）"|shop="屈臣氏"|start_date="2024-10-17"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="賽馬會好動城市計劃 - 活力街頭運動嘉年華（至19/10）"|shop="崇光啟德店"|text="百貨公司"|result=0
+title="大家樂：惠顧咖喱系列 送汽水/凍低糖綠茶（至19/10）"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：感謝日（至20/10）"|shop="AEON"|payment="AEON會員/信用卡"|rate=0.05|end_date="2024-10-20"|applicable_days_of_month="2,20"|text="AEON感謝日，會員或持指定信用卡簽帳可享5%優惠"|result=1
