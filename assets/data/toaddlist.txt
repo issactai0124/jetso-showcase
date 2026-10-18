@@ -1067,3 +1067,6 @@ title="樓上：最新優惠（18/10）"|shop="樓上"|start_date="2024-10-18"|t
 title="Chateraise：絲滑焦糖布甸 3件裝 $39 "|shop="Chateraise"|amt=3|text="任何人均可享受的普通特價"|result=0
 title="奇華餅家：今期推介（至22/10）"|shop="奇華餅家"|end_date="2024-10-22"|text="普通特價或減價宣傳，缺乏會員或特定支付門檻"|result=0
 title="OK便利店：會員至抵價（至21/10）"|shop="OK便利店"|payment="會員"|end_date="2024-10-21"|text="OK便利店會員專享至抵價優惠至10月21日"|result=1
+title="龍豐：每週精選推廣（19-25/10）"|shop="龍豐"|start_date="2024-10-19"|end_date="2024-10-25"|text="普通特價或減價宣傳"|result=0
+title="大生生活超市：快閃優惠（至25/10）"|shop="大生生活超市"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
+title="麥當勞App： 「Monday麥麥勁賞」第42週電子優惠券（19/10起）"|shop="麥當勞"|text="餐廳"|result=0
