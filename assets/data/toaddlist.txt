@@ -1059,3 +1059,11 @@ title="一田超市：挑戰特價（至22/10）"|shop="一田超市"|end_date="
 title="聖安娜：超級星期週優惠"|shop="聖安娜"|text="普通特價或減價宣傳，非會員或特定支付方式專屬"|result=0
 title="WeChat Pay HK：百佳超市 掃碼拎優惠券（至30/11）"|shop="百佳超市"|payment="WeChat Pay HK"|min_spend=200|amt=20|end_date="2024-11-30"|text="WeChat Pay HK用戶於百佳掃碼可領取$200減$20等多款電子優惠券"|result=1
 title="Uniqlo：轉季精選優惠（至22/10）"|shop="Uniqlo"|text="服裝店"|result=0
+title="萬寧：今日出位價（18/10）"|shop="萬寧"|start_date="2024-10-18"|end_date="2024-10-18"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（18/10）"|shop="百佳超級市場"|text="普通特價宣傳"|result=0
+title="惠康超級市場最新優惠（18/10）"|shop="惠康超級市場"|text="普通特價"|result=0
+title="屈臣氏：最新優惠（18/10）"|shop="屈臣氏"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="樓上：最新優惠（18/10）"|shop="樓上"|start_date="2024-10-18"|text="普通特價"|result=0
+title="Chateraise：絲滑焦糖布甸 3件裝 $39 "|shop="Chateraise"|amt=3|text="任何人均可享受的普通特價"|result=0
+title="奇華餅家：今期推介（至22/10）"|shop="奇華餅家"|end_date="2024-10-22"|text="普通特價或減價宣傳，缺乏會員或特定支付門檻"|result=0
+title="OK便利店：會員至抵價（至21/10）"|shop="OK便利店"|payment="會員"|end_date="2024-10-21"|text="OK便利店會員專享至抵價優惠至10月21日"|result=1
