@@ -1075,3 +1075,12 @@ title="百佳超級市場最新優惠（19/10）"|shop="百佳超級市場"|text
 title="惠康超級市場最新優惠（19/10）"|shop="惠康超級市場"|text="普通特價或缺乏會員/特定支付方式門檻"|result=0
 title="A-1 Bakery：萬聖節限定冬甩 / 抹茶雪絨忌廉蛋糕"|shop="A-1 Bakery"|text="新品推廣且無特定支付或會員門檻"|result=0
 title="759 阿信屋：今期急凍冷凍精選（至25/10）"|shop="759 阿信屋"|end_date="2024-10-25"|text="普通特價、減價宣傳"|result=0
+title="百好飲食集團：阿拉斯加長腳蟹 $198/斤"|shop="百好飲食集團"|text="餐廳"|result=0
+title="BigC：今期精選品牌推介（至27/10）"|shop="BigC"|end_date="2024-10-27"|text="缺乏會員或特定支付方式門檻的普通特價"|result=0
+title="聖安娜：A.O.P. 牛角酥 嚐味價（至7/11）/ 萬聖節限定 黑芝麻日式冬甩"|shop="聖安娜"|text="任何人均可享用的普通特價/新品推廣"|result=0
+title="AEON：萬聖節之夜（至31/10）"|shop="AEON"|end_date="2024-10-31"|text="百貨公司及一般特價優惠"|result=0
+title="大家樂：會員限定 早餐 激抵價 $18（20/10-2/11）"|shop="大家樂"|text="餐廳"|result=0
+title="大生生活超市：今期精選優惠（至31/10）"|shop="大生生活超市"|end_date="2024-10-31"|text="任何人都可以享受的普通特價"|result=0
+title="美心MX：新派燒味 番茄炒蛋燒味飯"|shop="美心MX"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至25/10）"|shop="OK便利店"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：原隻靚雞 半斤叉燒 外賣優惠（20-26/10）"|shop="大家樂"|text="餐廳"|result=0
