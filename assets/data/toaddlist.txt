@@ -1070,3 +1070,4 @@ title="OK便利店：會員至抵價（至21/10）"|shop="OK便利店"|payment="
 title="龍豐：每週精選推廣（19-25/10）"|shop="龍豐"|start_date="2024-10-19"|end_date="2024-10-25"|text="普通特價或減價宣傳"|result=0
 title="大生生活超市：快閃優惠（至25/10）"|shop="大生生活超市"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
 title="麥當勞App： 「Monday麥麥勁賞」第42週電子優惠券（19/10起）"|shop="麥當勞"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（16/10）"|shop="MTR"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
