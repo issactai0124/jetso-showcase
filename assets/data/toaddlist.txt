@@ -1071,3 +1071,7 @@ title="龍豐：每週精選推廣（19-25/10）"|shop="龍豐"|start_date="2024
 title="大生生活超市：快閃優惠（至25/10）"|shop="大生生活超市"|end_date="2024-10-25"|text="任何人都可以享受的普通特價"|result=0
 title="麥當勞App： 「Monday麥麥勁賞」第42週電子優惠券（19/10起）"|shop="麥當勞"|text="餐廳"|result=0
 title="MTR Mobile：港鐵即時賞（16/10）"|shop="MTR"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳超級市場最新優惠（19/10）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（19/10）"|shop="惠康超級市場"|text="普通特價或缺乏會員/特定支付方式門檻"|result=0
+title="A-1 Bakery：萬聖節限定冬甩 / 抹茶雪絨忌廉蛋糕"|shop="A-1 Bakery"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="759 阿信屋：今期急凍冷凍精選（至25/10）"|shop="759 阿信屋"|end_date="2024-10-25"|text="普通特價、減價宣傳"|result=0
