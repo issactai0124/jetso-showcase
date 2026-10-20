@@ -1099,3 +1099,4 @@ title="名牌服飾特賣 低至1折（21-26/10）"|shop="名牌服飾"|start_da
 title="AEON：周三新鮮日（21/10）"|shop="AEON"|text="百貨公司及普通特價"|result=0
 title="聖安娜：新鮮製造 韓式紫菜飯卷"|shop="聖安娜"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="OK便利店：5天狂減（21-25/10）"|shop="OK便利店"|start_date="2024-10-21"|end_date="2024-10-25"|text="普通特價/減價宣傳"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（21/10）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價宣傳"|result=0
