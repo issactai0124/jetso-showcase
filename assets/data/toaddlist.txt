@@ -1100,3 +1100,12 @@ title="AEON：周三新鮮日（21/10）"|shop="AEON"|text="百貨公司及普�
 title="聖安娜：新鮮製造 韓式紫菜飯卷"|shop="聖安娜"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="OK便利店：5天狂減（21-25/10）"|shop="OK便利店"|start_date="2024-10-21"|end_date="2024-10-25"|text="普通特價/減價宣傳"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（21/10）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價宣傳"|result=0
+title="MTR Mobile：港鐵即時賞（21/10）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="屈臣氏：星期三樂賞日（21/10）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-10-21"|end_date="2020-10-21"|applicable_days_of_week=3|text="易賞錢會員於星期三在屈臣氏消費可享優惠"|result=1
+title="​7-Eleven：7-SELECT x 青花驕聯乘 全新椒麻美食（至17/11）"|shop="7-Eleven"|end_date="2024-11-17"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="KFC：星期一至日 日日都「肯！抵Deal」（至2/11）"|shop="KFC"|text="餐廳"|result=0
+title="A-1 Bakery：新登場 經典三彩千層蛋糕組合 / 熱情尊爵朱古力 / 尊爵朱古力慕斯蛋糕 "|shop="A-1 Bakery"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="吉野家：全新吉邊 究極の鍋．日韓篇 限時激安 $49起 / 日式醬煮豚丼 $37起"|shop="吉野家"|text="餐廳"|result=0
+title="JHC 真好城：盤點清貨 買4送1"|shop="JHC 真好城"|text="任何人均可享用的普通特價優惠"|result=0
+title="美心西餅：《醇厚金栗 Taste of Autumn》系列"|shop="美心西餅"|payment="Eatizen 美心薈會員"|rate=0.1|text="Eatizen 美心薈會員購買指定秋日限定蛋糕可享約9折優惠"|result=1
+title="7-Eleven：今期「$10一口價」限時優惠（至3/11）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
