@@ -1129,3 +1129,7 @@ title="Häagen-Dazs：日本版 全新Classy Night系列"|shop="Häagen-Dazs"|te
 title="吉野家：APP會員限定 惠顧晚市火鍋 即送$10優惠券包（至10/11）"|shop="吉野家"|text="餐廳"|result=0
 title="7-Eleven：本週優惠（至27/10）"|shop="7-Eleven"|end_date="2024-10-27"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="惠康超市：全新「OSAMU GOODS 時尚出行」換購活動（23/10-24/12）"|shop="惠康超市"|start_date="2024-10-23"|end_date="2024-12-24"|text="普通換購活動，非會員或特定支付專屬"|result=0
+title="大家樂：期間限定 和風照燒汁鰻魚雞扒焗飯"|shop="大家樂"|text="餐廳"|result=0
+title="銀聯手機Pay / 銀聯二維碼：搭香港車船 立減高達5折（逢星期五六日、23/10-27/12）"|shop="港鐵、九巴、城巴等交通工具"|payment="銀聯手機Pay/銀聯二維碼"|min_spend=3|rate=0.5|amt=2|start_date="2024-10-23"|end_date="2024-12-27"|applicable_days_of_week="5,6,7"|text="非指定商店類型（交通工具）"|result=0
+title="崇光百貨：半年一度 感謝周年慶 Part 1（23/10-8/11）"|shop="崇光百貨"|start_date="2024-10-23"|end_date="2024-11-08"|text="百貨公司"|result=0
+title="佳宝食品超級市場：週週佳驚喜（23-29/10）"|shop="佳宝食品超級市場"|start_date="2024-10-23"|end_date="2024-10-29"|text="普通特價宣傳，無門檻限制"|result=0
