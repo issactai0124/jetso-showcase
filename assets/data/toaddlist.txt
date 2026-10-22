@@ -1125,3 +1125,7 @@ title="Subway：全新 蕃茄肉醬肉丸潛艇堡"|shop="Subway"|text="餐廳"|
 title="千色 Citistore：秋日暖意特集（至4/11）"|shop="千色 Citistore"|text="百貨公司"|result=0
 title="大快活：新APP會員 低至7折優惠券"|shop="大快活"|text="餐廳"|result=0
 title="Uniqlo：精選商品 低至$99"|shop="Uniqlo"|text="服裝店"|result=0
+title="Häagen-Dazs：日本版 全新Classy Night系列"|shop="Häagen-Dazs"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="吉野家：APP會員限定 惠顧晚市火鍋 即送$10優惠券包（至10/11）"|shop="吉野家"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至27/10）"|shop="7-Eleven"|end_date="2024-10-27"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="惠康超市：全新「OSAMU GOODS 時尚出行」換購活動（23/10-24/12）"|shop="惠康超市"|start_date="2024-10-23"|end_date="2024-12-24"|text="普通換購活動，非會員或特定支付專屬"|result=0
