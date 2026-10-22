@@ -1114,3 +1114,14 @@ title="淳茶舍：全港大派茶 免費請你飲（至10/11）"|shop="淳茶�
 title="Pizza Hut： 期間限定「黑魔芝魅系列」/ Cocktail & Mocktail調酒及特飲（22/10-1/11）"|shop="Pizza Hut"|text="餐廳"|result=0
 title="大家樂：北菇滑雞臘腸 燕麥米煲仔飯"|shop="大家樂"|text="餐廳"|result=0
 title="美心MX：晚市 豐盛一人鍋套餐 $56起"|shop="美心MX"|text="餐廳"|result=0
+title="百佳超級市場最新優惠（22/10）"|shop="百佳超級市場"|text="一般減價宣傳"|result=0
+title="惠康超級市場最新優惠（22/10）"|shop="惠康超級市場"|text="普通特價或沒有門檻的優惠"|result=0
+title="樓上 / 大棧：最新優惠（22/10）"|shop="樓上 / 大棧"|text="缺乏具體優惠詳情及門檻資訊"|result=0
+title="7-Eleven：鮮牛奶/豆漿/豆乳/豆奶/乳酪/乳酪飲品 8折（至24/10）｜燒賣/魚蛋 $11/10粒（22/10）"|shop="7-Eleven"|min_spend=80|rate=0.2|end_date="2024-10-24"|text="任何人均可享有的普通特價"|result=0
+title="大家樂：早餐優惠"|shop="大家樂"|text="餐廳"|result=0
+title="759 阿信屋：全線分店 買滿$150 即減$10（至25/10）"|shop="759 阿信屋"|payment="會員"|min_spend=150|amt=10|start_date="2024-10-22"|end_date="2024-10-25"|text="會員享恆常77折，購物滿折實價$150即減$10，憑發票下次滿$120可減$15"|result=1
+title="美心：臘味禮盒· 早鳥優惠（至31/10）"|shop="美心"|amt=30|end_date="2026-10-31"|text="任何人均可享受的普通特價"|result=0
+title="Subway：全新 蕃茄肉醬肉丸潛艇堡"|shop="Subway"|text="餐廳"|result=0
+title="千色 Citistore：秋日暖意特集（至4/11）"|shop="千色 Citistore"|text="百貨公司"|result=0
+title="大快活：新APP會員 低至7折優惠券"|shop="大快活"|text="餐廳"|result=0
+title="Uniqlo：精選商品 低至$99"|shop="Uniqlo"|text="服裝店"|result=0
