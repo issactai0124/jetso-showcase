@@ -1146,3 +1146,11 @@ title="WeChat Pay HK：微信支付「搭車碼」搭九巴往返新皇崗口岸
 title="包點先生：新登場 香濃黑芝麻系列"|shop="包點先生"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="大家樂：原隻雞髀皇茶餐 免費升級紅豆冰"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：5天限定（至27/10）"|shop="7-Eleven"|payment="yuu會員"|end_date="2026-12-01"|text="yuu會員購買指定盒裝牛奶飲品200/236毫升可享買5送1優惠"|result=1
+title="野外定向同樂日 @北區公園（24/10）"|shop="北區公園"|start_date="2020-10-24"|end_date="2020-10-24"|applicable_days_of_week=6|text="非指定商店類型（社區活動）"|result=0
+title="Doughman：4周年慶 免費派發迷你鹽可頌（24/10、26/10）"|shop="Doughman"|start_date="2026-10-24"|end_date="2026-10-26"|text="任何人均可參與的社交媒體推廣活動，非會員專屬或特定支付優惠"|result=0
+title="安佳 Anchor：第3屆香港菠蘿油日 送出4,600個菠蘿油（24/10）"|shop="指定茶餐廳"|min_spend=40|start_date="2024-10-24"|end_date="2024-10-24"|text="餐廳及一般推廣"|result=0
+title="「優鮮港品 · 秋日稼期」本地漁農市集 @奧海城（24-25/10）"|shop="本地漁農市集"|start_date="2026-10-24"|end_date="2026-10-25"|text="任何人均可參與的公眾市集，無會員或支付門檻"|result=0
+title="吉野家：激安美味大滿足"|shop="吉野家"|text="餐廳"|result=0
+title="香港美食嘉年華（24/10-1/11）"|shop="香港美食嘉年華"|start_date="2024-10-24"|end_date="2024-11-01"|text="展覽活動且不具備特定支付或會員門檻"|result=0
+title="港鐵 MTR：感謝日 車費半價優惠（24/10）"|shop="港鐵"|text="不符合商店類型（交通工具）"|result=0
+title="優品360：最新優惠（至5/11）"|shop="優品360"|end_date="2024-11-05"|text="普通特價或減價宣傳"|result=0
