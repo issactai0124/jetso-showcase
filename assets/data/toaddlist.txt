@@ -1164,3 +1164,8 @@ title="HKTVmall﻿：日日跟貼兩大超市價 再打85折（至25/10）"|shop
 title="Chateraise：雙味泡芙 買1送1（至25/10） "|shop="Chateraise"|start_date="2020-10-24"|end_date="2020-10-25"|applicable_days_of_week="6,7"|text="普通特價優惠，無會員或特定支付方式門檻"|result=0
 title="奇華餅家：今期推介（至29/10）"|shop="奇華餅家"|end_date="2024-10-29"|text="普通特價或減價宣傳"|result=0
 title="一田超市：挑戰特價（至29/10）"|shop="一田超市"|end_date="2024-10-29"|text="普通特價，非會員或特定支付方式優惠"|result=0
+title="KEETA：Dough Bros. 經典口味Pizza 買1送1（至30/10）"|shop="Dough Bros."|end_date="2024-10-30"|text="餐廳"|result=0
+title="葵青區全民動起來2026（25/10）"|shop="青衣西南體育館"|text="非指定商店類型（社區活動/體育館）"|result=0
+title="樓上：$2優惠券"|shop="樓上"|amt=2|text="缺乏會員或特定支付方式門檻要求"|result=0
+title="一粥麵：零米輕食系列"|shop="一粥麵"|text="餐廳"|result=0
+title="Uniqlo：轉季精選優惠（至29/10）"|shop="Uniqlo"|end_date="2024-10-29"|text="服裝店"|result=0
