@@ -1177,3 +1177,6 @@ title="東海堂：萬聖節限定甜品"|shop="東海堂"|text="新品推廣且
 title="永年士多：APP會員限定 惠顧任何麵類 送咖喱三寶"|shop="永年士多"|text="餐廳"|result=0
 title="AEON：秋冬生活提案（至18/11）"|shop="AEON"|end_date="2024-11-18"|text="百貨公司及一般減價宣傳"|result=0
 title="譚仔雲南米線：晚市 全新「迷你砂鍋一人餐」"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="OK便利店：店長推介 / 震撼價（至4/11）"|shop="OK便利店"|end_date="2024-11-04"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="龍豐：每週精選推廣（26/10-1/11）"|shop="龍豐"|start_date="2024-10-26"|end_date="2024-11-01"|text="任何人均可享受的普通特價宣傳"|result=0
+title="麥當勞App： 「Monday麥麥勁賞」電子優惠券（26/10起）"|shop="麥當勞"|text="餐廳"|result=0
