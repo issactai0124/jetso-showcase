@@ -1180,3 +1180,4 @@ title="譚仔雲南米線：晚市 全新「迷你砂鍋一人餐」"|shop="譚�
 title="OK便利店：店長推介 / 震撼價（至4/11）"|shop="OK便利店"|end_date="2024-11-04"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
 title="龍豐：每週精選推廣（26/10-1/11）"|shop="龍豐"|start_date="2024-10-26"|end_date="2024-11-01"|text="任何人均可享受的普通特價宣傳"|result=0
 title="麥當勞App： 「Monday麥麥勁賞」電子優惠券（26/10起）"|shop="麥當勞"|text="餐廳"|result=0
+title="大家樂：晚市 咋咋淋要有 牛/豬/雞三大鐵板盛宴"|shop="大家樂"|text="餐廳"|result=0
