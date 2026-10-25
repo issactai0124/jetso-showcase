@@ -1172,3 +1172,8 @@ title="Uniqlo：轉季精選優惠（至29/10）"|shop="Uniqlo"|end_date="2024-1
 title="萬寧：今日出位價（25/10）"|shop="萬寧"|start_date="2024-10-25"|end_date="2024-10-25"|text="任何人均可享受的普通特價"|result=0
 title="百佳超級市場最新優惠（25/10）"|shop="百佳超級市場"|text="普通特價"|result=0
 title="惠康超級市場最新優惠（25/10）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上 / 尚品：最新優惠（25/10）"|shop="樓上 / 尚品"|text="缺乏具體優惠詳情及會員/支付門檻資訊"|result=0
+title="東海堂：萬聖節限定甜品"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="永年士多：APP會員限定 惠顧任何麵類 送咖喱三寶"|shop="永年士多"|text="餐廳"|result=0
+title="AEON：秋冬生活提案（至18/11）"|shop="AEON"|end_date="2024-11-18"|text="百貨公司及一般減價宣傳"|result=0
+title="譚仔雲南米線：晚市 全新「迷你砂鍋一人餐」"|shop="譚仔雲南米線"|text="餐廳"|result=0
