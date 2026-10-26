@@ -1190,3 +1190,9 @@ title="BigC：雙11 六重賞（至2/11）"|shop="BigC"|end_date="2024-11-02"|te
 title="Starbucks：6am-10am 買滿$68 減$8（至31/10）"|shop="Starbucks"|min_spend=68|amt=8|end_date="2024-10-31"|text="餐廳"|result=0
 title="759 阿信屋：今期勁筍推介（至8/11）"|shop="759 阿信屋"|end_date="2024-11-08"|text="任何人都可以享受的普通特價"|result=0
 title="JHC 真好城：盤點清貨 85折（至1/11）"|shop="JHC 真好城"|min_spend=100|end_date="2024-11-01"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
+title="鴻福堂：全新【JUMBO便當】"|shop="鴻福堂"|text="任何人均可享用的新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="OK便利店：本週激筍（至1/11）"|shop="OK便利店"|text="普通特價/減價宣傳"|result=0
+title="壽司郎   灣仔/西九龍中心店限定 生三文魚三貫 $17（27-29/10）"|shop="壽司郎"|start_date="2020-10-27"|end_date="2020-10-29"|text="餐廳"|result=0
+title="HK Express：13週年 Ultra Offer 全線航點單程機票 低至$13（預訂至30/10）"|shop="HK Express"|text="機票"|result=0
+title="大家樂：高蛋白健康選 - 全新「香煎鯖魚柳」"|shop="大家樂"|text="餐廳"|result=0
+title="海港飲食：超值全包宴 低至$1188（至17/12）"|shop="海港飲食"|text="餐廳"|result=0
