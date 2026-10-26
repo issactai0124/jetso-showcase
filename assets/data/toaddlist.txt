@@ -1181,3 +1181,12 @@ title="OK便利店：店長推介 / 震撼價（至4/11）"|shop="OK便利店"|e
 title="龍豐：每週精選推廣（26/10-1/11）"|shop="龍豐"|start_date="2024-10-26"|end_date="2024-11-01"|text="任何人均可享受的普通特價宣傳"|result=0
 title="麥當勞App： 「Monday麥麥勁賞」電子優惠券（26/10起）"|shop="麥當勞"|text="餐廳"|result=0
 title="大家樂：晚市 咋咋淋要有 牛/豬/雞三大鐵板盛宴"|shop="大家樂"|text="餐廳"|result=0
+title="MTR Mobile：港鐵即時賞（26/10）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="萬寧：今日出位價（26/10）"|shop="萬寧"|start_date="2024-10-26"|end_date="2024-10-26"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（26/10）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="惠康超級市場最新優惠（26/10）"|shop="惠康超級市場"|text="一般減價宣傳"|result=0
+title="7-Eleven：買7-SELECT和風の味三文治/水果三文治 送維他奶低糖士多啤梨/香蕉/芒果豆奶（至27/10）"|shop="7-Eleven"|end_date="2024-10-27"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="BigC：雙11 六重賞（至2/11）"|shop="BigC"|end_date="2024-11-02"|text="缺乏會員或特定支付方式門檻"|result=0
+title="Starbucks：6am-10am 買滿$68 減$8（至31/10）"|shop="Starbucks"|min_spend=68|amt=8|end_date="2024-10-31"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至8/11）"|shop="759 阿信屋"|end_date="2024-11-08"|text="任何人都可以享受的普通特價"|result=0
+title="JHC 真好城：盤點清貨 85折（至1/11）"|shop="JHC 真好城"|min_spend=100|end_date="2024-11-01"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
