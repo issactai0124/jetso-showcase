@@ -1205,3 +1205,13 @@ title="Starbucks：南瓜批鮮奶咖啡 / 5pm後 Buy 1 Share 1（至31/10）"|s
 title="聖安娜：11.11限時激減！網購 蛋糕優惠 高達78折（至15/11）"|shop="聖安娜餅屋"|min_spend=208|rate=0.22|end_date="2026-11-15"|text="任何人均可使用的普通特價或網購優惠碼"|result=0
 title="龍豐：每週至抵「豐搶價」 （至2/11）"|shop="龍豐"|end_date="2024-11-02"|text="任何人都可以享受的普通特價"|result=0
 title="大家樂：Club100會員限定 派錢大激賞（至2/11）"|shop="大家樂"|payment="Club100會員"|min_spend=50|amt=10|start_date="2026-10-27"|end_date="2026-11-02"|text="餐廳"|result=0
+title="奇趣天地： 沙田店 搬遷清貨優惠升級 低至7折"|shop="奇趣天地"|text="不符合商店類型且為任何人均可享有的普通清貨優惠"|result=0
+title="生活用品及休閒服飾特賣 低至1折 / HP閃購日（28/10-2/11）"|shop="HP"|start_date="2024-10-28"|end_date="2024-11-02"|text="服裝店、電器及一般減價促銷"|result=0
+title="壽司郎：【韓國人氣主廚蔣皓埈】限定商品"|shop="壽司郎"|text="餐廳"|result=0
+title="TONYMOLY：19週年感謝祭 全場3折起（28/10-3/11）"|shop="TONYMOLY"|start_date="2026-10-28"|end_date="2026-11-03"|text="任何人都可以享受的普通特價，沒有會員或特定支付方式門檻"|result=0
+title="AEON：周三新鮮日（28/10）"|shop="AEON"|text="任何人都可以享受的普通特價"|result=0
+title="永安百貨：滋補養生食品展（至30/11）"|shop="永安百貨"|end_date="2024-11-30"|text="百貨公司"|result=0
+title="陳奕迅演唱會2026 - Recording Sessions with Mr. Eason Chan 網上登記抽籤購票（28-29/10）"|shop="McDonald's"|text="餐廳"|result=0
+title="大家樂：晚市 爆抵鐵板餐 $49（至9/11）"|shop="大家樂"|text="餐廳"|result=0
+title="OK便利店：買雪糕滿$100 享75折優惠（28-31/10）"|shop="OK便利店"|min_spend=100|rate=0.25|start_date="2024-10-28"|end_date="2024-10-31"|text="任何人都可以享受的普通特價"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（28/10）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
