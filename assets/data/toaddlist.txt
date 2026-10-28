@@ -1216,3 +1216,15 @@ title="大家樂：晚市 爆抵鐵板餐 $49（至9/11）"|shop="大家樂"|tex
 title="OK便利店：買雪糕滿$100 享75折優惠（28-31/10）"|shop="OK便利店"|min_spend=100|rate=0.25|start_date="2024-10-28"|end_date="2024-10-31"|text="任何人都可以享受的普通特價"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（28/10）"|shop="萬寧"|text="任何人都可以享受的普通特價"|result=0
 title="MTR Mobile：港鐵即時賞（28/10）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|result=0|text="不符合商店類型"
+title="屈臣氏：星期三樂賞日 / 最新優惠（28/10）"|shop="屈臣氏"|payment="易賞錢會員"|applicable_days_of_week=3|text="商店類型符合，且標題提及會員專屬樂賞日，但內文缺乏具體折扣率及年份資訊"|result=2
+title="Pepper Lunch：黑椒牛肉飯 免費增至最大肉量（至30/10）"|shop="Pepper Lunch"|start_date="2026-10-28"|end_date="2026-10-30"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至10/11）"|shop="7-Eleven"|start_date="2024-10-28"|end_date="2024-11-10"|text="任何人都可以享受的新品推廣"|result=0
+title="東海堂：全新「口袋三文治系列」"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="海港飲食：時令大閘蟹 / 金秋大閘蟹宴"|shop="海港飲食"|text="餐廳"|result=0
+title="英記茶莊：週年減價 全線貨品 8折（至10/11）"|shop="英記茶莊"|rate=0.2|end_date="2024-11-10"|text="任何人都可以享受的普通特價"|result=0
+title="一粥麵：晚市 秋冬暖心鍋系列"|shop="一粥麵"|text="餐廳"|result=0
+title="OK便利店：5天狂減（至1/11）"|shop="OK便利店"|end_date="2024-11-01"|text="普通特價，沒有會員或特定支付方式門檻"|result=0
+title="吉野家：APP會員限定 Sick Burger聯乘特色漢堡 $19.9（29/10）"|shop="吉野家"|text="餐廳"|result=0
+title="大家樂 X Snap Fitness：高蛋白·操肌 爆抵組合 低至52折"|shop="大家樂"|text="餐廳"|result=0
+title="旅發局：香港美酒佳餚巡禮2026（29/10-1/11）"|shop="香港美酒佳餚巡禮"|start_date="2026-10-29"|end_date="2026-11-01"|text="活動性質且不具備會員或特定支付門檻"|result=0
+title="一粥麵：外賣快閃優惠（29-31/10）"|shop="一粥麵"|text="餐廳"|result=0
