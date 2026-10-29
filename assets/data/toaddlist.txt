@@ -1231,3 +1231,14 @@ title="一粥麵：外賣快閃優惠（29-31/10）"|shop="一粥麵"|text="餐�
 title="萬寧：今日出位價（29/10）"|shop="萬寧"|start_date="2024-10-29"|end_date="2024-10-29"|text="任何人都可以享受的普通特價"|result=0
 title="惠康超級市場最新優惠（29/10）"|shop="惠康"|text="普通特價或新品推廣，缺乏會員或特定支付方式門檻"|result=0
 title="樓上 / 大棧：最新優惠（29/10）"|shop="樓上 / 大棧"|text="一般減價宣傳"|result=0
+title="美心西餅：萬聖節限定甜品「搗蛋小幽靈」"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="屈臣氏：買指定牙齦適 送高達總值$775.9豐富禮品（至3/11）"|shop="屈臣氏"|min_spend=189|end_date="2024-11-03"|text="任何人均可享用的普通推廣"|result=0
+title="Pizza Hut：期間限定 星芝批"|shop="Pizza Hut"|text="餐廳"|result=0
+title="永安百貨：收納及清潔用品展（至30/11）"|shop="永安百貨"|end_date="2024-11-30"|text="百貨公司"|result=0
+title="聖安娜：日日至抵價（至11/11）"|shop="聖安娜"|end_date="2024-11-11"|text="普通特價"|result=0
+title="7-Eleven：本週優惠（至3/11）"|shop="7-Eleven"|end_date="2024-11-03"|text="任何人都可以享受的普通特價"|result=0
+title="元氣壽司：惠顧任何堂食消費 送「萬聖節糖果袋」（30-31/10）"|shop="元氣壽司"|start_date="2024-10-30"|end_date="2024-10-31"|text="餐廳"|result=0
+title="MOS Burger：萬聖節限定優惠（至1/11）"|shop="MOS Burger"|start_date="2024-10-29"|end_date="2024-11-01"|text="餐廳"|result=0
+title="KFC﻿：全新期間限定「韓辣三連芝雞扒桶飯」"|shop="KFC"|text="餐廳"|result=0
+title="海港飲食：超值午市全包宴 低至$868"|shop="海港飲食"|text="餐廳"|result=0
+title="佳宝食品超級市場：週週佳驚喜（30/10-2/11）"|shop="佳宝食品超級市場"|start_date="2024-10-30"|end_date="2024-11-02"|text="普通特價宣傳，無會員或特定支付方式門檻"|result=0
