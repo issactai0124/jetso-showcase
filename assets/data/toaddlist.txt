@@ -1250,3 +1250,16 @@ title="萬寧：周五購物攻略（30/10）"|shop="萬寧"|text="普通特價"
 title="阿波羅 Appolo：雪糕雪條福袋 $80（至1/11） "|shop="阿波羅 Appolo"|end_date="2024-11-01"|text="任何人均可享受的普通特價優惠"|result=0
 title="牙膏最新優惠（30/10）"|text="內容缺乏具體商店、會員或特定支付方式要求，且一般特價不予錄入"|result=0
 title="東海堂：萬聖節限定版 比利時朱古力新地"|shop="東海堂"|text="普通新品推廣，非會員或特定支付優惠"|result=0
+title="KFC：新登場 蝦湯扭扭粉早餐系列"|shop="KFC"|text="餐廳"|result=0
+title="Daiso Japan / Living Plaza：週末優惠（至2/11）"|shop="Daiso Japan / Living Plaza"|end_date="2024-11-02"|text="任何人均可享用的週末優惠"|result=0
+title="譚仔三哥米線：全新「砂砂撈米線」"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="美心西餅：全新 壽桃禮盒 / 香軟薯仔包"|shop="美心西餅"|text="新品推廣且無會員或特定支付要求"|result=0
+title="Don Don Donki：週末激減（至1/11）"|shop="Don Don Donki"|end_date="2024-11-01"|text="週末優惠且無門檻限制"|result=0
+title="聖安娜：全新「迷你麵包系列」"|shop="聖安娜"|text="任何人都可以享受的普通特價/新品推廣"|result=0
+title="7-Eleven：5天限定（至3/11）"|shop="7-Eleven"|start_date="2024-10-30"|end_date="2024-11-03"|text="任何人都可以享受的普通特價"|result=0
+title="爭鮮迴轉壽司：深海大肥豬 打卡可享半價（31/10-1/11）"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="六合彩：萬聖節金多寶 $8000萬（31/10）"|shop="香港賽馬會"|text="非指定商店類型"|result=0
+title="大家樂：火鍋堅料大折日（至2/11）"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：感謝祭（31/10-2/11）/「出前一丁」放題（31/10）"|shop="AEON"|start_date="2024-10-31"|end_date="2024-11-02"|text="百貨公司及普通特價宣傳"|result=0
+title="龍豐：雙11購物節（至15/11）"|shop="龍豐"|end_date="2024-11-15"|text="普通特價宣傳"|result=0
+title="優品360：本週優惠（至5/11）"|shop="優品360"|end_date="2024-11-05"|text="普通特價，沒有會員或特定支付門檻"|result=0
