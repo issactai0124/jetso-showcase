@@ -1266,3 +1266,13 @@ title="優品360：本週優惠（至5/11）"|shop="優品360"|end_date="2024-11
 title="萬寧：最新優惠（31/10）"|shop="萬寧"|start_date="2024-10-31"|end_date="2024-10-31"|text="普通特價或減價宣傳"|result=0
 title="百佳超級市場最新優惠（31/10）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
 title="惠康超級市場最新優惠（31/10）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻，屬於一般特價宣傳"|result=0
+title="永年士多：憑《頭條日報 - 起筷》任何惠顧 送絲襪樽仔奶茶（31/10）"|shop="永年士多"|text="餐廳"|result=0
+title="美心西餅：巨大版 黃梅花籃蛋糕"|shop="美心西餅"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="大快活：新登場 西冷牛扒鐵板餐"|shop="大快活"|text="餐廳"|result=0
+title="稻香：深海直送長腳蟹 $188/斤"|shop="稻香"|text="餐廳"|result=0
+title="一田超市：挑戰特價（至5/11）"|shop="一田超市"|end_date="2024-11-05"|text="普通特價"|result=0
+title="Sanrio Gift Gate：指定分店 免費請你食Hello Kitty造型曲奇（1/11）"|shop="Sanrio Gift Gate"|payment="Sanrio Smile HK App 會員"|start_date="2026-11-01"|end_date="2026-11-01"|text="禮品店"|result=0
+title="第二十屆大角咀廟會 - 特色巡遊/十八醒獅梅花樁表演/500呎夜光龍表演（1/11）"|shop="大角咀廟會"|text="非指定商店類型（活動/節慶）"|result=0
+title="海港：全新 晚市優惠孖寶 / 長腳蟹乳豬宴"|shop="海港酒家"|text="餐廳"|result=0
+title="Uniqlo：狂歡購 11.11（至5/11）"|shop="Uniqlo"|text="服裝店"|result=0
+title="AEON：雙11購物節（至11/11）"|shop="AEON"|end_date="2024-11-11"|text="百貨公司及一般減價宣傳"|result=0
