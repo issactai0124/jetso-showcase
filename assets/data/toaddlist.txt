@@ -1276,3 +1276,8 @@ title="第二十屆大角咀廟會 - 特色巡遊/十八醒獅梅花樁表演/50
 title="海港：全新 晚市優惠孖寶 / 長腳蟹乳豬宴"|shop="海港酒家"|text="餐廳"|result=0
 title="Uniqlo：狂歡購 11.11（至5/11）"|shop="Uniqlo"|text="服裝店"|result=0
 title="AEON：雙11購物節（至11/11）"|shop="AEON"|end_date="2024-11-11"|text="百貨公司及一般減價宣傳"|result=0
+title="萬寧：今日出位價（1/11）"|shop="萬寧"|start_date="2024-11-01"|end_date="2024-11-01"|text="任何人都可以享受的普通特價"|result=0
+title="百佳超級市場最新優惠（1/11）"|shop="百佳超級市場"|start_date="2024-11-01"|text="缺乏會員或特定支付方式門檻資訊，屬一般減價宣傳"|result=0
+title="惠康超級市場最新優惠（1/11）"|shop="惠康超級市場"|start_date="2024-11-01"|text="缺乏會員或特定支付方式門檻"|result=0
+title="樓上：最新優惠（1/11）"|shop="樓上"|text="普通特價或未提及會員門檻"|result=0
+title="八達通APP ：快閃券 KFC消費滿$60 即賺$6回贈（至25/11）"|shop="KFC"|text="餐廳"|result=0
