@@ -1287,3 +1287,9 @@ title="奇華餅家：今期推介（至5/11）"|shop="奇華餅家"|end_date="2
 title="大家樂：晚市 古法枝竹羊腩煲"|shop="大家樂"|text="餐廳"|result=0
 title="OK便利店：會員至抵價（至4/11）"|shop="OK便利店"|payment="會員"|end_date="2024-11-04"|text="OK便利店會員專享至抵價優惠"|result=1
 title="爭鮮壽司：換購 2027爭鮮桌曆"|shop="爭鮮"|text="餐廳"|result=0
+title="龍豐：每週精選推廣（2-8/11）"|shop="龍豐"|start_date="2024-11-02"|end_date="2024-11-08"|text="普通特價宣傳"|result=0
+title="西樹泡芙 CHEZ CHOUX：指定泡芙 買2送2（2/11）"|shop="西樹泡芙"|start_date="2024-11-02"|end_date="2024-11-02"|text="任何人均可享受的普通特價"|result=0
+title="黑白港式奶茶月 – 免費請你飲港式奶茶（2-30/11）"|shop="黑白®"|start_date="2026-11-02"|end_date="2026-11-30"|text="餐廳及任何人均可享用的免費派發活動"|result=0
+title="759 阿信屋：會員APP限定 積分換好禮 加碼賞（至31/12）"|shop="759 阿信屋"|payment="會員APP"|end_date="2024-12-31"|text="會員APP限定積分換領好禮加碼賞"|result=1
+title="麥當勞：高蛋白之選「板燒雞腿飽」 全日供應 / 指定晚餐 送「24/7 FITNESS 1 天健身試玩通行證」（2/11起）"|shop="麥當勞"|text="餐廳"|result=0
+title="大生生活超市：狂歡購物折（至15/11）"|shop="大生生活超市"|end_date="2024-11-15"|text="任何人都可以享受的普通特價"|result=0
