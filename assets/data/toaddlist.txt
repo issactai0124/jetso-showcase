@@ -1293,3 +1293,9 @@ title="黑白港式奶茶月 – 免費請你飲港式奶茶（2-30/11）"|shop=
 title="759 阿信屋：會員APP限定 積分換好禮 加碼賞（至31/12）"|shop="759 阿信屋"|payment="會員APP"|end_date="2024-12-31"|text="會員APP限定積分換領好禮加碼賞"|result=1
 title="麥當勞：高蛋白之選「板燒雞腿飽」 全日供應 / 指定晚餐 送「24/7 FITNESS 1 天健身試玩通行證」（2/11起）"|shop="麥當勞"|text="餐廳"|result=0
 title="大生生活超市：狂歡購物折（至15/11）"|shop="大生生活超市"|end_date="2024-11-15"|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（2/11）"|shop="MTR Mobile"|text="不符合指定商店類型"|result=0
+title="萬寧：今日出位價（2/11）"|shop="萬寧"|start_date="2024-11-02"|end_date="2024-11-02"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（2/11）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻之具體優惠資訊"|result=0
+title="7-Eleven：買7-SELECT經典三文治 送果汁先生蘋果汁/橙汁（至3/11）"|shop="7-Eleven"|end_date="2024-11-03"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="惠康超級市場最新優惠（2/11）"|shop="惠康超級市場"|text="普通特價或缺乏會員/特定支付方式門檻"|result=0
+title="元氣壽司：「秋の味覺フェア」餐目"|shop="元氣壽司"|text="餐廳"|result=0
