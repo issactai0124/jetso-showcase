@@ -1299,3 +1299,14 @@ title="百佳超級市場最新優惠（2/11）"|shop="百佳超級市場"|text=
 title="7-Eleven：買7-SELECT經典三文治 送果汁先生蘋果汁/橙汁（至3/11）"|shop="7-Eleven"|end_date="2024-11-03"|text="任何人都可以享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="惠康超級市場最新優惠（2/11）"|shop="惠康超級市場"|text="普通特價或缺乏會員/特定支付方式門檻"|result=0
 title="元氣壽司：「秋の味覺フェア」餐目"|shop="元氣壽司"|text="餐廳"|result=0
+title="759阿信屋：今期急凍冷凍精選（至8/11）"|shop="759阿信屋"|end_date="2024-11-08"|text="普通特價、減價宣傳"|result=0
+title="海港薈：晚市特惠孖寶 / 鮑魚皇子豬全包宴"|shop="海港薈"|text="餐廳"|result=0
+title="JHC 真好城：買滿$100 送無門檻$11家品現金優惠券"|shop="JHC 真好城"|min_spend=100|amt=11|text="任何人均可享用的普通優惠"|result=0
+title="爭鮮迴轉壽司：會員堂食優惠（至8/11）"|shop="爭鮮迴轉壽司"|payment="會員"|start_date="2024-11-02"|end_date="2024-11-08"|text="餐廳"|result=0
+title="U士多：秒殺價（至12/11）"|shop="U士多"|end_date="2024-11-12"|text="任何人都可以享受的普通特價"|result=0
+title="美心MX：70周年狂歡 指定套餐 低至77折（至8/11）"|shop="美心MX"|rate=0.23|start_date="2026-11-02"|end_date="2026-11-08"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至8/11）"|shop="OK便利店"|end_date="2024-11-08"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：Club100會員限定 11月全日賞（至29/11）"|shop="大家樂"|payment="Club100會員"|end_date="2026-11-29"|text="餐廳"|result=0
+title="渣打銀行：新一期 高息馬拉松活期存款 高達3.9%存款年利率 / 香港迪士尼樂園 999.9足金城堡紀念精品 / 奇妙處處通(金卡)（至30/11）"|shop="渣打銀行"|end_date="2024-11-30"|text="銀行及主題樂園"|result=0
+title="一粥麵：11月至抵Deal（逢星期二至六、至28/11） "|shop="一粥麵"|text="餐廳"|result=0
+title="佳宝食品超級市場：全場8折（3-15/11）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-11-03"|end_date="2026-11-15"|text="任何人都可以享受的普通特價"|result=0
