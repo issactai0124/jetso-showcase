@@ -1332,3 +1332,7 @@ title="美心西餅：經典傳承 懷舊回憶（4-7/11、10/11）"|shop="美�
 title="OK便利店：5天狂減（4-8/11）"|shop="OK便利店"|start_date="2024-11-04"|end_date="2024-11-08"|text="普通特價，任何人均可享受，缺乏會員或特定支付方式門檻"|result=0
 title="KFC：最新「肯！抵DEAL」優惠（至15/11）"|shop="KFC"|text="餐廳"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（4/11）"|shop="萬寧"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="MTR Mobile：港鐵即時賞（4/11）"|shop="MTR Mobile"|text="不符合商店類型（交通/港鐵）"|result=0
+title="惠康 / 百佳：最新優惠（4/11）"|shop="惠康 / 百佳"|text="缺乏會員或特定支付方式門檻"|result=0
+title="屈臣氏：星期三樂賞日（4/11）"|shop="屈臣氏"|payment="易賞錢會員"|applicable_days_of_week=3|text="易賞錢會員於星期三樂賞日享有專屬優惠"|result=1
+title="7-Eleven：新口味 無添加糖 榛子鮮奶咖啡 $11/杯（至17/11）"|shop="7-Eleven"|end_date="2024-11-17"|text="任何人都可以享受的普通特價"|result=0
