@@ -1348,3 +1348,8 @@ title="美心MX：長者晚市75折（5/11）"|shop="美心MX"|text="餐廳"|res
 title="六合彩：估計頭獎基金 $1.08億（5/11）"|shop="香港賽馬會"|text="非指定商店類型"|result=0
 title="明星海鮮酒家：晚市超值優惠 / 大閘蟹金豬套餐"|shop="明星海鮮酒家"|text="餐廳"|result=0
 title="AEON：吉日 會員尊享購物日 照價再折（5-10/11）"|shop="AEON"|payment="會員"|start_date="2024-11-05"|end_date="2024-11-10"|text="AEON會員於11月5日至10日可享會員尊享購物日照價再折優惠"|result=1
+title="東海堂：全新「綠茶麻糬菠蘿包」"|shop="東海堂"|text="新品推廣且無特定支付或會員門檻"|result=0
+title="惠康超級市場最新優惠（5/11）"|shop="惠康超級市場"|start_date="2024-11-05"|text="普通特價或缺乏會員/特定支付方式門檻"|result=0
+title="樓上/安記/大棧/尚品/余仁生：最新優惠（5/11）"|shop="樓上/安記/大棧/尚品/余仁生"|text="普通特價、減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="美心MX：全新高蛋白「香煎雞胸系列」"|shop="美心MX"|text="餐廳"|result=0
+title="A-1 Bakery：新登場 香濃黑芝麻慕絲杯 / 經典美味復活 第4彈"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
