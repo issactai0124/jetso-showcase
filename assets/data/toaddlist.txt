@@ -1403,3 +1403,8 @@ title="M+：五周年 免費開放 指定展覽（8/11） "|shop="M+"|text="非�
 title="樓上：$2優惠券"|shop="樓上"|amt=2|text="沒有提及會員或特定支付方式要求"|result=0
 title="千両：雙11優惠 網上外賣自取 每滿$450 即減$111（至11/11）"|shop="千両"|min_spend=450|amt=111|end_date="2024-11-11"|text="餐廳"|result=0
 title="Uniqlo：11.11狂歡購 第二週限定優惠（至12/11）"|shop="Uniqlo"|end_date="2024-11-12"|text="服裝店"|result=0
+title="萬寧：今日出位價（8/11）"|shop="萬寧"|start_date="2024-11-08"|end_date="2024-11-08"|text="任何人均可享受的普通特價"|result=0
+title="Chateraise：雙味泡芙3件組合優惠"|shop="Chateraise"|start_date="2026-10-30"|text="普通特價"|result=0
+title="百佳超級市場最新優惠（8/11）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="樓上 / 余仁生：最新優惠（8/11）"|shop="樓上 / 余仁生"|text="缺乏具體優惠詳情及會員/支付方式門檻資訊"|result=0
+title="東海堂：期間限定 比利時朱古力新地"|shop="東海堂"|text="任何人都可以享受的新品推廣"|result=0
