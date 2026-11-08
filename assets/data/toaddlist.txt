@@ -1408,3 +1408,16 @@ title="Chateraise：雙味泡芙3件組合優惠"|shop="Chateraise"|start_date="
 title="百佳超級市場最新優惠（8/11）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求"|result=0
 title="樓上 / 余仁生：最新優惠（8/11）"|shop="樓上 / 余仁生"|text="缺乏具體優惠詳情及會員/支付方式門檻資訊"|result=0
 title="東海堂：期間限定 比利時朱古力新地"|shop="東海堂"|text="任何人都可以享受的新品推廣"|result=0
+title="一田：Staub × ZWILLING廚具系列 低至免費換購（至11/2）"|shop="一田"|text="百貨公司"|result=0
+title="WeChat Pay HK：11家商戶 掃碼享高達HK$30電子現金券 / 淘寶額外優惠"|shop="WeChat Pay HK"|text="百貨公司"|result=0
+title="A-1 Bakery：新鮮烘焙系列新品 - 朱古力巨蛋包"|shop="A-1 Bakery"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="OK便利店：抵食套裝/1+1配到抵（至2/12）/ 店長推介（至18/10）"|shop="OK便利店"|text="普通特價或減價宣傳"|result=0
+title="爭鮮迴轉壽司： 焦糖鵝肝 $24/2貫（9-15/11）"|shop="爭鮮迴轉壽司"|start_date="2024-11-09"|end_date="2024-11-15"|text="餐廳"|result=0
+title="銀聯信用卡：AURA 容祖兒演唱會 優先訂票（9-10/11）"|shop="快達票"|payment="銀聯信用卡"|start_date="2024-11-09"|end_date="2024-11-10"|text="演唱會門票不屬於指定商店類型"|result=0
+title="美心西餅：天仁茶韻系列 "|shop="美心西餅"|payment="Eatizen美心薈會員"|rate=0.1|text="Eatizen美心薈會員購買天仁茶韻系列蛋糕可享9折優惠"|result=1
+title="中大中醫：健康月 中醫義診服務（9/11-9/12）"|shop="香港中文大學中醫學院"|start_date="2024-11-09"|end_date="2024-11-12"|text="醫療服務及非會員/特定支付優惠"|result=0
+title="奇華茶室：雙11優惠 黯然銷魂飯 晚市買1送1（9-12/11）"|shop="奇華茶室"|start_date="2026-11-09"|end_date="2026-11-12"|text="餐廳"|result=0
+title="龍豐：每週精選推廣（9-15/11）"|shop="龍豐"|start_date="2024-11-09"|end_date="2024-11-15"|text="普通特價宣傳"|result=0
+title="麥當勞App：全新下午茶優惠（9/11起）"|shop="麥當勞"|text="餐廳"|result=0
+title="大家樂：網購 打堅爐二人餐 $150"|shop="大家樂"|text="餐廳"|result=0
+title="AEON：100周年限定特賣（至30/11）"|shop="AEON"|end_date="2024-11-30"|text="百貨公司及任何人均可享受的普通特價"|result=0
