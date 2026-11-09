@@ -1426,3 +1426,16 @@ title="萬寧：今日出位價（9/11）"|shop="萬寧"|start_date="2024-11-09"
 title="百佳超級市場最新優惠（9/11）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式門檻的普通特價優惠"|result=0
 title="7-Eleven：最新優惠（9/11）"|shop="7-Eleven"|start_date="2026-11-09"|end_date="2026-11-13"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
 title="惠康超級市場最新優惠（9/11）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式要求"|result=0
+title="東海堂： 新產品 月島軟心芝士煙肉包"|shop="東海堂"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="美心MX：70周年狂歡優惠 指定套餐 低至77折（至15/11）"|shop="美心MX"|start_date="2026-11-09"|end_date="2026-11-15"|text="餐廳；任何人均可享用的普通特價優惠"|result=0
+title="西樹泡芙 CHEZ CHOUX：11.11限時狂歡（至11/11）"|shop="西樹泡芙 CHEZ CHOUX"|payment="追蹤社交媒體專頁"|start_date="2026-11-09"|end_date="2026-11-11"|applicable_days_of_week="1,2,3"|text="追蹤專頁不符合會員或特定支付方式要求，屬普通減價宣傳"|result=0
+title="崇光百貨：半年一度 感謝周年慶 Part 2（9-22/11）"|shop="崇光百貨"|start_date="2023-11-09"|end_date="2023-11-22"|text="百貨公司"|result=0
+title="包點先生：新登場 香煎牛肉餡餅 / 藤椒魚肉燒賣配惹味青花椒醬"|shop="包點先生"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="759 阿信屋：今期勁筍推介（至22/11）"|shop="759 阿信屋"|end_date="2024-11-22"|text="任何人都可以享受的普通特價"|result=0
+title="大家樂：網上限定 雙11限時瘋搶 全年至抵（10/11）  "|shop="大家樂"|text="餐廳"|result=0
+title="南記粉麵：全新「草原大汗咩咩湯米線套餐」"|shop="南記粉麵"|text="餐廳"|result=0
+title="恆香老餅家：11.11購物大激賞（至11/11）"|shop="恆香老餅家"|start_date="2024-11-11"|end_date="2024-11-11"|text="任何人均可享受的普通特價"|result=0
+title="OK便利店：本週激筍（至15/11）"|shop="OK便利店"|end_date="2024-11-15"|text="任何人都可以享受的普通特價"|result=0
+title="吉野家：會員限定 歎野菜煎雞丼 $11（10/11）"|shop="吉野家"|text="餐廳"|result=0
+title="美心西餅：限定驚喜快閃 經典迷你黑森林蛋糕 $70（10/11）"|shop="美心西餅"|start_date="2024-11-10"|end_date="2024-11-10"|text="任何人均可享用的普通特價，缺乏會員或特定支付方式門檻"|result=0
+title="大家樂：11.11激筍優惠 任你搶"|shop="大家樂"|text="餐廳"|result=0
