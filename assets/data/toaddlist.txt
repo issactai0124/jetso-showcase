@@ -1455,3 +1455,5 @@ title="大家樂：激安 牛.豚旨味鍋物 $49（至13/11）/ 會員限定 �
 title="馬拉松便服及運動名牌開倉 低至2折（11-16/11）"|shop="馬拉松"|start_date="2024-11-11"|end_date="2024-11-16"|text="服裝店"|result=0
 title="糧友パン工房：蛋糕及甜品類產品 買滿$75 享75折優惠（11/11）"|shop="糧友パン工房"|min_spend=75|rate=0.25|start_date="2020-11-11"|end_date="2020-11-11"|applicable_days_of_week="3"|text="任何人均可享用的普通特價優惠，缺乏會員或特定支付方式門檻"|result=0
 title="一粥麵：外賣限時半價優惠（11-14/11）"|shop="一粥麵"|start_date="2024-11-11"|end_date="2024-11-14"|text="餐廳"|result=0
+title="OK便利店：5天狂減（11-15/11）"|shop="OK便利店"|start_date="2024-11-11"|end_date="2024-11-15"|text="普通特價，任何人均可享受，缺乏特定支付方式或會員門檻"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（11/11）"|shop="萬寧"|start_date="2020-11-11"|applicable_days_of_week=3|text="任何人都可以享受的普通特價"|result=0
