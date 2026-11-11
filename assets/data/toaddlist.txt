@@ -1464,3 +1464,8 @@ title="惠康 / 百佳：最新優惠（11/11）"|shop="惠康"|text="任何人�
 title="Pizza Hut：指定分店 外賣自取 一人餐MY BOX 送免費法包（11/11）"|shop="Pizza Hut"|start_date="2024-11-11"|end_date="2024-11-11"|text="餐廳"|result=0
 title="大快活：雙11茶市限定 $11任選2款小食（11/11）"|shop="大快活"|start_date="2024-11-11"|end_date="2024-11-11"|text="餐廳"|result=0
 title="7-Eleven：美式、特濃及湯力咖啡 $11（至13/11）"|shop="7-Eleven"|start_date="2026-11-11"|end_date="2026-11-13"|applicable_days_of_week="3,4,5"|applicable_days_of_month="11,12,13"|text="普通特價"|result=0
+title="美心西餅：11.11優惠 美心生活小食 買1送1（至16/11）"|shop="美心西餅"|start_date="2024-11-11"|end_date="2024-11-16"|text="任何人均可享用的普通特價優惠"|result=0
+title="A-1 Bakery：雪糕狂歡祭 買5送1（至16/11）"|shop="A-1 Bakery"|end_date="2024-11-16"|text="任何人均可享用的普通特價優惠"|result=0
+title="大家樂：11.11 月月「雙」賞 樂賞分快閃優惠（至13/11）"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：魚蛋/燒賣 $11/10粒（12/11）"|shop="7-Eleven"|start_date="2024-11-12"|end_date="2024-11-12"|text="任何人都可以享受的普通特價，沒有會員或特定支付方式門檻"|result=0
+title="麥當勞：30週年 Pokémon主題美食系列 / Pokémon造型圖案「盲盒飽面」/ Pokémon GO寶可補給站（12/11起）"|shop="麥當勞"|text="餐廳"|result=0
