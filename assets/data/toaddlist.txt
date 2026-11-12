@@ -1484,3 +1484,4 @@ title="大快活：窩心優惠加碼 憑「快活關愛長者咭」惠顧 即�
 title="聖安娜：日日至抵價（至25/11）"|shop="聖安娜"|end_date="2024-11-25"|text="普通特價"|result=0
 title="榮華：一年一度 港九區 買二送一優惠（1315/11）"|shop="榮華"|start_date="2024-11-13"|end_date="2024-11-15"|text="任何人均可享用的普通特價優惠"|result=0
 title="Pizza Hut：CHIIKAWA主題推廣 - 限定精品 / 主題店"|shop="Pizza Hut"|text="餐廳"|result=0
+title="AEON：週末勁減（13-15/11）"|shop="AEON"|start_date="2024-11-13"|end_date="2024-11-15"|text="百貨公司及任何人均可享有的週末優惠"|result=0
