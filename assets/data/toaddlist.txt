@@ -1469,3 +1469,10 @@ title="A-1 Bakery：雪糕狂歡祭 買5送1（至16/11）"|shop="A-1 Bakery"|en
 title="大家樂：11.11 月月「雙」賞 樂賞分快閃優惠（至13/11）"|shop="大家樂"|text="餐廳"|result=0
 title="7-Eleven：魚蛋/燒賣 $11/10粒（12/11）"|shop="7-Eleven"|start_date="2024-11-12"|end_date="2024-11-12"|text="任何人都可以享受的普通特價，沒有會員或特定支付方式門檻"|result=0
 title="麥當勞：30週年 Pokémon主題美食系列 / Pokémon造型圖案「盲盒飽面」/ Pokémon GO寶可補給站（12/11起）"|shop="麥當勞"|text="餐廳"|result=0
+title="東海堂：新品登場 Miffy草莓冬甩/藍莓忌廉切餅/煙三文魚沙律三文治"|shop="東海堂"|text="任何人都可以享受的新品推廣，缺乏會員或特定支付方式門檻"|result=0
+title="百佳超級市場最新優惠（12/11）"|shop="百佳超級市場"|start_date="2024-11-12"|text="內容不包含具體優惠資訊"|result=0
+title="惠康超級市場最新優惠（12/11）"|shop="惠康超級市場"|text="缺乏具體優惠內容及會員或特定支付方式門檻資訊"|result=0
+title="樓上 / 尚品 / 大棧：最新優惠（12/11）"|shop="樓上 / 尚品 / 大棧"|text="缺乏會員或特定支付方式門檻資訊"|result=0
+title="759 阿信屋：急凍產品 買滿$118 即享9折（至15/11）"|shop="759 阿信屋"|min_spend=118|rate=0.1|end_date="2024-11-15"|text="普通特價，非會員或特定支付方式專屬"|result=0
+title="美心MX：限時優惠大放送 $70搶購$100電子現金券套裝（至30/11）"|shop="美心MX"|payment="Eatizen會員"|min_spend=70|amt=30|end_date="2024-11-30"|text="餐廳"|result=0
+title="屈臣氏：買指定高露潔牙膏 送高達$999豐富禮品（至17/11）"|shop="屈臣氏"|start_date="2026-11-11"|end_date="2026-11-17"|text="任何人都可以享受的普通特價/贈品推廣"|result=0
