@@ -1476,3 +1476,11 @@ title="樓上 / 尚品 / 大棧：最新優惠（12/11）"|shop="樓上 / 尚品
 title="759 阿信屋：急凍產品 買滿$118 即享9折（至15/11）"|shop="759 阿信屋"|min_spend=118|rate=0.1|end_date="2024-11-15"|text="普通特價，非會員或特定支付方式專屬"|result=0
 title="美心MX：限時優惠大放送 $70搶購$100電子現金券套裝（至30/11）"|shop="美心MX"|payment="Eatizen會員"|min_spend=70|amt=30|end_date="2024-11-30"|text="餐廳"|result=0
 title="屈臣氏：買指定高露潔牙膏 送高達$999豐富禮品（至17/11）"|shop="屈臣氏"|start_date="2026-11-11"|end_date="2026-11-17"|text="任何人都可以享受的普通特價/贈品推廣"|result=0
+title="山崎麵包：11月特價の選"|shop="山崎麵包"|text="普通特價宣傳，非會員或特定支付方式專屬"|result=0
+title="大家樂：茶市 香酥豬扒滷香肉燥飯+飲品 $32"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：本週優惠（至17/11）"|shop="7-Eleven"|end_date="2024-11-17"|text="任何人都可以享受的普通特價"|result=0
+title=" Mira eShop：$111搶購Yamm自助午餐（13/11）"|shop="Mira eShop / Yamm"|text="餐廳"|result=0
+title="大快活：窩心優惠加碼 憑「快活關愛長者咭」惠顧 即減$6（13-19/11）"|shop="大快活"|payment="快活關愛長者咭"|amt=6|start_date="2024-11-13"|end_date="2024-11-19"|text="餐廳"|result=0
+title="聖安娜：日日至抵價（至25/11）"|shop="聖安娜"|end_date="2024-11-25"|text="普通特價"|result=0
+title="榮華：一年一度 港九區 買二送一優惠（1315/11）"|shop="榮華"|start_date="2024-11-13"|end_date="2024-11-15"|text="任何人均可享用的普通特價優惠"|result=0
+title="Pizza Hut：CHIIKAWA主題推廣 - 限定精品 / 主題店"|shop="Pizza Hut"|text="餐廳"|result=0
