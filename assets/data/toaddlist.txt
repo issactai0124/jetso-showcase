@@ -1485,3 +1485,11 @@ title="聖安娜：日日至抵價（至25/11）"|shop="聖安娜"|end_date="202
 title="榮華：一年一度 港九區 買二送一優惠（1315/11）"|shop="榮華"|start_date="2024-11-13"|end_date="2024-11-15"|text="任何人均可享用的普通特價優惠"|result=0
 title="Pizza Hut：CHIIKAWA主題推廣 - 限定精品 / 主題店"|shop="Pizza Hut"|text="餐廳"|result=0
 title="AEON：週末勁減（13-15/11）"|shop="AEON"|start_date="2024-11-13"|end_date="2024-11-15"|text="百貨公司及任何人均可享有的週末優惠"|result=0
+title="MTR Mobile：港鐵即時賞（13/11）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="百佳超級市場最新優惠（13/11）"|shop="百佳超級市場"|text="缺乏會員或特定支付方式要求，屬一般特價宣傳"|result=0
+title="惠康超級市場最新優惠（13/11）"|shop="惠康超級市場"|text="一般減價宣傳"|result=0
+title="屈臣氏最新購物優惠（13/11）"|shop="屈臣氏"|start_date="2024-11-13"|text="缺乏會員或特定支付方式要求之資訊"|result=0
+title="萬寧：周五購物攻略（13/11）"|shop="萬寧"|text="任何人都可以享受的普通特價/週末優惠"|result=0
+title="A-1 Bakery Group：全新 粟米吞拿魚迷你酥"|shop="A-1 Bakery Group"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="牙膏最新優惠（13/11）"|shop=""|text="缺乏會員或特定支付方式門檻之一般減價宣傳"|result=0
+title="阿波羅 Appolo：週末限定福袋（至15/11）"|shop="阿波羅"|end_date="2024-11-15"|text="任何人都可以享受的普通特價"|result=0
