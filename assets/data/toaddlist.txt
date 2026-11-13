@@ -1493,3 +1493,12 @@ title="萬寧：周五購物攻略（13/11）"|shop="萬寧"|text="任何人都�
 title="A-1 Bakery Group：全新 粟米吞拿魚迷你酥"|shop="A-1 Bakery Group"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="牙膏最新優惠（13/11）"|shop=""|text="缺乏會員或特定支付方式門檻之一般減價宣傳"|result=0
 title="阿波羅 Appolo：週末限定福袋（至15/11）"|shop="阿波羅"|end_date="2024-11-15"|text="任何人都可以享受的普通特價"|result=0
+title="Daiso Japan / Living Plaza：週末優惠（至15/11）"|shop="Daiso Japan / Living Plaza"|end_date="2024-11-15"|text="週末優惠"|result=0
+title="美心烘焙所：新登場 煙肉芝士牛油年糕"|shop="美心烘焙所"|text="普通特價/新品推廣，非會員或特定支付方式優惠"|result=0
+title="千色 Citistore：千色祭（至25/11）"|shop="千色 Citistore"|end_date="2024-11-25"|text="百貨公司"|result=0
+title="麥當勞：今期《開心樂園餐》送 BT21玩具"|shop="麥當勞"|text="餐廳"|result=0
+title="大家樂：新品 檸檬忌廉汁炸三文魚鰭雞粒意粉"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：5天限定（至17/11）"|shop="7-Eleven"|text="任何人都可以享受的普通特價"|result=0
+title="AEON Day：自家品牌商品 8折優惠（14-15/11）"|shop="AEON"|payment="AEON會員"|rate=0.2|start_date="2024-11-14"|end_date="2024-11-15"|text="11月14至15日AEON會員購買自家品牌商品可享8折優惠"|result=1
+title="A-1 Bakery：新會員大募集 限時迎新禮遇（至16/11）"|shop="A-1 Bakery"|payment="A-1 Bakery會員"|amt=14|start_date="2026-11-13"|end_date="2026-11-16"|text="新登記成為A-1 Bakery一般會員可獲贈價值$14麵包脆餅換領券乙張"|result=1
+title="優品360：本週優惠（至19/11）"|shop="優品360"|end_date="2024-11-19"|text="普通特價/減價宣傳"|result=0
