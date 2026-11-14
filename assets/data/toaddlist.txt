@@ -1503,3 +1503,7 @@ title="AEON Day：自家品牌商品 8折優惠（14-15/11）"|shop="AEON"|payme
 title="A-1 Bakery：新會員大募集 限時迎新禮遇（至16/11）"|shop="A-1 Bakery"|payment="A-1 Bakery會員"|amt=14|start_date="2026-11-13"|end_date="2026-11-16"|text="新登記成為A-1 Bakery一般會員可獲贈價值$14麵包脆餅換領券乙張"|result=1
 title="優品360：本週優惠（至19/11）"|shop="優品360"|end_date="2024-11-19"|text="普通特價/減價宣傳"|result=0
 title="長者日2026 - 公共交通/景點/博物館/游泳池/消費優惠（15/11） "|shop="長者日2026"|payment="長者"|start_date="2026-11-15"|end_date="2026-11-15"|text="包含公共交通、景點、博物館、游泳池及餐廳等不符商店類型的優惠"|result=0
+title="萬寧：最新優惠（14/11）"|shop="萬寧"|start_date="2024-11-14"|text="一般減價宣傳且未提及會員或特定支付門檻"|result=0
+title="百佳超級市場最新優惠（14/11）"|shop="百佳超級市場"|text="一般減價宣傳"|result=0
+title="惠康超級市場最新優惠（14/11）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
+title="龍寶酒家：最新優惠（14/11）"|shop="龍寶酒家"|text="餐廳"|result=0
