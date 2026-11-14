@@ -1507,3 +1507,16 @@ title="萬寧：最新優惠（14/11）"|shop="萬寧"|start_date="2024-11-14"|t
 title="百佳超級市場最新優惠（14/11）"|shop="百佳超級市場"|text="一般減價宣傳"|result=0
 title="惠康超級市場最新優惠（14/11）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
 title="龍寶酒家：最新優惠（14/11）"|shop="龍寶酒家"|text="餐廳"|result=0
+title="HKTVmall﻿：週末85折（至15/11）"|shop="HKTVmall"|min_spend=99|rate=0.15|start_date="2020-11-14"|end_date="2020-11-15"|text="任何人均可使用的週末優惠，不符合會員或特定支付方式專屬條件"|result=0
+title="聖安娜：全新「三重芝士湯種吐司」"|shop="聖安娜"|text="普通特價/新品推廣，非會員或特定支付優惠"|result=0
+title="759 阿信屋：憑樂悠咭 買麵包 每件即減 $2（11月逢星期六）"|shop="759 阿信屋"|payment="樂悠咭"|amt=2|start_date="2026-11-14"|end_date="2026-11-28"|applicable_days_of_week=6|applicable_days_of_month="14,21,28"|text="11月指定星期六憑樂悠咭購買759麵包工房系列產品每件即減$2"|result=1
+title="Don Don Donki：週末優惠（至15/11）"|shop="Don Don Donki"|end_date="2024-11-15"|text="週末優惠"|result=0
+title="Beard Papa’s：25週年慶典雙重賞"|shop="Beard Papa’s"|text="任何人均可享受的普通特價/推廣優惠，缺乏會員或特定支付方式門檻"|result=0
+title="U士多：秒殺價（至26/11）"|shop="U士多"|end_date="2024-11-26"|text="普通特價，無會員或特定支付門檻"|result=0
+title="奇華餅家：今期推介（至19/11）"|shop="奇華餅家"|end_date="2024-11-19"|text="普通特價推廣，缺乏會員或特定支付門檻"|result=0
+title="千色 Citistore (C生活)：全店$12貨品 $8/件（至15/11）"|shop="千色 Citistore (C生活)"|start_date="2024-11-01"|end_date="2024-11-15"|text="百貨公司及普通特價"|result=0
+title="大家樂：網購 和風照燒汁鰻魚雞扒焗飯二人餐 $114"|shop="大家樂"|text="餐廳"|result=0
+title="明愛慈善賣物會2026（11月逢星期日）"|shop="明愛慈善賣物會"|text="不符商店類型（慈善活動/市集）且非會員或特定支付優惠"|result=0
+title="Uniqlo：轉季精選優惠（至19/11）"|shop="Uniqlo"|end_date="2024-11-19"|text="服裝店"|result=0
+title="美心MX：長者限定 全日8折（至27/11）/ 晚市75折（15/11）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|start_date="2026-11-14"|end_date="2026-11-27"|text="餐廳"|result=0
+title="AEON：圍爐派對 / 韓國節（至25/11）"|shop="AEON"|end_date="2024-11-25"|text="百貨公司且為普通特價宣傳"|result=0
