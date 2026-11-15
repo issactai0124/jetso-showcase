@@ -1525,3 +1525,10 @@ title="百佳超級市場最新優惠（15/11）"|shop="百佳超級市場"|text
 title="惠康超級市場最新優惠（15/11）"|shop="惠康"|start_date="2024-11-15"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
 title="樓上：最新優惠（15/11）"|shop="樓上"|start_date="2024-11-15"|text="普通特價"|result=0
 title="吉野家：長者日限定 優惠套餐 $28（15/11）"|shop="吉野家"|payment="樂悠咭/長者會員"|start_date="2026-11-15"|end_date="2026-11-15"|text="餐廳"|result=0
+title="千色 Citistore：床品特集（至18/11）"|shop="千色 Citistore"|text="百貨公司"|result=0
+title="宜家家居 IKEA：食美食+買家品 送小禮物（至30/11）"|shop="宜家家居 IKEA"|text="家具店及餐廳，且為一般大眾優惠"|result=0
+title="OK便利店：會員至抵價（至18/11）"|shop="OK便利店"|payment="會員"|end_date="2024-11-18"|text="OK便利店會員專享至抵價優惠至2024年11月18日"|result=1
+title="紅十字會輸血服務中心：成功捐血 送指定紀念品（16/11-1/3）"|shop="紅十字會輸血服務中心"|text="非指定商店類型"|result=0
+title="龍豐：每週精選推廣（16-22/11）"|shop="龍豐"|start_date="2024-11-16"|end_date="2024-11-22"|text="普通特價宣傳"|result=0
+title="麥當勞App： 新一輪 下午茶優惠（16/11起）"|shop="麥當勞"|text="餐廳"|result=0
+title="美心西餅：Sanrio characters「美心西餅烘焙見習生造型系列」"|shop="美心西餅"|payment="Eatizen美心薈會員"|rate=0.15|end_date="2024-12-17"|text="Eatizen美心薈會員預訂指定聖誕款式蛋糕可享早鳥85折優惠"|result=1
