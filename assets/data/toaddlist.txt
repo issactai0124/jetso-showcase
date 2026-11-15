@@ -1532,3 +1532,4 @@ title="紅十字會輸血服務中心：成功捐血 送指定紀念品（16/11-
 title="龍豐：每週精選推廣（16-22/11）"|shop="龍豐"|start_date="2024-11-16"|end_date="2024-11-22"|text="普通特價宣傳"|result=0
 title="麥當勞App： 新一輪 下午茶優惠（16/11起）"|shop="麥當勞"|text="餐廳"|result=0
 title="美心西餅：Sanrio characters「美心西餅烘焙見習生造型系列」"|shop="美心西餅"|payment="Eatizen美心薈會員"|rate=0.15|end_date="2024-12-17"|text="Eatizen美心薈會員預訂指定聖誕款式蛋糕可享早鳥85折優惠"|result=1
+title="KFC：「肯！抵DEAL」優惠（16-30/11）"|shop="KFC"|start_date="2024-11-16"|end_date="2024-11-30"|text="餐廳"|result=0
