@@ -1520,3 +1520,8 @@ title="明愛慈善賣物會2026（11月逢星期日）"|shop="明愛慈善賣�
 title="Uniqlo：轉季精選優惠（至19/11）"|shop="Uniqlo"|end_date="2024-11-19"|text="服裝店"|result=0
 title="美心MX：長者限定 全日8折（至27/11）/ 晚市75折（15/11）"|shop="美心MX"|payment="長者咭/樂悠咭/長者八達通"|start_date="2026-11-14"|end_date="2026-11-27"|text="餐廳"|result=0
 title="AEON：圍爐派對 / 韓國節（至25/11）"|shop="AEON"|end_date="2024-11-25"|text="百貨公司且為普通特價宣傳"|result=0
+title="萬寧：今日出位價（15/11）"|shop="萬寧"|start_date="2024-11-15"|end_date="2024-11-15"|text="任何人均可享受的普通特價"|result=0
+title="百佳超級市場最新優惠（15/11）"|shop="百佳超級市場"|text="普通特價或減價宣傳"|result=0
+title="惠康超級市場最新優惠（15/11）"|shop="惠康"|start_date="2024-11-15"|text="普通特價或減價宣傳，缺乏會員或特定支付方式門檻"|result=0
+title="樓上：最新優惠（15/11）"|shop="樓上"|start_date="2024-11-15"|text="普通特價"|result=0
+title="吉野家：長者日限定 優惠套餐 $28（15/11）"|shop="吉野家"|payment="樂悠咭/長者會員"|start_date="2026-11-15"|end_date="2026-11-15"|text="餐廳"|result=0
