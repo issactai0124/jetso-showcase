@@ -1539,3 +1539,13 @@ title="百佳超級市場最新優惠（16/11）"|shop="百佳超級市場"|text
 title="惠康超級市場最新優惠（16/11）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價、減價宣傳"|result=0
 title="7-Eleven：買7-SELECT熱捲餅/熱狗 送紅茶花伝Craftea檸檬/蜜桃茶（至20/11）"|shop="7-Eleven"|end_date="2024-11-20"|text="任何人都可以享受的普通特價/新品推廣"|result=0
 title="大家樂：早市 紐西蘭南冰魚柳+湯粉+多士+茶/啡 $33"|shop="大家樂"|text="餐廳"|result=0
+title="yuu：Pizza Hu t 一人餐 買1送（至29/11）"|shop="Pizza Hut"|payment="yuu會員"|text="餐廳"|result=0
+title="煤氣 Towngas：浴室保暖孖寶 慳$2400（至15/1）"|shop="煤氣 Towngas"|amt=2400|end_date="2025-01-15"|text="電器"|result=0
+title="美心MX：70周年狂歡 指定套餐 低至77折（至22/11）"|shop="美心MX"|text="餐廳"|result=0
+title="太興：港式美食現金券 買$1000 送$150 + 額外$200優惠券（至26/11）"|shop="太興"|min_spend=1000|amt=350|end_date="2024-11-26"|text="餐廳"|result=0
+title="JHC 真好城：35周年慶 全場購物滿$60 享88折（至29/11）"|shop="JHC 真好城"|min_spend=60|rate=0.12|end_date="2024-11-29"|text="任何人均可享用的普通特價，且商店類型不屬於指定類別"|result=0
+title="譚仔雲南米線：晚市 全新「迷你胡椒豬肚砂鍋」"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="糧友パン工房：指定分店 75折折扣日（17/11）"|shop="糧友パン工房"|payment="Like Facebook / IG"|rate=0.25|start_date="2020-11-17"|end_date="2020-11-17"|applicable_days_of_week=2|text="非會員或特定支付方式 (Like FB/IG 屬一般宣傳)"|result=0
+title="OK便利店：本週激筍（至22/11）"|shop="OK便利店"|end_date="2024-11-22"|text="任何人均可享受的普通特價優惠"|result=0
+title="元氣壽司：秋の味覺フェア 第二彈"|shop="元氣壽司"|text="餐廳"|result=0
+title="一田：日本秋祭 SALE（至30/11）"|shop="一田"|end_date="2026-11-30"|text="百貨公司及普通特價宣傳"|result=0
