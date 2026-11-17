@@ -1560,3 +1560,10 @@ title="美心現場烘焙店：新登場 黑芝麻系列"|shop="美心現場烘�
 title="龍豐：每週至抵「豐搶價」 （至23/11）/ 美食狂歡（至19/11）"|shop="龍豐"|end_date="2024-11-23"|text="普通特價宣傳，無會員或特定支付門檻"|result=0
 title="大家樂：午市 飽肚抵食有得揀"|shop="大家樂"|text="餐廳"|result=0
 title="壽司郎：「咒術迴戰」聯乘限定商品（17/11起）"|shop="壽司郎"|text="餐廳"|result=0
+title="名牌服飾特賣 低至1折（18-23/11）"|shop="名牌服飾"|start_date="2024-11-18"|end_date="2024-11-23"|text="服裝店"|result=0
+title="AURA 容祖兒演唱會 加開2場 門票公開發售（18/11起）"|shop="AURA 容祖兒演唱會門票"|start_date="2026-11-18"|text="不符商店類型"|result=0
+title="AEON：周三新鮮日（18/11）"|shop="AEON"|applicable_days_of_week=3|text="沒有會員或支付方式門檻的普通特價"|result=0
+title="聖安娜：聖誕蛋糕系列 優先預訂 83折（至29/11）"|shop="聖安娜"|min_spend=208|rate=0.17|end_date="2026-11-29"|text="沒有會員或特定支付方式門檻的普通特價"|result=0
+title=" 旅發局：香港繽紛冬日巡禮 - 中環、尖沙咀、銅鑼灣三大「香港冬日小鎮」（18/11-5/1）"|shop="香港繽紛冬日巡禮"|start_date="2023-11-18"|end_date="2024-01-05"|text="一般活動/節日"|result=0
+title="OK便利店：5天狂減（18-22/11）"|shop="OK便利店"|text="普通特價/減價宣傳，沒有門檻"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（18/11）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價/沒有門檻"|result=0
