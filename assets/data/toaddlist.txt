@@ -1549,3 +1549,14 @@ title="糧友パン工房：指定分店 75折折扣日（17/11）"|shop="糧友
 title="OK便利店：本週激筍（至22/11）"|shop="OK便利店"|end_date="2024-11-22"|text="任何人均可享受的普通特價優惠"|result=0
 title="元氣壽司：秋の味覺フェア 第二彈"|shop="元氣壽司"|text="餐廳"|result=0
 title="一田：日本秋祭 SALE（至30/11）"|shop="一田"|end_date="2026-11-30"|text="百貨公司及普通特價宣傳"|result=0
+title="屈臣氏：自家品牌日 3件88折（17/11）"|shop="屈臣氏"|payment="易賞錢會員"|min_spend=60|rate=0.12|amt=20|start_date="2024-11-17"|end_date="2024-11-17"|text="易賞錢會員購買3件自家品牌產品享88折，滿$60送$20電子現金券"|result=1
+title="惠康超級市場最新優惠（17/11）"|shop="惠康超級市場"|text="任何人都可以享受的普通特價"|result=0
+title="759 阿信屋：勁抵價（至18/11）"|shop="759 阿信屋"|end_date="2024-11-18"|text="普通特價"|result=0
+title="大家樂：早市 吉列豬扒系列 / Club100開心星期二 $99二人餐（17/11）"|shop="大家樂"|text="餐廳"|result=0
+title="7-Eleven：7-SELECT鮮果汁 $11/支（至20/11）"|shop="7-Eleven"|end_date="2024-11-20"|text="任何人都可以享受的普通特價"|result=0
+title="香港迪士尼樂園度假區：「A Disney Christmas」奇妙聖誕（至3/1）"|shop="香港迪士尼樂園度假區"|text="非指定商店類型"|result=0
+title="譚仔三哥米線：快閃午市優惠 番茄湯牛面肉金錢肚米線 $49"|shop="譚仔三哥米線"|text="餐廳"|result=0
+title="美心現場烘焙店：新登場 黑芝麻系列"|shop="美心現場烘焙店"|text="新品推廣且無會員或特定支付門檻"|result=0
+title="龍豐：每週至抵「豐搶價」 （至23/11）/ 美食狂歡（至19/11）"|shop="龍豐"|end_date="2024-11-23"|text="普通特價宣傳，無會員或特定支付門檻"|result=0
+title="大家樂：午市 飽肚抵食有得揀"|shop="大家樂"|text="餐廳"|result=0
+title="壽司郎：「咒術迴戰」聯乘限定商品（17/11起）"|shop="壽司郎"|text="餐廳"|result=0
