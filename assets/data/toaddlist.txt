@@ -1573,3 +1573,8 @@ title="7-Eleven：全新印花精品《RE-PLAY 經典回憶》系列 ​- Sanrio
 title="譚仔雲南米線：晚市 兩碗招牌過橋米線 $99起（18-20/11、23-24/11）"|shop="譚仔雲南米線"|start_date="2023-11-18"|end_date="2023-11-24"|text="餐廳"|result=0
 title="東海堂：新登場 迷你朱古力包"|shop="東海堂"|text="沒有會員或特定支付方式要求"|result=0
 title="大家樂：全新「全日夠晒營」健康系列"|shop="大家樂"|text="餐廳"|result=0
+title="一粥麵：手工鮮蝦雲吞 $100/3盒"|shop="一粥麵"|text="餐廳"|result=0
+title="7-Eleven：今期「$10一口價」限時優惠（至1/12）"|shop="7-Eleven"|end_date="2024-12-01"|text="任何人都可以享受的普通特價"|result=0
+title="大快活App：阿活快答大作戰 每日挑戰贏大獎（至30/11）​"|shop="大快活"|text="餐廳"|result=0
+title="KFC：Marvel Studios《復仇者聯盟5：末日降臨》DOOM MENU - 主題美食/限定盲盒/末日主題店（19/11-13/1）"|shop="KFC"|start_date="2024-11-19"|end_date="2025-01-13"|text="餐廳"|result=0
+title="百佳超市：低至1折 印花換購 WMF不銹鋼廚具系列（至25/2）"|shop="百佳超市"|end_date="2025-02-25"|text="普通印花換購活動，不屬於會員或特定支付方式專屬優惠"|result=0
