@@ -1567,3 +1567,9 @@ title="聖安娜：聖誕蛋糕系列 優先預訂 83折（至29/11）"|shop="�
 title=" 旅發局：香港繽紛冬日巡禮 - 中環、尖沙咀、銅鑼灣三大「香港冬日小鎮」（18/11-5/1）"|shop="香港繽紛冬日巡禮"|start_date="2023-11-18"|end_date="2024-01-05"|text="一般活動/節日"|result=0
 title="OK便利店：5天狂減（18-22/11）"|shop="OK便利店"|text="普通特價/減價宣傳，沒有門檻"|result=0
 title="萬寧：星期三氹氹你 優惠大放送（18/11）"|shop="萬寧"|applicable_days_of_week=3|text="普通特價/沒有門檻"|result=0
+title="MTR Mobile：港鐵即時賞（18/11）"|shop="MTR Mobile"|text="不符合商店類型"|result=0
+title="屈臣氏：星期三樂賞日（18/11）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-11-18"|end_date="2020-11-18"|applicable_days_of_week=3|text="易賞錢會員於星期三在屈臣氏購物可享樂賞日優惠"|result=1
+title="7-Eleven：全新印花精品《RE-PLAY 經典回憶》系列 ​- Sanrio characters 復古電子遊戲機（至1/1）"|shop="7-Eleven"|payment="yuu積分/印花"|start_date="2026-11-18"|end_date="2027-01-01"|text="7-Eleven會員可透過儲印花或使用yuu積分換購Sanrio characters復古電子遊戲機"|result=1
+title="譚仔雲南米線：晚市 兩碗招牌過橋米線 $99起（18-20/11、23-24/11）"|shop="譚仔雲南米線"|start_date="2023-11-18"|end_date="2023-11-24"|text="餐廳"|result=0
+title="東海堂：新登場 迷你朱古力包"|shop="東海堂"|text="沒有會員或特定支付方式要求"|result=0
+title="大家樂：全新「全日夠晒營」健康系列"|shop="大家樂"|text="餐廳"|result=0
