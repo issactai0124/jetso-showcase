@@ -1578,3 +1578,8 @@ title="7-Eleven：今期「$10一口價」限時優惠（至1/12）"|shop="7-Ele
 title="大快活App：阿活快答大作戰 每日挑戰贏大獎（至30/11）​"|shop="大快活"|text="餐廳"|result=0
 title="KFC：Marvel Studios《復仇者聯盟5：末日降臨》DOOM MENU - 主題美食/限定盲盒/末日主題店（19/11-13/1）"|shop="KFC"|start_date="2024-11-19"|end_date="2025-01-13"|text="餐廳"|result=0
 title="百佳超市：低至1折 印花換購 WMF不銹鋼廚具系列（至25/2）"|shop="百佳超市"|end_date="2025-02-25"|text="普通印花換購活動，不屬於會員或特定支付方式專屬優惠"|result=0
+title="樓上 / 安記 / 大棧：最新優惠（19/11）"|shop="樓上 / 安記 / 大棧"|text="一般特價宣傳"|result=0
+title="惠康超級市場最新優惠（19/11）"|shop="惠康超級市場"|start_date="2024-11-19"|text="任何人均可享受的普通特價或減價宣傳"|result=0
+title="759 阿信屋：App﻿會員 買滿$100 享7折（至22/11）"|shop="759 阿信屋"|payment="App會員"|min_spend=100|rate=0.3|end_date="2024-11-22"|text="App會員買滿$100享7折"|result=1
+title="大家樂：茶市學生 惠顧滿$30 即減$3（至31/1）"|shop="大家樂"|payment="學生八達通"|min_spend=30|amt=3|start_date="2026-11-10"|end_date="2027-01-31"|applicable_days_of_week="1,2,3,4,5"|text="餐廳"|result=0
+title="7-Eleven：Baileys百利甜酒甜品/烘焙產品"|shop="7-Eleven"|text="任何人都可以享受的新品推廣"|result=0
