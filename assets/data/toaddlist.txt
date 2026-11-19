@@ -1583,3 +1583,13 @@ title="惠康超級市場最新優惠（19/11）"|shop="惠康超級市場"|star
 title="759 阿信屋：App﻿會員 買滿$100 享7折（至22/11）"|shop="759 阿信屋"|payment="App會員"|min_spend=100|rate=0.3|end_date="2024-11-22"|text="App會員買滿$100享7折"|result=1
 title="大家樂：茶市學生 惠顧滿$30 即減$3（至31/1）"|shop="大家樂"|payment="學生八達通"|min_spend=30|amt=3|start_date="2026-11-10"|end_date="2027-01-31"|applicable_days_of_week="1,2,3,4,5"|text="餐廳"|result=0
 title="7-Eleven：Baileys百利甜酒甜品/烘焙產品"|shop="7-Eleven"|text="任何人都可以享受的新品推廣"|result=0
+title="屈臣氏：買舒適達指定系列牙膏 送總值高達$957.9禮品（至24/11）"|shop="屈臣氏"|end_date="2024-11-24"|text="任何人均可享受的普通特價或贈品推廣"|result=0
+title="一粥麵：新登場 窩蛋和牛肉餅煲仔飯"|shop="一粥麵"|text="餐廳"|result=0
+title="宜家 IKEA：美食站/瑞典餐廳 本月精選（至30/11）"|shop="宜家 IKEA"|end_date="2024-11-30"|text="餐廳、家具店"|result=0
+title="7-Eleven：本週優惠（至24/11）"|shop="7-Eleven"|end_date="2024-11-24"|text="普通特價"|result=0
+title="MOS Burger：限時優惠套餐（至25/11） "|shop="MOS Burger"|start_date="2026-11-19"|end_date="2026-11-25"|text="餐廳"|result=0
+title="華御結：海洋公園Panda Friends 聖誕聯乘 - 御結/甜品/禮品"|shop="華御結"|text="一般新品推廣或聯乘優惠，缺乏會員或特定支付方式門檻"|result=0
+title="AEON：Black Friday 精選商品 5折發售（20/11-5/12）"|shop="AEON"|text="百貨公司且為任何人均可享有的普通特價優惠"|result=0
+title="包點先生：冬日時令暖饌"|shop="包點先生"|text="新品推廣或普通特價，缺乏會員或特定支付門檻"|result=0
+title="佳宝食品超級市場：週週佳驚喜（20-26/11）"|shop="佳宝食品超級市場"|start_date="2024-11-20"|end_date="2024-11-26"|text="普通特價/減價宣傳"|result=0
+title="海港飲食：全新「晚市優惠孖寶」"|shop="海港飲食"|text="餐廳"|result=0
