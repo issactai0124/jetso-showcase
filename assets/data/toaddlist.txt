@@ -1618,3 +1618,11 @@ title="百佳超級市場最新優惠（21/11）"|shop="百佳超級市場"|end_
 title="惠康超級市場最新優惠（21/11）"|shop="惠康超級市場"|start_date="2024-11-21"|text="缺乏會員或特定支付方式要求之具體優惠內容"|result=0
 title="7-Eleven：全新 芫茜豬肉蒸餃/洋蔥牛肉蒸餃 $11/份（至24/11）"|shop="7-Eleven"|text="任何人均可享受的普通特價，缺乏會員或特定支付方式門檻"|result=0
 title="東海堂：新登場 -18°C 冷凍甜品系列 - 竹鶴 調和麥芽威士忌咖啡巴斯克芝士蛋糕"|shop="東海堂"|text="新品推廣，無會員或特定支付方式門檻"|result=0
+title="家園便利店：持有「樂悠咭」享會員價優惠（逢星期日）"|shop="家園便利店"|payment="樂悠咭"|start_date="2024-11-22"|applicable_days_of_week=7|text="持有樂悠咭人士逢星期日於家園便利店購物可享會員價優惠"|result=1
+title="奇華餅家：切肉臘腸/鴨膶腸 8折優惠（至23/11）"|shop="奇華餅家"|rate=0.2|end_date="2024-11-23"|text="任何人都可以享受的普通特價"|result=0
+title="OK便利店：儲e印仔 換限量SOU · SOU精品（至30/12）"|shop="OK便利店"|payment="OK 齊齊印會員"|min_spend=22|start_date="2026-11-19"|end_date="2026-12-30"|text="OK齊齊印會員每消費滿$22可獲1個e印仔，集齊10個加$65換領SOU・SOU精品"|result=1
+title="3COINS：新界東首店 - THE WAI店 新張限定禮遇（至22/11、27-29/11）"|shop="3COINS"|min_spend=150|start_date="2020-11-20"|end_date="2020-11-29"|text="商店類型不符及非會員/特定支付優惠"|result=0
+title="大家樂：聖誕派對美食 優惠一覽"|shop="大家樂"|text="餐廳"|result=0
+title="Omart：全港最大型倉儲式購物平台 11月22日開幕 @MegaBox"|shop="Omart"|payment="Omart 紅卡會員"|start_date="2024-11-22"|end_date="2027-02-28"|text="限時免費申請Omart紅卡會員，享一年會籍"|result=1
+title="Uniqlo：感謝節（至26/11）"|shop="Uniqlo"|end_date="2024-11-26"|text="服裝店"|result=0
+title="大生生活超市：今期精選優惠（至30/11）"|shop="大生生活超市"|end_date="2024-11-30"|text="普通特價/減價宣傳"|result=0
