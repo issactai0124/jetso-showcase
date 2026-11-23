@@ -1636,3 +1636,11 @@ title="龍豐：每週精選推廣（23-29/11）"|shop="龍豐"|start_date="2024
 title="麥當勞App：最新優惠（23/11起）"|shop="麥當勞"|text="餐廳"|result=0
 title="萬寧：指定門市 全場購物滿$188 即享88折（23/11）"|shop="萬寧"|payment="Alipay HK"|min_spend=500|amt=50|start_date="2026-11-23"|end_date="2026-11-23"|text="Alipay HK用戶消費滿$500領券減$50"|result=1
 title="AEON：嘩！心動價！（至31/11）"|shop="AEON"|end_date="2024-11-30"|text="百貨公司且為任何人均可享用的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（23/11）"|shop="MTR Mobile"|text="不符合商店類型（非超市、便利店、食品店、餅店或健康美容店）"|result=0
+title="萬寧：今日出位價（23/11）"|shop="萬寧"|start_date="2024-11-23"|end_date="2024-11-23"|text="任何人均可享用的普通特價優惠"|result=0
+title="百佳超市：西九龍中心新店 開幕優惠"|shop="百佳超市"|text="任何人都可以享受的普通特價/開幕優惠"|result=0
+title="7-Eleven：最新優惠（23/11）"|shop="7-Eleven"|text="任何人都可以享受的普通特價、減價宣傳、新品推廣"|result=0
+title="惠康超級市場最新優惠（23/11）"|shop="惠康超級市場"|text="缺乏會員或特定支付方式門檻"|result=0
+title="麥當勞App：換購 Pikachu 肩膀公仔（23/11起）"|shop="麥當勞"|text="餐廳"|result=0
+title="美心MX：指定套餐 低至77折（至29/11）"|shop="美心MX"|start_date="2026-11-23"|end_date="2026-11-29"|text="餐廳"|result=0
+title="大快活：冬至盆菜優惠"|shop="大快活"|text="餐廳"|result=0
