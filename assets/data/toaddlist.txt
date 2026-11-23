@@ -1644,3 +1644,15 @@ title="惠康超級市場最新優惠（23/11）"|shop="惠康超級市場"|text
 title="麥當勞App：換購 Pikachu 肩膀公仔（23/11起）"|shop="麥當勞"|text="餐廳"|result=0
 title="美心MX：指定套餐 低至77折（至29/11）"|shop="美心MX"|start_date="2026-11-23"|end_date="2026-11-29"|text="餐廳"|result=0
 title="大快活：冬至盆菜優惠"|shop="大快活"|text="餐廳"|result=0
+title="759 阿信屋：今期勁筍推介（至6/12）"|shop="759 阿信屋"|end_date="2024-12-06"|text="普通特價、減價宣傳"|result=0
+title="Eatizen美心薈：新成功登記會員 送贈魚尚飯糰（至29/11）"|shop="魚尚"|payment="Eatizen新會員"|start_date="2026-11-23"|end_date="2026-11-29"|text="新登記Eatizen會員可獲贈魚尚飯糰1件"|result=1
+title="蛋撻王：感謝日 自家產品 75折（24/11）"|shop="蛋撻王"|rate=0.25|start_date="2026-11-24"|end_date="2026-11-24"|applicable_days_of_week=2|text="非會員或特定支付方式優惠"|result=0
+title="吉野家：會員限定 長者學生套票 $100/4碗中丼（至31/12）"|shop="吉野家"|payment="會員/長者/學生"|min_spend=100|end_date="2026-12-31"|text="餐廳"|result=0
+title="OK便利店：本週激筍（至29/11）"|shop="OK便利店"|end_date="2024-11-29"|text="任何人均可享用的普通特價優惠"|result=0
+title="大家樂：App會員  手機點餐 滿$50 減$10優惠券（24-26/11）"|shop="大家樂"|payment="Club 100會員"|min_spend=50|amt=10|start_date="2026-11-24"|end_date="2026-11-26"|text="餐廳"|result=0
+title="Pizza Hut：全新「茜不可擋」系列 - 三重超茜量必勝批/超茜薯條/蜜糖香茜DIP點醬"|shop="Pizza Hut"|text="餐廳"|result=0
+title="六合彩：幸運二金多寶 $6800萬（24/11）"|shop="香港賽馬會"|text="非指定商店類型"|result=0
+title="壽司郎：月中限定（24/11起）"|shop="壽司郎"|text="餐廳"|result=0
+title="沙嗲王：白咖喱香茅豬扒飯 買1送1（24/11）"|shop="沙嗲王"|payment="沙嗲王手機App會員"|start_date="2026-11-24"|end_date="2026-11-24"|text="餐廳"|result=0
+title="AEON：聖誕奇幻禮品市集（至24/12）"|shop="AEON"|end_date="2024-12-24"|text="百貨公司及一般減價宣傳"|result=0
+title="麥當勞：親子會2027 豐富禮遇 總值超過$680（24/11起）"|shop="麥當勞"|text="餐廳"|result=0
