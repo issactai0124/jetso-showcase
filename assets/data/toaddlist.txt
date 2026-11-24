@@ -1664,3 +1664,14 @@ title="大快活：早市 地道·經典 叉燒餐包"|shop="大快活"|text="�
 title="Lenovo：年度開倉 6折起（至2/12）"|shop="Lenovo"|end_date="2024-12-02"|text="電器、普通特價"|result=0
 title="美心西餅：新登場 健康麵包「高原青稞吐司」"|shop="美心西餅"|text="新品推廣且無特定支付或會員門檻"|result=0
 title="GU：BLACK FRIDAY DEALS（至3/12）"|shop="GU"|end_date="2024-12-03"|text="服裝店"|result=0
+title="譚仔雲南米線：青爽紅甜雙椒拌米線配麻辣豬耳＋低糖綠茶 $58（至6/12）"|shop="譚仔雲南米線"|start_date="2026-11-23"|end_date="2026-12-06"|text="餐廳"|result=0
+title="龍豐：每週至抵「豐搶價」 （至30/11）"|shop="龍豐"|end_date="2023-11-30"|text="純特價"|result=0
+title="Keeta：Dough Bros. Pizza 買1送1（至29/11）"|shop="Dough Bros. Pizza"|text="餐廳"|result=0
+title="JOYCE X Lane Crawford Warehouse Clearance Sale（25-30/11）"|shop="JOYCE/Lane Crawford"|start_date="2023-11-25"|end_date="2023-11-30"|text="服裝店/百貨公司"|result=0
+title="A-1 Bakery：網店 感謝祭  烤焗蛋糕系列 限時優惠（至30/11）"|shop="A-1 Bakery"|text="沒有會員或特定支付方式門檻"|result=0
+title="廚具、圖書及休閒服飾特賣（25-30/11）"|text="服裝店"|result=0
+title="東海堂：日式金寶湯系列麵包 / +$19換購「金寶湯 SOUPrise! 趣味按鍵扣盲盒」"|shop="東海堂"|text="普通特價"|result=0
+title="AEON：周三新鮮日（25/11）"|shop="AEON"|applicable_days_of_week=3|text="百貨公司及普通特價"|result=0
+title="一粥麵：冬至盆菜 早鳥優惠（至21/12）"|shop="一粥麵"|start_date="2023-11-13"|end_date="2023-12-21"|text="餐廳"|result=0
+title="鍾菜館 / 鍾廚：$7 / $8 / $9 點心 新菜單"|shop="鍾菜館 / 鍾廚"|text="餐廳"|result=0
+title="萬寧：星期三氹氹你 優惠大放送（25/11）"|shop="萬寧"|start_date="2020-11-25"|end_date="2020-11-25"|applicable_days_of_week=3|text="沒有門檻的普通特價"|result=0
