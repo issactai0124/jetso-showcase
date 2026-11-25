@@ -1678,3 +1678,15 @@ title="萬寧：星期三氹氹你 優惠大放送（25/11）"|shop="萬寧"|sta
 title="MTR Mobile：港鐵即時賞（25/11）"|shop="MTR Mobile"|text="不符合商店類型（交通/積分獎賞）"|result=0
 title="百佳超級市場最新優惠（25/11）"|shop="百佳超級市場"|start_date="2024-11-25"|text="缺乏會員或特定支付方式門檻資訊"|result=0
 title="屈臣氏：星期三樂賞日（25/11）"|shop="屈臣氏"|payment="易賞錢會員"|start_date="2020-11-25"|end_date="2020-11-25"|applicable_days_of_week=3|text="易賞錢會員於星期三樂賞日可享屈臣氏優惠"|result=1
+title="大家樂： 早市 全新「菠菜甘筍粟米鹹雞粒粥」/ 配炒麵或大油條 加配點心"|shop="大家樂"|text="餐廳"|result=0
+title="綠綠賞：廢紙回收2倍賞（至31/1）"|shop="綠在區區"|text="商店類型不符"|result=0
+title="Italian Tomato：每日新鮮出爐 雪芳蛋糕系列"|shop="Italian Tomato"|text="任何人均可享有的新品推廣價，缺乏會員或特定支付方式門檻"|result=0
+title="品牌男女鞋 年度開倉 低至$99（至30/11）"|shop="品牌男女鞋"|end_date="2024-11-30"|text="服裝店"|result=0
+title="明星海鮮酒家：冬至套餐"|shop="明星海鮮酒家"|text="餐廳"|result=0
+title="AEON：聖誕節獻禮 特許銷售商推介（至24/12）"|shop="AEON"|end_date="2024-12-24"|text="百貨公司及一般推廣"|result=0
+title="譚仔雲南米線：獅子頭豆卜胡椒鮮番茄湯米線 $39"|shop="譚仔雲南米線"|start_date="2026-11-25"|text="餐廳"|result=0
+title="7-Eleven：7仔預購網店 今期精品（至8/12）"|shop="7-Eleven"|start_date="2024-11-25"|end_date="2024-12-08"|text="新品推廣且無特定支付方式或會員門檻"|result=0
+title="爭鮮迴轉壽司：精選套餐 抵至$48（26/11起）"|shop="爭鮮迴轉壽司"|start_date="2024-11-26"|text="餐廳"|result=0
+title="大家樂：晚市 爆抵鐵板餐 $49"|shop="大家樂"|text="餐廳"|result=0
+title="第六屆香港國際美食巡禮（26-30/11）"|shop="香港國際美食巡禮"|start_date="2024-11-26"|end_date="2024-11-30"|text="一般公眾活動，非會員或特定支付方式優惠"|result=0
+title="一粥麵：外賣快閃優惠（26-28/11）"|shop="一粥麵"|start_date="2024-11-26"|end_date="2024-11-28"|text="餐廳"|result=0
