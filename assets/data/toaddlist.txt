@@ -1696,3 +1696,15 @@ title="樓上 / 大棧 / 尚品：最新優惠（26/11）"|shop="樓上 / 大棧
 title="眼鏡88：限時激減 低至5折（至30/11）"|shop="眼鏡88"|end_date="2024-11-30"|text="非指定商店類型且為任何人均可享用的普通減價"|result=0
 title="美心西餅：新登場 麵包脆脆系列"|shop="美心西餅"|text="新品推廣且無會員或特定支付門檻"|result=0
 title="鳳城酒家：2026冬至限定套餐"|shop="鳳城酒家"|text="餐廳"|result=0
+title="聖安娜：日日至抵價（至9/12）"|shop="聖安娜"|end_date="2024-12-09"|text="普通特價宣傳，非會員或特定支付方式專屬"|result=0
+title="7-Eleven：本週優惠（至1/12）"|shop="7-Eleven"|end_date="2024-12-01"|text="任何人都可以享受的普通特價"|result=0
+title="爭鮮迴轉壽司：三文魚祭（27-29/11）"|shop="爭鮮迴轉壽司"|text="餐廳"|result=0
+title="翠園：賀年糕 早鳥優惠 65折"|shop="翠園"|text="餐廳"|result=0
+title="譚仔雲南米線：晚市限定 兩碗過橋米線 $99（至30/11）"|shop="譚仔雲南米線"|text="餐廳"|result=0
+title="GODIVA：免費派發 MASTERPIECE 巧克力體驗裝（27-29/11） "|shop="GODIVA"|start_date="2024-11-27"|end_date="2024-11-29"|text="任何人均可享用的免費派發活動，不符合會員或特定支付門檻"|result=0
+title="IKEA 宜家：黑色星期五 精選貨品 低至$1（至30/11）"|shop="IKEA"|end_date="2024-11-30"|text="家具店"|result=0
+title="奇華餅家：聖誕禮盒 / 迪士尼米奇與好友系列 聖誕禮盒 "|shop="奇華餅家"|text="任何人都可以享受的普通特價或新品推廣"|result=0
+title="bossini：周年感謝祭（27/11-6/12）"|shop="bossini"|start_date="2024-11-27"|end_date="2024-12-06"|text="服裝店"|result=0
+title="OK便利店：5天狂減（至29/11）"|shop="OK便利店"|end_date="2024-11-29"|text="任何人都可以享受的普通特價"|result=0
+title="Pepper Lunch：黑椒牛肉飯 免費增至最大肉量（27-30/11）"|shop="Pepper Lunch"|start_date="2026-11-27"|end_date="2026-11-30"|text="餐廳"|result=0
+title="佳宝食品超級市場：全場8折（27/11-1/2）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-11-27"|end_date="2026-12-01"|text="任何人都可以享受的普通特價"|result=0
