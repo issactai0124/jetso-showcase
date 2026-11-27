@@ -1708,3 +1708,18 @@ title="bossini：周年感謝祭（27/11-6/12）"|shop="bossini"|start_date="202
 title="OK便利店：5天狂減（至29/11）"|shop="OK便利店"|end_date="2024-11-29"|text="任何人都可以享受的普通特價"|result=0
 title="Pepper Lunch：黑椒牛肉飯 免費增至最大肉量（27-30/11）"|shop="Pepper Lunch"|start_date="2026-11-27"|end_date="2026-11-30"|text="餐廳"|result=0
 title="佳宝食品超級市場：全場8折（27/11-1/2）"|shop="佳宝食品超級市場"|rate=0.2|start_date="2026-11-27"|end_date="2026-12-01"|text="任何人都可以享受的普通特價"|result=0
+title="MTR Mobile：港鐵即時賞（27/11）"|shop="MTR Mobile"|payment="MTR Mobile 會員"|start_date="2024-11-27"|text="不符合商店類型"|result=0
+title="百佳超級市場最新優惠（27/11）"|shop="百佳超級市場"|text="普通特價或缺乏會員/特定支付門檻"|result=0
+title="惠康超級市場最新優惠（27/11）"|shop="惠康超級市場"|start_date="2024-11-27"|text="缺乏會員或特定支付方式門檻之具體優惠資訊"|result=0
+title="屈臣氏最新購物優惠（27/11）"|shop="屈臣氏"|text="內文未提及會員或特定支付方式要求，且缺乏具體優惠內容"|result=0
+title="萬寧：周五購物攻略（27/11）"|shop="萬寧"|text="普通特價或週五推廣，未註明會員或特定支付方式要求"|result=0
+title="阿波羅：Black Friday 優惠（至29/11）"|shop="阿波羅"|end_date="2024-11-29"|text="任何人都可以享受的普通特價"|result=0
+title="牙膏最新優惠（27/11）"|shop="未註明"|text="缺乏具體商店資訊及屬於一般減價宣傳"|result=0
+title="眼鏡88：開倉清貨（至1/12）"|shop="眼鏡88"|end_date="2024-12-01"|text="非指定商店類型及任何人均可享用的普通減價宣傳"|result=0
+title="Daiso Japan / Living Plaza：週末優惠（至29/11）"|shop="Daiso Japan / Living Plaza"|end_date="2024-11-29"|text="週末優惠且無特定支付或會員門檻"|result=0
+title="The Overlander：野外用品開倉日2026（至28/11）"|shop="The Overlander"|end_date="2026-11-28"|text="商店類型不符（戶外用品店）且為一般減價活動"|result=0
+title="大家樂：火鍋堅料大折日（至30/11）"|shop="大家樂"|end_date="2024-11-30"|text="餐廳"|result=0
+title="惠而浦 Whirlpool：官網年終陳列開倉 低至27折（至2/12）"|shop="惠而浦"|end_date="2024-12-02"|text="電器"|result=0
+title="AEON：週末勁減（至29/11）"|shop="AEON"|end_date="2023-11-29"|applicable_days_of_week="6,7"|text="普通特價"|result=0
+title="美心西餅：懷舊餅卡換領活動 第二浪 - 經典迷你黃梅醬雜果蛋糕"|shop="美心西餅"|start_date="2026-11-27"|end_date="2026-12-31"|text="不符合「會員專屬優惠」或「特定支付方式/特定信用卡」的條件"|result=0
+title="實惠 Pricerite：送舊迎新 精選傢俬/家品 低至5折"|shop="實惠 Pricerite"|text="家具店"|result=0
